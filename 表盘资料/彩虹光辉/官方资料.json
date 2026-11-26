@@ -1,0 +1,17 @@
+{
+  "name": "彩虹光辉",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apd6acdb7bab",
+  "description": [
+    "此表盘的灵感来自于彩虹旗。光束层层堆叠，沿着表盘的数字轮廓闪耀。"
+  ],
+  "options": [
+    "可自定义的功能：颜色"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/5e6a23b0-e6f8-44ce-856c-019a8d0c9e4a",
+      "alt": "“彩虹光辉”表盘。",
+      "file": "表盘资料/彩虹光辉/官方图1.png"
+    }
+  ]
+}

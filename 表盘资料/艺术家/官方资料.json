@@ -1,0 +1,15 @@
+{
+  "name": "艺术家",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apddfdb069b2",
+  "description": [
+    "此表盘视觉效果极佳，在你每次轻点屏幕时会根据算法发生改变，变化组合有上百万种。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/c01a26a7-25a4-4fa0-a111-f358bfaec103",
+      "alt": "“艺术家”表盘，显示了时间。轻点表盘以更改设计。",
+      "file": "表盘资料/艺术家/官方图1.png"
+    }
+  ]
+}

@@ -1,0 +1,937 @@
+{
+ "NTKPride2025FaceBundle.bundle": {
+  "title_evidence": [
+   [
+    "zh_CN.lproj/Localizable.strings",
+    "PRIDE2025_TITLE",
+    "彩虹和谐"
+   ],
+   [
+    "en.lproj/Localizable.strings",
+    "PRIDE2025_TITLE",
+    "Pride Harmony"
+   ]
+  ],
+  "models": {
+   "Watch7_12_24S132": {
+    "bundle": "Watch7_12_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle",
+    "code": "Watch7_12_24S132/解析/代码/NTKPride2025FaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/Assets.car",
+      "bytes": 274904,
+      "sha256": "dc1dc045d32f23dcddd5f73b994cea15b228340c7fcc247eeea32e577a2b1156"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/Info.plist",
+      "bytes": 753,
+      "sha256": "01bca21968d5bc3182f1b5d7f4138e30788ac553aee399d7d1c9d6c556654109",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 742,
+      "sha256": "10f0ae1cfcc2b1adbe0b930eede39a944fefa80a7898ace04a509e7327f078a2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 905,
+      "sha256": "501190053ba8d581cbf8f505903213c8713876fa87bf78ad383529a8bdd86e1a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 814,
+      "sha256": "7feb8bdd9372934cf40992872bced4e7524196ec0897d2485db37d74a470f03b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 862,
+      "sha256": "eb6a1c72beec8f9f9b45ce7f6ef74d96176d5d6dad7a6401d278cf17a4bd3ade",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 812,
+      "sha256": "2ee6e9acf0c515957dd0f768d84db8436710da349a3799e14bad3bd0ac24484a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 1144,
+      "sha256": "e8d9732f0f1a53f6ce217a994d215bf4bb5f8bdd93a88c149cc016ff9a598965",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 472,
+      "sha256": "c755fb9c82946f39608542cfed8a5a80997b4d47297934f611c16dbc4fc620cb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 472,
+      "sha256": "c755fb9c82946f39608542cfed8a5a80997b4d47297934f611c16dbc4fc620cb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 864,
+      "sha256": "7279401a8cadfa85ea95b211e0528341c8ae9f0d410ce71a9238e1765306ff74",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 936,
+      "sha256": "836ad9dbda48a5201abf176b9a83a2568ad294951ba820e6a150d54f5a6e022f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 936,
+      "sha256": "836ad9dbda48a5201abf176b9a83a2568ad294951ba820e6a150d54f5a6e022f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 846,
+      "sha256": "2f102d29239c9b22a8274107a2cdc34e8dad1b389e4ea48475b9d7115babe401",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 874,
+      "sha256": "9fcce13d390e7b7e32ad6ee3087e866fb9f5e649e432aceabe5a149803718708",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 892,
+      "sha256": "0ae288835d0d90716a7ea01dbe3aa95c761d6dfc3c7a11e45a0a2404730839e7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 660,
+      "sha256": "bbf72962c9c08efd36d8ec9e643080f58a437989b125f021519ed3bb03da4415",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 928,
+      "sha256": "b06112f550b5aebd6255acec6c85876032edea4b189a03e15d18c8efb06477c5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 872,
+      "sha256": "fa6cbad7b2ede3ce3442e79febb0e67b9d842490bd2d5f016441dccfa03c1043",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 926,
+      "sha256": "814979d2f8b588e0b898558cfe338613a054a310f2ebed0e2e591d01d5f80ab9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 512,
+      "sha256": "34caecdfd1e4681c3194f6c5b1439d57513e26eab1b1b4367ce1ad9aa19d1549",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 865,
+      "sha256": "1ff1412c0875e7c0664e7fb5bac06898ee8b117d0124a661d91c4ca1bb83797e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 431,
+      "sha256": "c47950659bc81ec4c9d2dac901e867af2199fa14c2f368828b5d23d84c7cf556",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 487,
+      "sha256": "40f34e4c9c67c02db1917f6212d5ad8619d707c10060d56c25baf3664a90b27b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 504,
+      "sha256": "081c406d40fa385d58550d69c01fdd7475570a720a0eccf2e79c196009735ef4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 986,
+      "sha256": "7d8c9f0e3bfb2d222ae0509ce2d80c5e6cce88cbba2b62477dc2dcd21b8002e0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 763,
+      "sha256": "06ab6fbc8e9012540f0f1af02891f15e356c583cc62f44c8260fe9df99fc6bc6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 808,
+      "sha256": "e4b786c531b639e9a6d087b91a9bf9cb56ede48c2261883af112ba43f7d16579",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 853,
+      "sha256": "efa790aa29ae2d9f4061ec3fcc86c584aa61c46ac2849205ec314550966f458a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 836,
+      "sha256": "596e0681584abdd7c5a1c35f7d85814b94ca88c2a4415d24941270813dfaec76",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 936,
+      "sha256": "8f80e8de53ede1aa147d4f1a4e9a9d6870e62ee3f308e45f64f877e67bf50b57",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 1012,
+      "sha256": "0f9ae02799aa5f56936e5ed2dbe342707c6aa330efd8bae09bb3b371f80828a6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 836,
+      "sha256": "fc66878ee6511ee4bd9691a5c16f4faa0a9eba5d36b634a167514044e7a660b7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 866,
+      "sha256": "3d1263bf0a0175c03b9292ff858b9cb69522cd1f417064ba977f57e42c7c716e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 821,
+      "sha256": "1a626d4d3d0110ca5cd7fc87f6bafd3b881497395bfbe5f01445bf30646d6480",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 766,
+      "sha256": "76c25878b39b212bdd4c1a15cc778048d7d72916464bc00d2f1f382a73c213d7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 847,
+      "sha256": "08a690f19bdccb79f4f010bf51f4e9edf92f20cd8df0ed24e07ae1e2aa494d7b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 832,
+      "sha256": "ecc89536d96c773e970e2e9ea02c4004681068335a27cd228905347043734bf8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 868,
+      "sha256": "b6ac5321ee2b53802b857f9643faef533c0bf5fdd7e9e0b89ee718856594bcfa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 278,
+      "sha256": "a80621772692c2b43b96a91c565cbc9d7764e69033ab02d00bd86819c2a9883e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 325,
+      "sha256": "93f1e70a02a49ea6d75202cb5052a3e7b9811f692ecdd74f7afc9bcf3f0e03f4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 286,
+      "sha256": "e0c39e241467e6203ce5ee01a3f570ff7ecad127e468ae9774ff3eaa72a7e955",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_1_24S132": {
+    "bundle": "Watch8_1_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle",
+    "code": "Watch8_1_24S132/解析/代码/NTKPride2025FaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/Assets.car",
+      "bytes": 274904,
+      "sha256": "2181c14887d4971a14e541d292e3ba913872ad5aa6c15b8f13a1db5a740bd4ec"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/Info.plist",
+      "bytes": 753,
+      "sha256": "01bca21968d5bc3182f1b5d7f4138e30788ac553aee399d7d1c9d6c556654109",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 742,
+      "sha256": "10f0ae1cfcc2b1adbe0b930eede39a944fefa80a7898ace04a509e7327f078a2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 905,
+      "sha256": "501190053ba8d581cbf8f505903213c8713876fa87bf78ad383529a8bdd86e1a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 814,
+      "sha256": "7feb8bdd9372934cf40992872bced4e7524196ec0897d2485db37d74a470f03b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 862,
+      "sha256": "eb6a1c72beec8f9f9b45ce7f6ef74d96176d5d6dad7a6401d278cf17a4bd3ade",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 812,
+      "sha256": "2ee6e9acf0c515957dd0f768d84db8436710da349a3799e14bad3bd0ac24484a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 1144,
+      "sha256": "e8d9732f0f1a53f6ce217a994d215bf4bb5f8bdd93a88c149cc016ff9a598965",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 472,
+      "sha256": "c755fb9c82946f39608542cfed8a5a80997b4d47297934f611c16dbc4fc620cb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 472,
+      "sha256": "c755fb9c82946f39608542cfed8a5a80997b4d47297934f611c16dbc4fc620cb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 864,
+      "sha256": "7279401a8cadfa85ea95b211e0528341c8ae9f0d410ce71a9238e1765306ff74",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 936,
+      "sha256": "836ad9dbda48a5201abf176b9a83a2568ad294951ba820e6a150d54f5a6e022f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 936,
+      "sha256": "836ad9dbda48a5201abf176b9a83a2568ad294951ba820e6a150d54f5a6e022f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 846,
+      "sha256": "2f102d29239c9b22a8274107a2cdc34e8dad1b389e4ea48475b9d7115babe401",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 874,
+      "sha256": "9fcce13d390e7b7e32ad6ee3087e866fb9f5e649e432aceabe5a149803718708",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 892,
+      "sha256": "0ae288835d0d90716a7ea01dbe3aa95c761d6dfc3c7a11e45a0a2404730839e7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 660,
+      "sha256": "bbf72962c9c08efd36d8ec9e643080f58a437989b125f021519ed3bb03da4415",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 928,
+      "sha256": "b06112f550b5aebd6255acec6c85876032edea4b189a03e15d18c8efb06477c5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 872,
+      "sha256": "fa6cbad7b2ede3ce3442e79febb0e67b9d842490bd2d5f016441dccfa03c1043",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 926,
+      "sha256": "814979d2f8b588e0b898558cfe338613a054a310f2ebed0e2e591d01d5f80ab9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 512,
+      "sha256": "34caecdfd1e4681c3194f6c5b1439d57513e26eab1b1b4367ce1ad9aa19d1549",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 865,
+      "sha256": "1ff1412c0875e7c0664e7fb5bac06898ee8b117d0124a661d91c4ca1bb83797e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 431,
+      "sha256": "c47950659bc81ec4c9d2dac901e867af2199fa14c2f368828b5d23d84c7cf556",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 487,
+      "sha256": "40f34e4c9c67c02db1917f6212d5ad8619d707c10060d56c25baf3664a90b27b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 504,
+      "sha256": "081c406d40fa385d58550d69c01fdd7475570a720a0eccf2e79c196009735ef4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 986,
+      "sha256": "7d8c9f0e3bfb2d222ae0509ce2d80c5e6cce88cbba2b62477dc2dcd21b8002e0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 763,
+      "sha256": "06ab6fbc8e9012540f0f1af02891f15e356c583cc62f44c8260fe9df99fc6bc6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 808,
+      "sha256": "e4b786c531b639e9a6d087b91a9bf9cb56ede48c2261883af112ba43f7d16579",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 853,
+      "sha256": "efa790aa29ae2d9f4061ec3fcc86c584aa61c46ac2849205ec314550966f458a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 836,
+      "sha256": "596e0681584abdd7c5a1c35f7d85814b94ca88c2a4415d24941270813dfaec76",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 936,
+      "sha256": "8f80e8de53ede1aa147d4f1a4e9a9d6870e62ee3f308e45f64f877e67bf50b57",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 1012,
+      "sha256": "0f9ae02799aa5f56936e5ed2dbe342707c6aa330efd8bae09bb3b371f80828a6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 836,
+      "sha256": "fc66878ee6511ee4bd9691a5c16f4faa0a9eba5d36b634a167514044e7a660b7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 866,
+      "sha256": "3d1263bf0a0175c03b9292ff858b9cb69522cd1f417064ba977f57e42c7c716e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 821,
+      "sha256": "1a626d4d3d0110ca5cd7fc87f6bafd3b881497395bfbe5f01445bf30646d6480",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 766,
+      "sha256": "76c25878b39b212bdd4c1a15cc778048d7d72916464bc00d2f1f382a73c213d7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 847,
+      "sha256": "08a690f19bdccb79f4f010bf51f4e9edf92f20cd8df0ed24e07ae1e2aa494d7b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 832,
+      "sha256": "ecc89536d96c773e970e2e9ea02c4004681068335a27cd228905347043734bf8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 868,
+      "sha256": "b6ac5321ee2b53802b857f9643faef533c0bf5fdd7e9e0b89ee718856594bcfa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 278,
+      "sha256": "a80621772692c2b43b96a91c565cbc9d7764e69033ab02d00bd86819c2a9883e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 325,
+      "sha256": "93f1e70a02a49ea6d75202cb5052a3e7b9811f692ecdd74f7afc9bcf3f0e03f4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 286,
+      "sha256": "e0c39e241467e6203ce5ee01a3f570ff7ecad127e468ae9774ff3eaa72a7e955",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_5_24S132": {
+    "bundle": "Watch8_5_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle",
+    "code": "Watch8_5_24S132/解析/代码/NTKPride2025FaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/Assets.car",
+      "bytes": 274904,
+      "sha256": "fc30ec84fe4ae881efd4e3d5bd4a8077a3ba8751820f58641012724318854c42"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/Info.plist",
+      "bytes": 753,
+      "sha256": "01bca21968d5bc3182f1b5d7f4138e30788ac553aee399d7d1c9d6c556654109",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 742,
+      "sha256": "10f0ae1cfcc2b1adbe0b930eede39a944fefa80a7898ace04a509e7327f078a2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 905,
+      "sha256": "501190053ba8d581cbf8f505903213c8713876fa87bf78ad383529a8bdd86e1a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 814,
+      "sha256": "7feb8bdd9372934cf40992872bced4e7524196ec0897d2485db37d74a470f03b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 862,
+      "sha256": "eb6a1c72beec8f9f9b45ce7f6ef74d96176d5d6dad7a6401d278cf17a4bd3ade",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 812,
+      "sha256": "2ee6e9acf0c515957dd0f768d84db8436710da349a3799e14bad3bd0ac24484a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 1144,
+      "sha256": "e8d9732f0f1a53f6ce217a994d215bf4bb5f8bdd93a88c149cc016ff9a598965",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 472,
+      "sha256": "c755fb9c82946f39608542cfed8a5a80997b4d47297934f611c16dbc4fc620cb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 476,
+      "sha256": "b4f6c69ec8b38318d8f613abcff8482752813590cc7409f086445d92c1543e54",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 472,
+      "sha256": "c755fb9c82946f39608542cfed8a5a80997b4d47297934f611c16dbc4fc620cb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 864,
+      "sha256": "7279401a8cadfa85ea95b211e0528341c8ae9f0d410ce71a9238e1765306ff74",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 936,
+      "sha256": "836ad9dbda48a5201abf176b9a83a2568ad294951ba820e6a150d54f5a6e022f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 936,
+      "sha256": "836ad9dbda48a5201abf176b9a83a2568ad294951ba820e6a150d54f5a6e022f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 846,
+      "sha256": "2f102d29239c9b22a8274107a2cdc34e8dad1b389e4ea48475b9d7115babe401",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 874,
+      "sha256": "9fcce13d390e7b7e32ad6ee3087e866fb9f5e649e432aceabe5a149803718708",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 892,
+      "sha256": "0ae288835d0d90716a7ea01dbe3aa95c761d6dfc3c7a11e45a0a2404730839e7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 660,
+      "sha256": "bbf72962c9c08efd36d8ec9e643080f58a437989b125f021519ed3bb03da4415",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 928,
+      "sha256": "b06112f550b5aebd6255acec6c85876032edea4b189a03e15d18c8efb06477c5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 872,
+      "sha256": "fa6cbad7b2ede3ce3442e79febb0e67b9d842490bd2d5f016441dccfa03c1043",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 926,
+      "sha256": "814979d2f8b588e0b898558cfe338613a054a310f2ebed0e2e591d01d5f80ab9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 512,
+      "sha256": "34caecdfd1e4681c3194f6c5b1439d57513e26eab1b1b4367ce1ad9aa19d1549",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 865,
+      "sha256": "1ff1412c0875e7c0664e7fb5bac06898ee8b117d0124a661d91c4ca1bb83797e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 431,
+      "sha256": "c47950659bc81ec4c9d2dac901e867af2199fa14c2f368828b5d23d84c7cf556",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 487,
+      "sha256": "40f34e4c9c67c02db1917f6212d5ad8619d707c10060d56c25baf3664a90b27b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 504,
+      "sha256": "081c406d40fa385d58550d69c01fdd7475570a720a0eccf2e79c196009735ef4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 986,
+      "sha256": "7d8c9f0e3bfb2d222ae0509ce2d80c5e6cce88cbba2b62477dc2dcd21b8002e0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 763,
+      "sha256": "06ab6fbc8e9012540f0f1af02891f15e356c583cc62f44c8260fe9df99fc6bc6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 808,
+      "sha256": "e4b786c531b639e9a6d087b91a9bf9cb56ede48c2261883af112ba43f7d16579",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 853,
+      "sha256": "efa790aa29ae2d9f4061ec3fcc86c584aa61c46ac2849205ec314550966f458a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 836,
+      "sha256": "596e0681584abdd7c5a1c35f7d85814b94ca88c2a4415d24941270813dfaec76",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 936,
+      "sha256": "8f80e8de53ede1aa147d4f1a4e9a9d6870e62ee3f308e45f64f877e67bf50b57",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 1012,
+      "sha256": "0f9ae02799aa5f56936e5ed2dbe342707c6aa330efd8bae09bb3b371f80828a6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 836,
+      "sha256": "fc66878ee6511ee4bd9691a5c16f4faa0a9eba5d36b634a167514044e7a660b7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 866,
+      "sha256": "3d1263bf0a0175c03b9292ff858b9cb69522cd1f417064ba977f57e42c7c716e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 821,
+      "sha256": "1a626d4d3d0110ca5cd7fc87f6bafd3b881497395bfbe5f01445bf30646d6480",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 766,
+      "sha256": "76c25878b39b212bdd4c1a15cc778048d7d72916464bc00d2f1f382a73c213d7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 847,
+      "sha256": "08a690f19bdccb79f4f010bf51f4e9edf92f20cd8df0ed24e07ae1e2aa494d7b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 832,
+      "sha256": "ecc89536d96c773e970e2e9ea02c4004681068335a27cd228905347043734bf8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 868,
+      "sha256": "b6ac5321ee2b53802b857f9643faef533c0bf5fdd7e9e0b89ee718856594bcfa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 278,
+      "sha256": "a80621772692c2b43b96a91c565cbc9d7764e69033ab02d00bd86819c2a9883e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 325,
+      "sha256": "93f1e70a02a49ea6d75202cb5052a3e7b9811f692ecdd74f7afc9bcf3f0e03f4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 286,
+      "sha256": "e0c39e241467e6203ce5ee01a3f570ff7ecad127e468ae9774ff3eaa72a7e955",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKPride2025FaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   }
+  },
+  "固件文字": {
+   "描述": [
+    [
+     "PRIDE2025_DESCRIPTION",
+     "这款表盘的灵感源自彩虹，呈现了彩虹旗缤纷色彩的和谐律动。色块汇聚在一起形成数字，代表小时。这些形状不断起伏，并在整点时变换为下一个数字。垂腕时，纯色块会变暗并幻化为彩色线条。"
+    ]
+   ],
+   "编辑选项": []
+  },
+  "方法索引": {
+   "息屏与唤醒": [
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_didTransitionToTritiumOn];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_prepareForTransitionToTritiumOnAnimated:withCompletion:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_didTransitionToTritiumOff];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_transitionToTritiumOnWithProgress:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_createFaceAnimator];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_alwaysOnTimelines];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_transitionToFrameSpecifier:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_responseForTapToWakeAtPoint:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_transitionToTritiumOffWithProgress:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_handleAlwaysOnTapToWakeAtPoint:withResponse:withCompletion:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_shouldApplyOverrideDate];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_willTransitionToTritiumOnToFrameSpecifier:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_willTransitionToTritiumOffFromFrameSpecifier:];",
+    "-[_TtC22NTKPride2025FaceBundle18Pride2025HandsView tritium_transitionToTritiumOnWithProgress:];",
+    "-[_TtC22NTKPride2025FaceBundle18Pride2025HandsView tritium_transitionToTritiumOffWithProgress:];"
+   ],
+   "动画与时间变化": [
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_didTransitionToTritiumOn];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_prepareForTransitionToTritiumOnAnimated:withCompletion:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_didTransitionToTritiumOff];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_transitionToTritiumOnWithProgress:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_createFaceAnimator];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_alwaysOnTimelines];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_transitionToFrameSpecifier:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_transitionToTritiumOffWithProgress:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView _configureForTransitionFraction:fromEditMode:toEditMode:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView setOverrideDate:duration:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_willTransitionToTritiumOnToFrameSpecifier:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView tritium_willTransitionToTritiumOffFromFrameSpecifier:];",
+    "-[_TtC22NTKPride2025FaceBundle18Pride2025HandsView tritium_transitionToTritiumOnWithProgress:];",
+    "-[_TtC22NTKPride2025FaceBundle18Pride2025HandsView tritium_transitionToTritiumOffWithProgress:];"
+   ],
+   "组件与编辑": [
+    "+[_TtC22NTKPride2025FaceBundle13Pride2025Face _complicationSlotDescriptors];",
+    "+[_TtC22NTKPride2025FaceBundle13Pride2025Face _richComplicationSlotsForDevice:];",
+    "+[_TtC22NTKPride2025FaceBundle13Pride2025Face _orderedComplicationSlots];",
+    "-[_TtC22NTKPride2025FaceBundle13Pride2025Face _localizedNameForDynamicSectionCustomEditMode:slot:];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView layoutSubviews];",
+    "-[_TtC22NTKPride2025FaceBundle17Pride2025FaceView _configureComplicationView:forSlot:];",
+    "-[_TtC22NTKPride2025FaceBundle22Pride2025MiniClockView layoutSubviews];",
+    "-[_TtC22NTKPride2025FaceBundle28Pride2025ComplicationFactory keylineViewForComplicationSlot:];",
+    "-[_TtC22NTKPride2025FaceBundle28Pride2025ComplicationFactory initForDevice:];",
+    "-[_TtC22NTKPride2025FaceBundle28Pride2025ComplicationFactory loadLayoutRules];",
+    "-[_TtC22NTKPride2025FaceBundle28Pride2025ComplicationFactory newLegacyViewForComplication:family:slot:];",
+    "-[_TtC22NTKPride2025FaceBundle28Pride2025ComplicationFactory configureComplicationView:forSlot:faceView:];",
+    "-[_TtC22NTKPride2025FaceBundle28Pride2025ComplicationFactory newLegacyViewForComplication:family:slot:faceView:];",
+    "-[_TtC22NTKPride2025FaceBundle28Pride2025ComplicationFactory configureComplicationView:forSlot:];",
+    "-[_TtC22NTKPride2025FaceBundle28Pride2025ComplicationFactory loadLayoutRulesForFaceView:];"
+   ]
+  }
+ }
+}

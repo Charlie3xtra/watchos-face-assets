@@ -1,0 +1,2209 @@
+{
+ "NTKGladiusFaceBundle.bundle": {
+  "title_evidence": [
+   [
+    "zh_CN.lproj/Localizable.strings",
+    "FACE_STYLE_GLADIUS_IN_TITLE_CASE",
+    "太阳指针"
+   ],
+   [
+    "en.lproj/Localizable.strings",
+    "FACE_STYLE_GLADIUS_IN_TITLE_CASE",
+    "Solar Analog"
+   ]
+  ],
+  "models": {
+   "Watch7_12_24S132": {
+    "bundle": "Watch7_12_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle",
+    "code": "Watch7_12_24S132/解析/代码/NTKGladiusFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Assets.car",
+      "bytes": 27720,
+      "sha256": "8cbd9d56808727590060066a3c2bd3b72ec72690abdafdace9f6ed46ee7b1ecb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/default.metallib",
+      "bytes": 18464,
+      "sha256": "68c75b9cd8d5b4749abe26c481ffa32e195453a79d4c5d176c7985259ed4097d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Gladius.color.plist",
+      "bytes": 460,
+      "sha256": "fe5852aa261db6a9787bda9678bf6196d29cf2a1bd7e4a2498e0664f711ebf40",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Gladius.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Info.plist",
+      "bytes": 752,
+      "sha256": "808b87d200514d45454cb521a29369d67f60b1d607fcad87f76a6afbf0214745",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/FaceColors.strings",
+      "bytes": 166,
+      "sha256": "6cd0db0ef541f23edc4055fd60298da33419cd8b4a0e2faef4535f88600a88be",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 869,
+      "sha256": "17b223f5dbb206a7b183f090692ab92b30c09b9efd9fc89b83b004a42a355a8d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/FaceColors.strings",
+      "bytes": 152,
+      "sha256": "fa81bc8a8e737e3fa0e362920262fd7c8ff7192e8f84d7015f7c847f2f361632",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 1041,
+      "sha256": "2a50dad314c448c82bb99d10ae22d1f816233a92669b686a44b255070c91b089",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/FaceColors.strings",
+      "bytes": 176,
+      "sha256": "4425ae5a2e0bf6579fde5b1b073ef406422a1705eb4f4e7b43db1e2b7632f13c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 933,
+      "sha256": "25d7cc68bc3d5d0521e53279884c610f71c6268f72a323da840de9b28bed8bad",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/FaceColors.strings",
+      "bytes": 162,
+      "sha256": "37c9f51796993accf415e5836e3c21af281a2086d0e2e8b637db08bd3b77ea42",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 891,
+      "sha256": "81b5ce2c92393cf4460d579be5aec9265855961880bf1f437354ad932b383b48",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/FaceColors.strings",
+      "bytes": 149,
+      "sha256": "f21beae0dc330b16bedc791269689ddce8c8273fa896b606406110fc1920aa45",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 1040,
+      "sha256": "80ab0b9a2228434ff4e95a56e7b9400d2322f83df69e9cd4e43dafdd0b3b8e5d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/FaceColors.strings",
+      "bytes": 172,
+      "sha256": "29e2485502bf845c372cddc9e09d8076cf54ca70da1dcf70e5393d69baae7e44",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 1016,
+      "sha256": "4b1820e8d4ec170212c8c270155daafcfa0a0cb3c5287fde76db2b486abd2ef3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "15a340f1029bca52fac3ee1fa68e691ba565653d817f7e424f6042d53eed2824",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 678,
+      "sha256": "358780fb32d72d300e2553b9fb1872177b7503c6f4da9c3dbee258019acd333f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "96aba2ce6b1fe376c95ec72b2ebda68ba0bdc693a406938a6a650dedb386a5aa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "6493c576f1ca294e24ee217ba8a3c9ac5b494102748cd5e8e72cdb602b3053fd",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "96aba2ce6b1fe376c95ec72b2ebda68ba0bdc693a406938a6a650dedb386a5aa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "96aba2ce6b1fe376c95ec72b2ebda68ba0bdc693a406938a6a650dedb386a5aa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 678,
+      "sha256": "eb1c10f702e4cf9eb50416945582d97829965b0d421d834c2c82ed48fa47c36d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "de5bb3cc223588ea725afea4164b7c37542ce19400ca080ffe434d3c22064af5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 1021,
+      "sha256": "ee8353230e65137f6ae0c38c88744a2e0b1b3ff60b8c253f4a857a046ac0b470",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "de5bb3cc223588ea725afea4164b7c37542ce19400ca080ffe434d3c22064af5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 990,
+      "sha256": "452229d0a9116986391502005f2ea9501febac94f365c3c61cb7706397d6d181",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "de5bb3cc223588ea725afea4164b7c37542ce19400ca080ffe434d3c22064af5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 990,
+      "sha256": "452229d0a9116986391502005f2ea9501febac94f365c3c61cb7706397d6d181",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "74b6e05f75821e8c90c9a1e2d27e2987c2cf33fe5d21ae32c675825e6aa47890",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 896,
+      "sha256": "21be2f569e85c3b89576e299c8a9ddab58b438560219fe24e7dfe2cc5ff3f18d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/FaceColors.strings",
+      "bytes": 148,
+      "sha256": "5b315b7f46289b4444ac481df7e55100c81dcec2089dfb25a56e4c8f70aefbec",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 1020,
+      "sha256": "c3f3cbe5647ed266a5d6422f760b96fb89f47655f69131f8d6ac15fa85cda671",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/FaceColors.strings",
+      "bytes": 148,
+      "sha256": "5b315b7f46289b4444ac481df7e55100c81dcec2089dfb25a56e4c8f70aefbec",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 1025,
+      "sha256": "f7a878da45f9eeea0ec5982bbc19e41420ec19cd6afbd9e04390a1cd94b9d6b9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/FaceColors.strings",
+      "bytes": 154,
+      "sha256": "b3771a242404d8d358c9323a2f83c1b234e93a0a38df2e029cf0fd635758e631",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 807,
+      "sha256": "8fea6cdf21e381bd1fe99c58682f7d88c4e7c2bd2d5ef14ca301915cf0c95681",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/FaceColors.strings",
+      "bytes": 172,
+      "sha256": "62e35e0935215e172394f6063fc4b3b443d516478ac8b839c0db4ccb60cf1c9f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 911,
+      "sha256": "649de8e940b567474d96cf58902582631c2783db8518ffb28d569378534e8198",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "a907919129d3847326c3f09b0bd1d839e439a3c487fcecb8a452546369cc4e17",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 866,
+      "sha256": "d94cd9c35d6fa2707e3861f0ca05043e56e298fab4b0049c4e73032ceebf2336",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/FaceColors.strings",
+      "bytes": 153,
+      "sha256": "cbfec307798f0fe0d9b49dc5b40a587dc942aef6638dac7f591625be1b8b96ac",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 964,
+      "sha256": "3a3af5f2e8e353203dfbaacb36b20de812e9c510b0acc39505bf3a65419281bd",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/FaceColors.strings",
+      "bytes": 155,
+      "sha256": "03c0fadca57e6f85dd57f4ba9bb1dd02393275717ff518f92d2b4f2c3b983298",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 680,
+      "sha256": "2c286bffa49bb8450a3554c2e737ca2b93678d2ced8c7ec1b5ab8a950256089e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/FaceColors.strings",
+      "bytes": 149,
+      "sha256": "425538dfac8f758a8ff87bb6d6deea9b8287ebe263399c3ecc7043766f8df009",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 703,
+      "sha256": "6efdf3db0f44997cfa50f655f8eae41d4d845f86c3d383164bfd7e9cbae7e33d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/FaceColors.strings",
+      "bytes": 160,
+      "sha256": "6b25871b953235671f6bf1dd83b4d7fda787691a6cccdce4b2aa4768179d1608",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 699,
+      "sha256": "95626e72e17fd39fad83068ffbd8ee7019a06fa99a5bf55d286a0e6006d36158",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "f612c40246d125867adba91363c0ae83401336dc3b4629e4b8157e3c8c2ce315",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 705,
+      "sha256": "71ac5e0a3b70f7fa018bb0cb8e8c9a19b5b576ac2026153b4917c8add84521b9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "2a6ef653684e20965ce2911f0df58c1f2573abd1578d78c4c7aa4bd113db1609",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 690,
+      "sha256": "b82a45398dbe462e80dbe623b597938fb12ca2d5f406f64057bf3047325b675c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/FaceColors.strings",
+      "bytes": 149,
+      "sha256": "7f0c511da6aeda627389d7d4f5c6ac4e7c25820ceb59022a4c500dcd7be851ef",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 701,
+      "sha256": "2cede14e2ae9fcf15c80b0f38f3ac14666d4bb65a8907978c22e379d46839150",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "b4048f955fba5919040495e34cdaac83a3acb3e435e6f6d66b3dc4b79891de0a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 908,
+      "sha256": "892d3968a4b9ec687695fe9bf9b6d58c58ec7ce82a43470f8f10b5028f3c6efe",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/FaceColors.strings",
+      "bytes": 161,
+      "sha256": "02436b0076c54757148044c9934cbc3999e8655e56bd38ed1590baa62c8e7942",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 944,
+      "sha256": "ea07f61e68cbd294f7e248c9f606c0ffca5d33fda35905ed946b7611f41706b3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "09d91e39ea1b0df79454ff371866864a1673dd6e8430a0f96cd450dfbf560e15",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 933,
+      "sha256": "987abc450ead72dd06a848ed8f1b10becb5819eff44c755297ce7a19e386aed8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/FaceColors.strings",
+      "bytes": 154,
+      "sha256": "30efe15c7ee8456f9fbd4f773c91850bc638371f428118958e792df68388ec82",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 929,
+      "sha256": "aeab2fdd9313eca3361dc3e5c40fa9f5571137ef2f8b2cc023512ab57d1aa605",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "1cafd5a10f039eed5da6fb0ef9c4536886a575b6a389bc0a3f637a118b3d2952",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 1005,
+      "sha256": "d5ebc65b37605fedf1158d6c9cc22316716421fbc187943bb893a67c0ab7a806",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/FaceColors.strings",
+      "bytes": 192,
+      "sha256": "c9d70759c1ca897cc349faee70669d60b7fdd18c92ada3a4f4220812d2e74c5d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 995,
+      "sha256": "086e9623b7ae03376e946d68f7f6b1a67994917307f40fb70ca4e2c29f8de2ad",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/FaceColors.strings",
+      "bytes": 180,
+      "sha256": "8b3bca4485757bf080adb85a0978d8a2b71205ad7f68be08e4009f280031a47d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 959,
+      "sha256": "d97c35f039e7ceb6caeb4a09ab54e1ad41b5de06b1eec96f0f69762a70649f9a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/FaceColors.strings",
+      "bytes": 152,
+      "sha256": "bda23351feaff630c1ba80914b9953633f123768410f6c703bbccbc955045e01",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 922,
+      "sha256": "d52cb39f967d8b31f5735e5e5bfcce7e83211755a182344ee853b4e3d26d1fd6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/FaceColors.strings",
+      "bytes": 148,
+      "sha256": "8c16ce0a1a58fc50ce1e8cb4c17f08ac1efd42d7350c2ea15bc46dd76cf8ca0c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 915,
+      "sha256": "9fff97272be709c53a1bffcc9f64b4f4efa54beb5035ac2a32cf5a875cdca3cb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/FaceColors.strings",
+      "bytes": 160,
+      "sha256": "0debff35911a337a5c6505ab9499cf81df6ff8864f06d2c3d6548943edb8ad25",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 823,
+      "sha256": "8063fa2f79005a3eeceb00ccb38824d1d5ded80a293cb5e2474506960358df45",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/FaceColors.strings",
+      "bytes": 158,
+      "sha256": "c65d8447a2f06c24bdb9ad905c17af44d01044d883e634ffdaee2cb764d7de28",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 913,
+      "sha256": "8d0db14979f083a2275fdceff847a6c62365be2421b406146bc5bf111edd5983",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/FaceColors.strings",
+      "bytes": 192,
+      "sha256": "6642748b5484bf979212adc5923846ea0bb8eb6c1ae42fc91efe9b29b6b145fe",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 879,
+      "sha256": "e3f3a1ecb00abd9cfc7372ef3bae98392370092dd34887cc95f8aee7cbd3ffa9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/FaceColors.strings",
+      "bytes": 162,
+      "sha256": "e650f8a3e30ae280060466a1abea49424c91060760c770f3fee206af030159c1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 915,
+      "sha256": "5320886332be7f2b936d7f895ec0315ae9fd020959c6a5a993f86c1fef8d75d1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/FaceColors.strings",
+      "bytes": 146,
+      "sha256": "a9a74cfa0b1bab58a76b4a6b89ee1e6d18ae7133e96ee8ebd317249e2d106671",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 567,
+      "sha256": "fd0d8a5df9c884ecf3d0b61eed5b4d7327146fead7ec0cc7fa74a1632cca28b4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/FaceColors.strings",
+      "bytes": 146,
+      "sha256": "cf14967e346abc98a67c68c08dd226478640c9f131147dfbd0452251141772ed",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 581,
+      "sha256": "0e827ae22e2868b17dc301fbbf2d9d5174e8f2f630500ded167b39356793f3ec",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/FaceColors.strings",
+      "bytes": 146,
+      "sha256": "cf14967e346abc98a67c68c08dd226478640c9f131147dfbd0452251141772ed",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 577,
+      "sha256": "cdc55f341a2290dfe800bb217b1d4a8fa0456c337d053081f78d2a1f26451b94",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_1_24S132": {
+    "bundle": "Watch8_1_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle",
+    "code": "Watch8_1_24S132/解析/代码/NTKGladiusFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Assets.car",
+      "bytes": 27720,
+      "sha256": "8b34bfa8e60dfcf98b427c7f2e9f2843165c84b7d856de7adb04083db127b09e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/default.metallib",
+      "bytes": 18464,
+      "sha256": "68c75b9cd8d5b4749abe26c481ffa32e195453a79d4c5d176c7985259ed4097d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Gladius.color.plist",
+      "bytes": 460,
+      "sha256": "fe5852aa261db6a9787bda9678bf6196d29cf2a1bd7e4a2498e0664f711ebf40",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Gladius.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Info.plist",
+      "bytes": 752,
+      "sha256": "808b87d200514d45454cb521a29369d67f60b1d607fcad87f76a6afbf0214745",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/FaceColors.strings",
+      "bytes": 166,
+      "sha256": "6cd0db0ef541f23edc4055fd60298da33419cd8b4a0e2faef4535f88600a88be",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 869,
+      "sha256": "17b223f5dbb206a7b183f090692ab92b30c09b9efd9fc89b83b004a42a355a8d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/FaceColors.strings",
+      "bytes": 152,
+      "sha256": "fa81bc8a8e737e3fa0e362920262fd7c8ff7192e8f84d7015f7c847f2f361632",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 1041,
+      "sha256": "2a50dad314c448c82bb99d10ae22d1f816233a92669b686a44b255070c91b089",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/FaceColors.strings",
+      "bytes": 176,
+      "sha256": "4425ae5a2e0bf6579fde5b1b073ef406422a1705eb4f4e7b43db1e2b7632f13c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 933,
+      "sha256": "25d7cc68bc3d5d0521e53279884c610f71c6268f72a323da840de9b28bed8bad",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/FaceColors.strings",
+      "bytes": 162,
+      "sha256": "37c9f51796993accf415e5836e3c21af281a2086d0e2e8b637db08bd3b77ea42",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 891,
+      "sha256": "81b5ce2c92393cf4460d579be5aec9265855961880bf1f437354ad932b383b48",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/FaceColors.strings",
+      "bytes": 149,
+      "sha256": "f21beae0dc330b16bedc791269689ddce8c8273fa896b606406110fc1920aa45",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 1040,
+      "sha256": "80ab0b9a2228434ff4e95a56e7b9400d2322f83df69e9cd4e43dafdd0b3b8e5d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/FaceColors.strings",
+      "bytes": 172,
+      "sha256": "29e2485502bf845c372cddc9e09d8076cf54ca70da1dcf70e5393d69baae7e44",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 1016,
+      "sha256": "4b1820e8d4ec170212c8c270155daafcfa0a0cb3c5287fde76db2b486abd2ef3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "15a340f1029bca52fac3ee1fa68e691ba565653d817f7e424f6042d53eed2824",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 678,
+      "sha256": "358780fb32d72d300e2553b9fb1872177b7503c6f4da9c3dbee258019acd333f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "96aba2ce6b1fe376c95ec72b2ebda68ba0bdc693a406938a6a650dedb386a5aa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "6493c576f1ca294e24ee217ba8a3c9ac5b494102748cd5e8e72cdb602b3053fd",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "96aba2ce6b1fe376c95ec72b2ebda68ba0bdc693a406938a6a650dedb386a5aa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "96aba2ce6b1fe376c95ec72b2ebda68ba0bdc693a406938a6a650dedb386a5aa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 678,
+      "sha256": "eb1c10f702e4cf9eb50416945582d97829965b0d421d834c2c82ed48fa47c36d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "de5bb3cc223588ea725afea4164b7c37542ce19400ca080ffe434d3c22064af5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 1021,
+      "sha256": "ee8353230e65137f6ae0c38c88744a2e0b1b3ff60b8c253f4a857a046ac0b470",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "de5bb3cc223588ea725afea4164b7c37542ce19400ca080ffe434d3c22064af5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 990,
+      "sha256": "452229d0a9116986391502005f2ea9501febac94f365c3c61cb7706397d6d181",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "de5bb3cc223588ea725afea4164b7c37542ce19400ca080ffe434d3c22064af5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 990,
+      "sha256": "452229d0a9116986391502005f2ea9501febac94f365c3c61cb7706397d6d181",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "74b6e05f75821e8c90c9a1e2d27e2987c2cf33fe5d21ae32c675825e6aa47890",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 896,
+      "sha256": "21be2f569e85c3b89576e299c8a9ddab58b438560219fe24e7dfe2cc5ff3f18d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/FaceColors.strings",
+      "bytes": 148,
+      "sha256": "5b315b7f46289b4444ac481df7e55100c81dcec2089dfb25a56e4c8f70aefbec",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 1020,
+      "sha256": "c3f3cbe5647ed266a5d6422f760b96fb89f47655f69131f8d6ac15fa85cda671",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/FaceColors.strings",
+      "bytes": 148,
+      "sha256": "5b315b7f46289b4444ac481df7e55100c81dcec2089dfb25a56e4c8f70aefbec",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 1025,
+      "sha256": "f7a878da45f9eeea0ec5982bbc19e41420ec19cd6afbd9e04390a1cd94b9d6b9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/FaceColors.strings",
+      "bytes": 154,
+      "sha256": "b3771a242404d8d358c9323a2f83c1b234e93a0a38df2e029cf0fd635758e631",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 807,
+      "sha256": "8fea6cdf21e381bd1fe99c58682f7d88c4e7c2bd2d5ef14ca301915cf0c95681",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/FaceColors.strings",
+      "bytes": 172,
+      "sha256": "62e35e0935215e172394f6063fc4b3b443d516478ac8b839c0db4ccb60cf1c9f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 911,
+      "sha256": "649de8e940b567474d96cf58902582631c2783db8518ffb28d569378534e8198",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "a907919129d3847326c3f09b0bd1d839e439a3c487fcecb8a452546369cc4e17",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 866,
+      "sha256": "d94cd9c35d6fa2707e3861f0ca05043e56e298fab4b0049c4e73032ceebf2336",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/FaceColors.strings",
+      "bytes": 153,
+      "sha256": "cbfec307798f0fe0d9b49dc5b40a587dc942aef6638dac7f591625be1b8b96ac",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 964,
+      "sha256": "3a3af5f2e8e353203dfbaacb36b20de812e9c510b0acc39505bf3a65419281bd",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/FaceColors.strings",
+      "bytes": 155,
+      "sha256": "03c0fadca57e6f85dd57f4ba9bb1dd02393275717ff518f92d2b4f2c3b983298",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 680,
+      "sha256": "2c286bffa49bb8450a3554c2e737ca2b93678d2ced8c7ec1b5ab8a950256089e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/FaceColors.strings",
+      "bytes": 149,
+      "sha256": "425538dfac8f758a8ff87bb6d6deea9b8287ebe263399c3ecc7043766f8df009",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 703,
+      "sha256": "6efdf3db0f44997cfa50f655f8eae41d4d845f86c3d383164bfd7e9cbae7e33d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/FaceColors.strings",
+      "bytes": 160,
+      "sha256": "6b25871b953235671f6bf1dd83b4d7fda787691a6cccdce4b2aa4768179d1608",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 699,
+      "sha256": "95626e72e17fd39fad83068ffbd8ee7019a06fa99a5bf55d286a0e6006d36158",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "f612c40246d125867adba91363c0ae83401336dc3b4629e4b8157e3c8c2ce315",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 705,
+      "sha256": "71ac5e0a3b70f7fa018bb0cb8e8c9a19b5b576ac2026153b4917c8add84521b9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "2a6ef653684e20965ce2911f0df58c1f2573abd1578d78c4c7aa4bd113db1609",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 690,
+      "sha256": "b82a45398dbe462e80dbe623b597938fb12ca2d5f406f64057bf3047325b675c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/FaceColors.strings",
+      "bytes": 149,
+      "sha256": "7f0c511da6aeda627389d7d4f5c6ac4e7c25820ceb59022a4c500dcd7be851ef",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 701,
+      "sha256": "2cede14e2ae9fcf15c80b0f38f3ac14666d4bb65a8907978c22e379d46839150",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "b4048f955fba5919040495e34cdaac83a3acb3e435e6f6d66b3dc4b79891de0a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 908,
+      "sha256": "892d3968a4b9ec687695fe9bf9b6d58c58ec7ce82a43470f8f10b5028f3c6efe",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/FaceColors.strings",
+      "bytes": 161,
+      "sha256": "02436b0076c54757148044c9934cbc3999e8655e56bd38ed1590baa62c8e7942",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 944,
+      "sha256": "ea07f61e68cbd294f7e248c9f606c0ffca5d33fda35905ed946b7611f41706b3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "09d91e39ea1b0df79454ff371866864a1673dd6e8430a0f96cd450dfbf560e15",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 933,
+      "sha256": "987abc450ead72dd06a848ed8f1b10becb5819eff44c755297ce7a19e386aed8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/FaceColors.strings",
+      "bytes": 154,
+      "sha256": "30efe15c7ee8456f9fbd4f773c91850bc638371f428118958e792df68388ec82",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 929,
+      "sha256": "aeab2fdd9313eca3361dc3e5c40fa9f5571137ef2f8b2cc023512ab57d1aa605",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "1cafd5a10f039eed5da6fb0ef9c4536886a575b6a389bc0a3f637a118b3d2952",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 1005,
+      "sha256": "d5ebc65b37605fedf1158d6c9cc22316716421fbc187943bb893a67c0ab7a806",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/FaceColors.strings",
+      "bytes": 192,
+      "sha256": "c9d70759c1ca897cc349faee70669d60b7fdd18c92ada3a4f4220812d2e74c5d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 995,
+      "sha256": "086e9623b7ae03376e946d68f7f6b1a67994917307f40fb70ca4e2c29f8de2ad",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/FaceColors.strings",
+      "bytes": 180,
+      "sha256": "8b3bca4485757bf080adb85a0978d8a2b71205ad7f68be08e4009f280031a47d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 959,
+      "sha256": "d97c35f039e7ceb6caeb4a09ab54e1ad41b5de06b1eec96f0f69762a70649f9a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/FaceColors.strings",
+      "bytes": 152,
+      "sha256": "bda23351feaff630c1ba80914b9953633f123768410f6c703bbccbc955045e01",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 922,
+      "sha256": "d52cb39f967d8b31f5735e5e5bfcce7e83211755a182344ee853b4e3d26d1fd6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/FaceColors.strings",
+      "bytes": 148,
+      "sha256": "8c16ce0a1a58fc50ce1e8cb4c17f08ac1efd42d7350c2ea15bc46dd76cf8ca0c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 915,
+      "sha256": "9fff97272be709c53a1bffcc9f64b4f4efa54beb5035ac2a32cf5a875cdca3cb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/FaceColors.strings",
+      "bytes": 160,
+      "sha256": "0debff35911a337a5c6505ab9499cf81df6ff8864f06d2c3d6548943edb8ad25",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 823,
+      "sha256": "8063fa2f79005a3eeceb00ccb38824d1d5ded80a293cb5e2474506960358df45",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/FaceColors.strings",
+      "bytes": 158,
+      "sha256": "c65d8447a2f06c24bdb9ad905c17af44d01044d883e634ffdaee2cb764d7de28",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 913,
+      "sha256": "8d0db14979f083a2275fdceff847a6c62365be2421b406146bc5bf111edd5983",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/FaceColors.strings",
+      "bytes": 192,
+      "sha256": "6642748b5484bf979212adc5923846ea0bb8eb6c1ae42fc91efe9b29b6b145fe",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 879,
+      "sha256": "e3f3a1ecb00abd9cfc7372ef3bae98392370092dd34887cc95f8aee7cbd3ffa9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/FaceColors.strings",
+      "bytes": 162,
+      "sha256": "e650f8a3e30ae280060466a1abea49424c91060760c770f3fee206af030159c1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 915,
+      "sha256": "5320886332be7f2b936d7f895ec0315ae9fd020959c6a5a993f86c1fef8d75d1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/FaceColors.strings",
+      "bytes": 146,
+      "sha256": "a9a74cfa0b1bab58a76b4a6b89ee1e6d18ae7133e96ee8ebd317249e2d106671",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 567,
+      "sha256": "fd0d8a5df9c884ecf3d0b61eed5b4d7327146fead7ec0cc7fa74a1632cca28b4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/FaceColors.strings",
+      "bytes": 146,
+      "sha256": "cf14967e346abc98a67c68c08dd226478640c9f131147dfbd0452251141772ed",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 581,
+      "sha256": "0e827ae22e2868b17dc301fbbf2d9d5174e8f2f630500ded167b39356793f3ec",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/FaceColors.strings",
+      "bytes": 146,
+      "sha256": "cf14967e346abc98a67c68c08dd226478640c9f131147dfbd0452251141772ed",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 577,
+      "sha256": "cdc55f341a2290dfe800bb217b1d4a8fa0456c337d053081f78d2a1f26451b94",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_5_24S132": {
+    "bundle": "Watch8_5_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle",
+    "code": "Watch8_5_24S132/解析/代码/NTKGladiusFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Assets.car",
+      "bytes": 27720,
+      "sha256": "d6946f4fc73df2126612bad7bde96d5b8de78eeff95ebe97901b16b59c60dbf0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/default.metallib",
+      "bytes": 18464,
+      "sha256": "68c75b9cd8d5b4749abe26c481ffa32e195453a79d4c5d176c7985259ed4097d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Gladius.color.plist",
+      "bytes": 460,
+      "sha256": "fe5852aa261db6a9787bda9678bf6196d29cf2a1bd7e4a2498e0664f711ebf40",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Gladius.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Info.plist",
+      "bytes": 752,
+      "sha256": "808b87d200514d45454cb521a29369d67f60b1d607fcad87f76a6afbf0214745",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/FaceColors.strings",
+      "bytes": 166,
+      "sha256": "6cd0db0ef541f23edc4055fd60298da33419cd8b4a0e2faef4535f88600a88be",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 869,
+      "sha256": "17b223f5dbb206a7b183f090692ab92b30c09b9efd9fc89b83b004a42a355a8d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/FaceColors.strings",
+      "bytes": 152,
+      "sha256": "fa81bc8a8e737e3fa0e362920262fd7c8ff7192e8f84d7015f7c847f2f361632",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 1041,
+      "sha256": "2a50dad314c448c82bb99d10ae22d1f816233a92669b686a44b255070c91b089",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/FaceColors.strings",
+      "bytes": 176,
+      "sha256": "4425ae5a2e0bf6579fde5b1b073ef406422a1705eb4f4e7b43db1e2b7632f13c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 933,
+      "sha256": "25d7cc68bc3d5d0521e53279884c610f71c6268f72a323da840de9b28bed8bad",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/FaceColors.strings",
+      "bytes": 162,
+      "sha256": "37c9f51796993accf415e5836e3c21af281a2086d0e2e8b637db08bd3b77ea42",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 891,
+      "sha256": "81b5ce2c92393cf4460d579be5aec9265855961880bf1f437354ad932b383b48",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/FaceColors.strings",
+      "bytes": 149,
+      "sha256": "f21beae0dc330b16bedc791269689ddce8c8273fa896b606406110fc1920aa45",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 1040,
+      "sha256": "80ab0b9a2228434ff4e95a56e7b9400d2322f83df69e9cd4e43dafdd0b3b8e5d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/FaceColors.strings",
+      "bytes": 172,
+      "sha256": "29e2485502bf845c372cddc9e09d8076cf54ca70da1dcf70e5393d69baae7e44",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 1016,
+      "sha256": "4b1820e8d4ec170212c8c270155daafcfa0a0cb3c5287fde76db2b486abd2ef3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "15a340f1029bca52fac3ee1fa68e691ba565653d817f7e424f6042d53eed2824",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 678,
+      "sha256": "358780fb32d72d300e2553b9fb1872177b7503c6f4da9c3dbee258019acd333f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "96aba2ce6b1fe376c95ec72b2ebda68ba0bdc693a406938a6a650dedb386a5aa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "6493c576f1ca294e24ee217ba8a3c9ac5b494102748cd5e8e72cdb602b3053fd",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "96aba2ce6b1fe376c95ec72b2ebda68ba0bdc693a406938a6a650dedb386a5aa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 681,
+      "sha256": "96aba2ce6b1fe376c95ec72b2ebda68ba0bdc693a406938a6a650dedb386a5aa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "04fdf7da643fb746320318b1b7c71d001325c56e025d53a5bbb76b0b146127fa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 678,
+      "sha256": "eb1c10f702e4cf9eb50416945582d97829965b0d421d834c2c82ed48fa47c36d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "de5bb3cc223588ea725afea4164b7c37542ce19400ca080ffe434d3c22064af5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 1021,
+      "sha256": "ee8353230e65137f6ae0c38c88744a2e0b1b3ff60b8c253f4a857a046ac0b470",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "de5bb3cc223588ea725afea4164b7c37542ce19400ca080ffe434d3c22064af5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 990,
+      "sha256": "452229d0a9116986391502005f2ea9501febac94f365c3c61cb7706397d6d181",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "de5bb3cc223588ea725afea4164b7c37542ce19400ca080ffe434d3c22064af5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 990,
+      "sha256": "452229d0a9116986391502005f2ea9501febac94f365c3c61cb7706397d6d181",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "74b6e05f75821e8c90c9a1e2d27e2987c2cf33fe5d21ae32c675825e6aa47890",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 896,
+      "sha256": "21be2f569e85c3b89576e299c8a9ddab58b438560219fe24e7dfe2cc5ff3f18d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/FaceColors.strings",
+      "bytes": 148,
+      "sha256": "5b315b7f46289b4444ac481df7e55100c81dcec2089dfb25a56e4c8f70aefbec",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 1020,
+      "sha256": "c3f3cbe5647ed266a5d6422f760b96fb89f47655f69131f8d6ac15fa85cda671",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/FaceColors.strings",
+      "bytes": 148,
+      "sha256": "5b315b7f46289b4444ac481df7e55100c81dcec2089dfb25a56e4c8f70aefbec",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 1025,
+      "sha256": "f7a878da45f9eeea0ec5982bbc19e41420ec19cd6afbd9e04390a1cd94b9d6b9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/FaceColors.strings",
+      "bytes": 154,
+      "sha256": "b3771a242404d8d358c9323a2f83c1b234e93a0a38df2e029cf0fd635758e631",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 807,
+      "sha256": "8fea6cdf21e381bd1fe99c58682f7d88c4e7c2bd2d5ef14ca301915cf0c95681",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/FaceColors.strings",
+      "bytes": 172,
+      "sha256": "62e35e0935215e172394f6063fc4b3b443d516478ac8b839c0db4ccb60cf1c9f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 911,
+      "sha256": "649de8e940b567474d96cf58902582631c2783db8518ffb28d569378534e8198",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "a907919129d3847326c3f09b0bd1d839e439a3c487fcecb8a452546369cc4e17",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 866,
+      "sha256": "d94cd9c35d6fa2707e3861f0ca05043e56e298fab4b0049c4e73032ceebf2336",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/FaceColors.strings",
+      "bytes": 153,
+      "sha256": "cbfec307798f0fe0d9b49dc5b40a587dc942aef6638dac7f591625be1b8b96ac",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 964,
+      "sha256": "3a3af5f2e8e353203dfbaacb36b20de812e9c510b0acc39505bf3a65419281bd",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/FaceColors.strings",
+      "bytes": 155,
+      "sha256": "03c0fadca57e6f85dd57f4ba9bb1dd02393275717ff518f92d2b4f2c3b983298",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 680,
+      "sha256": "2c286bffa49bb8450a3554c2e737ca2b93678d2ced8c7ec1b5ab8a950256089e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/FaceColors.strings",
+      "bytes": 149,
+      "sha256": "425538dfac8f758a8ff87bb6d6deea9b8287ebe263399c3ecc7043766f8df009",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 703,
+      "sha256": "6efdf3db0f44997cfa50f655f8eae41d4d845f86c3d383164bfd7e9cbae7e33d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/FaceColors.strings",
+      "bytes": 160,
+      "sha256": "6b25871b953235671f6bf1dd83b4d7fda787691a6cccdce4b2aa4768179d1608",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 699,
+      "sha256": "95626e72e17fd39fad83068ffbd8ee7019a06fa99a5bf55d286a0e6006d36158",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/FaceColors.strings",
+      "bytes": 150,
+      "sha256": "f612c40246d125867adba91363c0ae83401336dc3b4629e4b8157e3c8c2ce315",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 705,
+      "sha256": "71ac5e0a3b70f7fa018bb0cb8e8c9a19b5b576ac2026153b4917c8add84521b9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/FaceColors.strings",
+      "bytes": 147,
+      "sha256": "2a6ef653684e20965ce2911f0df58c1f2573abd1578d78c4c7aa4bd113db1609",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 690,
+      "sha256": "b82a45398dbe462e80dbe623b597938fb12ca2d5f406f64057bf3047325b675c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/FaceColors.strings",
+      "bytes": 149,
+      "sha256": "7f0c511da6aeda627389d7d4f5c6ac4e7c25820ceb59022a4c500dcd7be851ef",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 701,
+      "sha256": "2cede14e2ae9fcf15c80b0f38f3ac14666d4bb65a8907978c22e379d46839150",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "b4048f955fba5919040495e34cdaac83a3acb3e435e6f6d66b3dc4b79891de0a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 908,
+      "sha256": "892d3968a4b9ec687695fe9bf9b6d58c58ec7ce82a43470f8f10b5028f3c6efe",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/FaceColors.strings",
+      "bytes": 161,
+      "sha256": "02436b0076c54757148044c9934cbc3999e8655e56bd38ed1590baa62c8e7942",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 944,
+      "sha256": "ea07f61e68cbd294f7e248c9f606c0ffca5d33fda35905ed946b7611f41706b3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "09d91e39ea1b0df79454ff371866864a1673dd6e8430a0f96cd450dfbf560e15",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 933,
+      "sha256": "987abc450ead72dd06a848ed8f1b10becb5819eff44c755297ce7a19e386aed8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/FaceColors.strings",
+      "bytes": 154,
+      "sha256": "30efe15c7ee8456f9fbd4f773c91850bc638371f428118958e792df68388ec82",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 929,
+      "sha256": "aeab2fdd9313eca3361dc3e5c40fa9f5571137ef2f8b2cc023512ab57d1aa605",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/FaceColors.strings",
+      "bytes": 151,
+      "sha256": "1cafd5a10f039eed5da6fb0ef9c4536886a575b6a389bc0a3f637a118b3d2952",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 1005,
+      "sha256": "d5ebc65b37605fedf1158d6c9cc22316716421fbc187943bb893a67c0ab7a806",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/FaceColors.strings",
+      "bytes": 192,
+      "sha256": "c9d70759c1ca897cc349faee70669d60b7fdd18c92ada3a4f4220812d2e74c5d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 995,
+      "sha256": "086e9623b7ae03376e946d68f7f6b1a67994917307f40fb70ca4e2c29f8de2ad",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/FaceColors.strings",
+      "bytes": 180,
+      "sha256": "8b3bca4485757bf080adb85a0978d8a2b71205ad7f68be08e4009f280031a47d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 959,
+      "sha256": "d97c35f039e7ceb6caeb4a09ab54e1ad41b5de06b1eec96f0f69762a70649f9a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/FaceColors.strings",
+      "bytes": 152,
+      "sha256": "bda23351feaff630c1ba80914b9953633f123768410f6c703bbccbc955045e01",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 922,
+      "sha256": "d52cb39f967d8b31f5735e5e5bfcce7e83211755a182344ee853b4e3d26d1fd6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/FaceColors.strings",
+      "bytes": 148,
+      "sha256": "8c16ce0a1a58fc50ce1e8cb4c17f08ac1efd42d7350c2ea15bc46dd76cf8ca0c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 915,
+      "sha256": "9fff97272be709c53a1bffcc9f64b4f4efa54beb5035ac2a32cf5a875cdca3cb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/FaceColors.strings",
+      "bytes": 160,
+      "sha256": "0debff35911a337a5c6505ab9499cf81df6ff8864f06d2c3d6548943edb8ad25",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 823,
+      "sha256": "8063fa2f79005a3eeceb00ccb38824d1d5ded80a293cb5e2474506960358df45",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/FaceColors.strings",
+      "bytes": 158,
+      "sha256": "c65d8447a2f06c24bdb9ad905c17af44d01044d883e634ffdaee2cb764d7de28",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 913,
+      "sha256": "8d0db14979f083a2275fdceff847a6c62365be2421b406146bc5bf111edd5983",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/FaceColors.strings",
+      "bytes": 192,
+      "sha256": "6642748b5484bf979212adc5923846ea0bb8eb6c1ae42fc91efe9b29b6b145fe",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 879,
+      "sha256": "e3f3a1ecb00abd9cfc7372ef3bae98392370092dd34887cc95f8aee7cbd3ffa9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/FaceColors.strings",
+      "bytes": 162,
+      "sha256": "e650f8a3e30ae280060466a1abea49424c91060760c770f3fee206af030159c1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 915,
+      "sha256": "5320886332be7f2b936d7f895ec0315ae9fd020959c6a5a993f86c1fef8d75d1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/FaceColors.strings",
+      "bytes": 146,
+      "sha256": "a9a74cfa0b1bab58a76b4a6b89ee1e6d18ae7133e96ee8ebd317249e2d106671",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 567,
+      "sha256": "fd0d8a5df9c884ecf3d0b61eed5b4d7327146fead7ec0cc7fa74a1632cca28b4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/FaceColors.strings",
+      "bytes": 146,
+      "sha256": "cf14967e346abc98a67c68c08dd226478640c9f131147dfbd0452251141772ed",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 581,
+      "sha256": "0e827ae22e2868b17dc301fbbf2d9d5174e8f2f630500ded167b39356793f3ec",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/FaceColors.strings",
+      "bytes": 146,
+      "sha256": "cf14967e346abc98a67c68c08dd226478640c9f131147dfbd0452251141772ed",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/FaceColors.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 577,
+      "sha256": "cdc55f341a2290dfe800bb217b1d4a8fa0456c337d053081f78d2a1f26451b94",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGladiusFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   }
+  },
+  "固件文字": {
+   "描述": [
+    [
+     "FACE_STYLE_GLADIUS_DESCRIPTION",
+     "这款表盘独具特色，采用经典小时标记和发光刻度盘。光影效果在一天中随太阳位置不断变换。有多种颜色供你选择，同时可选两种自定义复杂功能。"
+    ]
+   ],
+   "编辑选项": [
+    [
+     "gladius.special.graphite",
+     "石墨色"
+    ],
+    [
+     "gladius.special.silver",
+     "银色"
+    ],
+    [
+     "gladius.special.gold",
+     "金色"
+    ],
+    [
+     "GLADIUS_STYLE_EDIT_OPTION_I",
+     "I"
+    ],
+    [
+     "GLADIUS_LIGHT_EDIT_OPTION_BRIGHT",
+     "明亮"
+    ],
+    [
+     "GLADIUS_LIGHT_EDIT_OPTION_DYNAMIC",
+     "动态"
+    ],
+    [
+     "GLADIUS_EDIT_MODE_LABEL_LIGHT",
+     "光线"
+    ],
+    [
+     "GLADIUS_STYLE_EDIT_OPTION_II",
+     "II"
+    ],
+    [
+     "GLADIUS_LIGHT_EDIT_OPTION_DARK",
+     "灰暗"
+    ],
+    [
+     "GLADIUS_STYLE_EDIT_OPTION_III",
+     "III"
+    ]
+   ]
+  },
+  "图集颜色分量": [
+   {
+    "name": "seasons/spring2015/white/hourMinuteHandStrokeDay",
+    "components": [
+     0.5294117647058824,
+     0.5294117647058824,
+     0.5294117647058824,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\seasons_spring2015_white_hourMinuteHandStrokeDay-07f23544a97fd297.json"
+   },
+   {
+    "name": "gladius/silver",
+    "components": [
+     0.5411764705882353,
+     0.5294117647058824,
+     0.48627450980392156,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_silver-3115d0c577112c0b.json"
+   },
+   {
+    "name": "standard/lightYellow/background",
+    "components": [
+     1,
+     0.8352941176470589,
+     0.25098039215686274,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\standard_lightYellow_background-a617b5f60deffd06.json"
+   },
+   {
+    "name": "gladius/hourMinuteHandInlay",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_hourMinuteHandInlay-001fe336e8928cf2.json"
+   },
+   {
+    "name": "gladius/background.tritium",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_background.tritium-143f945866be49e4.json"
+   },
+   {
+    "name": "standard/cream/background",
+    "components": [
+     0.8117647058823529,
+     0.7490196078431373,
+     0.6313725490196078,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\standard_cream_background-8473320afaff9a8f.json"
+   },
+   {
+    "name": "gladius/hourTickEndNight",
+    "components": [
+     1,
+     1,
+     1,
+     0.10000000149011612
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_hourTickEndNight-07c71795b069a0fe.json"
+   },
+   {
+    "name": "gladius/gold",
+    "components": [
+     0.7254901960784313,
+     0.5411764705882353,
+     0.29411764705882354,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_gold-50742d8a3f9868e8.json"
+   },
+   {
+    "name": "seasons/spring2015/white/background",
+    "components": [
+     0.7764705882352941,
+     0.7764705882352941,
+     0.7764705882352941,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\seasons_spring2015_white_background-70472fe5c27fbd00.json"
+   },
+   {
+    "name": "gladius/minuteTickStart",
+    "components": [
+     1,
+     1,
+     1,
+     0.20000000298023224
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_minuteTickStart-1b70c8db6d7c4afc.json"
+   },
+   {
+    "name": "gladius/silver/hourMinuteHandStrokeDay",
+    "components": [
+     0.2784313725490196,
+     0.25882352941176473,
+     0.22745098039215686,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_silver_hourMinuteHandStrokeDay-7b54f5d79145a7f0.json"
+   },
+   {
+    "name": "gladius/secondHandNight",
+    "components": [
+     1,
+     1,
+     1,
+     0.8500000238418579
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_secondHandNight-af3b2e6f00f6bfaf.json"
+   },
+   {
+    "name": "gladius/gold/hourMinuteHandStrokeDay",
+    "components": [
+     0.3137254901960784,
+     0.2627450980392157,
+     0.15294117647058825,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_gold_hourMinuteHandStrokeDay-534ccd56f89e6621.json"
+   },
+   {
+    "name": "gladius/hourMinuteHandStrokeDay.tritium",
+    "components": [
+     0.8,
+     0.8,
+     0.8,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_hourMinuteHandStrokeDay.tritium-33f250a4e541ed6e.json"
+   },
+   {
+    "name": "gladius/minuteTickEnd",
+    "components": [
+     1,
+     1,
+     1,
+     0.20000000298023224
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_minuteTickEnd-c543ccc9948cb83c.json"
+   },
+   {
+    "name": "gladius/hourTickEndDay",
+    "components": [
+     1,
+     1,
+     1,
+     0.5
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_hourTickEndDay-2cbb02d0b9991d5e.json"
+   },
+   {
+    "name": "standard/green/background",
+    "components": [
+     0.11372549019607843,
+     0.8117647058823529,
+     0.4588235294117647,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\standard_green_background-4ad831e0ac15fe42.json"
+   },
+   {
+    "name": "gladius/editing",
+    "components": [
+     0.949999988079071,
+     0.949999988079071,
+     0.949999988079071,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_editing-689ca94d38e4f3da.json"
+   },
+   {
+    "name": "standard/lightGreen/background",
+    "components": [
+     0.5450980392156862,
+     0.7764705882352941,
+     0.48627450980392156,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\standard_lightGreen_background-5da9fc6185af008e.json"
+   },
+   {
+    "name": "gladius/graphite",
+    "components": [
+     0.24313725490196078,
+     0.24313725490196078,
+     0.24313725490196078,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\gladius_graphite-0139f7c254e2a88d.json"
+   },
+   {
+    "name": "standard/yellow/background",
+    "components": [
+     0.8784313725490196,
+     0.7725490196078432,
+     0.2549019607843137,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\standard_yellow_background-e6bbc17067a38a34.json"
+   },
+   {
+    "name": "seasons/spring2023/sky/background",
+    "components": [
+     0.7294117647058823,
+     0.8196078431372549,
+     0.8470588235294118,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\seasons_spring2023_sky_background-9a8c797bc159d634.json"
+   },
+   {
+    "name": "standard/blue/background",
+    "components": [
+     0.12941176470588237,
+     0.5764705882352941,
+     0.9764705882352941,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\standard_blue_background-a29596ebc2138a73.json"
+   },
+   {
+    "name": "seasons/summer2021/cloudBlue/background",
+    "components": [
+     0.6901960784313725,
+     0.7568627450980392,
+     0.7176470588235294,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGladiusFaceBundle.bundle\\Assets.car\\资源\\seasons_summer2021_cloudBlue_background-e4ba056d3850bf62.json"
+   }
+  ],
+  "方法索引": {
+   "息屏与唤醒": [
+    "-[NTKGladiusColorPalette tritium_minuteTickDay];",
+    "-[NTKGladiusColorPalette tritium_hourTickDay];",
+    "-[NTKGladiusColorPalette tritium_bottomComplicationNight];",
+    "-[NTKGladiusColorPalette tritium_topComplicationNight];",
+    "-[NTKGladiusColorPalette tritium_topComplicationDay];",
+    "-[NTKGladiusColorPalette tritium_minuteTickNight];",
+    "-[NTKGladiusColorPalette tritium_bottomComplicationDay];",
+    "-[NTKGladiusColorPalette tritium_hourTickNight];",
+    "-[NTKGladiusColorPalette tritium_hourTickEndDay];",
+    "-[NTKGladiusColorPalette _tritium_primaryColor];",
+    "-[NTKGladiusColorPalette tritium_hourMinuteHandInlay];",
+    "-[NTKGladiusFaceView tritium_didTransitionToTritiumOn];",
+    "-[NTKGladiusFaceView tritium_didTransitionToTritiumOff];",
+    "-[NTKGladiusFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKGladiusFaceView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKGladiusFaceView tritium_createFaceAnimator];",
+    "-[NTKGladiusFaceView tritium_transitionToFrameSpecifier:];",
+    "-[NTKGladiusFaceView _applyPalette:forTritium:];",
+    "-[NTKGladiusFaceView _applyTritiumProgress:];",
+    "-[NTKGladiusFaceView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKGladiusFaceView _tritium_updateComplicationColors];",
+    "-[NTKGladiusFaceView tritiumColorPalette];"
+   ],
+   "动画与时间变化": [
+    "-[NTKGladiusColorPalette hourMinuteHandInlay];",
+    "-[NTKGladiusColorPalette minuteTickNight];",
+    "-[NTKGladiusColorPalette secondHandNight];",
+    "-[NTKGladiusColorPalette minuteTickStart];",
+    "-[NTKGladiusColorPalette hourMinuteHandStrokeDay];",
+    "-[NTKGladiusColorPalette hourMinuteHandStrokeNight];",
+    "-[NTKGladiusColorPalette hourTickDay];",
+    "-[NTKGladiusColorPalette hourTickEndDay];",
+    "-[NTKGladiusColorPalette hourTickEndNight];",
+    "-[NTKGladiusColorPalette hourTickNight];",
+    "-[NTKGladiusColorPalette minuteTickDay];",
+    "-[NTKGladiusColorPalette minuteTickEnd];",
+    "-[NTKGladiusColorPalette secondHandDay];",
+    "-[NTKGladiusSecondHandLightingDelegate stopSecondHandLightingAnimation];",
+    "-[NTKGladiusSecondHandLightingDelegate startSecondHandLightingAnimationAtDate:];",
+    "-[NTKGladiusSecondHandLightingDelegate updateLightingOverride];",
+    "-[NTKGladiusSecondHandLightingDelegate lowFrequencyLightingTimerFired];",
+    "-[NTKGladiusSecondHandLightingDelegate setOverrideDate:duration:];",
+    "-[NTKGladiusColorPalette tritium_minuteTickDay];",
+    "-[NTKGladiusColorPalette _hourTickDay];",
+    "-[NTKGladiusColorPalette tritium_hourTickDay];",
+    "-[NTKGladiusColorPalette _hourMinuteHandStrokeDay];",
+    "-[NTKGladiusColorPalette _minuteTickNight];",
+    "-[NTKGladiusColorPalette tritium_minuteTickNight];",
+    "-[NTKGladiusColorPalette _minuteTickDay];",
+    "-[NTKGladiusColorPalette _hourTickNight];",
+    "-[NTKGladiusColorPalette _secondHandNight];",
+    "-[NTKGladiusColorPalette _secondHandDay];",
+    "-[NTKGladiusColorPalette tritium_hourTickNight];",
+    "-[NTKGladiusColorPalette tritium_hourTickEndDay];",
+    "-[NTKGladiusColorPalette tritium_hourMinuteHandInlay];",
+    "-[NTKGladiusColorPalette _hourMinuteHandStrokeNight];",
+    "+[NTKGladiusDialView minorMinuteAngleAtIndex:device:];",
+    "+[NTKGladiusDialView longHourTickRadiusForDevice:];",
+    "-[NTKGladiusDialView _hourTickPositionAtIndex:forStyle:];",
+    "-[NTKGladiusDialView _createMinorMinuteLayers];",
+    "-[NTKGladiusDialView _updateMajorHourTickAtIndex:forStyle:];",
+    "-[NTKGladiusDialView _hourTickLengthAtIndex:forStyle:];",
+    "-[NTKGladiusDialView _tickWithLength:width:position:angle:];",
+    "-[NTKGladiusFaceView tritium_didTransitionToTritiumOn];",
+    "-[NTKGladiusFaceView tritium_didTransitionToTritiumOff];",
+    "-[NTKGladiusFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKGladiusFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKGladiusFaceView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKGladiusFaceView tritium_createFaceAnimator];",
+    "-[NTKGladiusFaceView tritium_transitionToFrameSpecifier:];",
+    "-[NTKGladiusFaceView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKGladiusFaceView _getComplicationColorsTop:bottom:palette:nightFraction:editingFraction:secondHandAngle:];",
+    "-[NTKGladiusFaceView _hourMinuteHandStrokeColorForLight:];",
+    "-[NTKGladiusFaceView _secondHandColorForLight:];",
+    "-[NTKGladiusFaceView _updateDateOverrideAnimationWithStopTime:];",
+    "-[NTKGladiusFaceView _configureForTransitionFraction:fromEditMode:toEditMode:];",
+    "-[NTKGladiusFaceView setOverrideDate:duration:];",
+    "-[NTKGladiusFaceView nominalAnimationEndForHandView:];",
+    "-[NTKGladiusFaceView nominalAnimationStart:forHandView:];",
+    "-[NTKGladiusFaceView overrideAnimationApplier:zRotation:forHandView:];",
+    "-[NTKGladiusHandsView _startNewTimeAnimation];",
+    "-[NTKGladiusHandsView _applyInstantaneousSecondHandTransformForDate:];",
+    "-[NTKGladiusHandsView setStretchySecondHandData:];",
+    "-[NTKGladiusHandsView _stopTimeAnimation];",
+    "-[NTKGladiusHandsView secondHandConfiguration];",
+    "-[NTKGladiusHandsView _timeAnimationFramesPerSecondForDevice:];",
+    "-[NTKGladiusHandsView stretchySecondHandData];",
+    "-[NTKGladiusHandsView applyInstantaneousSecondHandTransformForAngle:];",
+    "-[NTKGladiusHandsView minuteHandConfiguration];",
+    "-[NTKGladiusHandsView setOverrideDate:duration:];",
+    "-[NTKGladiusHandsView createSecondHandView];",
+    "-[_TtC20NTKGladiusFaceBundle14NTKGladiusQuad setOverrideDate:duration:];",
+    "-[_TtC20NTKGladiusFaceBundle14NTKGladiusQuad initWithDevice:stretchySecondHandData:];",
+    "-[_TtC20NTKGladiusFaceBundle31NTKGladiusLightSpillCoordinator stopSecondHandLightingAnimation];",
+    "-[_TtC20NTKGladiusFaceBundle31NTKGladiusLightSpillCoordinator startSecondHandLightingAnimationAtDate:];",
+    "-[_TtC20NTKGladiusFaceBundle31NTKGladiusLightSpillCoordinator setMinorMinuteLayers:];",
+    "-[_TtC20NTKGladiusFaceBundle31NTKGladiusLightSpillCoordinator minorMinuteLayers];",
+    "-[_TtC20NTKGladiusFaceBundle31NTKGladiusLightSpillCoordinator handleDialPaletteChangeWithHourStartColors:minuteStartColor:minuteEndColor:hourEndColor:hourTextColor:];",
+    "-[_TtC20NTKGladiusFaceBundle31NTKGladiusLightSpillCoordinator setOverrideDate:duration:];",
+    "-[_TtC20NTKGladiusFaceBundle32NTKGladiusStretchySecondHandData initWithDevice:];",
+    "-[_TtC20NTKGladiusFaceBundle32NTKGladiusStretchySecondHandData sampleAtAngle:includeBaseRadius:];",
+    "-[_TtC20NTKGladiusFaceBundle32NTKGladiusStretchySecondHandData init];"
+   ],
+   "组件与编辑": [
+    "-[NTKGladiusColorPalette background];",
+    "-[NTKGladiusColorPalette editing];",
+    "-[NTKGladiusColorPalette hourMinuteHandInlay];",
+    "-[NTKGladiusColorPalette minuteTickNight];",
+    "-[NTKGladiusColorPalette secondHandNight];",
+    "-[NTKGladiusColorPalette minuteTickStart];",
+    "-[NTKGladiusColorPalette bottomComplicationDay];",
+    "-[NTKGladiusColorPalette bottomComplicationNight];",
+    "-[NTKGladiusColorPalette hourMinuteHandStrokeDay];",
+    "-[NTKGladiusColorPalette hourMinuteHandStrokeNight];",
+    "-[NTKGladiusColorPalette hourTickDay];",
+    "-[NTKGladiusColorPalette hourTickEndDay];",
+    "-[NTKGladiusColorPalette hourTickEndNight];",
+    "-[NTKGladiusColorPalette hourTickNight];",
+    "-[NTKGladiusColorPalette minuteTickDay];",
+    "-[NTKGladiusColorPalette minuteTickEnd];",
+    "-[NTKGladiusColorPalette secondHandDay];",
+    "-[NTKGladiusColorPalette topComplicationDay];",
+    "-[NTKGladiusColorPalette topComplicationNight];",
+    "-[NTKGladiusColorPalette configurationDidChange:];",
+    "-[NTKGladiusColorPalette tritium_minuteTickDay];",
+    "-[NTKGladiusColorPalette _hourTickDay];",
+    "-[NTKGladiusColorPalette tritium_hourTickDay];",
+    "-[NTKGladiusColorPalette _topComplicationNight];",
+    "-[NTKGladiusColorPalette tritium_bottomComplicationNight];",
+    "-[NTKGladiusColorPalette _isLightColor];",
+    "-[NTKGladiusColorPalette tritium_topComplicationNight];",
+    "-[NTKGladiusColorPalette _hourMinuteHandStrokeDay];",
+    "-[NTKGladiusColorPalette _minuteTickNight];",
+    "-[NTKGladiusColorPalette tritium_topComplicationDay];",
+    "-[NTKGladiusColorPalette tritium_minuteTickNight];",
+    "-[NTKGladiusColorPalette _minuteTickDay];",
+    "-[NTKGladiusColorPalette _hourTickNight];",
+    "-[NTKGladiusColorPalette _topComplicationDay];",
+    "-[NTKGladiusColorPalette _secondHandNight];",
+    "-[NTKGladiusColorPalette _background];",
+    "-[NTKGladiusColorPalette swatch];",
+    "-[NTKGladiusColorPalette _secondHandDay];",
+    "-[NTKGladiusColorPalette tritium_bottomComplicationDay];",
+    "-[NTKGladiusColorPalette _bottomComplicationNight];",
+    "-[NTKGladiusColorPalette _bottomComplicationDay];",
+    "-[NTKGladiusColorPalette tritium_hourTickNight];",
+    "-[NTKGladiusColorPalette tritium_hourTickEndDay];",
+    "-[NTKGladiusColorPalette _tritium_primaryColor];",
+    "-[NTKGladiusColorPalette tritium_hourMinuteHandInlay];",
+    "-[NTKGladiusColorPalette _hourMinuteHandStrokeNight];",
+    "-[NTKGladiusDialView setPalette:];",
+    "-[NTKGladiusDialView colorFraction];",
+    "-[NTKGladiusDialView setColorFraction:];",
+    "-[NTKGladiusDialView initWithDevice:style:palette:];",
+    "-[NTKGladiusDialView _applyPalette];",
+    "-[NTKGladiusDialView palette];",
+    "+[NTKGladiusFace _richComplicationSlotsForDevice:];",
+    "+[NTKGladiusFace _orderedComplicationSlots];",
+    "+[NTKGladiusFace _defaultSelectedComplicationSlotForDevice:];",
+    "-[NTKGladiusFace _complicationSlotDescriptors];",
+    "-[NTKGladiusFace _numberOfOptionsForCustomEditMode:slot:];",
+    "-[NTKGladiusFace _defaultOptionForCustomEditMode:slot:];",
+    "-[NTKGladiusFace _indexOfOption:forCustomEditMode:slot:];",
+    "-[NTKGladiusFace _optionAtIndex:forCustomEditMode:slot:];",
+    "-[NTKGladiusFaceView createFaceColorPalette];",
+    "-[NTKGladiusFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKGladiusFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKGladiusFaceView _applyBreathingFraction:forCustomEditMode:slot:];",
+    "-[NTKGladiusFaceView _applyOption:forCustomEditMode:slot:];",
+    "-[NTKGladiusFaceView _configureComplicationView:forSlot:];",
+    "-[NTKGladiusFaceView colorPalette];",
+    "-[NTKGladiusFaceView _loadLayoutRules];",
+    "-[NTKGladiusFaceView _applyPalette:forTritium:];",
+    "-[NTKGladiusFaceView _colorFractionForNightFraction:];",
+    "-[NTKGladiusFaceView _editingFractionForEditMode:];",
+    "-[NTKGladiusFaceView _getComplicationColorsTop:bottom:palette:nightFraction:editingFraction:secondHandAngle:];",
+    "-[NTKGladiusFaceView _allowsEditingSliderEditableColorsForSlot:];",
+    "-[NTKGladiusFaceView _hourMinuteHandStrokeColorForLight:];",
+    "-[NTKGladiusFaceView _secondHandColorForLight:];",
+    "-[NTKGladiusFaceView _applyPalette:];",
+    "-[NTKGladiusFaceView _updateTopComplicationWithColor:];",
+    "-[NTKGladiusFaceView _tritium_updateComplicationColors];",
+    "-[NTKGladiusFaceView _getComplicationColorsTop:bottom:palette:nightFraction:editingFraction:];",
+    "-[NTKGladiusFaceView _applyRubberBandingFraction:forCustomEditMode:slot:];",
+    "-[NTKGladiusFaceView tritiumColorPalette];",
+    "-[NTKGladiusFaceView _updateBottomComplicationWithColor:];",
+    "-[_TtC20NTKGladiusFaceBundle14NTKGladiusQuad setColor:];",
+    "-[_TtC20NTKGladiusFaceBundle31NTKGladiusLightSpillCoordinator handleDialPaletteChangeWithHourStartColors:minuteStartColor:minuteEndColor:hourEndColor:hourTextColor:];"
+   ]
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "人像",
+  "source": "https://www.apple.com.cn/newsroom/2022/09/watchOS-9-is-available-today/",
+  "description": [
+    "历史宣传图展示小狗照片的景深效果。固件保留此包；当前图库可选性仍取决于机型与系统。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "alt": "Apple Watch Series 8 显示带有小狗照片的“人像”表盘.",
+      "url": "https://www.apple.com.cn/newsroom/images/product/watch/standard/Apple-watchOS-9-Watch-Portraits-face-220912_inline.jpg.large.jpg",
+      "file": "表盘资料/人像/官方图1.jpg"
+    }
+  ]
+}

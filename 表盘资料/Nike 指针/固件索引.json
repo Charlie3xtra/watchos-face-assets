@@ -1,0 +1,1499 @@
+{
+ "NTKVictoryAnalogFaceBundle.bundle": {
+  "title_evidence": [
+   [
+    "zh_CN.lproj/Localizable.strings",
+    "FACE_STYLE_VICTORY_ANALOG_IN_TITLE_CASE",
+    "Nike指针"
+   ],
+   [
+    "en.lproj/Localizable.strings",
+    "FACE_STYLE_VICTORY_ANALOG_IN_TITLE_CASE",
+    "Nike Analog"
+   ]
+  ],
+  "models": {
+   "Watch7_12_24S132": {
+    "bundle": "Watch7_12_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle",
+    "code": "Watch7_12_24S132/解析/代码/NTKVictoryAnalogFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/Assets.car",
+      "bytes": 34776,
+      "sha256": "33dc9d80c6a7ddff28245a82a51c0bdeb0090956c6020337fd54c369e5a6525e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/Info.plist",
+      "bytes": 856,
+      "sha256": "09cf78b82b7ba53129f7da87c68631f7e732dd281a06368f4379a27a4287297f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/VictoryAnalog.color.plist",
+      "bytes": 166,
+      "sha256": "10a5de8b7667d05cc2adb3aafe83715b2be00258dc9fc099eb99caa12aeacbf4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/VictoryAnalog.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 567,
+      "sha256": "4d9fc9b0c5ed5ba7c77a16a68d7dfbeddb0707d6521d4cda92991e709b7111aa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 722,
+      "sha256": "6801860e45bba232b495355a7a3abe50419b9514c21473b07e2bd21727e996dc",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 651,
+      "sha256": "1ebdda4ac18bd0008c7ea6b12183cc5490a37292f525ed3c11476b73bcf806b8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 610,
+      "sha256": "9a67758be9006c3fdc4f0537468752f44165ec1132669083361b9fb77534b861",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 719,
+      "sha256": "e9982d256a79d1e5255707b23d188a7a6103d5f9dc8153ea2b97ea33e1d8d08c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 756,
+      "sha256": "87f6ca41c6de4de848553827e18ffaeda90991347abf8ac43cab3348457396be",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 620,
+      "sha256": "1d018c530a0631e58965e13fd1d6821669c85206170b762c10e555fab7a2c8b0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "471016aa0d6a2882d846934d79aa7b2da86ec268e5eb8811cb74e6293bea8ca3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "471016aa0d6a2882d846934d79aa7b2da86ec268e5eb8811cb74e6293bea8ca3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "454940876d89f1ae36ee2251514521ad158b705dae96df2471fe69a5f7e953c7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "454940876d89f1ae36ee2251514521ad158b705dae96df2471fe69a5f7e953c7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 620,
+      "sha256": "1d018c530a0631e58965e13fd1d6821669c85206170b762c10e555fab7a2c8b0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 645,
+      "sha256": "8df08eac88b74f014641d95a6696ae164925e7d12494db514a3d0a007a0572d8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 647,
+      "sha256": "e7728eda47e0ca47bc4ab0c394424c0757dfd48af6a4a92d9c7d2336fbb4265b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 647,
+      "sha256": "e7728eda47e0ca47bc4ab0c394424c0757dfd48af6a4a92d9c7d2336fbb4265b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 687,
+      "sha256": "c0dd48e6b011e16021481a3bd30316a56de71093caff90a716feb12a09f91a45",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 685,
+      "sha256": "ab7f2b7ea512021f099a226b85a876e06ac569c7e121d24df746afd99c8f96e1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 685,
+      "sha256": "ab7f2b7ea512021f099a226b85a876e06ac569c7e121d24df746afd99c8f96e1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 537,
+      "sha256": "b21c5b7ee497480a799583a9d5a9201f2a75132d090b6628ab5e3d4034e75a89",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 693,
+      "sha256": "3a455d30ea16737aef47ded568f4938e0633cd18e6d5f547fc01f96e383ccd69",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 615,
+      "sha256": "72deb00fae61b71c1968f17dc0edd14202486eac7e691c5d2d8398673628f439",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 736,
+      "sha256": "5c416ea9af09575d58eea43e4da0c53f15ab41288d5a3c60c8c289e23bfbcc75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 396,
+      "sha256": "d7592d5ebb845c8bde0cea03d5aa2aaddccd124b95357afd2f248d9a28dfcb35",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 589,
+      "sha256": "6639e5350ff43dd8df36cd4c00e3e29349dc0df5467ef3f76241a6e50deaf9e4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 431,
+      "sha256": "69cd53aef5aabefeb000170f6b2c7b12e59db751f3e00e5159d9c5d4bc4cf714",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 451,
+      "sha256": "1b6dcdff5f6d51ce8c115825a64edb46f05dbad76bbd385cfe76c208ae730a66",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 387,
+      "sha256": "3bce34f860a7f62920501200b5c8ea02e6705c8d60ceac7d40b6f8e11b50c4b6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 746,
+      "sha256": "865257b6988c14fc759cb0bf824eb80f86c0387031e90ce5baf55d75787e9419",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 667,
+      "sha256": "c00af3a1f516a3ec9703544dd92fe8b4536f74708b28ee30a2ca8256ed84946d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 686,
+      "sha256": "0d95545ccb92efab6f5875b198063aa0debdd3d7368c986e453f99656d5d6d9e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 635,
+      "sha256": "311c0c9029ef9950985d7ce7384e60d23a26f78d41de327ca535f945ceea66ef",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 728,
+      "sha256": "7d9f58754fb0c803519193f72838a76b68bf96d56d6b47032112165722a320f9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 660,
+      "sha256": "c33470abd483e20fd04ec06b968c3434a93b2945c629340e9c0c363a915096fc",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 798,
+      "sha256": "607de164bc8305cf4f06e2d6e695383e12f01ebac37afa4a84c9358d6b7708ce",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 653,
+      "sha256": "f78e470bcb44fb6242e5a9b57ee5c588512fe5d201674bdb5ff8bfba2f4aab5a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 729,
+      "sha256": "260f266a5602a888cd78228fb3018782f7a387dff1ad060a57843f4ce5927dce",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 648,
+      "sha256": "a1ad8f6a83488d5d57f2f3015ac1e3a16af8309a3e592f0bb9dc469ec2202933",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 545,
+      "sha256": "41e52ec811be599c61e49d1e6beecc12121e6ed162228af99b750e040d5902f5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 654,
+      "sha256": "5ae63133866214d0470fc7d167b8e0cd3f695d311ebb0d9a7a358a581557564e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 605,
+      "sha256": "c83f0ecf53128bf7ac2d6722d9bd4e44771a7315ffa054d067d9e84452b0a5eb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 631,
+      "sha256": "50ab4949070e0fcd3835267c0a69241acc7cca9149381abc37c469045643aeeb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 357,
+      "sha256": "f760e973c1580f7f0062795c0835fea04181dd51004476b66334ae77a3e6593c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 333,
+      "sha256": "0dcdb1b31eec4a8608ae97166a4e1bc58943ebeca4ca90687f30070d1624e336",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 337,
+      "sha256": "f16357336961c61105ff3e20998b2b3a1ab6ab9d14aa04167f9aef5480bf0638",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_1_24S132": {
+    "bundle": "Watch8_1_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle",
+    "code": "Watch8_1_24S132/解析/代码/NTKVictoryAnalogFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/Assets.car",
+      "bytes": 34776,
+      "sha256": "8b6e4513a346d61fd8c69d0e22416dd153faf469f894345c9339d786f593bfbb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/Info.plist",
+      "bytes": 856,
+      "sha256": "09cf78b82b7ba53129f7da87c68631f7e732dd281a06368f4379a27a4287297f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/VictoryAnalog.color.plist",
+      "bytes": 166,
+      "sha256": "10a5de8b7667d05cc2adb3aafe83715b2be00258dc9fc099eb99caa12aeacbf4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/VictoryAnalog.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 567,
+      "sha256": "4d9fc9b0c5ed5ba7c77a16a68d7dfbeddb0707d6521d4cda92991e709b7111aa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 722,
+      "sha256": "6801860e45bba232b495355a7a3abe50419b9514c21473b07e2bd21727e996dc",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 651,
+      "sha256": "1ebdda4ac18bd0008c7ea6b12183cc5490a37292f525ed3c11476b73bcf806b8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 610,
+      "sha256": "9a67758be9006c3fdc4f0537468752f44165ec1132669083361b9fb77534b861",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 719,
+      "sha256": "e9982d256a79d1e5255707b23d188a7a6103d5f9dc8153ea2b97ea33e1d8d08c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 756,
+      "sha256": "87f6ca41c6de4de848553827e18ffaeda90991347abf8ac43cab3348457396be",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 620,
+      "sha256": "1d018c530a0631e58965e13fd1d6821669c85206170b762c10e555fab7a2c8b0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "471016aa0d6a2882d846934d79aa7b2da86ec268e5eb8811cb74e6293bea8ca3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "471016aa0d6a2882d846934d79aa7b2da86ec268e5eb8811cb74e6293bea8ca3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "454940876d89f1ae36ee2251514521ad158b705dae96df2471fe69a5f7e953c7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "454940876d89f1ae36ee2251514521ad158b705dae96df2471fe69a5f7e953c7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 620,
+      "sha256": "1d018c530a0631e58965e13fd1d6821669c85206170b762c10e555fab7a2c8b0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 645,
+      "sha256": "8df08eac88b74f014641d95a6696ae164925e7d12494db514a3d0a007a0572d8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 647,
+      "sha256": "e7728eda47e0ca47bc4ab0c394424c0757dfd48af6a4a92d9c7d2336fbb4265b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 647,
+      "sha256": "e7728eda47e0ca47bc4ab0c394424c0757dfd48af6a4a92d9c7d2336fbb4265b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 687,
+      "sha256": "c0dd48e6b011e16021481a3bd30316a56de71093caff90a716feb12a09f91a45",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 685,
+      "sha256": "ab7f2b7ea512021f099a226b85a876e06ac569c7e121d24df746afd99c8f96e1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 685,
+      "sha256": "ab7f2b7ea512021f099a226b85a876e06ac569c7e121d24df746afd99c8f96e1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 537,
+      "sha256": "b21c5b7ee497480a799583a9d5a9201f2a75132d090b6628ab5e3d4034e75a89",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 693,
+      "sha256": "3a455d30ea16737aef47ded568f4938e0633cd18e6d5f547fc01f96e383ccd69",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 615,
+      "sha256": "72deb00fae61b71c1968f17dc0edd14202486eac7e691c5d2d8398673628f439",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 736,
+      "sha256": "5c416ea9af09575d58eea43e4da0c53f15ab41288d5a3c60c8c289e23bfbcc75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 396,
+      "sha256": "d7592d5ebb845c8bde0cea03d5aa2aaddccd124b95357afd2f248d9a28dfcb35",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 589,
+      "sha256": "6639e5350ff43dd8df36cd4c00e3e29349dc0df5467ef3f76241a6e50deaf9e4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 431,
+      "sha256": "69cd53aef5aabefeb000170f6b2c7b12e59db751f3e00e5159d9c5d4bc4cf714",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 451,
+      "sha256": "1b6dcdff5f6d51ce8c115825a64edb46f05dbad76bbd385cfe76c208ae730a66",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 387,
+      "sha256": "3bce34f860a7f62920501200b5c8ea02e6705c8d60ceac7d40b6f8e11b50c4b6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 746,
+      "sha256": "865257b6988c14fc759cb0bf824eb80f86c0387031e90ce5baf55d75787e9419",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 667,
+      "sha256": "c00af3a1f516a3ec9703544dd92fe8b4536f74708b28ee30a2ca8256ed84946d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 686,
+      "sha256": "0d95545ccb92efab6f5875b198063aa0debdd3d7368c986e453f99656d5d6d9e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 635,
+      "sha256": "311c0c9029ef9950985d7ce7384e60d23a26f78d41de327ca535f945ceea66ef",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 728,
+      "sha256": "7d9f58754fb0c803519193f72838a76b68bf96d56d6b47032112165722a320f9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 660,
+      "sha256": "c33470abd483e20fd04ec06b968c3434a93b2945c629340e9c0c363a915096fc",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 798,
+      "sha256": "607de164bc8305cf4f06e2d6e695383e12f01ebac37afa4a84c9358d6b7708ce",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 653,
+      "sha256": "f78e470bcb44fb6242e5a9b57ee5c588512fe5d201674bdb5ff8bfba2f4aab5a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 729,
+      "sha256": "260f266a5602a888cd78228fb3018782f7a387dff1ad060a57843f4ce5927dce",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 648,
+      "sha256": "a1ad8f6a83488d5d57f2f3015ac1e3a16af8309a3e592f0bb9dc469ec2202933",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 545,
+      "sha256": "41e52ec811be599c61e49d1e6beecc12121e6ed162228af99b750e040d5902f5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 654,
+      "sha256": "5ae63133866214d0470fc7d167b8e0cd3f695d311ebb0d9a7a358a581557564e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 605,
+      "sha256": "c83f0ecf53128bf7ac2d6722d9bd4e44771a7315ffa054d067d9e84452b0a5eb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 631,
+      "sha256": "50ab4949070e0fcd3835267c0a69241acc7cca9149381abc37c469045643aeeb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 357,
+      "sha256": "f760e973c1580f7f0062795c0835fea04181dd51004476b66334ae77a3e6593c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 333,
+      "sha256": "0dcdb1b31eec4a8608ae97166a4e1bc58943ebeca4ca90687f30070d1624e336",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 337,
+      "sha256": "f16357336961c61105ff3e20998b2b3a1ab6ab9d14aa04167f9aef5480bf0638",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_5_24S132": {
+    "bundle": "Watch8_5_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle",
+    "code": "Watch8_5_24S132/解析/代码/NTKVictoryAnalogFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/Assets.car",
+      "bytes": 34776,
+      "sha256": "8e539de222ae583de74d351be9afbabaa41120e23a168ed6ecd2b4966cb7968a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/Info.plist",
+      "bytes": 856,
+      "sha256": "09cf78b82b7ba53129f7da87c68631f7e732dd281a06368f4379a27a4287297f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/VictoryAnalog.color.plist",
+      "bytes": 166,
+      "sha256": "10a5de8b7667d05cc2adb3aafe83715b2be00258dc9fc099eb99caa12aeacbf4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/VictoryAnalog.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 567,
+      "sha256": "4d9fc9b0c5ed5ba7c77a16a68d7dfbeddb0707d6521d4cda92991e709b7111aa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 722,
+      "sha256": "6801860e45bba232b495355a7a3abe50419b9514c21473b07e2bd21727e996dc",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 651,
+      "sha256": "1ebdda4ac18bd0008c7ea6b12183cc5490a37292f525ed3c11476b73bcf806b8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 610,
+      "sha256": "9a67758be9006c3fdc4f0537468752f44165ec1132669083361b9fb77534b861",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 719,
+      "sha256": "e9982d256a79d1e5255707b23d188a7a6103d5f9dc8153ea2b97ea33e1d8d08c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 756,
+      "sha256": "87f6ca41c6de4de848553827e18ffaeda90991347abf8ac43cab3348457396be",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 620,
+      "sha256": "1d018c530a0631e58965e13fd1d6821669c85206170b762c10e555fab7a2c8b0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "471016aa0d6a2882d846934d79aa7b2da86ec268e5eb8811cb74e6293bea8ca3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "471016aa0d6a2882d846934d79aa7b2da86ec268e5eb8811cb74e6293bea8ca3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "454940876d89f1ae36ee2251514521ad158b705dae96df2471fe69a5f7e953c7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 626,
+      "sha256": "454940876d89f1ae36ee2251514521ad158b705dae96df2471fe69a5f7e953c7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 620,
+      "sha256": "1d018c530a0631e58965e13fd1d6821669c85206170b762c10e555fab7a2c8b0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 645,
+      "sha256": "8df08eac88b74f014641d95a6696ae164925e7d12494db514a3d0a007a0572d8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 647,
+      "sha256": "e7728eda47e0ca47bc4ab0c394424c0757dfd48af6a4a92d9c7d2336fbb4265b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 647,
+      "sha256": "e7728eda47e0ca47bc4ab0c394424c0757dfd48af6a4a92d9c7d2336fbb4265b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 687,
+      "sha256": "c0dd48e6b011e16021481a3bd30316a56de71093caff90a716feb12a09f91a45",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 685,
+      "sha256": "ab7f2b7ea512021f099a226b85a876e06ac569c7e121d24df746afd99c8f96e1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 685,
+      "sha256": "ab7f2b7ea512021f099a226b85a876e06ac569c7e121d24df746afd99c8f96e1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 537,
+      "sha256": "b21c5b7ee497480a799583a9d5a9201f2a75132d090b6628ab5e3d4034e75a89",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 693,
+      "sha256": "3a455d30ea16737aef47ded568f4938e0633cd18e6d5f547fc01f96e383ccd69",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 615,
+      "sha256": "72deb00fae61b71c1968f17dc0edd14202486eac7e691c5d2d8398673628f439",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 736,
+      "sha256": "5c416ea9af09575d58eea43e4da0c53f15ab41288d5a3c60c8c289e23bfbcc75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 396,
+      "sha256": "d7592d5ebb845c8bde0cea03d5aa2aaddccd124b95357afd2f248d9a28dfcb35",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 589,
+      "sha256": "6639e5350ff43dd8df36cd4c00e3e29349dc0df5467ef3f76241a6e50deaf9e4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 431,
+      "sha256": "69cd53aef5aabefeb000170f6b2c7b12e59db751f3e00e5159d9c5d4bc4cf714",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 451,
+      "sha256": "1b6dcdff5f6d51ce8c115825a64edb46f05dbad76bbd385cfe76c208ae730a66",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 387,
+      "sha256": "3bce34f860a7f62920501200b5c8ea02e6705c8d60ceac7d40b6f8e11b50c4b6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 746,
+      "sha256": "865257b6988c14fc759cb0bf824eb80f86c0387031e90ce5baf55d75787e9419",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 667,
+      "sha256": "c00af3a1f516a3ec9703544dd92fe8b4536f74708b28ee30a2ca8256ed84946d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 686,
+      "sha256": "0d95545ccb92efab6f5875b198063aa0debdd3d7368c986e453f99656d5d6d9e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 635,
+      "sha256": "311c0c9029ef9950985d7ce7384e60d23a26f78d41de327ca535f945ceea66ef",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 728,
+      "sha256": "7d9f58754fb0c803519193f72838a76b68bf96d56d6b47032112165722a320f9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 660,
+      "sha256": "c33470abd483e20fd04ec06b968c3434a93b2945c629340e9c0c363a915096fc",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 798,
+      "sha256": "607de164bc8305cf4f06e2d6e695383e12f01ebac37afa4a84c9358d6b7708ce",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 653,
+      "sha256": "f78e470bcb44fb6242e5a9b57ee5c588512fe5d201674bdb5ff8bfba2f4aab5a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 729,
+      "sha256": "260f266a5602a888cd78228fb3018782f7a387dff1ad060a57843f4ce5927dce",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 648,
+      "sha256": "a1ad8f6a83488d5d57f2f3015ac1e3a16af8309a3e592f0bb9dc469ec2202933",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 545,
+      "sha256": "41e52ec811be599c61e49d1e6beecc12121e6ed162228af99b750e040d5902f5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 654,
+      "sha256": "5ae63133866214d0470fc7d167b8e0cd3f695d311ebb0d9a7a358a581557564e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 605,
+      "sha256": "c83f0ecf53128bf7ac2d6722d9bd4e44771a7315ffa054d067d9e84452b0a5eb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 631,
+      "sha256": "50ab4949070e0fcd3835267c0a69241acc7cca9149381abc37c469045643aeeb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 357,
+      "sha256": "f760e973c1580f7f0062795c0835fea04181dd51004476b66334ae77a3e6593c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 333,
+      "sha256": "0dcdb1b31eec4a8608ae97166a4e1bc58943ebeca4ca90687f30070d1624e336",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 337,
+      "sha256": "f16357336961c61105ff3e20998b2b3a1ab6ab9d14aa04167f9aef5480bf0638",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKVictoryAnalogFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   }
+  },
+  "固件文字": {
+   "描述": [
+    [
+     "FACE_STYLE_VICTORY_ANALOG_DESCRIPTION",
+     "与Nike合作设计，这款指针风格的表盘以醒目的方式显示时间，并始终包含用于启动Nike Run Club App的复杂功能。表盘字体为Futura，是Nike “Just Do It”宣传语的标志性字体。"
+    ]
+   ],
+   "编辑选项": []
+  },
+  "图集颜色分量": [
+   {
+    "name": "victoryAnalog/seasons.spring2015.white & explorer.red/secondHand",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_seasons.spring2015.white___explorer.red_secondHand-8cac60615074f74a.json"
+   },
+   {
+    "name": "victoryAnalog/victory.white & victory.volt/dotMarker",
+    "components": [
+     0.5370000004768372,
+     0.5569999814033508,
+     0.5759999752044678,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_victory.white___victory.volt_dotMarker-46f3a3e4fa21260b.json"
+   },
+   {
+    "name": "victoryAnalog/ironstone/logo",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_ironstone_logo-e70fa3bdcfb7117a.json"
+   },
+   {
+    "name": "victoryAnalog/white/dotMarker",
+    "components": [
+     0.5372549019607843,
+     0.5568627450980392,
+     0.5764705882352941,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_white_dotMarker-4010e0ff4e6fe1fc.json"
+   },
+   {
+    "name": "victoryAnalog/midnightTurquoise/secondHand",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_midnightTurquoise_secondHand-607ea05bceeb96a9.json"
+   },
+   {
+    "name": "victoryAnalog/terraBlush/secondHand",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_terraBlush_secondHand-f908e12d9eaec6f5.json"
+   },
+   {
+    "name": "victoryAnalog/hyperGrape/logo",
+    "components": [
+     0.30196078431372547,
+     0.6980392156862745,
+     0.611764705882353,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_hyperGrape_logo-95c9ce7e2c4f841b.json"
+   },
+   {
+    "name": "victoryAnalog/smokyMauve/logo",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_smokyMauve_logo-20309533b24016c4.json"
+   },
+   {
+    "name": "victoryAnalog/chlorineBlue/logo",
+    "components": [
+     0.47843137254901963,
+     0.8,
+     0.5254901960784314,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_chlorineBlue_logo-dd10221d897e70e7.json"
+   },
+   {
+    "name": "victoryAnalog/white/secondHand",
+    "components": [
+     0.878000020980835,
+     1,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_white_secondHand-7d1e7d956e4f126b.json"
+   },
+   {
+    "name": "victoryAnalog/rainbow/logoForLargeNumbers",
+    "components": [
+     0.47843137254901963,
+     0.7254901960784313,
+     0.2549019607843137,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_rainbow_logoForLargeNumbers-1e45dbdbe8c37c0e.json"
+   },
+   {
+    "name": "victoryAnalog/wolfGray/secondHand",
+    "components": [
+     0.9020000100135803,
+     0.9020000100135803,
+     0.9020000100135803,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_wolfGray_secondHand-342d86c21cb2237b.json"
+   },
+   {
+    "name": "victoryAnalog/spruceAura/logo",
+    "components": [
+     0.6274509803921569,
+     0.9176470588235294,
+     0.47058823529411764,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_spruceAura_logo-008ba3d9720fc531.json"
+   },
+   {
+    "name": "victoryAnalog/secondHand",
+    "components": [
+     0.6705882352941176,
+     0.6705882352941176,
+     0.6705882352941176,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_secondHand-2be8894ac805111f.json"
+   },
+   {
+    "name": "victoryAnalog/lightBone/secondHand",
+    "components": [
+     0.9020000100135803,
+     0.9020000100135803,
+     0.9020000100135803,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_lightBone_secondHand-584fcf3880e631b7.json"
+   },
+   {
+    "name": "victoryAnalog/rainbow/secondHand",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_rainbow_secondHand-522e013454dd2854.json"
+   },
+   {
+    "name": "victoryAnalog/obsidianIndigo/logo",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_obsidianIndigo_logo-d3e8b15632977e8f.json"
+   },
+   {
+    "name": "victoryAnalog/particleBeige/secondHand",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_particleBeige_secondHand-e6f8dfde8c91c025.json"
+   },
+   {
+    "name": "victoryAnalog/seasons.spring2015.white & explorer.red/handInlay",
+    "components": [
+     0.7450000047683716,
+     0.09399999678134918,
+     0.07500000298023224,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_seasons.spring2015.white___explorer.red_handInlay-8328715bc1a1a312.json"
+   },
+   {
+    "name": "victoryAnalog/rainbow/largeDigit12",
+    "components": [
+     0.8823529411764706,
+     0.20392156862745098,
+     0.32941176470588235,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_rainbow_largeDigit12-c5fec9c810bc05b6.json"
+   },
+   {
+    "name": "victoryAnalog/cargoKhaki/secondHand",
+    "components": [
+     0.9019607843137255,
+     0.9019607843137255,
+     0.9019607843137255,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_cargoKhaki_secondHand-160da578a2f02152.json"
+   },
+   {
+    "name": "victoryAnalog/lightSilver/secondHand",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_lightSilver_secondHand-76405b7022bb13a3.json"
+   },
+   {
+    "name": "victoryAnalog/rainbow/largeDigit3",
+    "components": [
+     1,
+     0.8705882352941177,
+     0.26666666666666666,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_rainbow_largeDigit3-92ee38539944522e.json"
+   },
+   {
+    "name": "victoryAnalog/celestialTeal/logo",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_celestialTeal_logo-e7ca2140acef9359.json"
+   },
+   {
+    "name": "victoryAnalog/limeBlast/secondHand",
+    "components": [
+     0.9020000100135803,
+     0.9020000100135803,
+     0.9020000100135803,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_limeBlast_secondHand-f8e9aef1dc8ad56c.json"
+   },
+   {
+    "name": "victoryAnalog/barelyRose/secondHand",
+    "components": [
+     0.9020000100135803,
+     0.9020000100135803,
+     0.9020000100135803,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_barelyRose_secondHand-165ed5ce87a01ce2.json"
+   },
+   {
+    "name": "victoryAnalog/victory.white & victory.volt/secondHand",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_victory.white___victory.volt_secondHand-c26affd8b74366f1.json"
+   },
+   {
+    "name": "victoryAnalog/auroraGreen/secondHand",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_auroraGreen_secondHand-289ac54cf84b43d7.json"
+   },
+   {
+    "name": "victoryAnalog/seasons.spring2015.white & explorer.red/dotMarker",
+    "components": [
+     0.5370000004768372,
+     0.5569999814033508,
+     0.5759999752044678,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_seasons.spring2015.white___explorer.red_dotMarker-2a2a3c913f3b9149.json"
+   },
+   {
+    "name": "victoryAnalog/hasta/logo",
+    "components": [
+     0.7411764705882353,
+     0.7019607843137254,
+     0.611764705882353,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_hasta_logo-b3c1cab6110558d8.json"
+   },
+   {
+    "name": "victoryAnalog/tealTint/logo",
+    "components": [
+     0.8429999947547913,
+     0.9649999737739563,
+     0.8159999847412109,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_tealTint_logo-f19c56f7e0b2da97.json"
+   },
+   {
+    "name": "victoryAnalog/midnightTurquoise/logo",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_midnightTurquoise_logo-73122d1737008994.json"
+   },
+   {
+    "name": "victoryAnalog/rainbow/largeDigit6",
+    "components": [
+     0.09019607843137255,
+     0.5215686274509804,
+     0.7215686274509804,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_rainbow_largeDigit6-cf9c4f049c50df3f.json"
+   },
+   {
+    "name": "victoryAnalog/oliveFlak/logo",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_oliveFlak_logo-a840ab3ee22b2227.json"
+   },
+   {
+    "name": "victoryAnalog/oliveFlak/secondHand",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_oliveFlak_secondHand-2385978f83375724.json"
+   },
+   {
+    "name": "victoryAnalog/auroraGreen/logo",
+    "components": [
+     0.9803921568627451,
+     0.32941176470588235,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_auroraGreen_logo-d2ba9c73868ab737.json"
+   },
+   {
+    "name": "victoryAnalog/rainbow/largeDigit9",
+    "components": [
+     0.5215686274509804,
+     0.2823529411764706,
+     0.7019607843137254,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_rainbow_largeDigit9-b204788df0c1ed0d.json"
+   },
+   {
+    "name": "victoryAnalog/rainbow/largeDigit13",
+    "components": [
+     1,
+     0.5215686274509804,
+     0.25882352941176473,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_rainbow_largeDigit13-7b02b140f7a224d8.json"
+   },
+   {
+    "name": "victoryAnalog/blueBlack/logo",
+    "components": [
+     0.9058823529411765,
+     0.40784313725490196,
+     0.30196078431372547,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_blueBlack_logo-bbe8ddb2eddd4a0e.json"
+   },
+   {
+    "name": "victoryAnalog/celestialTeal/secondHand",
+    "components": [
+     0.9800000190734863,
+     0.32899999618530273,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKVictoryAnalogFaceBundle.bundle\\Assets.car\\资源\\victoryAnalog_celestialTeal_secondHand-539720d04d40c2e6.json"
+   }
+  ],
+  "方法索引": {
+   "息屏与唤醒": [
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumLogoColor];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumBackgroundColor];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumDotMarkerColorAtIndex:];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumLargeNumbers];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumLargeNumbersOutline];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumNumbersColorAtIndex:];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumOutlineNumbers];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumOutlineNumbersColorAtIndex:];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumSmallNumbers];",
+    "-[NTKVictoryAnalogColorPalette tritiumLogoColor];",
+    "-[NTKVictoryAnalogColorPalette tritiumBackgroundColor];",
+    "-[NTKVictoryAnalogColorPalette tritiumDotMarkerColorAtIndex:];",
+    "-[NTKVictoryAnalogColorPalette tritiumLargeNumbers];",
+    "-[NTKVictoryAnalogColorPalette tritiumLargeNumbersOutline];",
+    "-[NTKVictoryAnalogColorPalette tritiumNumbersColorAtIndex:];",
+    "-[NTKVictoryAnalogColorPalette tritiumOutlineNumbers];",
+    "-[NTKVictoryAnalogColorPalette tritiumOutlineNumbersColorAtIndex:];",
+    "-[NTKVictoryAnalogColorPalette tritiumSmallNumbers];",
+    "-[NTKVictoryAnalogColorPalette tritiumNumbersColor];",
+    "-[NTKVictoryAnalogColorPalette tritium_cornerComplicationsAccent];",
+    "+[NTKVictoryAnalogFace tritium_burnInFaceName];",
+    "-[NTKVictoryAnalogFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKVictoryAnalogFaceView tritium_createFaceAnimator];",
+    "-[NTKVictoryAnalogFaceView _tritium_updateComplicationColors];"
+   ],
+   "动画与时间变化": [
+    "-[NTKVictoryAnalogColorPalette secondHand];",
+    "-[NTKVictoryAnalogFaceView _startScrubbingAnimated:withCompletion:];",
+    "-[NTKVictoryAnalogFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKVictoryAnalogFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKVictoryAnalogFaceView tritium_createFaceAnimator];",
+    "-[NTKVictoryAnalogFaceView _endScrubbingAnimated:withCompletion:];",
+    "-[NTKVictoryAnalogFaceView _configureForTransitionFraction:fromEditMode:toEditMode:];"
+   ],
+   "组件与编辑": [
+    "-[NTKVictoryAnalogBackgroundColorPalette backgroundColor];",
+    "-[NTKVictoryAnalogBackgroundColorPalette logo];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumLogoColor];",
+    "-[NTKVictoryAnalogBackgroundColorPalette analogDotColor];",
+    "-[NTKVictoryAnalogBackgroundColorPalette dotMarkerAlpha];",
+    "-[NTKVictoryAnalogBackgroundColorPalette dotMarkerColorAtIndex:];",
+    "-[NTKVictoryAnalogBackgroundColorPalette isMulticolor];",
+    "-[NTKVictoryAnalogBackgroundColorPalette numberColorAtIndex:];",
+    "-[NTKVictoryAnalogBackgroundColorPalette numbersColor];",
+    "-[NTKVictoryAnalogBackgroundColorPalette smallDotsColorBrightness];",
+    "-[NTKVictoryAnalogBackgroundColorPalette smallNumbersColorBrightness];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumBackgroundColor];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumDotMarkerColorAtIndex:];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumLargeNumbers];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumLargeNumbersOutline];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumNumbersColorAtIndex:];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumOutlineNumbers];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumOutlineNumbersColorAtIndex:];",
+    "-[NTKVictoryAnalogBackgroundColorPalette tritiumSmallNumbers];",
+    "-[NTKVictoryAnalogColorPalette background];",
+    "-[NTKVictoryAnalogColorPalette numbers];",
+    "-[NTKVictoryAnalogColorPalette logo];",
+    "-[NTKVictoryAnalogColorPalette dotMarkerAlpha];",
+    "-[NTKVictoryAnalogColorPalette secondHand];",
+    "-[NTKVictoryAnalogColorPalette cornerComplicationsAccent];",
+    "-[NTKVictoryAnalogColorPalette cornerComplicationsAlternate];",
+    "-[NTKVictoryAnalogColorPalette dotMarker];",
+    "-[NTKVictoryAnalogColorPalette handInlay];",
+    "-[NTKVictoryAnalogColorPalette hands];",
+    "+[NTKVictoryAnalogColorEditOption pigmentFaceDomain];",
+    "+[NTKVictoryAnalogColorEditOption domain];",
+    "+[NTKVictoryAnalogColorEditOption _orderedValuesForDevice:];",
+    "-[NTKVictoryAnalogColorPalette configurationDidChange:];",
+    "-[NTKVictoryAnalogColorPalette identifier];",
+    "-[NTKVictoryAnalogColorPalette setStyle:];",
+    "-[NTKVictoryAnalogColorPalette backgroundColor];",
+    "-[NTKVictoryAnalogColorPalette _background];",
+    "-[NTKVictoryAnalogColorPalette tritiumLogoColor];",
+    "-[NTKVictoryAnalogColorPalette digit];",
+    "-[NTKVictoryAnalogColorPalette style];",
+    "-[NTKVictoryAnalogColorPalette copyWithZone:];",
+    "-[NTKVictoryAnalogColorPalette _logo];",
+    "-[NTKVictoryAnalogColorPalette analogDotColor];",
+    "-[NTKVictoryAnalogColorPalette dotMarkerAlpha];",
+    "-[NTKVictoryAnalogColorPalette dotMarkerColorAtIndex:];",
+    "-[NTKVictoryAnalogColorPalette hasWhiteElements];",
+    "-[NTKVictoryAnalogColorPalette isMulticolor];",
+    "-[NTKVictoryAnalogColorPalette numberColorAtIndex:];",
+    "-[NTKVictoryAnalogColorPalette numbersColor];",
+    "-[NTKVictoryAnalogColorPalette smallDotsColorBrightness];",
+    "-[NTKVictoryAnalogColorPalette smallNumbersColorBrightness];",
+    "-[NTKVictoryAnalogColorPalette tritiumBackgroundColor];",
+    "-[NTKVictoryAnalogColorPalette tritiumDotMarkerColorAtIndex:];",
+    "-[NTKVictoryAnalogColorPalette tritiumLargeNumbers];",
+    "-[NTKVictoryAnalogColorPalette tritiumLargeNumbersOutline];",
+    "-[NTKVictoryAnalogColorPalette tritiumNumbersColorAtIndex:];",
+    "-[NTKVictoryAnalogColorPalette tritiumOutlineNumbers];",
+    "-[NTKVictoryAnalogColorPalette tritiumOutlineNumbersColorAtIndex:];",
+    "-[NTKVictoryAnalogColorPalette tritiumSmallNumbers];",
+    "-[NTKVictoryAnalogColorPalette _markerAtIndex:];",
+    "-[NTKVictoryAnalogColorPalette _cornerComplicationsAccent];",
+    "-[NTKVictoryAnalogColorPalette _cornerComplicationsAlternate];",
+    "-[NTKVictoryAnalogColorPalette _dotMarker];",
+    "-[NTKVictoryAnalogColorPalette _handInlay];",
+    "-[NTKVictoryAnalogColorPalette _hands];",
+    "-[NTKVictoryAnalogColorPalette _numbers];",
+    "-[NTKVictoryAnalogColorPalette tritiumNumbersColor];",
+    "-[NTKVictoryAnalogColorPalette tritium_cornerComplicationsAccent];",
+    "+[NTKVictoryAnalogFace _initialDefaultComplicationForSlot:forDevice:];",
+    "+[NTKVictoryAnalogFace _faceClassOfFaceWithRichComplicationSlotsForDevice:];",
+    "+[NTKVictoryAnalogFace _complicationSlotDescriptors];",
+    "+[NTKVictoryAnalogFace _orderedComplicationSlots];",
+    "-[NTKVictoryAnalogFace editOptionThatHidesAllComplications];",
+    "-[NTKVictoryAnalogFace _numberOfOptionsForCustomEditMode:slot:];",
+    "-[NTKVictoryAnalogFace _defaultOptionForCustomEditMode:slot:];",
+    "-[NTKVictoryAnalogFace _indexOfOption:forCustomEditMode:slot:];",
+    "-[NTKVictoryAnalogFace _optionAtIndex:forCustomEditMode:slot:];",
+    "-[NTKVictoryAnalogFaceBundle complicationTypesBySlot];",
+    "-[NTKVictoryAnalogFaceBundle _fullscreenDefaultFacesForDevice:colorOptions:];",
+    "-[NTKVictoryAnalogFaceBundle _colorOptionsFromColorValues:device:];",
+    "-[NTKVictoryAnalogFaceBundle spring2021VictoryColors];",
+    "-[NTKVictoryAnalogFaceView _complicationAlphaForEditMode:];",
+    "-[NTKVictoryAnalogFaceView _keylineCornerRadiusForComplicationSlot:];",
+    "-[NTKVictoryAnalogFaceView _homeScreenBackgroundColor];",
+    "-[NTKVictoryAnalogFaceView createFaceColorPalette];",
+    "-[NTKVictoryAnalogFaceView _editSpeedForCustomEditMode:slot:];",
+    "-[NTKVictoryAnalogFaceView _legacyLayoutOverrideforComplicationType:slot:];",
+    "-[NTKVictoryAnalogFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKVictoryAnalogFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKVictoryAnalogFaceView _slotForUtilitySlot:];",
+    "-[NTKVictoryAnalogFaceView _applyBreathingFraction:forCustomEditMode:slot:];",
+    "-[NTKVictoryAnalogFaceView _applyOption:forCustomEditMode:slot:];",
+    "-[NTKVictoryAnalogFaceView _prepareForEditing];",
+    "-[NTKVictoryAnalogFaceView utilityDateComplicationFontForDateStyle:];",
+    "-[NTKVictoryAnalogFaceView _configureComplicationView:forSlot:];",
+    "-[NTKVictoryAnalogFaceView _loadLayoutRules];",
+    "-[NTKVictoryAnalogFaceView _utilityComplicationSlots];",
+    "-[NTKVictoryAnalogFaceView _utilitySlotForSlot:];",
+    "-[NTKVictoryAnalogFaceView _newLegacyViewForComplication:family:slot:];",
+    "-[NTKVictoryAnalogFaceView palette];",
+    "-[NTKVictoryAnalogFaceView _tritium_updateComplicationColors];",
+    "-[NTKVictoryAnalogFaceView textLayoutStyleForSlot:];",
+    "-[NTKVictoryAnalogFaceView _keylineFrameForComplicationSlot:selected:];",
+    "-[NTKVictoryAnalogFaceView _applyRubberBandingFraction:forCustomEditMode:slot:];",
+    "-[NTKVictoryAnalogFaceView _applyComplicationViewColor:alternateColor:];",
+    "-[NTKVictoryAnalogFaceView _applyColor:alternateColor:toComplicationView:];",
+    "+[NTKVictoryAnalogRichFace _complicationSlotDescriptors];",
+    "+[NTKVictoryAnalogRichFace _richComplicationSlotsForDevice:];",
+    "-[NTKVictoryAnalogRichFaceView _legacyLayoutOverrideforComplicationType:slot:];",
+    "-[NTKVictoryAnalogRichFaceView _layoutStyleForSlot:];",
+    "-[NTKVictoryAnalogRichFaceView _fadesComplicationSlot:inEditMode:];",
+    "-[NTKVictoryAnalogRichFaceView _configureComplicationView:forSlot:];",
+    "-[NTKVictoryAnalogRichFaceView _newLegacyViewForComplication:family:slot:];",
+    "-[NTKVictoryAnalogRichFaceView _keylineFrameForComplicationSlot:selected:];",
+    "-[NTKVictoryAnalogRichFaceView _applyColor:alternateColor:toComplicationView:];"
+   ]
+  }
+ }
+}

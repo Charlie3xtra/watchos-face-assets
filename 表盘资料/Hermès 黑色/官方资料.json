@@ -1,0 +1,20 @@
+{
+  "name": "Hermès 黑色",
+  "source": "https://www.apple.com/newsroom/2019/09/apple-unveils-apple-watch-series-5/",
+  "description": [
+    "Apple 对应的全黑表款配有专属渐变表盘。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "alt": "The new all-black band on Apple Watch Hermès.",
+      "url": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch_series_5-hermes-double-tour-noir-band-091019_carousel.jpg.large.jpg",
+      "file": "表盘资料/Hermès 黑色/官方图1.jpg"
+    },
+    {
+      "alt": "The new all-black band on Apple Watch Hermès.",
+      "url": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch_series_5-hermes-face-single-tour-noir-band-091019_carousel.jpg.large.jpg",
+      "file": "表盘资料/Hermès 黑色/官方图2.jpg"
+    }
+  ]
+}

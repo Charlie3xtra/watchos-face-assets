@@ -1,0 +1,17 @@
+{
+  "name": "彩虹线条",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apd202ac35b5",
+  "description": [
+    "此表盘的灵感来自于彩虹旗。轻点表盘时彩色条会闪烁。"
+  ],
+  "options": [
+    "可自定义的功能：背景（浅色、深色）"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/52e1bde3-a6de-45b9-9d7a-ad6e415ef8b3",
+      "alt": "“彩虹线条”表盘。",
+      "file": "表盘资料/彩虹线条/官方图1.png"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Hermès Radial",
+  "source": "https://www.apple.com.cn/apple-watch-hermes/",
+  "description": [
+    "产品宣传图所示款式。图片说明列出所示机型与组件。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "url": "https://www.apple.com.cn/v/apple-watch-hermes/am/images/overview/lineage__f7meoaztjj22_large.jpg",
+      "alt": "Apple Watch Hermès Series 12，展示 Radial 模拟表盘 (时针、分针和秒针，以及日期、健身圆环复杂功能)、银色钛金属表壳、右侧外观、数码表冠、凸起的侧边按钮，搭配 Bleu Nuit/Orange 午夜蓝配橙色 Rocabar Club 表带，表带采用深蓝色针织材质，饰有橙色凸起条纹，呈现 Hermès 爱马仕 H 标志。",
+      "file": "表盘资料/Hermès Radial/官方图1.jpg"
+    }
+  ]
+}

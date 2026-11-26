@@ -1,0 +1,18 @@
+{
+  "name": "字体排印",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apd15f3e23a3",
+  "description": [
+    "此表盘具有三种自定义字体。"
+  ],
+  "options": [
+    "可自定义的功能：颜色 • 刻度盘 • 样式 • 符号",
+    "可用的复杂功能（仅限刻度 II）：日期 • 字母图案 • 秒表 • 数字时间 • 计时器"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/d3437548-514b-4987-bad2-1dab66305549",
+      "alt": "“字体排印”表盘，以阿拉伯数字显示时间。",
+      "file": "表盘资料/字体排印/官方图1.png"
+    }
+  ]
+}

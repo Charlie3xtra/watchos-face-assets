@@ -1,0 +1,2548 @@
+{
+ "NTKBreatheFaceBundle.bundle": {
+  "title_evidence": [
+   [
+    "zh_CN.lproj/Breathe.strings",
+    "BREATHE_FACE_NAME_IN_TITLE_CASE",
+    "呼吸"
+   ],
+   [
+    "en.lproj/Breathe.strings",
+    "BREATHE_FACE_NAME_IN_TITLE_CASE",
+    "Breathe"
+   ]
+  ],
+  "models": {
+   "Watch7_12_24S132": {
+    "bundle": "Watch7_12_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle",
+    "code": "Watch7_12_24S132/解析/代码/NTKBreatheFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Assets.car",
+      "bytes": 521848,
+      "sha256": "70216f4a6986ecb67b87d0e91189771bedb8b6cdd7ee725b3549df420c3b74a9"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_01-agave.mov",
+      "bytes": 310610,
+      "sha256": "9375001e546f563f4f78845855a20f3bbc3ea3d153ea0008bed492bf31061a56"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_01-begonia.mov",
+      "bytes": 326913,
+      "sha256": "5a42b3c500c2766688765afb97020b640dcab19a53e8b395d695c32cd728f6d1"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_02-agave.mov",
+      "bytes": 322964,
+      "sha256": "d95d5e7f0c4e715505b9008b51226c5f886f70d6784f33fa507991f7a9359dae"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_02-begonia.mov",
+      "bytes": 341131,
+      "sha256": "f805c3da426277fd5af1a3301535ac5dddf9bdb20a6aed5cab37e843636987f9"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_03-agave.mov",
+      "bytes": 323810,
+      "sha256": "c355defffd91af35d0dcd52038f3bf631ac711914c23f808348f6e4d4f50d44f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_03-begonia.mov",
+      "bytes": 340657,
+      "sha256": "84c3dfe24d07fd22e9f6ff61fa5238b87d13f4a3ae10b9c50518ebd5544dc914"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_04-agave.mov",
+      "bytes": 325925,
+      "sha256": "3e2dc393519e57ec943aea9e7ddc922058e35760e9d42abcdc59e0012258d2ad"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_04-begonia.mov",
+      "bytes": 343754,
+      "sha256": "12e53d124ed27026541c7c60136285819a6a64efa78ccfd6e68a22420f1ba0c6"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_05-agave.mov",
+      "bytes": 310327,
+      "sha256": "d5a6e30ec941b9931af05433b59ceb32c4be5f71d55a6c64be21f60368523009"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_05-begonia.mov",
+      "bytes": 326171,
+      "sha256": "f1f07b2b0dbb1694bade8c1efc1236c8f0f49bc54e662e450fede090bef8130f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_06-agave.mov",
+      "bytes": 294813,
+      "sha256": "31641760fff7129ea79d2933424b68668332f69dd3f8fbbe48a067141037fca4"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_06-begonia.mov",
+      "bytes": 310072,
+      "sha256": "ec7fa95625fc1eae05a5f3d8a52eb2bc372ab2e7997d6feaa071bb299ea3875f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Flower-agave.mov",
+      "bytes": 247207,
+      "sha256": "865d048eb23a83f28fcd4fcea7d0ecf084b802934f1918827913a3e672447274"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Flower-begonia.mov",
+      "bytes": 275339,
+      "sha256": "5e54836a27d4f8b1fdf42b66bf2d461a0338c08b88615c653888a8056c60591b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Orbs-agave.mov",
+      "bytes": 375298,
+      "sha256": "cc3b806aed9ca45af2efd3bf1e957ac2c66a2627ff8edbbe2193e29b2c21b89a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Orbs-begonia.mov",
+      "bytes": 390083,
+      "sha256": "8a727889caa186d923be81a718846b7952ecd6e603a1584288441dc53134800f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Rings-agave.mov",
+      "bytes": 308349,
+      "sha256": "26856cfbb75b6bebf92806b46c2a417a58528a1965084942d145d526b4cadc6c"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Rings-begonia.mov",
+      "bytes": 339366,
+      "sha256": "a57a03a6fbc65676246665e5b488cac0b6506fd3569204644a833637912978a0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Info.plist",
+      "bytes": 841,
+      "sha256": "b428982741c3ce552ee8bdf74f47007c29951c15aa67682ebbdf4e82684ae718",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Breathe.strings",
+      "bytes": 862,
+      "sha256": "3b6e74bd94cc4ed0d3d20ac5e36307be6b2b2cc38793e6c6f9495df85e9a6fa8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Localizable-Loquat.strings",
+      "bytes": 303,
+      "sha256": "1b3c0e8091cccd7053f205f54e907894e039ad462cebd571434ec05d982e58ce",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Breathe.strings",
+      "bytes": 1193,
+      "sha256": "25e28a1d633082fcdecdc852e1331a1120d660bfba6a35760895e2b2c051ff3a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Localizable-Loquat.strings",
+      "bytes": 385,
+      "sha256": "5b70dda1604e6fef1543cf2d5c1db018a6f6ed6433785b749c91f20d693d8f52",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Breathe.strings",
+      "bytes": 943,
+      "sha256": "bfa33a178a54b59961501767af24fbc135f033f2b0f256497aa362c804b2673a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Localizable-Loquat.strings",
+      "bytes": 357,
+      "sha256": "a6db429e91f6bc47114c60ce4da485aef8135f50ea4184a0b1ce9c1c0bc39332",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Breathe.strings",
+      "bytes": 1111,
+      "sha256": "8598560388346d87f8ced8243cb3a8896fcd70c2e3a6412582653fd865d29eb3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Localizable-Loquat.strings",
+      "bytes": 381,
+      "sha256": "3c00059dc7d6dc06dbf7cd9644a80c143b4efab4fa1572ab4549d332941bf7f1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Breathe.strings",
+      "bytes": 1082,
+      "sha256": "e395f867156f10223f05b6886b67e6ed7ef67f45dbebe36635cc066d96292f36",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Localizable-Loquat.strings",
+      "bytes": 365,
+      "sha256": "6ab79c7741f8d3d10c39881cd3f99d95feb1ff9ee451fc406866a94e45a7e7b4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Breathe.strings",
+      "bytes": 1173,
+      "sha256": "5452ff75023a9d0c0011acf8ba2ab70699fd700ebf0ad24691ca887b106e20c7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Localizable-Loquat.strings",
+      "bytes": 385,
+      "sha256": "74014b6f3b2616478fdbfac9c025a833c39034e6245ce0a3c459fc307810242f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Breathe.strings",
+      "bytes": 650,
+      "sha256": "7c1cfaf6d7a755690166bc29b7d19b83ef97b44eb17b7294c00cb816952cc312",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "75bb9e0d3772af6f5bc55d7b8bf9bba1b2a9ffe0b07ff0b4ac974739e043eec2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "fd69c3dc43c0744c4dd97b44eda1a91b9b62b6395c474000b613167093db2104",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "3d6b41404e8d326990f7d7e82b5f134e16c814272955ad78f7db7a4984393644",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "9728a8d28b7ea627b3ec53f7d30fc0d545f3151c8e70bae93627f07a3db21cc9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "75bb9e0d3772af6f5bc55d7b8bf9bba1b2a9ffe0b07ff0b4ac974739e043eec2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "fd69c3dc43c0744c4dd97b44eda1a91b9b62b6395c474000b613167093db2104",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Localizable-Loquat.strings",
+      "bytes": 196,
+      "sha256": "c07f67f7d9a8bc18bcdd3dec5677605cd24896221a3299bdeb1ea0f828900da8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "fd69c3dc43c0744c4dd97b44eda1a91b9b62b6395c474000b613167093db2104",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Localizable-Loquat.strings",
+      "bytes": 196,
+      "sha256": "c07f67f7d9a8bc18bcdd3dec5677605cd24896221a3299bdeb1ea0f828900da8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Breathe.strings",
+      "bytes": 650,
+      "sha256": "1070bf98a950105ab94f7d9fb86491da66214269eba8a8235662ab5c0b593ada",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "75bb9e0d3772af6f5bc55d7b8bf9bba1b2a9ffe0b07ff0b4ac974739e043eec2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Breathe.strings",
+      "bytes": 1067,
+      "sha256": "463129d7fd5cf243f70a0381e5239223e1337344a71feb810bd3ee2a8704f260",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Localizable-Loquat.strings",
+      "bytes": 351,
+      "sha256": "b50c44c8d71db18ca8ccec453960790a1c531b7c872ad26b19f04c8c288d43b7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Breathe.strings",
+      "bytes": 1081,
+      "sha256": "b820c6a873d8cbcfe428746b64585298ddb792cfb7910567417e13ead0afaff9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "31b8ac2116ac55a1e9888ec4faf372dfafdd5441505c72384d18cff7325f4275",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Breathe.strings",
+      "bytes": 1081,
+      "sha256": "b820c6a873d8cbcfe428746b64585298ddb792cfb7910567417e13ead0afaff9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "31b8ac2116ac55a1e9888ec4faf372dfafdd5441505c72384d18cff7325f4275",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Breathe.strings",
+      "bytes": 1015,
+      "sha256": "d6e99d34b247f6f3201463e7efb8700b2a3f7bb1f7170ece8d694c28949aef8f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Localizable-Loquat.strings",
+      "bytes": 349,
+      "sha256": "6a21becdc44d0961cd2b8746867231ac40e03fa7bed3fcd2c8157b5c76bc656e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Breathe.strings",
+      "bytes": 1134,
+      "sha256": "e10bf4ad2ca6ae7ab6ab1551718d93e4fdc47c4a1488fceee1ce1f3fc0bd96ce",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "3fd787c7ff2b09e07b14ab36b3831ee463c1659e5c48dd9364fa3c33694bbb43",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Breathe.strings",
+      "bytes": 1103,
+      "sha256": "702f59f3d82a0bfa734d17a294512066e7df69d1bce580cba02e6f14abd4a971",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Localizable-Loquat.strings",
+      "bytes": 373,
+      "sha256": "2d725f423b1cf3774465991edec5fe0c5daa4c8d37dfc6efe5fb8a2dcdffb7ae",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Breathe.strings",
+      "bytes": 915,
+      "sha256": "c3397c32019c10841070c6c14336f75a021e1537c24366181b1dcc4073d9198a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Localizable-Loquat.strings",
+      "bytes": 319,
+      "sha256": "e0583c20546b1c189eaad433acf28c7fc28e59dc77d835975e4714b6c5044961",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Breathe.strings",
+      "bytes": 963,
+      "sha256": "56e4ea2d18c79c662831783b8d8c59492e88c17cffdecab4d5dc06d977871fa6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Localizable-Loquat.strings",
+      "bytes": 333,
+      "sha256": "462b832ad61a7ee93e1f2d89500db24406135a67ddcd01cef4d2b90b0b0cd6d3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Breathe.strings",
+      "bytes": 1022,
+      "sha256": "3cb854932936f213c08007a0b24cd3d86721f21531228ff17ccca4a96d8a4f77",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Localizable-Loquat.strings",
+      "bytes": 323,
+      "sha256": "2261dab57f1465de66d49cd98e4bcf63480a23f265c3a401fa10572e004dc741",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Breathe.strings",
+      "bytes": 1063,
+      "sha256": "9aee1054c9cb0edad346298388cf85036f827658008fd4fd3066b4b562495440",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Localizable-Loquat.strings",
+      "bytes": 357,
+      "sha256": "af7e06b74f1d1fa35f9d66a70c3fc50e43c61740d6b84f9b31173c5b901f1e13",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Breathe.strings",
+      "bytes": 708,
+      "sha256": "02c32560e8a7e4227ca4c68c6d62f07f58057e7419aec7a4e4ffeaf02fc3bfe3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Localizable-Loquat.strings",
+      "bytes": 207,
+      "sha256": "b43d21ad84f5447b165090504428326fbfa693dd019a7db26da850b79e44ce5a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Breathe.strings",
+      "bytes": 1039,
+      "sha256": "b68baecf9775200b6aef0d6a5d61a5301a22635387dd00351540970f09cabb01",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Localizable-Loquat.strings",
+      "bytes": 407,
+      "sha256": "72ce7f92ba18d488c115f4a8ad720715f2b093eeeeed2d0c510c6f73a09cc0cd",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Breathe.strings",
+      "bytes": 642,
+      "sha256": "96756428c556907acebc9ddc8b32fcff8810ee7b67cbbd13b065cce66c80aeb5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Localizable-Loquat.strings",
+      "bytes": 206,
+      "sha256": "6f415f54e727426df6ea9f3fb244b9194e5172d7bf78b04a30ce138cf5b854a7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Breathe.strings",
+      "bytes": 696,
+      "sha256": "17b1120f5245f445c701661d4f2cf8cb11fbc9d04df6d26b3c2eced2ef58edfc",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Localizable-Loquat.strings",
+      "bytes": 232,
+      "sha256": "d3411768240a1960aba13a764f0bded46cce8752cd7c78c772357526069ff75f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Breathe.strings",
+      "bytes": 721,
+      "sha256": "2c55f5c0e48ee9f6a257c869922d76ac4e2295d1f3590dd3f23567736de0b023",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Localizable-Loquat.strings",
+      "bytes": 218,
+      "sha256": "694ae2e726e01618906c53a35e48e5a66c188f1bd41c74e237c89699bbfffca8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Breathe.strings",
+      "bytes": 1139,
+      "sha256": "b17045aeec85e9d2b203de7bb865b8762f4a5ffcd1f2b86b1dc7dd86f0af8a76",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Localizable-Loquat.strings",
+      "bytes": 427,
+      "sha256": "ff6629dafe551a5a3f69b5331dbbd205c61e0b9311f85743ea8dac1462ee0d80",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Breathe.strings",
+      "bytes": 963,
+      "sha256": "6232af9fb82ac5824b65c7d6ed1aa1947d2a357fd672fc11e7cc8ce7ad27fd1c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Localizable-Loquat.strings",
+      "bytes": 319,
+      "sha256": "2fc080e5677c36abb2862709e1b5aae767850425a3db9283f768df7b9a8ec040",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Breathe.strings",
+      "bytes": 844,
+      "sha256": "bc3ec9e7cff569f69b9cdb37e6d945e803d0625286592be73021aa26fa672ccd",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Localizable-Loquat.strings",
+      "bytes": 371,
+      "sha256": "cfe39ab5029c93bc3df153c523fadcb31aa42d64ae20c1022a87831aee2a85f6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Breathe.strings",
+      "bytes": 975,
+      "sha256": "0309ec8d79dcebbe650113aa098494fd3c97018dd601f585b25265f4e5553ce8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Localizable-Loquat.strings",
+      "bytes": 367,
+      "sha256": "ba07b8e77f5cb44d958c04b62876fba0fff5b1159e77362b4d70d92cc0bfd8cd",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Breathe.strings",
+      "bytes": 1039,
+      "sha256": "8aef664d2dc8d0dc13988fa3d56bf3d8ebd7a96817b5058d9676052ef6d53ace",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Localizable-Loquat.strings",
+      "bytes": 377,
+      "sha256": "f20ef3f189f0cef1a44966affe2d23e44f60a911ae99a8403cc5a018b7dacd63",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Breathe.strings",
+      "bytes": 1089,
+      "sha256": "0f08b5326fb2b17d70a6ac95e24df13d60a1c10967f1ebf4980cb7e5c179fc06",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Localizable-Loquat.strings",
+      "bytes": 363,
+      "sha256": "12b394f5c2c86912aa1bb775596853aa8c4593313903864772b049c4e258a8c6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Breathe.strings",
+      "bytes": 973,
+      "sha256": "decc3e51f3e1904adfaf669b22f52d259230e665c5e7690c29c0380d78a10370",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Localizable-Loquat.strings",
+      "bytes": 431,
+      "sha256": "2903e2c60b4cf2101e18715037a85385e2c6da6c6302e2098d0e142e5d651639",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Breathe.strings",
+      "bytes": 999,
+      "sha256": "df61f381d8a795b820285cab1556514cf48af81a7b3f6a7e95a8867baabb2683",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Localizable-Loquat.strings",
+      "bytes": 337,
+      "sha256": "f2f962a07b56449be4eea424636087245a01dbb44d075fbb178d0cf158b875b7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Breathe.strings",
+      "bytes": 992,
+      "sha256": "d0747f21f527834eeea5342fa684db93dab68db91b709bfb5c07c5cc6bc70b32",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Localizable-Loquat.strings",
+      "bytes": 333,
+      "sha256": "660c1a67beac99286061ea6c3592012dc4bc701824111aed4f1b375321712705",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Breathe.strings",
+      "bytes": 1036,
+      "sha256": "ead61a0a2b2e37feb926d6ff4c4ab08de859d165797fb20bf9a7af43eb3c6472",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Localizable-Loquat.strings",
+      "bytes": 353,
+      "sha256": "6b9728abac25910c54435010d2a1898b46030c325185838afb565e60735c62dc",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Breathe.strings",
+      "bytes": 955,
+      "sha256": "dd2759348a6ea77096b179a4a71f1d53fbe2a102739e2776b355df31cf8faef0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Localizable-Loquat.strings",
+      "bytes": 329,
+      "sha256": "a3d15f47657d7033c6356d035bf64914ce3e24e6ca9db1d1e5310fe209b72089",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Breathe.strings",
+      "bytes": 984,
+      "sha256": "cbe834871f347ce6eb047615cb2568bb0c2beec8f53fa1782411047d1399a251",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Localizable-Loquat.strings",
+      "bytes": 353,
+      "sha256": "b69fba4a3dabbd8443202c21589a617e3e76d57fa00a175fc79c68efe9afb1b5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Breathe.strings",
+      "bytes": 991,
+      "sha256": "ad954d1e7c0dfe25dd73b2951365a9608a891bea4fd57b11a302d3e0a21de886",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "63ead1195bee15ef33180334ecf2314ea6a05c9d53fbd31b0bdb547465fcc9cc",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Breathe.strings",
+      "bytes": 941,
+      "sha256": "323060ce5a75db96170ca21e323b3d45425d7c73d50be9a558a99bd6f095eebd",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Localizable-Loquat.strings",
+      "bytes": 343,
+      "sha256": "0c279048364726d9945f8717cb7031d2c417fc8a6f2dbe712a81c207ab5b8c31",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Breathe.strings",
+      "bytes": 558,
+      "sha256": "9a5a0d133a7c8f38afe1a1ba2af1a586a3c9217dc1c63abab3d515a4c3544639",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Localizable-Loquat.strings",
+      "bytes": 172,
+      "sha256": "1a745389377b04e26a820ebf84d29880081eb6a32b0f79f2ee09b6786bf72c89",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Breathe.strings",
+      "bytes": 556,
+      "sha256": "073c9bc2c4243bb98f6c9ce8de2ba8f8e356c327a3150a518e0e1c5ddaa87b69",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Localizable-Loquat.strings",
+      "bytes": 180,
+      "sha256": "ea809309add317bda9a13eca39206c8e7d14f779f5d948a37ebfaf3b10366643",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Breathe.strings",
+      "bytes": 548,
+      "sha256": "9542ed587891f348e1bf7fc235fa4ac5022b4b69d6973eeefc5806015be1fa2e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Localizable-Loquat.strings",
+      "bytes": 170,
+      "sha256": "cefe22d78a9af5a406722a4dbb5877c5561f859f100e444676eccaad3888578a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_1_24S132": {
+    "bundle": "Watch8_1_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle",
+    "code": "Watch8_1_24S132/解析/代码/NTKBreatheFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Assets.car",
+      "bytes": 521848,
+      "sha256": "7ee9eefc4d8106789e46a71d550a89b981c88f9dd6ec96f6de47fe48b046983e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_01-agave.mov",
+      "bytes": 310610,
+      "sha256": "9375001e546f563f4f78845855a20f3bbc3ea3d153ea0008bed492bf31061a56"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_01-begonia.mov",
+      "bytes": 326913,
+      "sha256": "5a42b3c500c2766688765afb97020b640dcab19a53e8b395d695c32cd728f6d1"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_02-agave.mov",
+      "bytes": 322964,
+      "sha256": "d95d5e7f0c4e715505b9008b51226c5f886f70d6784f33fa507991f7a9359dae"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_02-begonia.mov",
+      "bytes": 341131,
+      "sha256": "f805c3da426277fd5af1a3301535ac5dddf9bdb20a6aed5cab37e843636987f9"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_03-agave.mov",
+      "bytes": 323810,
+      "sha256": "c355defffd91af35d0dcd52038f3bf631ac711914c23f808348f6e4d4f50d44f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_03-begonia.mov",
+      "bytes": 340657,
+      "sha256": "84c3dfe24d07fd22e9f6ff61fa5238b87d13f4a3ae10b9c50518ebd5544dc914"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_04-agave.mov",
+      "bytes": 325925,
+      "sha256": "3e2dc393519e57ec943aea9e7ddc922058e35760e9d42abcdc59e0012258d2ad"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_04-begonia.mov",
+      "bytes": 343754,
+      "sha256": "12e53d124ed27026541c7c60136285819a6a64efa78ccfd6e68a22420f1ba0c6"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_05-agave.mov",
+      "bytes": 310327,
+      "sha256": "d5a6e30ec941b9931af05433b59ceb32c4be5f71d55a6c64be21f60368523009"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_05-begonia.mov",
+      "bytes": 326171,
+      "sha256": "f1f07b2b0dbb1694bade8c1efc1236c8f0f49bc54e662e450fede090bef8130f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_06-agave.mov",
+      "bytes": 294813,
+      "sha256": "31641760fff7129ea79d2933424b68668332f69dd3f8fbbe48a067141037fca4"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_06-begonia.mov",
+      "bytes": 310072,
+      "sha256": "ec7fa95625fc1eae05a5f3d8a52eb2bc372ab2e7997d6feaa071bb299ea3875f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Flower-agave.mov",
+      "bytes": 247207,
+      "sha256": "865d048eb23a83f28fcd4fcea7d0ecf084b802934f1918827913a3e672447274"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Flower-begonia.mov",
+      "bytes": 275339,
+      "sha256": "5e54836a27d4f8b1fdf42b66bf2d461a0338c08b88615c653888a8056c60591b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Orbs-agave.mov",
+      "bytes": 375298,
+      "sha256": "cc3b806aed9ca45af2efd3bf1e957ac2c66a2627ff8edbbe2193e29b2c21b89a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Orbs-begonia.mov",
+      "bytes": 390083,
+      "sha256": "8a727889caa186d923be81a718846b7952ecd6e603a1584288441dc53134800f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Rings-agave.mov",
+      "bytes": 308349,
+      "sha256": "26856cfbb75b6bebf92806b46c2a417a58528a1965084942d145d526b4cadc6c"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Rings-begonia.mov",
+      "bytes": 339366,
+      "sha256": "a57a03a6fbc65676246665e5b488cac0b6506fd3569204644a833637912978a0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Info.plist",
+      "bytes": 841,
+      "sha256": "b428982741c3ce552ee8bdf74f47007c29951c15aa67682ebbdf4e82684ae718",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Breathe.strings",
+      "bytes": 862,
+      "sha256": "3b6e74bd94cc4ed0d3d20ac5e36307be6b2b2cc38793e6c6f9495df85e9a6fa8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Localizable-Loquat.strings",
+      "bytes": 303,
+      "sha256": "1b3c0e8091cccd7053f205f54e907894e039ad462cebd571434ec05d982e58ce",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Breathe.strings",
+      "bytes": 1193,
+      "sha256": "25e28a1d633082fcdecdc852e1331a1120d660bfba6a35760895e2b2c051ff3a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Localizable-Loquat.strings",
+      "bytes": 385,
+      "sha256": "5b70dda1604e6fef1543cf2d5c1db018a6f6ed6433785b749c91f20d693d8f52",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Breathe.strings",
+      "bytes": 943,
+      "sha256": "bfa33a178a54b59961501767af24fbc135f033f2b0f256497aa362c804b2673a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Localizable-Loquat.strings",
+      "bytes": 357,
+      "sha256": "a6db429e91f6bc47114c60ce4da485aef8135f50ea4184a0b1ce9c1c0bc39332",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Breathe.strings",
+      "bytes": 1111,
+      "sha256": "8598560388346d87f8ced8243cb3a8896fcd70c2e3a6412582653fd865d29eb3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Localizable-Loquat.strings",
+      "bytes": 381,
+      "sha256": "3c00059dc7d6dc06dbf7cd9644a80c143b4efab4fa1572ab4549d332941bf7f1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Breathe.strings",
+      "bytes": 1082,
+      "sha256": "e395f867156f10223f05b6886b67e6ed7ef67f45dbebe36635cc066d96292f36",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Localizable-Loquat.strings",
+      "bytes": 365,
+      "sha256": "6ab79c7741f8d3d10c39881cd3f99d95feb1ff9ee451fc406866a94e45a7e7b4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Breathe.strings",
+      "bytes": 1173,
+      "sha256": "5452ff75023a9d0c0011acf8ba2ab70699fd700ebf0ad24691ca887b106e20c7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Localizable-Loquat.strings",
+      "bytes": 385,
+      "sha256": "74014b6f3b2616478fdbfac9c025a833c39034e6245ce0a3c459fc307810242f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Breathe.strings",
+      "bytes": 650,
+      "sha256": "7c1cfaf6d7a755690166bc29b7d19b83ef97b44eb17b7294c00cb816952cc312",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "75bb9e0d3772af6f5bc55d7b8bf9bba1b2a9ffe0b07ff0b4ac974739e043eec2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "fd69c3dc43c0744c4dd97b44eda1a91b9b62b6395c474000b613167093db2104",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "3d6b41404e8d326990f7d7e82b5f134e16c814272955ad78f7db7a4984393644",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "9728a8d28b7ea627b3ec53f7d30fc0d545f3151c8e70bae93627f07a3db21cc9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "75bb9e0d3772af6f5bc55d7b8bf9bba1b2a9ffe0b07ff0b4ac974739e043eec2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "fd69c3dc43c0744c4dd97b44eda1a91b9b62b6395c474000b613167093db2104",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Localizable-Loquat.strings",
+      "bytes": 196,
+      "sha256": "c07f67f7d9a8bc18bcdd3dec5677605cd24896221a3299bdeb1ea0f828900da8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "fd69c3dc43c0744c4dd97b44eda1a91b9b62b6395c474000b613167093db2104",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Localizable-Loquat.strings",
+      "bytes": 196,
+      "sha256": "c07f67f7d9a8bc18bcdd3dec5677605cd24896221a3299bdeb1ea0f828900da8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Breathe.strings",
+      "bytes": 650,
+      "sha256": "1070bf98a950105ab94f7d9fb86491da66214269eba8a8235662ab5c0b593ada",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "75bb9e0d3772af6f5bc55d7b8bf9bba1b2a9ffe0b07ff0b4ac974739e043eec2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Breathe.strings",
+      "bytes": 1067,
+      "sha256": "463129d7fd5cf243f70a0381e5239223e1337344a71feb810bd3ee2a8704f260",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Localizable-Loquat.strings",
+      "bytes": 351,
+      "sha256": "b50c44c8d71db18ca8ccec453960790a1c531b7c872ad26b19f04c8c288d43b7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Breathe.strings",
+      "bytes": 1081,
+      "sha256": "b820c6a873d8cbcfe428746b64585298ddb792cfb7910567417e13ead0afaff9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "31b8ac2116ac55a1e9888ec4faf372dfafdd5441505c72384d18cff7325f4275",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Breathe.strings",
+      "bytes": 1081,
+      "sha256": "b820c6a873d8cbcfe428746b64585298ddb792cfb7910567417e13ead0afaff9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "31b8ac2116ac55a1e9888ec4faf372dfafdd5441505c72384d18cff7325f4275",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Breathe.strings",
+      "bytes": 1015,
+      "sha256": "d6e99d34b247f6f3201463e7efb8700b2a3f7bb1f7170ece8d694c28949aef8f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Localizable-Loquat.strings",
+      "bytes": 349,
+      "sha256": "6a21becdc44d0961cd2b8746867231ac40e03fa7bed3fcd2c8157b5c76bc656e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Breathe.strings",
+      "bytes": 1134,
+      "sha256": "e10bf4ad2ca6ae7ab6ab1551718d93e4fdc47c4a1488fceee1ce1f3fc0bd96ce",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "3fd787c7ff2b09e07b14ab36b3831ee463c1659e5c48dd9364fa3c33694bbb43",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Breathe.strings",
+      "bytes": 1103,
+      "sha256": "702f59f3d82a0bfa734d17a294512066e7df69d1bce580cba02e6f14abd4a971",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Localizable-Loquat.strings",
+      "bytes": 373,
+      "sha256": "2d725f423b1cf3774465991edec5fe0c5daa4c8d37dfc6efe5fb8a2dcdffb7ae",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Breathe.strings",
+      "bytes": 915,
+      "sha256": "c3397c32019c10841070c6c14336f75a021e1537c24366181b1dcc4073d9198a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Localizable-Loquat.strings",
+      "bytes": 319,
+      "sha256": "e0583c20546b1c189eaad433acf28c7fc28e59dc77d835975e4714b6c5044961",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Breathe.strings",
+      "bytes": 963,
+      "sha256": "56e4ea2d18c79c662831783b8d8c59492e88c17cffdecab4d5dc06d977871fa6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Localizable-Loquat.strings",
+      "bytes": 333,
+      "sha256": "462b832ad61a7ee93e1f2d89500db24406135a67ddcd01cef4d2b90b0b0cd6d3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Breathe.strings",
+      "bytes": 1022,
+      "sha256": "3cb854932936f213c08007a0b24cd3d86721f21531228ff17ccca4a96d8a4f77",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Localizable-Loquat.strings",
+      "bytes": 323,
+      "sha256": "2261dab57f1465de66d49cd98e4bcf63480a23f265c3a401fa10572e004dc741",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Breathe.strings",
+      "bytes": 1063,
+      "sha256": "9aee1054c9cb0edad346298388cf85036f827658008fd4fd3066b4b562495440",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Localizable-Loquat.strings",
+      "bytes": 357,
+      "sha256": "af7e06b74f1d1fa35f9d66a70c3fc50e43c61740d6b84f9b31173c5b901f1e13",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Breathe.strings",
+      "bytes": 708,
+      "sha256": "02c32560e8a7e4227ca4c68c6d62f07f58057e7419aec7a4e4ffeaf02fc3bfe3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Localizable-Loquat.strings",
+      "bytes": 207,
+      "sha256": "b43d21ad84f5447b165090504428326fbfa693dd019a7db26da850b79e44ce5a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Breathe.strings",
+      "bytes": 1039,
+      "sha256": "b68baecf9775200b6aef0d6a5d61a5301a22635387dd00351540970f09cabb01",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Localizable-Loquat.strings",
+      "bytes": 407,
+      "sha256": "72ce7f92ba18d488c115f4a8ad720715f2b093eeeeed2d0c510c6f73a09cc0cd",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Breathe.strings",
+      "bytes": 642,
+      "sha256": "96756428c556907acebc9ddc8b32fcff8810ee7b67cbbd13b065cce66c80aeb5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Localizable-Loquat.strings",
+      "bytes": 206,
+      "sha256": "6f415f54e727426df6ea9f3fb244b9194e5172d7bf78b04a30ce138cf5b854a7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Breathe.strings",
+      "bytes": 696,
+      "sha256": "17b1120f5245f445c701661d4f2cf8cb11fbc9d04df6d26b3c2eced2ef58edfc",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Localizable-Loquat.strings",
+      "bytes": 232,
+      "sha256": "d3411768240a1960aba13a764f0bded46cce8752cd7c78c772357526069ff75f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Breathe.strings",
+      "bytes": 721,
+      "sha256": "2c55f5c0e48ee9f6a257c869922d76ac4e2295d1f3590dd3f23567736de0b023",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Localizable-Loquat.strings",
+      "bytes": 218,
+      "sha256": "694ae2e726e01618906c53a35e48e5a66c188f1bd41c74e237c89699bbfffca8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Breathe.strings",
+      "bytes": 1139,
+      "sha256": "b17045aeec85e9d2b203de7bb865b8762f4a5ffcd1f2b86b1dc7dd86f0af8a76",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Localizable-Loquat.strings",
+      "bytes": 427,
+      "sha256": "ff6629dafe551a5a3f69b5331dbbd205c61e0b9311f85743ea8dac1462ee0d80",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Breathe.strings",
+      "bytes": 963,
+      "sha256": "6232af9fb82ac5824b65c7d6ed1aa1947d2a357fd672fc11e7cc8ce7ad27fd1c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Localizable-Loquat.strings",
+      "bytes": 319,
+      "sha256": "2fc080e5677c36abb2862709e1b5aae767850425a3db9283f768df7b9a8ec040",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Breathe.strings",
+      "bytes": 844,
+      "sha256": "bc3ec9e7cff569f69b9cdb37e6d945e803d0625286592be73021aa26fa672ccd",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Localizable-Loquat.strings",
+      "bytes": 371,
+      "sha256": "cfe39ab5029c93bc3df153c523fadcb31aa42d64ae20c1022a87831aee2a85f6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Breathe.strings",
+      "bytes": 975,
+      "sha256": "0309ec8d79dcebbe650113aa098494fd3c97018dd601f585b25265f4e5553ce8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Localizable-Loquat.strings",
+      "bytes": 367,
+      "sha256": "ba07b8e77f5cb44d958c04b62876fba0fff5b1159e77362b4d70d92cc0bfd8cd",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Breathe.strings",
+      "bytes": 1039,
+      "sha256": "8aef664d2dc8d0dc13988fa3d56bf3d8ebd7a96817b5058d9676052ef6d53ace",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Localizable-Loquat.strings",
+      "bytes": 377,
+      "sha256": "f20ef3f189f0cef1a44966affe2d23e44f60a911ae99a8403cc5a018b7dacd63",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Breathe.strings",
+      "bytes": 1089,
+      "sha256": "0f08b5326fb2b17d70a6ac95e24df13d60a1c10967f1ebf4980cb7e5c179fc06",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Localizable-Loquat.strings",
+      "bytes": 363,
+      "sha256": "12b394f5c2c86912aa1bb775596853aa8c4593313903864772b049c4e258a8c6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Breathe.strings",
+      "bytes": 973,
+      "sha256": "decc3e51f3e1904adfaf669b22f52d259230e665c5e7690c29c0380d78a10370",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Localizable-Loquat.strings",
+      "bytes": 431,
+      "sha256": "2903e2c60b4cf2101e18715037a85385e2c6da6c6302e2098d0e142e5d651639",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Breathe.strings",
+      "bytes": 999,
+      "sha256": "df61f381d8a795b820285cab1556514cf48af81a7b3f6a7e95a8867baabb2683",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Localizable-Loquat.strings",
+      "bytes": 337,
+      "sha256": "f2f962a07b56449be4eea424636087245a01dbb44d075fbb178d0cf158b875b7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Breathe.strings",
+      "bytes": 992,
+      "sha256": "d0747f21f527834eeea5342fa684db93dab68db91b709bfb5c07c5cc6bc70b32",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Localizable-Loquat.strings",
+      "bytes": 333,
+      "sha256": "660c1a67beac99286061ea6c3592012dc4bc701824111aed4f1b375321712705",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Breathe.strings",
+      "bytes": 1036,
+      "sha256": "ead61a0a2b2e37feb926d6ff4c4ab08de859d165797fb20bf9a7af43eb3c6472",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Localizable-Loquat.strings",
+      "bytes": 353,
+      "sha256": "6b9728abac25910c54435010d2a1898b46030c325185838afb565e60735c62dc",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Breathe.strings",
+      "bytes": 955,
+      "sha256": "dd2759348a6ea77096b179a4a71f1d53fbe2a102739e2776b355df31cf8faef0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Localizable-Loquat.strings",
+      "bytes": 329,
+      "sha256": "a3d15f47657d7033c6356d035bf64914ce3e24e6ca9db1d1e5310fe209b72089",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Breathe.strings",
+      "bytes": 984,
+      "sha256": "cbe834871f347ce6eb047615cb2568bb0c2beec8f53fa1782411047d1399a251",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Localizable-Loquat.strings",
+      "bytes": 353,
+      "sha256": "b69fba4a3dabbd8443202c21589a617e3e76d57fa00a175fc79c68efe9afb1b5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Breathe.strings",
+      "bytes": 991,
+      "sha256": "ad954d1e7c0dfe25dd73b2951365a9608a891bea4fd57b11a302d3e0a21de886",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "63ead1195bee15ef33180334ecf2314ea6a05c9d53fbd31b0bdb547465fcc9cc",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Breathe.strings",
+      "bytes": 941,
+      "sha256": "323060ce5a75db96170ca21e323b3d45425d7c73d50be9a558a99bd6f095eebd",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Localizable-Loquat.strings",
+      "bytes": 343,
+      "sha256": "0c279048364726d9945f8717cb7031d2c417fc8a6f2dbe712a81c207ab5b8c31",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Breathe.strings",
+      "bytes": 558,
+      "sha256": "9a5a0d133a7c8f38afe1a1ba2af1a586a3c9217dc1c63abab3d515a4c3544639",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Localizable-Loquat.strings",
+      "bytes": 172,
+      "sha256": "1a745389377b04e26a820ebf84d29880081eb6a32b0f79f2ee09b6786bf72c89",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Breathe.strings",
+      "bytes": 556,
+      "sha256": "073c9bc2c4243bb98f6c9ce8de2ba8f8e356c327a3150a518e0e1c5ddaa87b69",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Localizable-Loquat.strings",
+      "bytes": 180,
+      "sha256": "ea809309add317bda9a13eca39206c8e7d14f779f5d948a37ebfaf3b10366643",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Breathe.strings",
+      "bytes": 548,
+      "sha256": "9542ed587891f348e1bf7fc235fa4ac5022b4b69d6973eeefc5806015be1fa2e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Localizable-Loquat.strings",
+      "bytes": 170,
+      "sha256": "cefe22d78a9af5a406722a4dbb5877c5561f859f100e444676eccaad3888578a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_5_24S132": {
+    "bundle": "Watch8_5_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle",
+    "code": "Watch8_5_24S132/解析/代码/NTKBreatheFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Assets.car",
+      "bytes": 506200,
+      "sha256": "e853319cd8b9b62e910d3e6e03878ac8674d2a400b881673a3ee0fa021a94553"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_01-avonia.mov",
+      "bytes": 316758,
+      "sha256": "dd8e19fbf24266e3adf87651afffbf0507477e78353281acca438f9b533b63bf"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_02-avonia.mov",
+      "bytes": 329456,
+      "sha256": "685f21070fe1521779b52be7367ad41cf7d281142538327f04cf0f2f0d2804df"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_03-avonia.mov",
+      "bytes": 331783,
+      "sha256": "9e0288f5307e8389fb1e91301517d9327cf0984ed7f3d53256527668af69ee7f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_04-avonia.mov",
+      "bytes": 332728,
+      "sha256": "af0b112dbc2bd4da1de1364f80785a59cb05a6de8f4b0fa4be5358ca7e673220"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_05-avonia.mov",
+      "bytes": 316709,
+      "sha256": "4a878f4509c8fdd5ae3181fb6fc72b8d7c448a8afa02ce31f60faad1bbd4e0fe"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Bokeh_06-avonia.mov",
+      "bytes": 300426,
+      "sha256": "2c1ea0537ad3e0f46e59197ce1be9f1926f7d9aa698a4d177a22f56f6f5bbe2a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Flower-avonia.mov",
+      "bytes": 262663,
+      "sha256": "8768bec7f2f0c2443f45ebe8869fbe2b53262dcaccc5d2239519a303475821c2"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Orbs-avonia.mov",
+      "bytes": 375414,
+      "sha256": "9f5463c773b2f30959feacd6b2e8fca01336cd8592f12fd1d094d1b1796c381d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Breathe_Rings-avonia.mov",
+      "bytes": 325372,
+      "sha256": "a5ffbaa3b56b37d04555e8224be1528d65f3507ff60e024a115bebebcf6a5df7"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Info.plist",
+      "bytes": 841,
+      "sha256": "b428982741c3ce552ee8bdf74f47007c29951c15aa67682ebbdf4e82684ae718",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Breathe.strings",
+      "bytes": 862,
+      "sha256": "3b6e74bd94cc4ed0d3d20ac5e36307be6b2b2cc38793e6c6f9495df85e9a6fa8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Localizable-Loquat.strings",
+      "bytes": 303,
+      "sha256": "1b3c0e8091cccd7053f205f54e907894e039ad462cebd571434ec05d982e58ce",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ar.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Breathe.strings",
+      "bytes": 1193,
+      "sha256": "25e28a1d633082fcdecdc852e1331a1120d660bfba6a35760895e2b2c051ff3a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Localizable-Loquat.strings",
+      "bytes": 385,
+      "sha256": "5b70dda1604e6fef1543cf2d5c1db018a6f6ed6433785b749c91f20d693d8f52",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ca.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Breathe.strings",
+      "bytes": 943,
+      "sha256": "bfa33a178a54b59961501767af24fbc135f033f2b0f256497aa362c804b2673a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Localizable-Loquat.strings",
+      "bytes": 357,
+      "sha256": "a6db429e91f6bc47114c60ce4da485aef8135f50ea4184a0b1ce9c1c0bc39332",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/cs.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Breathe.strings",
+      "bytes": 1111,
+      "sha256": "8598560388346d87f8ced8243cb3a8896fcd70c2e3a6412582653fd865d29eb3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Localizable-Loquat.strings",
+      "bytes": 381,
+      "sha256": "3c00059dc7d6dc06dbf7cd9644a80c143b4efab4fa1572ab4549d332941bf7f1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/da.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Breathe.strings",
+      "bytes": 1082,
+      "sha256": "e395f867156f10223f05b6886b67e6ed7ef67f45dbebe36635cc066d96292f36",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Localizable-Loquat.strings",
+      "bytes": 365,
+      "sha256": "6ab79c7741f8d3d10c39881cd3f99d95feb1ff9ee451fc406866a94e45a7e7b4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/de.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Breathe.strings",
+      "bytes": 1173,
+      "sha256": "5452ff75023a9d0c0011acf8ba2ab70699fd700ebf0ad24691ca887b106e20c7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Localizable-Loquat.strings",
+      "bytes": 385,
+      "sha256": "74014b6f3b2616478fdbfac9c025a833c39034e6245ce0a3c459fc307810242f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/el.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Breathe.strings",
+      "bytes": 650,
+      "sha256": "7c1cfaf6d7a755690166bc29b7d19b83ef97b44eb17b7294c00cb816952cc312",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "75bb9e0d3772af6f5bc55d7b8bf9bba1b2a9ffe0b07ff0b4ac974739e043eec2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "fd69c3dc43c0744c4dd97b44eda1a91b9b62b6395c474000b613167093db2104",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "3d6b41404e8d326990f7d7e82b5f134e16c814272955ad78f7db7a4984393644",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_AU.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "9728a8d28b7ea627b3ec53f7d30fc0d545f3151c8e70bae93627f07a3db21cc9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "75bb9e0d3772af6f5bc55d7b8bf9bba1b2a9ffe0b07ff0b4ac974739e043eec2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_CA.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "fd69c3dc43c0744c4dd97b44eda1a91b9b62b6395c474000b613167093db2104",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Localizable-Loquat.strings",
+      "bytes": 196,
+      "sha256": "c07f67f7d9a8bc18bcdd3dec5677605cd24896221a3299bdeb1ea0f828900da8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_GB.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Breathe.strings",
+      "bytes": 651,
+      "sha256": "fd69c3dc43c0744c4dd97b44eda1a91b9b62b6395c474000b613167093db2104",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Localizable-Loquat.strings",
+      "bytes": 196,
+      "sha256": "c07f67f7d9a8bc18bcdd3dec5677605cd24896221a3299bdeb1ea0f828900da8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_IN.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Breathe.strings",
+      "bytes": 650,
+      "sha256": "1070bf98a950105ab94f7d9fb86491da66214269eba8a8235662ab5c0b593ada",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Localizable-Loquat.strings",
+      "bytes": 195,
+      "sha256": "75bb9e0d3772af6f5bc55d7b8bf9bba1b2a9ffe0b07ff0b4ac974739e043eec2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/en_PH.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Breathe.strings",
+      "bytes": 1067,
+      "sha256": "463129d7fd5cf243f70a0381e5239223e1337344a71feb810bd3ee2a8704f260",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Localizable-Loquat.strings",
+      "bytes": 351,
+      "sha256": "b50c44c8d71db18ca8ccec453960790a1c531b7c872ad26b19f04c8c288d43b7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Breathe.strings",
+      "bytes": 1081,
+      "sha256": "b820c6a873d8cbcfe428746b64585298ddb792cfb7910567417e13ead0afaff9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "31b8ac2116ac55a1e9888ec4faf372dfafdd5441505c72384d18cff7325f4275",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_419.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Breathe.strings",
+      "bytes": 1081,
+      "sha256": "b820c6a873d8cbcfe428746b64585298ddb792cfb7910567417e13ead0afaff9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "31b8ac2116ac55a1e9888ec4faf372dfafdd5441505c72384d18cff7325f4275",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/es_US.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Breathe.strings",
+      "bytes": 1015,
+      "sha256": "d6e99d34b247f6f3201463e7efb8700b2a3f7bb1f7170ece8d694c28949aef8f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Localizable-Loquat.strings",
+      "bytes": 349,
+      "sha256": "6a21becdc44d0961cd2b8746867231ac40e03fa7bed3fcd2c8157b5c76bc656e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fi.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Breathe.strings",
+      "bytes": 1134,
+      "sha256": "e10bf4ad2ca6ae7ab6ab1551718d93e4fdc47c4a1488fceee1ce1f3fc0bd96ce",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "3fd787c7ff2b09e07b14ab36b3831ee463c1659e5c48dd9364fa3c33694bbb43",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Breathe.strings",
+      "bytes": 1103,
+      "sha256": "702f59f3d82a0bfa734d17a294512066e7df69d1bce580cba02e6f14abd4a971",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Localizable-Loquat.strings",
+      "bytes": 373,
+      "sha256": "2d725f423b1cf3774465991edec5fe0c5daa4c8d37dfc6efe5fb8a2dcdffb7ae",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/fr_CA.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Breathe.strings",
+      "bytes": 915,
+      "sha256": "c3397c32019c10841070c6c14336f75a021e1537c24366181b1dcc4073d9198a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Localizable-Loquat.strings",
+      "bytes": 319,
+      "sha256": "e0583c20546b1c189eaad433acf28c7fc28e59dc77d835975e4714b6c5044961",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/he.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Breathe.strings",
+      "bytes": 963,
+      "sha256": "56e4ea2d18c79c662831783b8d8c59492e88c17cffdecab4d5dc06d977871fa6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Localizable-Loquat.strings",
+      "bytes": 333,
+      "sha256": "462b832ad61a7ee93e1f2d89500db24406135a67ddcd01cef4d2b90b0b0cd6d3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hi.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Breathe.strings",
+      "bytes": 1022,
+      "sha256": "3cb854932936f213c08007a0b24cd3d86721f21531228ff17ccca4a96d8a4f77",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Localizable-Loquat.strings",
+      "bytes": 323,
+      "sha256": "2261dab57f1465de66d49cd98e4bcf63480a23f265c3a401fa10572e004dc741",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hr.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Breathe.strings",
+      "bytes": 1063,
+      "sha256": "9aee1054c9cb0edad346298388cf85036f827658008fd4fd3066b4b562495440",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Localizable-Loquat.strings",
+      "bytes": 357,
+      "sha256": "af7e06b74f1d1fa35f9d66a70c3fc50e43c61740d6b84f9b31173c5b901f1e13",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/hu.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Breathe.strings",
+      "bytes": 708,
+      "sha256": "02c32560e8a7e4227ca4c68c6d62f07f58057e7419aec7a4e4ffeaf02fc3bfe3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Localizable-Loquat.strings",
+      "bytes": 207,
+      "sha256": "b43d21ad84f5447b165090504428326fbfa693dd019a7db26da850b79e44ce5a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/id.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Breathe.strings",
+      "bytes": 1039,
+      "sha256": "b68baecf9775200b6aef0d6a5d61a5301a22635387dd00351540970f09cabb01",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Localizable-Loquat.strings",
+      "bytes": 407,
+      "sha256": "72ce7f92ba18d488c115f4a8ad720715f2b093eeeeed2d0c510c6f73a09cc0cd",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/it.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Breathe.strings",
+      "bytes": 642,
+      "sha256": "96756428c556907acebc9ddc8b32fcff8810ee7b67cbbd13b065cce66c80aeb5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Localizable-Loquat.strings",
+      "bytes": 206,
+      "sha256": "6f415f54e727426df6ea9f3fb244b9194e5172d7bf78b04a30ce138cf5b854a7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ja.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Breathe.strings",
+      "bytes": 696,
+      "sha256": "17b1120f5245f445c701661d4f2cf8cb11fbc9d04df6d26b3c2eced2ef58edfc",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Localizable-Loquat.strings",
+      "bytes": 232,
+      "sha256": "d3411768240a1960aba13a764f0bded46cce8752cd7c78c772357526069ff75f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ko.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Breathe.strings",
+      "bytes": 721,
+      "sha256": "2c55f5c0e48ee9f6a257c869922d76ac4e2295d1f3590dd3f23567736de0b023",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Localizable-Loquat.strings",
+      "bytes": 218,
+      "sha256": "694ae2e726e01618906c53a35e48e5a66c188f1bd41c74e237c89699bbfffca8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ms.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Breathe.strings",
+      "bytes": 1139,
+      "sha256": "b17045aeec85e9d2b203de7bb865b8762f4a5ffcd1f2b86b1dc7dd86f0af8a76",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Localizable-Loquat.strings",
+      "bytes": 427,
+      "sha256": "ff6629dafe551a5a3f69b5331dbbd205c61e0b9311f85743ea8dac1462ee0d80",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/nl.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Breathe.strings",
+      "bytes": 963,
+      "sha256": "6232af9fb82ac5824b65c7d6ed1aa1947d2a357fd672fc11e7cc8ce7ad27fd1c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Localizable-Loquat.strings",
+      "bytes": 319,
+      "sha256": "2fc080e5677c36abb2862709e1b5aae767850425a3db9283f768df7b9a8ec040",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/no.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Breathe.strings",
+      "bytes": 844,
+      "sha256": "bc3ec9e7cff569f69b9cdb37e6d945e803d0625286592be73021aa26fa672ccd",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Localizable-Loquat.strings",
+      "bytes": 371,
+      "sha256": "cfe39ab5029c93bc3df153c523fadcb31aa42d64ae20c1022a87831aee2a85f6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pl.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Breathe.strings",
+      "bytes": 975,
+      "sha256": "0309ec8d79dcebbe650113aa098494fd3c97018dd601f585b25265f4e5553ce8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Localizable-Loquat.strings",
+      "bytes": 367,
+      "sha256": "ba07b8e77f5cb44d958c04b62876fba0fff5b1159e77362b4d70d92cc0bfd8cd",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_BR.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Breathe.strings",
+      "bytes": 1039,
+      "sha256": "8aef664d2dc8d0dc13988fa3d56bf3d8ebd7a96817b5058d9676052ef6d53ace",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Localizable-Loquat.strings",
+      "bytes": 377,
+      "sha256": "f20ef3f189f0cef1a44966affe2d23e44f60a911ae99a8403cc5a018b7dacd63",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/pt_PT.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Breathe.strings",
+      "bytes": 1089,
+      "sha256": "0f08b5326fb2b17d70a6ac95e24df13d60a1c10967f1ebf4980cb7e5c179fc06",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Localizable-Loquat.strings",
+      "bytes": 363,
+      "sha256": "12b394f5c2c86912aa1bb775596853aa8c4593313903864772b049c4e258a8c6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ro.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Breathe.strings",
+      "bytes": 973,
+      "sha256": "decc3e51f3e1904adfaf669b22f52d259230e665c5e7690c29c0380d78a10370",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Localizable-Loquat.strings",
+      "bytes": 431,
+      "sha256": "2903e2c60b4cf2101e18715037a85385e2c6da6c6302e2098d0e142e5d651639",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/ru.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Breathe.strings",
+      "bytes": 999,
+      "sha256": "df61f381d8a795b820285cab1556514cf48af81a7b3f6a7e95a8867baabb2683",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Localizable-Loquat.strings",
+      "bytes": 337,
+      "sha256": "f2f962a07b56449be4eea424636087245a01dbb44d075fbb178d0cf158b875b7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sk.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Breathe.strings",
+      "bytes": 992,
+      "sha256": "d0747f21f527834eeea5342fa684db93dab68db91b709bfb5c07c5cc6bc70b32",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Localizable-Loquat.strings",
+      "bytes": 333,
+      "sha256": "660c1a67beac99286061ea6c3592012dc4bc701824111aed4f1b375321712705",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sl.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Breathe.strings",
+      "bytes": 1036,
+      "sha256": "ead61a0a2b2e37feb926d6ff4c4ab08de859d165797fb20bf9a7af43eb3c6472",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Localizable-Loquat.strings",
+      "bytes": 353,
+      "sha256": "6b9728abac25910c54435010d2a1898b46030c325185838afb565e60735c62dc",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/sv.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Breathe.strings",
+      "bytes": 955,
+      "sha256": "dd2759348a6ea77096b179a4a71f1d53fbe2a102739e2776b355df31cf8faef0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Localizable-Loquat.strings",
+      "bytes": 329,
+      "sha256": "a3d15f47657d7033c6356d035bf64914ce3e24e6ca9db1d1e5310fe209b72089",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/th.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Breathe.strings",
+      "bytes": 984,
+      "sha256": "cbe834871f347ce6eb047615cb2568bb0c2beec8f53fa1782411047d1399a251",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Localizable-Loquat.strings",
+      "bytes": 353,
+      "sha256": "b69fba4a3dabbd8443202c21589a617e3e76d57fa00a175fc79c68efe9afb1b5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/tr.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Breathe.strings",
+      "bytes": 991,
+      "sha256": "ad954d1e7c0dfe25dd73b2951365a9608a891bea4fd57b11a302d3e0a21de886",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Localizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "63ead1195bee15ef33180334ecf2314ea6a05c9d53fbd31b0bdb547465fcc9cc",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/uk.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Breathe.strings",
+      "bytes": 941,
+      "sha256": "323060ce5a75db96170ca21e323b3d45425d7c73d50be9a558a99bd6f095eebd",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Localizable-Loquat.strings",
+      "bytes": 343,
+      "sha256": "0c279048364726d9945f8717cb7031d2c417fc8a6f2dbe712a81c207ab5b8c31",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/vi.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Breathe.strings",
+      "bytes": 558,
+      "sha256": "9a5a0d133a7c8f38afe1a1ba2af1a586a3c9217dc1c63abab3d515a4c3544639",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Localizable-Loquat.strings",
+      "bytes": 172,
+      "sha256": "1a745389377b04e26a820ebf84d29880081eb6a32b0f79f2ee09b6786bf72c89",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_CN.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Breathe.strings",
+      "bytes": 556,
+      "sha256": "073c9bc2c4243bb98f6c9ce8de2ba8f8e356c327a3150a518e0e1c5ddaa87b69",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Localizable-Loquat.strings",
+      "bytes": 180,
+      "sha256": "ea809309add317bda9a13eca39206c8e7d14f779f5d948a37ebfaf3b10366643",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_HK.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Breathe.strings",
+      "bytes": 548,
+      "sha256": "9542ed587891f348e1bf7fc235fa4ac5022b4b69d6973eeefc5806015be1fa2e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Breathe.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Localizable-Loquat.strings",
+      "bytes": 170,
+      "sha256": "cefe22d78a9af5a406722a4dbb5877c5561f859f100e444676eccaad3888578a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/zh_TW.lproj/Localizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKBreatheFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   }
+  },
+  "固件文字": {
+   "描述": [
+    [
+     "BREATHE_GALLERY_DESCRIPTION_2021",
+     "抬起手腕，随着“呼吸”表盘上的指引动作深呼吸。四款不同风格的表盘供你挑选，每一款设计都旨在帮助你进行放松、彻底的深呼吸。灵感源自“正念”App中的“呼吸”功能，表盘沿用其节律和8.5秒计时，帮助你进入放松状态。"
+    ]
+   ],
+   "编辑选项": [
+    [
+     "EDIT_OPTION_LABEL_BREATHE_STYLE_FOCUS_2021",
+     "IV"
+    ],
+    [
+     "EDIT_OPTION_LABEL_BREATHE_STYLE_ORBS_2021",
+     "I"
+    ],
+    [
+     "EDIT_OPTION_LABEL_BREATHE_STYLE_CALM_2021",
+     "III"
+    ],
+    [
+     "EDIT_OPTION_LABEL_BREATHE_STYLE_CLASSIC_2021",
+     "II"
+    ]
+   ]
+  },
+  "视频轨道与逐样本时间": [
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_03-agave.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Flower-agave.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Orbs-begonia.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_06-begonia.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_05-agave.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_03-begonia.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Rings-begonia.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_02-agave.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Rings-agave.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_05-begonia.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_04-agave.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_01-agave.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_02-begonia.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Orbs-agave.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Flower-begonia.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_04-begonia.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_06-agave.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "path": "System\\Library\\NanoTimeKit\\FaceBundles\\NTKBreatheFaceBundle.bundle\\Breathe_Bokeh_01-begonia.mov",
+    "tracks": [
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "vide",
+      "sample_entries": [
+       "hvc1"
+      ],
+      "sample_timing": [
+       [
+        511,
+        256
+       ]
+      ]
+     },
+     {
+      "timescale": 15360,
+      "duration_ticks": 130816,
+      "type": "tmcd",
+      "sample_entries": [
+       "tmcd"
+      ],
+      "sample_timing": [
+       [
+        1,
+        130816
+       ]
+      ]
+     }
+    ]
+   }
+  ],
+  "方法索引": {
+   "息屏与唤醒": [
+    "-[NTKAnalogBreatheFaceView tritium_createFaceAnimator];",
+    "-[NTKAnalogBreatheFaceView tritium_prepareForActiveStateBurnInStudyWithDisplayDate:];",
+    "-[NTKAnalogBreatheFaceView _handleEitherScreenWake];",
+    "-[NTKAnalogBreatheFaceView tritium_prepareForInactiveStateBurnInStudy];",
+    "-[NTKAnalogBreatheFaceView tritium_willTransitionToTritiumOffFromFrameSpecifier:];"
+   ],
+   "动画与时间变化": [
+    "-[NTKAnalogBreatheFaceView tritium_createFaceAnimator];",
+    "-[NTKAnalogBreatheFaceView _shouldAnimateComplicationsOnTap];",
+    "-[NTKAnalogBreatheFaceView customizeFaceViewForListing:changeEvent:animated:];",
+    "-[NTKAnalogBreatheFaceView screenDidTurnOffAnimated:];",
+    "-[NTKAnalogBreatheFaceView tritium_willTransitionToTritiumOffFromFrameSpecifier:];"
+   ],
+   "组件与编辑": [
+    "+[NTKAnalogBreatheFace _faceClassOfFaceWithRichComplicationSlotsForDevice:];",
+    "+[NTKAnalogBreatheFace _complicationSlotDescriptors];",
+    "+[NTKAnalogBreatheFace _orderedComplicationSlots];",
+    "-[NTKAnalogBreatheFace _numberOfOptionsForCustomEditMode:slot:];",
+    "-[NTKAnalogBreatheFace _defaultOptionForCustomEditMode:slot:];",
+    "-[NTKAnalogBreatheFace _indexOfOption:forCustomEditMode:slot:];",
+    "-[NTKAnalogBreatheFace _optionAtIndex:forCustomEditMode:slot:];",
+    "-[NTKAnalogBreatheFaceView _applyOption:forCustomEditMode:slot:];",
+    "-[NTKAnalogBreatheFaceView _shouldAnimateComplicationsOnTap];",
+    "-[NTKAnalogBreatheFaceView _complicationsPlatterColor];",
+    "-[NTKAnalogBreatheFaceView _complicationsForegroundColor];",
+    "+[NTKAnalogBreatheRichFace _complicationSlotDescriptors];",
+    "+[NTKAnalogBreatheRichFace _richComplicationSlotsForDevice:];",
+    "+[NTKAnalogBreatheRichFaceView isRichComplicationsEnabled];",
+    "+[NTKBreatheFaceBundle complicationTypesBySlot];"
+   ]
+  }
+ }
+}

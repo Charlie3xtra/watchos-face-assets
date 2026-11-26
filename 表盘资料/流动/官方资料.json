@@ -1,0 +1,17 @@
+{
+  "name": "流动",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apda56189eef",
+  "description": [
+    "这款表盘让 Liquid Glass 触手可及。色彩缤纷的抽象背景会跟随你的动作旋转律动。"
+  ],
+  "options": [
+    "可自定义的功能：颜色 • 字样（I、II） • 背景（开、关）"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/c3c74ed3-7799-45fc-864b-7e3fb159a2fe",
+      "alt": "“流动”表盘以非常大的数字显示时间。",
+      "file": "表盘资料/流动/官方图1.png"
+    }
+  ]
+}

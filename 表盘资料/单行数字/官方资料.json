@@ -1,0 +1,17 @@
+{
+  "name": "单行数字",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apdbc03177b5",
+  "description": [
+    "此表盘以 Apple 设计专用于 Apple Watch 的字体显示较大数字。"
+  ],
+  "options": [
+    "可自定义的功能：颜色 • 符号（阿拉伯数字、阿拉伯印度文、天城文、罗马数字） • 样式（实心、空心）"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/eeef8ece-3e7e-4083-90aa-0ce7b91d55fb",
+      "alt": "“单行数字”表盘在表示小时的大数字上显示模拟指针。",
+      "file": "表盘资料/单行数字/官方图1.png"
+    }
+  ]
+}

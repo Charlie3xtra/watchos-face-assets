@@ -1,0 +1,15 @@
+{
+  "name": "Hermès 经典",
+  "source": "https://www.apple.com.cn/apple-watch-hermes/",
+  "description": [
+    "产品宣传图所示款式。图片说明列出所示机型与组件。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "url": "https://www.apple.com.cn/v/apple-watch-hermes/am/images/overview/modern_classics__bmwdw18cnhg2_large.jpg",
+      "alt": "Apple Watch Hermès Series 12，展示 42 毫米和 46 毫米银色钛金属表壳款式，42 毫米表壳搭配 Satiné 缎灰色 Grand H Fin 表带，46 毫米表壳搭配 Satiné 缎灰色 Grand H 表带，展示经典模拟表盘 (时针、分针和秒针，以及月相、日期复杂功能)。",
+      "file": "表盘资料/Hermès 经典/官方图1.jpg"
+    }
+  ]
+}

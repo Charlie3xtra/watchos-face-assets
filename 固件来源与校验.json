@@ -1,0 +1,41 @@
+[
+  {
+    "model": "Ultra 3",
+    "file": "Watch7_12_24S132.ipsw",
+    "bytes": 5827104507,
+    "source": "https://updates.cdn-apple.com/2026FallFCS/fullrestores/142-53747/7C9CD946-41C3-4440-BF74-752B90FF3EE3/Watch7,12_27.2.1_24S132_Restore.ipsw",
+    "product": [
+      "Watch7,12"
+    ],
+    "version": "27.2.1",
+    "build": "24S132",
+    "sha256": "d81e6f1d41b15294aa334172da4524e05c8f70f3aa0535da80dfda3aeef008ce",
+    "zip_crc_error": null
+  },
+  {
+    "model": "Ultra 4",
+    "file": "Watch8_1_24S132.ipsw",
+    "bytes": 5928946467,
+    "source": "https://updates.cdn-apple.com/2026FallFCS/fullrestores/142-53763/B9A76E35-BDE6-4459-9C98-0DF2926D6301/Watch8,1_27.2.1_24S132_Restore.ipsw",
+    "product": [
+      "Watch8,1"
+    ],
+    "version": "27.2.1",
+    "build": "24S132",
+    "sha256": "c7254edbb2dcc98976005cbe3050b6373a152ed616bafbb6ffe60aee7476b70c",
+    "zip_crc_error": null
+  },
+  {
+    "model": "Series 12（GPS + 蜂窝网络）",
+    "file": "Watch8_5_24S132.ipsw",
+    "bytes": 5794298374,
+    "source": "https://updates.cdn-apple.com/2026FallFCS/fullrestores/142-53757/65A7A09B-ABD0-445D-AABF-82565C574CBF/Watch8,5_27.2.1_24S132_Restore.ipsw",
+    "product": [
+      "Watch8,5"
+    ],
+    "version": "27.2.1",
+    "build": "24S132",
+    "sha256": "28a786b45cca792ae72c7a356ce63659e87850ffbbed2aaf430cc2a0e7c3684f",
+    "zip_crc_error": null
+  }
+]

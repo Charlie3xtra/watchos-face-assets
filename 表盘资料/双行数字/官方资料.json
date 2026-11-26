@@ -1,0 +1,17 @@
+{
+  "name": "双行数字",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apd53c9f61c1",
+  "description": [
+    "此表盘以 Apple 设计专用于 Apple Watch 的字体显示较大数字。"
+  ],
+  "options": [
+    "可自定义的功能：颜色 • 符号（阿拉伯数字、阿拉伯印度文、天城文） • 样式（实心、混合、空心）"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/7d8a01eb-dd78-492f-b538-77514737cd29",
+      "alt": "“双行数字”表盘以非常大的数字显示时间。",
+      "file": "表盘资料/双行数字/官方图1.png"
+    }
+  ]
+}

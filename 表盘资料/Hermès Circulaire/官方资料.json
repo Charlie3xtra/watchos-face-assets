@@ -1,0 +1,20 @@
+{
+  "name": "Hermès Circulaire",
+  "source": "https://www.apple.com.cn/apple-watch-hermes/",
+  "description": [
+    "产品宣传图所示款式。图片说明列出所示机型与组件。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "url": "https://www.apple.com.cn/apple-watch-hermes/images/overview/style__e71d0eaepj2i_large.jpg",
+      "alt": "Apple Watch Hermès Ultra 4，展示 Circulaire 模拟表盘 (时针、分针和秒针，以及天气、健身圆环、巴黎时间、紫外线指数复杂功能)，原色钛金属表壳，展示右侧外观、数码表冠、凸起的侧边按钮，搭配 Vert Vertigo 炫绿色 (亮绿色系) Scub'H Diving 表带，表带采用橡胶模塑成型，中央具有圆形开孔。",
+      "file": "表盘资料/Hermès Circulaire/官方图1.jpg"
+    },
+    {
+      "url": "https://www.apple.com.cn/apple-watch-hermes/images/overview/sophistication__c05dvdzk8d0m_large.jpg",
+      "alt": "Apple Watch Hermès Series 12，展示 Circulaire 模拟表盘 (时针、分针和秒针，以及天气、噪声、健身圆环、巴黎时间复杂功能)、银色钛金属表壳、右侧外观、数码表冠、侧边按钮，搭配 Cuivre 铜红色 (棕色系) Kilim Single Tour 表带，表带采用橡胶模塑成型的连环几何结构，配有银色金属表扣。",
+      "file": "表盘资料/Hermès Circulaire/官方图2.jpg"
+    }
+  ]
+}

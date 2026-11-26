@@ -1,0 +1,25 @@
+{
+  "name": "Hermès Clou de Selle",
+  "source": "https://www.apple.com.cn/apple-watch-hermes/",
+  "description": [
+    "产品宣传图所示款式。图片说明列出所示机型与组件。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "url": "https://www.apple.com.cn/v/apple-watch-hermes/am/images/overview/opulence__crnbsycaglm6_large.jpg",
+      "alt": "Apple Watch Hermès Series 12，展示 Clou de Selle 模拟表盘 (时针、分针和秒针，以及月相、日期复杂功能)、炫金色钛金属表壳、右侧外观、数码表冠、侧边按钮，搭配 Noir 黑色 Satin Clou de Selle 表带，展示顺滑的黑色缎面织带，以及与表壳适配的炫金色五金件。",
+      "file": "表盘资料/Hermès Clou de Selle/官方图1.jpg"
+    },
+    {
+      "url": "https://www.apple.com.cn/v/apple-watch-hermes/am/images/overview/opulence_band__8y6ahoq2msim_large.jpg",
+      "alt": "Apple Watch Hermès Series 12 Noir 黑色 Satin Clou de Selle 表带细节，展示顺滑的黑色缎面织带和炫金色五金件。",
+      "file": "表盘资料/Hermès Clou de Selle/官方图2.jpg"
+    },
+    {
+      "url": "https://www.apple.com.cn/v/apple-watch-hermes/am/images/overview/shop_s12__x6jb6kwjbj6i_large.jpg",
+      "alt": "Apple Watch Hermès Series 12，展示 Clou de Selle 模拟表盘 (时针、分针和秒针，以及月相、日期复杂功能)、炫金色钛金属表壳、右侧外观、数码表冠、侧边按钮，搭配 Noir 黑色 Satin Clou de Selle 表带，展示顺滑的黑色缎面织带，以及与表壳适配的炫金色五金件。",
+      "file": "表盘资料/Hermès Clou de Selle/官方图3.jpg"
+    }
+  ]
+}

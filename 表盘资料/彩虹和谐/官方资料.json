@@ -1,0 +1,17 @@
+{
+  "name": "彩虹和谐",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apdcc0ede5eb",
+  "description": [
+    "此表盘的灵感来自于彩虹旗。色块汇聚在一起形成数字，代表小时。垂腕时，纯色块会变暗并幻化为彩色线条。"
+  ],
+  "options": [
+    "可用的复杂功能：健身记录 • 闹钟 • 有声书 • 电池 • 日历 • 指南针 • 查找 • 心率 • 家庭 • 用药 • 信息 • 音乐识别 • 噪声 • 备忘录 • 提醒事项 • 快捷指令 • 股市 • 秒表 • 潮汐 • 计时器 • 翻译 • 天气 • 世界时钟"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/29a85076-616e-49c4-99e7-f61fe5b02316",
+      "alt": "“彩虹和谐”表盘。",
+      "file": "表盘资料/彩虹和谐/官方图1.png"
+    }
+  ]
+}

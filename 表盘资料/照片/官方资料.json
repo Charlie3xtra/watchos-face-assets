@@ -1,0 +1,15 @@
+{
+  "name": "照片",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apd501eb33b3/27/watchos/27",
+  "description": [
+    "抬腕或轻点屏幕可切换照片。使用手册首页的合照中，右侧手表展示此表盘。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/e7d4a3b2-f15a-44d7-ac19-eb6614cd18ad",
+      "alt": "从左到右分别为：显示“心率” App 的 Apple Watch、显示“Ultra 模块”表盘的 Apple Watch Ultra 以及显示“照片”表盘的 Apple Watch。",
+      "file": "表盘资料/照片/官方图1.png"
+    }
+  ]
+}

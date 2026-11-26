@@ -1,0 +1,17 @@
+{
+  "name": "史努比",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apd5533f7e3d",
+  "description": [
+    "此表盘的主角是 Peanuts 漫画中闻名世界的比格犬史努比，展现了这只小狗顽皮有趣的性格。史努比会与 Woodstock 和手表指针欢乐互动。选取“周日惊喜”颜色设置，每周日，表盘背景会在多种颜色间循环变换，向周日版漫画致敬。"
+  ],
+  "options": [
+    "可自定义的功能：颜色 • 样式"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/d45ba8a3-5a44-4446-8a94-c7683c2d3147",
+      "alt": "“史努比”表盘显示了史努比对着打字机微笑。",
+      "file": "表盘资料/史努比/官方图1.png"
+    }
+  ]
+}

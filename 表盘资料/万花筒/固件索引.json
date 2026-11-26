@@ -1,0 +1,2724 @@
+{
+ "KaleidoscopeFaceBundle.bundle": {
+  "title_evidence": [
+   [
+    "zh_CN.lproj/Localizable.strings",
+    "FACE_STYLE_23_IN_TITLE_CASE",
+    "万花筒"
+   ],
+   [
+    "en.lproj/Localizable.strings",
+    "FACE_STYLE_23_IN_TITLE_CASE",
+    "Kaleidoscope"
+   ]
+  ],
+  "models": {
+   "Watch7_12_24S132": {
+    "bundle": "Watch7_12_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle",
+    "code": "Watch7_12_24S132/解析/代码/KaleidoscopeFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/default.metallib",
+      "bytes": 44440,
+      "sha256": "022bc6dd8cfacfcf762f812d81c61815064a675fa0a01530ee55916ff681aefb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Info.plist",
+      "bytes": 855,
+      "sha256": "2e91247a794985f4f94353311a97dc01f08c66560f9a342d3967073fd25c2928",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01-c.art",
+      "bytes": 2796210,
+      "sha256": "18ba6b5c2ffbfaf60a7699ba2cf646a1d2c17533e79ff42fbd2d94308bae02c8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01-l.art",
+      "bytes": 1398109,
+      "sha256": "a736a232a80adf72670f2205facc628c19e8688c70025ba4fd3b8b0bcafadc67"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01.pathfinder",
+      "bytes": 51107,
+      "sha256": "2c1e5c39c63db732f1a9abe426b964927c03d66a92e5671ac7190244f5b95393",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02-c.art",
+      "bytes": 2796210,
+      "sha256": "f604d52bae9e9f850802161837bda61dcef866ae16ea01efd608ecb3fe0dd17b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02-l.art",
+      "bytes": 1398109,
+      "sha256": "059a6b3779f745cd5579398fcadadabc8823fb555214fba033e4b79b99806bc7"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02.pathfinder",
+      "bytes": 44451,
+      "sha256": "3676d94c673632743865df30b1781a9edcdc4391fb614748a980f0877f4ef9bb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03-c.art",
+      "bytes": 2796210,
+      "sha256": "a9bb2648d7dcf4856f4d0a9d69eb185648f5c5cae3788bcd2289f9b5e326d212"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03-l.art",
+      "bytes": 1398109,
+      "sha256": "508543c18075ea28567a71fd1277869e60aabd4766d3d53ca7337bb089519a79"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03.pathfinder",
+      "bytes": 53795,
+      "sha256": "060e161cf78df066f13e99fa5665163090da7447b0339cb4f3ea099dd1a5e26f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04-c.art",
+      "bytes": 2796210,
+      "sha256": "db053a2d8861335f0015d70bddad2debc0e721ff453ac7a365914dbcc18bd77a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04-l.art",
+      "bytes": 1398109,
+      "sha256": "53aac415bbec3c2952c785fd7357242a6a0a674729f04c4f673fc33db487f8f1"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04.pathfinder",
+      "bytes": 53347,
+      "sha256": "6d5999a6418a46b6db555321909c2fa9c033fe617d16dc8852482277a6f73765",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05-c.art",
+      "bytes": 2796210,
+      "sha256": "a3d5a93cdde34afb85b4c09e39f8c23a96e7d8eb42e35973c59be79a343b8481"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05-l.art",
+      "bytes": 1398109,
+      "sha256": "ed6da6a88af3ff1f3c7830c6e492133ec63a53256f75405da615161814885a8d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05.pathfinder",
+      "bytes": 47267,
+      "sha256": "5ff78dfae7a3713c8c705072ab90998eba68a348207ee539aa661f9b66978a7c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06-c.art",
+      "bytes": 2796210,
+      "sha256": "2372945de0aba5d66fa08a245be488b637af7dea9f52bad3a05af28cbd52eddf"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06-l.art",
+      "bytes": 1398109,
+      "sha256": "34712acef2287b2987a4ef935a74138c90e60bb65a5d13a743d1873c80d3c32d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06.pathfinder",
+      "bytes": 52771,
+      "sha256": "88e2bb834e52e9f62cb5795716a57acd32a6c9d97df068d429ad3a7178a97b72",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07-c.art",
+      "bytes": 2796210,
+      "sha256": "4cee202cf3dc8e9f7b5591dbcb3433e5c3366457e33a87cc3cc0631df85b30fc"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07-l.art",
+      "bytes": 1398109,
+      "sha256": "b8be22ad9b8bac0acebee40fc49ee784c4d160335cfae5280b46863e54485c6f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07.pathfinder",
+      "bytes": 71467,
+      "sha256": "0e531c7b9413a9d6cc0bee7173d88621e9841608f5c61c9f019087f11c7e2d22",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08-c.art",
+      "bytes": 2796210,
+      "sha256": "de035fec32ffe08a998e1855c8b9531be65f01d34db6cd7347a10f2710c3e0a1"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08-l.art",
+      "bytes": 1398109,
+      "sha256": "959a02a989d8e0721be6a3745fc745aaf5b42540bbb19c6c66ea2ab9f4a19039"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08.pathfinder",
+      "bytes": 39779,
+      "sha256": "40dd4767f9b33ee3327ea9d180bbc467a5757725e682237e28857ee1a749193e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09-c.art",
+      "bytes": 2796210,
+      "sha256": "0468bbdf7bb70c098ffbe0d40aee17f57fe08d9e572c2a810f0719cd16357f96"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09-l.art",
+      "bytes": 1398109,
+      "sha256": "aaa4bc89f41fd333dcc1206f4eca3c394e5899d95740dd396346ec95081ae078"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09.pathfinder",
+      "bytes": 34727,
+      "sha256": "2c2e307fb69438f3fb7fa468625de90eddc4668cef080b87043fff87b90b840b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10-c.art",
+      "bytes": 2796210,
+      "sha256": "3b997074b65e30fa4575d0a78b325c393c9342eb50783f83664396873bdfc905"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10-l.art",
+      "bytes": 1398109,
+      "sha256": "5da28e5ec9bbdbc71395f775301ecfb99d02d37a52405d46a58bc89063068bb5"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10.pathfinder",
+      "bytes": 35495,
+      "sha256": "5d42a41c3743b047701225318c43f765a1b603e776c072b32fec36132939fa6b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11-c.art",
+      "bytes": 2796210,
+      "sha256": "e64a47128ec1d33ed9bd53ef856dfcd8ea3484509b5a336f65794321ac0739fb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11-l.art",
+      "bytes": 1398109,
+      "sha256": "d0d0dcc7262676caf861aeeb7e3525879e5c39496651007b3a141b992beb4be2"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11.pathfinder",
+      "bytes": 21607,
+      "sha256": "50bd6a60fe4439c8a9a5a063079062f6b9940d8c99a092dcee83cb9fde66bd6f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12-c.art",
+      "bytes": 2796210,
+      "sha256": "7c2e487780533bd6e7085f8388d534e5fcbbdc9115ff037abf984171850c2cea"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12-l.art",
+      "bytes": 1398109,
+      "sha256": "d7aa7d7d1502b040ba7bb90321a6c568c168f2b97aa5a1e7d301b291a7db855d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12.pathfinder",
+      "bytes": 36583,
+      "sha256": "a40cdcf2a280946dab88e0725c2d85fa027d084b0b78f5805b204a2566643707",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13-c.art",
+      "bytes": 2796210,
+      "sha256": "832ddbb67c9cb60e58a86c2d3fb778a0a2e5047760171b18cdac7af619ece565"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13-l.art",
+      "bytes": 1398109,
+      "sha256": "73589129e5e45037c62a218c33f0f2e540a0916193003e449eed80f60b64e87f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13.pathfinder",
+      "bytes": 19747,
+      "sha256": "fc7aa32c48d45345e747273367791f6d3ef92e9ef589b92ec0f6075b7537de6e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14-c.art",
+      "bytes": 2796210,
+      "sha256": "282d99fce9d00f4ba3986bcc0306f256a56a5312bdd078252f40e2b60e536d6d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14-l.art",
+      "bytes": 1398109,
+      "sha256": "961dd9ae4f069f89a0a8d1cb746c8c3385e100cc6d4613c2a6d0b8928b2f3d78"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14.pathfinder",
+      "bytes": 20131,
+      "sha256": "10a7994f9f47d8c357e511d5076d652d918048dec6a6aff2328e743276d54a09",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15-c.art",
+      "bytes": 2796210,
+      "sha256": "d10e7123f2e780a748c21adc86c2ed150c714610edc21bbef7d97a20116f18c4"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15-l.art",
+      "bytes": 1398109,
+      "sha256": "a024be2ab814e014bf1254c917d76f802269a0f58dfc1706b61228f40760e7dd"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15.pathfinder",
+      "bytes": 20899,
+      "sha256": "c2324c1ecd09cd1032dbdab6228c3e49789fb73f07ffa09664029b5e67718f5c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16-c.art",
+      "bytes": 2796210,
+      "sha256": "af6a03fe2985cbe45e63458847af6ea4342fde9a9b5c6bf2c1b3bceef60aa1c9"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16-l.art",
+      "bytes": 1398109,
+      "sha256": "4a52023759f2982b0ad0700a62a1171a9128789674315d9395fa8ae201fa1175"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16.pathfinder",
+      "bytes": 21411,
+      "sha256": "b5f60826d423455c9358d502ce5d68dd7ee8971691e71d2fd4a7d480f3fc4da7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17-c.art",
+      "bytes": 2796210,
+      "sha256": "829c5f403f35c16924a05ef195c7006199bf7d60c6b4753337bf2abf76b53ee8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17-l.art",
+      "bytes": 1398109,
+      "sha256": "6cd9d06cc79364bd7444843c29378100cacd9d88297b4dd66963f7dba17934f0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17.pathfinder",
+      "bytes": 29155,
+      "sha256": "76ee3cf4c54c8d60e927e46b63b98e5a20eee390df8d4d30cf40ab50ce1776b0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18-c.art",
+      "bytes": 2796210,
+      "sha256": "15b8ded4de3d517cf7be6b65899c5242f14cd1f3662a0f640ebd7975fda97bcd"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18-l.art",
+      "bytes": 1398109,
+      "sha256": "6b63329af0adefea503cc4dc419a06514a2b6760cf87c4efcd0260cdbcddaf5f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18.pathfinder",
+      "bytes": 27811,
+      "sha256": "e1c4e259296375d63635e04063287371610b02405468544d6e544c13a6a89c12",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19-c.art",
+      "bytes": 2796210,
+      "sha256": "869bf8178c117657b3a07df944ab23adaefe382403ed5feaa706f98d634f15d8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19-l.art",
+      "bytes": 1398109,
+      "sha256": "6e4d77b433fb54cae74a50396b4f5cdd832733d380cae3281e43b7df8c9f90eb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19.pathfinder",
+      "bytes": 27555,
+      "sha256": "a3d0b9023183876924ed0505c3878184452e78670cbd04fc297a344d7bcb6d81",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20-c.art",
+      "bytes": 2796210,
+      "sha256": "7418edea0857eb257a770e298e596a461945c73af80ee8cb0fd383427b902e64"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20-l.art",
+      "bytes": 1398109,
+      "sha256": "5d2384d72ae2a71cf694331a674e95042e82bfd88b2305ee266b834b9e9c3b4d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20.pathfinder",
+      "bytes": 28131,
+      "sha256": "b29fba251a53524c013f80881f1d4cf592014d1139f80e570e26679d1a1cd4ff",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21-c.art",
+      "bytes": 2796210,
+      "sha256": "c7645b21bb5a4c8e7bfcdacd0d4b46d2513ee05cf0fb2b93d5ae254105cba94e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21-l.art",
+      "bytes": 1398109,
+      "sha256": "8fb0db69da4d3cc712aa448c89dfb0a05af5eb5a2ca7d833c63904129c441556"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21.pathfinder",
+      "bytes": 28067,
+      "sha256": "2d3ba8d1ca765b2545302b54f792b0eb27d83af7ba1a5831ca5235103bacda09",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22-c.art",
+      "bytes": 2796210,
+      "sha256": "0f7d0864adc4c18d897b3375bccfbb985bd1931338563a856171868ddb950a40"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22-l.art",
+      "bytes": 1398109,
+      "sha256": "ce3d744d7e9311db2494b33d55c014ffb81a58db2e0185b72969bf26ce9916da"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22.pathfinder",
+      "bytes": 28515,
+      "sha256": "00a914f53645ec287c892c9bc17045ac0ab2290c2cf9a10dd4d18856cfa8ccdc",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23-c.art",
+      "bytes": 2796210,
+      "sha256": "8899fb0eb0094e58877d25cf1e99ddebff82443bf2d0447003c2273d01f3f0c7"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23-l.art",
+      "bytes": 1398109,
+      "sha256": "6501bd92803e7f82e835e3d368bb3ff38970cb666eb5dd5f445d16770be1271b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23.pathfinder",
+      "bytes": 28067,
+      "sha256": "4d6c0e8c84c79d5c9f83b29a6f75b182317fcc08135199060cf6f22229fdb61f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24-c.art",
+      "bytes": 2796210,
+      "sha256": "091b2aa8899f39d08ec1f13e1a4154cb19d9b32f49024f1b9d6c98409d5c1cf0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24-l.art",
+      "bytes": 1398109,
+      "sha256": "13e7f347036950dd60c20ae6e2e56e355bb96b290618ab4719f37e2a11c02b69"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24.pathfinder",
+      "bytes": 24675,
+      "sha256": "d8deefff163bfef04932a3f3b7113c79726909b60f50faef64f4133aee6f44d0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25-c.art",
+      "bytes": 2796210,
+      "sha256": "8939f62cb330c34fb10364a291495d3b093c588a2cf9a0d149e83ed689faf541"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25-l.art",
+      "bytes": 1398109,
+      "sha256": "3aa4269c44c0702edb744ce622382528833eb6253866fd6d7829ee5904cdea89"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25.pathfinder",
+      "bytes": 26083,
+      "sha256": "00a0f33512748e120a90204887d141d0a3525be04d3f68b65bdb7ee9c9056b0b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26-c.art",
+      "bytes": 2796210,
+      "sha256": "f320da73b91f6a4f02a5ec489fa4eb275831edc4e1e43c71172d7ed4deded8bb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26-l.art",
+      "bytes": 1398109,
+      "sha256": "bdda47e6cd805902d21aa4d2a8ce3da4a9f5cfe6a1e9e8c88a5816eb60e9b57a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26.pathfinder",
+      "bytes": 33187,
+      "sha256": "dcd8076e827349567c3c2ba6ea7feeb0d566f79aa06ac86be5b5e14ea433a0e1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27-c.art",
+      "bytes": 2796210,
+      "sha256": "325cc0a38393fcc932e22e4d1b1a1a43dd57a9dfd7f93ac245fd8b7c06935ca8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27-l.art",
+      "bytes": 1398109,
+      "sha256": "3774d0731450907edf94500afd97fbc59c012fa2f6931e2d9d49bca8eab7b589"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27.pathfinder",
+      "bytes": 27619,
+      "sha256": "90b1372308d8ccb136a4f6ad521d121fae6bfb18233150b3dc7adacf6826803b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28-c.art",
+      "bytes": 2796210,
+      "sha256": "0e87f50a33b261bd30aee4d1b0c6494e97ce29a9e400d6e1cbc1a878b73eb732"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28-l.art",
+      "bytes": 1398109,
+      "sha256": "61caff31dd46329298decc79139588f12173676e447843701d2e51f3435dab27"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28.pathfinder",
+      "bytes": 30883,
+      "sha256": "4ea55cb685e393746f8ad3bef76373a4c99e8cad055b0a212a6a3c0cf62ec21b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29-c.art",
+      "bytes": 2796210,
+      "sha256": "9f43f68441baa35a95df65e42c0f7ab41f9a6f1ec045570d81eee9f0389b9ac8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29-l.art",
+      "bytes": 1398109,
+      "sha256": "fc9ebd4b6911ae234561f7d553c05ef46ff9ce01dd78226240136826a8d0c25b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29.pathfinder",
+      "bytes": 31651,
+      "sha256": "725d8d44fadc0d2a3ad2170e096700c8ee296fcf806397f07a193583cef7b277",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30-c.art",
+      "bytes": 2796210,
+      "sha256": "db73edc43634a9ff4f1d3bf357dfb51768100f0b313e60a46368cc8345e7676a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30-l.art",
+      "bytes": 1398109,
+      "sha256": "4bad1038a01b148d9001854e0df30777c9b84c5742cace136d17aaf17ac2a6c4"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30.pathfinder",
+      "bytes": 33315,
+      "sha256": "716ef320b5adab134b1fd6f7647b435eb53fb10cfbd9245e91a5e0aaa40f0b28",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31-c.art",
+      "bytes": 2796210,
+      "sha256": "c3d213e10a69d296e0e14999c233fa7f6440098941c79dae2e09a0edeb5d3828"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31-l.art",
+      "bytes": 1398109,
+      "sha256": "21c865bb23d3682226126f2c4d53eb07e54c851f308d66646900c7f9727b4324"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31.pathfinder",
+      "bytes": 32739,
+      "sha256": "ae866f8639a91994acb9549e89e93fab547dcce1da68c853aef06f3bc306c068",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32-c.art",
+      "bytes": 2796210,
+      "sha256": "24396c6b88906c27668a2f9cb8d5f7cce8c60790450b3a4a2425bff681a74aca"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32-l.art",
+      "bytes": 1398109,
+      "sha256": "ef44086172ab4f5562d307df6ee4111467e2fd6de3d81ef4f43b9ee8a19dceca"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32.pathfinder",
+      "bytes": 30243,
+      "sha256": "b2f00e5f6928cf25da12db600f4a1332488531d4f138a5052742961ac52c1e81",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33-c.art",
+      "bytes": 2796210,
+      "sha256": "8906ec27c3f89f8f0a8bbee7ec87911c96f60f3368a618088cbdca9f4cfd7855"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33-l.art",
+      "bytes": 1398109,
+      "sha256": "4786e8990649aabc97171ee8ea435aa0fd09c67aa5166654d123470e7e3da8f0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33.pathfinder",
+      "bytes": 33571,
+      "sha256": "7f96275e15847d1aec4ce52e7c469733b317b1d18ef4a6cfea63ad87533213c3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-RosetteMask-448h@2x.art",
+      "bytes": 250640,
+      "sha256": "4f4fc8b3af02c1e882926b06d50651f2e8ac5ef11b15a7dea79f0ea16b181eeb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-RosetteMask-484h@2x.art",
+      "bytes": 267920,
+      "sha256": "ecb9b7424d6c468a06dd29a280717d3b13b91b81bab66832e90da0adc712fc6e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-RosetteMask-502h@2x.art",
+      "bytes": 267920,
+      "sha256": "ecb9b7424d6c468a06dd29a280717d3b13b91b81bab66832e90da0adc712fc6e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/NTKKaleidoscopeShaders.metallib",
+      "bytes": 457056,
+      "sha256": "3d45a86689a56309abe8cb9c7230033a4bc75bd4741d68601660d9fb77d4284f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 3867,
+      "sha256": "dca418b35b890f8d59ab79b3f64e840c7d7a5747b417ec042050e5133994d059",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 3930,
+      "sha256": "1b9771931c5706f3ff8589422471cd931a8169161c10e0db0cf946ef638072ba",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 3957,
+      "sha256": "de91ac0badee22a802bfb9fa97f95569672e2c229ed84e96b965360d5acab631",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 3887,
+      "sha256": "22280374bfaaa9855047692f21b4518665907b6c635944d0073e01fb551f1b13",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 3834,
+      "sha256": "67cf350aa96fa5ecb1ab5c22aba5c671b1c8c134526a7b1f8d80ab60d5aed206",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 4331,
+      "sha256": "067175019ea7304b0d393447c5128f32d2974172e9cab65b059ccebf99d99f5f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 3355,
+      "sha256": "904cc771b16dde9b86c70d2025ed7381878eadf9af01349d1f185ce6e46185ad",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 3356,
+      "sha256": "9389cab7a30f5c176ffd7f32ff7c4a48e9640856c0284510e400141df7f79564",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 3351,
+      "sha256": "3bd0319a2b10b5923bb1ac1e004957bb05bceb268cc5e9cb40c2d19c1881ae51",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 3925,
+      "sha256": "d5320a9a18eb83dff914df8c36775a89ec8a392c1625fec14e93039735f7391a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 3847,
+      "sha256": "81ca03dbf6dc7b496c0fcd8fafd4adf37df8512d82de8f6bb6b53241b339882d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 3744,
+      "sha256": "150a90dc9e36e851112518b34afd1f728f05652200536f9d66484654091db7fe",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 3957,
+      "sha256": "558a90b322baa3218b723820278874e693b5a9e3adb7015f769cd44669b35536",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 3975,
+      "sha256": "5436731790f718837e6fa75298b911520c9c677c445b946989a89f71dadcc512",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 3889,
+      "sha256": "4fd3dd582faf45e89176e85997aa963849ecdb1c6a88242ae9781e1b7050b15a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 3927,
+      "sha256": "a1088b6cf9cae10bd64b1f379a4a155db42ba01d0a5f87c58bb2204ad866248e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 3774,
+      "sha256": "cc7d82a5bc20a1c1555ae6606fd8ef7ce7e714fb017b918336df583abcb5f844",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 4001,
+      "sha256": "65ed6d0bb8cf1dd0fd6468650cc39cff1189188b40771191db901982addb11c1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 3374,
+      "sha256": "2da974db4758bea44f9b9f8040f7a6c2863a119c8f0dd75ca11819dcf244ba67",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 3744,
+      "sha256": "26a4256d9e2053d105122c6f5783c3f64a6ce3667f7618e621e5bd6fff935818",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 3440,
+      "sha256": "aa568cde524a32fa03c740f3679e20446798f12ade8290f5db10d85568a4c90d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 3392,
+      "sha256": "92a30069b3261d29788e1658300bb4359068b083fa4401e41fbc97c1f45dc194",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 3386,
+      "sha256": "914cd267feeff10532499f8d4b8e9213a06ab5c5d5747a0db13eec1260b6d10c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 3860,
+      "sha256": "84e91723c72ea08acc2b605ec604b2195db28e628e998ae908b9fafea12bb216",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 3828,
+      "sha256": "4cbec3815ab658a7ff25410a28b48ec1ed0da3984b27bea270f7d06b1f01487c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 3820,
+      "sha256": "b1124bb88827b208494a2cd716a2c76f6e87a88db22461d4d7920251148cf10d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 3833,
+      "sha256": "1eff98f94598954174ee67d84358646f246c81650a7ef3b685cacbe413477223",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 3881,
+      "sha256": "0b9723d370e083e073ba67e3907215abd36fa5f2f2d612b20eb2c01be0211f1e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 4158,
+      "sha256": "1bc16070a2907d5b107c8236647a4eb66983bb1802a9dfe03fd01d715110ebe4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 4253,
+      "sha256": "d0ee1cc1126723ff179aad907783b4dddbc8829118ca9155ad3b0e1aaa648b9f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 3915,
+      "sha256": "1472d050cc7fa54122bf145aeca3dcf35a4a6a9e55fad3b6fbdf4f72d3c69e68",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 3819,
+      "sha256": "d6f124b7ef20e5f2cc95fb1d653aa3a60fea7e51321213c67124d4f691888a3d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 3896,
+      "sha256": "d8ae4abfe9b73a1e6c3212f288da320d4e75646266058eea58bbf161fa0526e3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 4041,
+      "sha256": "4f5d4756d8712d563fd147c64031a084f1d7ca13a613f4e4b65ce267b5a87274",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 3993,
+      "sha256": "6e4ae09f060dacc68017b6927b2a508c913165c6e60f89253655d71030af3999",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 4093,
+      "sha256": "00f368e79bb2c63a542f1c8dbeddb58e05d0aea290ec02ec3eeee9c87dc1da4c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 4009,
+      "sha256": "763f866354a229137664753fad7b3c1fa4f02fff7c9315cf86491ebf81d44db8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 3136,
+      "sha256": "beed311f19ff8115c2bb65c7534aad1f30af8288d8cfc1c5afa655dbe6aa7df6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 3146,
+      "sha256": "ed96d730cc8f2bdfdf6b6bf686fb7050f516c92ec6dbd84f620948748eeed57d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 3144,
+      "sha256": "a69b2e08b0862aa7979172bb8ee26c2869a3fcff786ebd5f7e9b3a3815ac47f9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_1_24S132": {
+    "bundle": "Watch8_1_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle",
+    "code": "Watch8_1_24S132/解析/代码/KaleidoscopeFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/default.metallib",
+      "bytes": 44440,
+      "sha256": "022bc6dd8cfacfcf762f812d81c61815064a675fa0a01530ee55916ff681aefb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Info.plist",
+      "bytes": 855,
+      "sha256": "2e91247a794985f4f94353311a97dc01f08c66560f9a342d3967073fd25c2928",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01-c.art",
+      "bytes": 2796210,
+      "sha256": "18ba6b5c2ffbfaf60a7699ba2cf646a1d2c17533e79ff42fbd2d94308bae02c8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01-l.art",
+      "bytes": 1398109,
+      "sha256": "a736a232a80adf72670f2205facc628c19e8688c70025ba4fd3b8b0bcafadc67"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01.pathfinder",
+      "bytes": 51107,
+      "sha256": "2c1e5c39c63db732f1a9abe426b964927c03d66a92e5671ac7190244f5b95393",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02-c.art",
+      "bytes": 2796210,
+      "sha256": "f604d52bae9e9f850802161837bda61dcef866ae16ea01efd608ecb3fe0dd17b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02-l.art",
+      "bytes": 1398109,
+      "sha256": "059a6b3779f745cd5579398fcadadabc8823fb555214fba033e4b79b99806bc7"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02.pathfinder",
+      "bytes": 44451,
+      "sha256": "3676d94c673632743865df30b1781a9edcdc4391fb614748a980f0877f4ef9bb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03-c.art",
+      "bytes": 2796210,
+      "sha256": "a9bb2648d7dcf4856f4d0a9d69eb185648f5c5cae3788bcd2289f9b5e326d212"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03-l.art",
+      "bytes": 1398109,
+      "sha256": "508543c18075ea28567a71fd1277869e60aabd4766d3d53ca7337bb089519a79"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03.pathfinder",
+      "bytes": 53795,
+      "sha256": "060e161cf78df066f13e99fa5665163090da7447b0339cb4f3ea099dd1a5e26f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04-c.art",
+      "bytes": 2796210,
+      "sha256": "db053a2d8861335f0015d70bddad2debc0e721ff453ac7a365914dbcc18bd77a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04-l.art",
+      "bytes": 1398109,
+      "sha256": "53aac415bbec3c2952c785fd7357242a6a0a674729f04c4f673fc33db487f8f1"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04.pathfinder",
+      "bytes": 53347,
+      "sha256": "6d5999a6418a46b6db555321909c2fa9c033fe617d16dc8852482277a6f73765",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05-c.art",
+      "bytes": 2796210,
+      "sha256": "a3d5a93cdde34afb85b4c09e39f8c23a96e7d8eb42e35973c59be79a343b8481"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05-l.art",
+      "bytes": 1398109,
+      "sha256": "ed6da6a88af3ff1f3c7830c6e492133ec63a53256f75405da615161814885a8d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05.pathfinder",
+      "bytes": 47267,
+      "sha256": "5ff78dfae7a3713c8c705072ab90998eba68a348207ee539aa661f9b66978a7c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06-c.art",
+      "bytes": 2796210,
+      "sha256": "2372945de0aba5d66fa08a245be488b637af7dea9f52bad3a05af28cbd52eddf"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06-l.art",
+      "bytes": 1398109,
+      "sha256": "34712acef2287b2987a4ef935a74138c90e60bb65a5d13a743d1873c80d3c32d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06.pathfinder",
+      "bytes": 52771,
+      "sha256": "88e2bb834e52e9f62cb5795716a57acd32a6c9d97df068d429ad3a7178a97b72",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07-c.art",
+      "bytes": 2796210,
+      "sha256": "4cee202cf3dc8e9f7b5591dbcb3433e5c3366457e33a87cc3cc0631df85b30fc"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07-l.art",
+      "bytes": 1398109,
+      "sha256": "b8be22ad9b8bac0acebee40fc49ee784c4d160335cfae5280b46863e54485c6f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07.pathfinder",
+      "bytes": 71467,
+      "sha256": "0e531c7b9413a9d6cc0bee7173d88621e9841608f5c61c9f019087f11c7e2d22",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08-c.art",
+      "bytes": 2796210,
+      "sha256": "de035fec32ffe08a998e1855c8b9531be65f01d34db6cd7347a10f2710c3e0a1"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08-l.art",
+      "bytes": 1398109,
+      "sha256": "959a02a989d8e0721be6a3745fc745aaf5b42540bbb19c6c66ea2ab9f4a19039"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08.pathfinder",
+      "bytes": 39779,
+      "sha256": "40dd4767f9b33ee3327ea9d180bbc467a5757725e682237e28857ee1a749193e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09-c.art",
+      "bytes": 2796210,
+      "sha256": "0468bbdf7bb70c098ffbe0d40aee17f57fe08d9e572c2a810f0719cd16357f96"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09-l.art",
+      "bytes": 1398109,
+      "sha256": "aaa4bc89f41fd333dcc1206f4eca3c394e5899d95740dd396346ec95081ae078"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09.pathfinder",
+      "bytes": 34727,
+      "sha256": "2c2e307fb69438f3fb7fa468625de90eddc4668cef080b87043fff87b90b840b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10-c.art",
+      "bytes": 2796210,
+      "sha256": "3b997074b65e30fa4575d0a78b325c393c9342eb50783f83664396873bdfc905"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10-l.art",
+      "bytes": 1398109,
+      "sha256": "5da28e5ec9bbdbc71395f775301ecfb99d02d37a52405d46a58bc89063068bb5"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10.pathfinder",
+      "bytes": 35495,
+      "sha256": "5d42a41c3743b047701225318c43f765a1b603e776c072b32fec36132939fa6b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11-c.art",
+      "bytes": 2796210,
+      "sha256": "e64a47128ec1d33ed9bd53ef856dfcd8ea3484509b5a336f65794321ac0739fb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11-l.art",
+      "bytes": 1398109,
+      "sha256": "d0d0dcc7262676caf861aeeb7e3525879e5c39496651007b3a141b992beb4be2"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11.pathfinder",
+      "bytes": 21607,
+      "sha256": "50bd6a60fe4439c8a9a5a063079062f6b9940d8c99a092dcee83cb9fde66bd6f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12-c.art",
+      "bytes": 2796210,
+      "sha256": "7c2e487780533bd6e7085f8388d534e5fcbbdc9115ff037abf984171850c2cea"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12-l.art",
+      "bytes": 1398109,
+      "sha256": "d7aa7d7d1502b040ba7bb90321a6c568c168f2b97aa5a1e7d301b291a7db855d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12.pathfinder",
+      "bytes": 36583,
+      "sha256": "a40cdcf2a280946dab88e0725c2d85fa027d084b0b78f5805b204a2566643707",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13-c.art",
+      "bytes": 2796210,
+      "sha256": "832ddbb67c9cb60e58a86c2d3fb778a0a2e5047760171b18cdac7af619ece565"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13-l.art",
+      "bytes": 1398109,
+      "sha256": "73589129e5e45037c62a218c33f0f2e540a0916193003e449eed80f60b64e87f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13.pathfinder",
+      "bytes": 19747,
+      "sha256": "fc7aa32c48d45345e747273367791f6d3ef92e9ef589b92ec0f6075b7537de6e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14-c.art",
+      "bytes": 2796210,
+      "sha256": "282d99fce9d00f4ba3986bcc0306f256a56a5312bdd078252f40e2b60e536d6d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14-l.art",
+      "bytes": 1398109,
+      "sha256": "961dd9ae4f069f89a0a8d1cb746c8c3385e100cc6d4613c2a6d0b8928b2f3d78"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14.pathfinder",
+      "bytes": 20131,
+      "sha256": "10a7994f9f47d8c357e511d5076d652d918048dec6a6aff2328e743276d54a09",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15-c.art",
+      "bytes": 2796210,
+      "sha256": "d10e7123f2e780a748c21adc86c2ed150c714610edc21bbef7d97a20116f18c4"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15-l.art",
+      "bytes": 1398109,
+      "sha256": "a024be2ab814e014bf1254c917d76f802269a0f58dfc1706b61228f40760e7dd"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15.pathfinder",
+      "bytes": 20899,
+      "sha256": "c2324c1ecd09cd1032dbdab6228c3e49789fb73f07ffa09664029b5e67718f5c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16-c.art",
+      "bytes": 2796210,
+      "sha256": "af6a03fe2985cbe45e63458847af6ea4342fde9a9b5c6bf2c1b3bceef60aa1c9"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16-l.art",
+      "bytes": 1398109,
+      "sha256": "4a52023759f2982b0ad0700a62a1171a9128789674315d9395fa8ae201fa1175"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16.pathfinder",
+      "bytes": 21411,
+      "sha256": "b5f60826d423455c9358d502ce5d68dd7ee8971691e71d2fd4a7d480f3fc4da7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17-c.art",
+      "bytes": 2796210,
+      "sha256": "829c5f403f35c16924a05ef195c7006199bf7d60c6b4753337bf2abf76b53ee8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17-l.art",
+      "bytes": 1398109,
+      "sha256": "6cd9d06cc79364bd7444843c29378100cacd9d88297b4dd66963f7dba17934f0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17.pathfinder",
+      "bytes": 29155,
+      "sha256": "76ee3cf4c54c8d60e927e46b63b98e5a20eee390df8d4d30cf40ab50ce1776b0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18-c.art",
+      "bytes": 2796210,
+      "sha256": "15b8ded4de3d517cf7be6b65899c5242f14cd1f3662a0f640ebd7975fda97bcd"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18-l.art",
+      "bytes": 1398109,
+      "sha256": "6b63329af0adefea503cc4dc419a06514a2b6760cf87c4efcd0260cdbcddaf5f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18.pathfinder",
+      "bytes": 27811,
+      "sha256": "e1c4e259296375d63635e04063287371610b02405468544d6e544c13a6a89c12",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19-c.art",
+      "bytes": 2796210,
+      "sha256": "869bf8178c117657b3a07df944ab23adaefe382403ed5feaa706f98d634f15d8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19-l.art",
+      "bytes": 1398109,
+      "sha256": "6e4d77b433fb54cae74a50396b4f5cdd832733d380cae3281e43b7df8c9f90eb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19.pathfinder",
+      "bytes": 27555,
+      "sha256": "a3d0b9023183876924ed0505c3878184452e78670cbd04fc297a344d7bcb6d81",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20-c.art",
+      "bytes": 2796210,
+      "sha256": "7418edea0857eb257a770e298e596a461945c73af80ee8cb0fd383427b902e64"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20-l.art",
+      "bytes": 1398109,
+      "sha256": "5d2384d72ae2a71cf694331a674e95042e82bfd88b2305ee266b834b9e9c3b4d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20.pathfinder",
+      "bytes": 28131,
+      "sha256": "b29fba251a53524c013f80881f1d4cf592014d1139f80e570e26679d1a1cd4ff",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21-c.art",
+      "bytes": 2796210,
+      "sha256": "c7645b21bb5a4c8e7bfcdacd0d4b46d2513ee05cf0fb2b93d5ae254105cba94e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21-l.art",
+      "bytes": 1398109,
+      "sha256": "8fb0db69da4d3cc712aa448c89dfb0a05af5eb5a2ca7d833c63904129c441556"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21.pathfinder",
+      "bytes": 28067,
+      "sha256": "2d3ba8d1ca765b2545302b54f792b0eb27d83af7ba1a5831ca5235103bacda09",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22-c.art",
+      "bytes": 2796210,
+      "sha256": "0f7d0864adc4c18d897b3375bccfbb985bd1931338563a856171868ddb950a40"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22-l.art",
+      "bytes": 1398109,
+      "sha256": "ce3d744d7e9311db2494b33d55c014ffb81a58db2e0185b72969bf26ce9916da"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22.pathfinder",
+      "bytes": 28515,
+      "sha256": "00a914f53645ec287c892c9bc17045ac0ab2290c2cf9a10dd4d18856cfa8ccdc",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23-c.art",
+      "bytes": 2796210,
+      "sha256": "8899fb0eb0094e58877d25cf1e99ddebff82443bf2d0447003c2273d01f3f0c7"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23-l.art",
+      "bytes": 1398109,
+      "sha256": "6501bd92803e7f82e835e3d368bb3ff38970cb666eb5dd5f445d16770be1271b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23.pathfinder",
+      "bytes": 28067,
+      "sha256": "4d6c0e8c84c79d5c9f83b29a6f75b182317fcc08135199060cf6f22229fdb61f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24-c.art",
+      "bytes": 2796210,
+      "sha256": "091b2aa8899f39d08ec1f13e1a4154cb19d9b32f49024f1b9d6c98409d5c1cf0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24-l.art",
+      "bytes": 1398109,
+      "sha256": "13e7f347036950dd60c20ae6e2e56e355bb96b290618ab4719f37e2a11c02b69"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24.pathfinder",
+      "bytes": 24675,
+      "sha256": "d8deefff163bfef04932a3f3b7113c79726909b60f50faef64f4133aee6f44d0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25-c.art",
+      "bytes": 2796210,
+      "sha256": "8939f62cb330c34fb10364a291495d3b093c588a2cf9a0d149e83ed689faf541"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25-l.art",
+      "bytes": 1398109,
+      "sha256": "3aa4269c44c0702edb744ce622382528833eb6253866fd6d7829ee5904cdea89"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25.pathfinder",
+      "bytes": 26083,
+      "sha256": "00a0f33512748e120a90204887d141d0a3525be04d3f68b65bdb7ee9c9056b0b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26-c.art",
+      "bytes": 2796210,
+      "sha256": "f320da73b91f6a4f02a5ec489fa4eb275831edc4e1e43c71172d7ed4deded8bb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26-l.art",
+      "bytes": 1398109,
+      "sha256": "bdda47e6cd805902d21aa4d2a8ce3da4a9f5cfe6a1e9e8c88a5816eb60e9b57a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26.pathfinder",
+      "bytes": 33187,
+      "sha256": "dcd8076e827349567c3c2ba6ea7feeb0d566f79aa06ac86be5b5e14ea433a0e1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27-c.art",
+      "bytes": 2796210,
+      "sha256": "325cc0a38393fcc932e22e4d1b1a1a43dd57a9dfd7f93ac245fd8b7c06935ca8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27-l.art",
+      "bytes": 1398109,
+      "sha256": "3774d0731450907edf94500afd97fbc59c012fa2f6931e2d9d49bca8eab7b589"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27.pathfinder",
+      "bytes": 27619,
+      "sha256": "90b1372308d8ccb136a4f6ad521d121fae6bfb18233150b3dc7adacf6826803b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28-c.art",
+      "bytes": 2796210,
+      "sha256": "0e87f50a33b261bd30aee4d1b0c6494e97ce29a9e400d6e1cbc1a878b73eb732"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28-l.art",
+      "bytes": 1398109,
+      "sha256": "61caff31dd46329298decc79139588f12173676e447843701d2e51f3435dab27"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28.pathfinder",
+      "bytes": 30883,
+      "sha256": "4ea55cb685e393746f8ad3bef76373a4c99e8cad055b0a212a6a3c0cf62ec21b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29-c.art",
+      "bytes": 2796210,
+      "sha256": "9f43f68441baa35a95df65e42c0f7ab41f9a6f1ec045570d81eee9f0389b9ac8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29-l.art",
+      "bytes": 1398109,
+      "sha256": "fc9ebd4b6911ae234561f7d553c05ef46ff9ce01dd78226240136826a8d0c25b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29.pathfinder",
+      "bytes": 31651,
+      "sha256": "725d8d44fadc0d2a3ad2170e096700c8ee296fcf806397f07a193583cef7b277",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30-c.art",
+      "bytes": 2796210,
+      "sha256": "db73edc43634a9ff4f1d3bf357dfb51768100f0b313e60a46368cc8345e7676a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30-l.art",
+      "bytes": 1398109,
+      "sha256": "4bad1038a01b148d9001854e0df30777c9b84c5742cace136d17aaf17ac2a6c4"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30.pathfinder",
+      "bytes": 33315,
+      "sha256": "716ef320b5adab134b1fd6f7647b435eb53fb10cfbd9245e91a5e0aaa40f0b28",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31-c.art",
+      "bytes": 2796210,
+      "sha256": "c3d213e10a69d296e0e14999c233fa7f6440098941c79dae2e09a0edeb5d3828"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31-l.art",
+      "bytes": 1398109,
+      "sha256": "21c865bb23d3682226126f2c4d53eb07e54c851f308d66646900c7f9727b4324"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31.pathfinder",
+      "bytes": 32739,
+      "sha256": "ae866f8639a91994acb9549e89e93fab547dcce1da68c853aef06f3bc306c068",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32-c.art",
+      "bytes": 2796210,
+      "sha256": "24396c6b88906c27668a2f9cb8d5f7cce8c60790450b3a4a2425bff681a74aca"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32-l.art",
+      "bytes": 1398109,
+      "sha256": "ef44086172ab4f5562d307df6ee4111467e2fd6de3d81ef4f43b9ee8a19dceca"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32.pathfinder",
+      "bytes": 30243,
+      "sha256": "b2f00e5f6928cf25da12db600f4a1332488531d4f138a5052742961ac52c1e81",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33-c.art",
+      "bytes": 2796210,
+      "sha256": "8906ec27c3f89f8f0a8bbee7ec87911c96f60f3368a618088cbdca9f4cfd7855"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33-l.art",
+      "bytes": 1398109,
+      "sha256": "4786e8990649aabc97171ee8ea435aa0fd09c67aa5166654d123470e7e3da8f0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33.pathfinder",
+      "bytes": 33571,
+      "sha256": "7f96275e15847d1aec4ce52e7c469733b317b1d18ef4a6cfea63ad87533213c3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-RosetteMask-448h@2x.art",
+      "bytes": 250640,
+      "sha256": "4f4fc8b3af02c1e882926b06d50651f2e8ac5ef11b15a7dea79f0ea16b181eeb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-RosetteMask-484h@2x.art",
+      "bytes": 267920,
+      "sha256": "ecb9b7424d6c468a06dd29a280717d3b13b91b81bab66832e90da0adc712fc6e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-RosetteMask-502h@2x.art",
+      "bytes": 267920,
+      "sha256": "ecb9b7424d6c468a06dd29a280717d3b13b91b81bab66832e90da0adc712fc6e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/NTKKaleidoscopeShaders.metallib",
+      "bytes": 461584,
+      "sha256": "90d3cc89f25842e8d8b786cd22c4698ce3c1b192566128392a2beadf94562204"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 3867,
+      "sha256": "dca418b35b890f8d59ab79b3f64e840c7d7a5747b417ec042050e5133994d059",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 3930,
+      "sha256": "1b9771931c5706f3ff8589422471cd931a8169161c10e0db0cf946ef638072ba",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 3957,
+      "sha256": "de91ac0badee22a802bfb9fa97f95569672e2c229ed84e96b965360d5acab631",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 3887,
+      "sha256": "22280374bfaaa9855047692f21b4518665907b6c635944d0073e01fb551f1b13",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 3834,
+      "sha256": "67cf350aa96fa5ecb1ab5c22aba5c671b1c8c134526a7b1f8d80ab60d5aed206",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 4331,
+      "sha256": "067175019ea7304b0d393447c5128f32d2974172e9cab65b059ccebf99d99f5f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 3355,
+      "sha256": "904cc771b16dde9b86c70d2025ed7381878eadf9af01349d1f185ce6e46185ad",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 3356,
+      "sha256": "9389cab7a30f5c176ffd7f32ff7c4a48e9640856c0284510e400141df7f79564",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 3351,
+      "sha256": "3bd0319a2b10b5923bb1ac1e004957bb05bceb268cc5e9cb40c2d19c1881ae51",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 3925,
+      "sha256": "d5320a9a18eb83dff914df8c36775a89ec8a392c1625fec14e93039735f7391a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 3847,
+      "sha256": "81ca03dbf6dc7b496c0fcd8fafd4adf37df8512d82de8f6bb6b53241b339882d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 3744,
+      "sha256": "150a90dc9e36e851112518b34afd1f728f05652200536f9d66484654091db7fe",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 3957,
+      "sha256": "558a90b322baa3218b723820278874e693b5a9e3adb7015f769cd44669b35536",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 3975,
+      "sha256": "5436731790f718837e6fa75298b911520c9c677c445b946989a89f71dadcc512",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 3889,
+      "sha256": "4fd3dd582faf45e89176e85997aa963849ecdb1c6a88242ae9781e1b7050b15a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 3927,
+      "sha256": "a1088b6cf9cae10bd64b1f379a4a155db42ba01d0a5f87c58bb2204ad866248e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 3774,
+      "sha256": "cc7d82a5bc20a1c1555ae6606fd8ef7ce7e714fb017b918336df583abcb5f844",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 4001,
+      "sha256": "65ed6d0bb8cf1dd0fd6468650cc39cff1189188b40771191db901982addb11c1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 3374,
+      "sha256": "2da974db4758bea44f9b9f8040f7a6c2863a119c8f0dd75ca11819dcf244ba67",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 3744,
+      "sha256": "26a4256d9e2053d105122c6f5783c3f64a6ce3667f7618e621e5bd6fff935818",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 3440,
+      "sha256": "aa568cde524a32fa03c740f3679e20446798f12ade8290f5db10d85568a4c90d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 3392,
+      "sha256": "92a30069b3261d29788e1658300bb4359068b083fa4401e41fbc97c1f45dc194",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 3386,
+      "sha256": "914cd267feeff10532499f8d4b8e9213a06ab5c5d5747a0db13eec1260b6d10c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 3860,
+      "sha256": "84e91723c72ea08acc2b605ec604b2195db28e628e998ae908b9fafea12bb216",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 3828,
+      "sha256": "4cbec3815ab658a7ff25410a28b48ec1ed0da3984b27bea270f7d06b1f01487c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 3820,
+      "sha256": "b1124bb88827b208494a2cd716a2c76f6e87a88db22461d4d7920251148cf10d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 3833,
+      "sha256": "1eff98f94598954174ee67d84358646f246c81650a7ef3b685cacbe413477223",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 3881,
+      "sha256": "0b9723d370e083e073ba67e3907215abd36fa5f2f2d612b20eb2c01be0211f1e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 4158,
+      "sha256": "1bc16070a2907d5b107c8236647a4eb66983bb1802a9dfe03fd01d715110ebe4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 4253,
+      "sha256": "d0ee1cc1126723ff179aad907783b4dddbc8829118ca9155ad3b0e1aaa648b9f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 3915,
+      "sha256": "1472d050cc7fa54122bf145aeca3dcf35a4a6a9e55fad3b6fbdf4f72d3c69e68",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 3819,
+      "sha256": "d6f124b7ef20e5f2cc95fb1d653aa3a60fea7e51321213c67124d4f691888a3d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 3896,
+      "sha256": "d8ae4abfe9b73a1e6c3212f288da320d4e75646266058eea58bbf161fa0526e3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 4041,
+      "sha256": "4f5d4756d8712d563fd147c64031a084f1d7ca13a613f4e4b65ce267b5a87274",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 3993,
+      "sha256": "6e4ae09f060dacc68017b6927b2a508c913165c6e60f89253655d71030af3999",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 4093,
+      "sha256": "00f368e79bb2c63a542f1c8dbeddb58e05d0aea290ec02ec3eeee9c87dc1da4c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 4009,
+      "sha256": "763f866354a229137664753fad7b3c1fa4f02fff7c9315cf86491ebf81d44db8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 3136,
+      "sha256": "beed311f19ff8115c2bb65c7534aad1f30af8288d8cfc1c5afa655dbe6aa7df6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 3146,
+      "sha256": "ed96d730cc8f2bdfdf6b6bf686fb7050f516c92ec6dbd84f620948748eeed57d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 3144,
+      "sha256": "a69b2e08b0862aa7979172bb8ee26c2869a3fcff786ebd5f7e9b3a3815ac47f9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_5_24S132": {
+    "bundle": "Watch8_5_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle",
+    "code": "Watch8_5_24S132/解析/代码/KaleidoscopeFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/default.metallib",
+      "bytes": 44440,
+      "sha256": "022bc6dd8cfacfcf762f812d81c61815064a675fa0a01530ee55916ff681aefb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Info.plist",
+      "bytes": 855,
+      "sha256": "2e91247a794985f4f94353311a97dc01f08c66560f9a342d3967073fd25c2928",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01-c.art",
+      "bytes": 2796210,
+      "sha256": "18ba6b5c2ffbfaf60a7699ba2cf646a1d2c17533e79ff42fbd2d94308bae02c8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01-l.art",
+      "bytes": 1398109,
+      "sha256": "a736a232a80adf72670f2205facc628c19e8688c70025ba4fd3b8b0bcafadc67"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01.pathfinder",
+      "bytes": 51107,
+      "sha256": "2c1e5c39c63db732f1a9abe426b964927c03d66a92e5671ac7190244f5b95393",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset01.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02-c.art",
+      "bytes": 2796210,
+      "sha256": "f604d52bae9e9f850802161837bda61dcef866ae16ea01efd608ecb3fe0dd17b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02-l.art",
+      "bytes": 1398109,
+      "sha256": "059a6b3779f745cd5579398fcadadabc8823fb555214fba033e4b79b99806bc7"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02.pathfinder",
+      "bytes": 44451,
+      "sha256": "3676d94c673632743865df30b1781a9edcdc4391fb614748a980f0877f4ef9bb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset02.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03-c.art",
+      "bytes": 2796210,
+      "sha256": "a9bb2648d7dcf4856f4d0a9d69eb185648f5c5cae3788bcd2289f9b5e326d212"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03-l.art",
+      "bytes": 1398109,
+      "sha256": "508543c18075ea28567a71fd1277869e60aabd4766d3d53ca7337bb089519a79"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03.pathfinder",
+      "bytes": 53795,
+      "sha256": "060e161cf78df066f13e99fa5665163090da7447b0339cb4f3ea099dd1a5e26f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset03.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04-c.art",
+      "bytes": 2796210,
+      "sha256": "db053a2d8861335f0015d70bddad2debc0e721ff453ac7a365914dbcc18bd77a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04-l.art",
+      "bytes": 1398109,
+      "sha256": "53aac415bbec3c2952c785fd7357242a6a0a674729f04c4f673fc33db487f8f1"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04.pathfinder",
+      "bytes": 53347,
+      "sha256": "6d5999a6418a46b6db555321909c2fa9c033fe617d16dc8852482277a6f73765",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset04.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05-c.art",
+      "bytes": 2796210,
+      "sha256": "a3d5a93cdde34afb85b4c09e39f8c23a96e7d8eb42e35973c59be79a343b8481"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05-l.art",
+      "bytes": 1398109,
+      "sha256": "ed6da6a88af3ff1f3c7830c6e492133ec63a53256f75405da615161814885a8d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05.pathfinder",
+      "bytes": 47267,
+      "sha256": "5ff78dfae7a3713c8c705072ab90998eba68a348207ee539aa661f9b66978a7c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset05.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06-c.art",
+      "bytes": 2796210,
+      "sha256": "2372945de0aba5d66fa08a245be488b637af7dea9f52bad3a05af28cbd52eddf"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06-l.art",
+      "bytes": 1398109,
+      "sha256": "34712acef2287b2987a4ef935a74138c90e60bb65a5d13a743d1873c80d3c32d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06.pathfinder",
+      "bytes": 52771,
+      "sha256": "88e2bb834e52e9f62cb5795716a57acd32a6c9d97df068d429ad3a7178a97b72",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset06.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07-c.art",
+      "bytes": 2796210,
+      "sha256": "4cee202cf3dc8e9f7b5591dbcb3433e5c3366457e33a87cc3cc0631df85b30fc"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07-l.art",
+      "bytes": 1398109,
+      "sha256": "b8be22ad9b8bac0acebee40fc49ee784c4d160335cfae5280b46863e54485c6f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07.pathfinder",
+      "bytes": 71467,
+      "sha256": "0e531c7b9413a9d6cc0bee7173d88621e9841608f5c61c9f019087f11c7e2d22",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset07.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08-c.art",
+      "bytes": 2796210,
+      "sha256": "de035fec32ffe08a998e1855c8b9531be65f01d34db6cd7347a10f2710c3e0a1"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08-l.art",
+      "bytes": 1398109,
+      "sha256": "959a02a989d8e0721be6a3745fc745aaf5b42540bbb19c6c66ea2ab9f4a19039"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08.pathfinder",
+      "bytes": 39779,
+      "sha256": "40dd4767f9b33ee3327ea9d180bbc467a5757725e682237e28857ee1a749193e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset08.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09-c.art",
+      "bytes": 2796210,
+      "sha256": "0468bbdf7bb70c098ffbe0d40aee17f57fe08d9e572c2a810f0719cd16357f96"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09-l.art",
+      "bytes": 1398109,
+      "sha256": "aaa4bc89f41fd333dcc1206f4eca3c394e5899d95740dd396346ec95081ae078"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09.pathfinder",
+      "bytes": 34727,
+      "sha256": "2c2e307fb69438f3fb7fa468625de90eddc4668cef080b87043fff87b90b840b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset09.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10-c.art",
+      "bytes": 2796210,
+      "sha256": "3b997074b65e30fa4575d0a78b325c393c9342eb50783f83664396873bdfc905"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10-l.art",
+      "bytes": 1398109,
+      "sha256": "5da28e5ec9bbdbc71395f775301ecfb99d02d37a52405d46a58bc89063068bb5"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10.pathfinder",
+      "bytes": 35495,
+      "sha256": "5d42a41c3743b047701225318c43f765a1b603e776c072b32fec36132939fa6b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset10.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11-c.art",
+      "bytes": 2796210,
+      "sha256": "e64a47128ec1d33ed9bd53ef856dfcd8ea3484509b5a336f65794321ac0739fb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11-l.art",
+      "bytes": 1398109,
+      "sha256": "d0d0dcc7262676caf861aeeb7e3525879e5c39496651007b3a141b992beb4be2"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11.pathfinder",
+      "bytes": 21607,
+      "sha256": "50bd6a60fe4439c8a9a5a063079062f6b9940d8c99a092dcee83cb9fde66bd6f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset11.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12-c.art",
+      "bytes": 2796210,
+      "sha256": "7c2e487780533bd6e7085f8388d534e5fcbbdc9115ff037abf984171850c2cea"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12-l.art",
+      "bytes": 1398109,
+      "sha256": "d7aa7d7d1502b040ba7bb90321a6c568c168f2b97aa5a1e7d301b291a7db855d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12.pathfinder",
+      "bytes": 36583,
+      "sha256": "a40cdcf2a280946dab88e0725c2d85fa027d084b0b78f5805b204a2566643707",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset12.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13-c.art",
+      "bytes": 2796210,
+      "sha256": "832ddbb67c9cb60e58a86c2d3fb778a0a2e5047760171b18cdac7af619ece565"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13-l.art",
+      "bytes": 1398109,
+      "sha256": "73589129e5e45037c62a218c33f0f2e540a0916193003e449eed80f60b64e87f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13.pathfinder",
+      "bytes": 19747,
+      "sha256": "fc7aa32c48d45345e747273367791f6d3ef92e9ef589b92ec0f6075b7537de6e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset13.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14-c.art",
+      "bytes": 2796210,
+      "sha256": "282d99fce9d00f4ba3986bcc0306f256a56a5312bdd078252f40e2b60e536d6d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14-l.art",
+      "bytes": 1398109,
+      "sha256": "961dd9ae4f069f89a0a8d1cb746c8c3385e100cc6d4613c2a6d0b8928b2f3d78"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14.pathfinder",
+      "bytes": 20131,
+      "sha256": "10a7994f9f47d8c357e511d5076d652d918048dec6a6aff2328e743276d54a09",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset14.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15-c.art",
+      "bytes": 2796210,
+      "sha256": "d10e7123f2e780a748c21adc86c2ed150c714610edc21bbef7d97a20116f18c4"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15-l.art",
+      "bytes": 1398109,
+      "sha256": "a024be2ab814e014bf1254c917d76f802269a0f58dfc1706b61228f40760e7dd"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15.pathfinder",
+      "bytes": 20899,
+      "sha256": "c2324c1ecd09cd1032dbdab6228c3e49789fb73f07ffa09664029b5e67718f5c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset15.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16-c.art",
+      "bytes": 2796210,
+      "sha256": "af6a03fe2985cbe45e63458847af6ea4342fde9a9b5c6bf2c1b3bceef60aa1c9"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16-l.art",
+      "bytes": 1398109,
+      "sha256": "4a52023759f2982b0ad0700a62a1171a9128789674315d9395fa8ae201fa1175"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16.pathfinder",
+      "bytes": 21411,
+      "sha256": "b5f60826d423455c9358d502ce5d68dd7ee8971691e71d2fd4a7d480f3fc4da7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset16.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17-c.art",
+      "bytes": 2796210,
+      "sha256": "829c5f403f35c16924a05ef195c7006199bf7d60c6b4753337bf2abf76b53ee8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17-l.art",
+      "bytes": 1398109,
+      "sha256": "6cd9d06cc79364bd7444843c29378100cacd9d88297b4dd66963f7dba17934f0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17.pathfinder",
+      "bytes": 29155,
+      "sha256": "76ee3cf4c54c8d60e927e46b63b98e5a20eee390df8d4d30cf40ab50ce1776b0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset17.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18-c.art",
+      "bytes": 2796210,
+      "sha256": "15b8ded4de3d517cf7be6b65899c5242f14cd1f3662a0f640ebd7975fda97bcd"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18-l.art",
+      "bytes": 1398109,
+      "sha256": "6b63329af0adefea503cc4dc419a06514a2b6760cf87c4efcd0260cdbcddaf5f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18.pathfinder",
+      "bytes": 27811,
+      "sha256": "e1c4e259296375d63635e04063287371610b02405468544d6e544c13a6a89c12",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset18.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19-c.art",
+      "bytes": 2796210,
+      "sha256": "869bf8178c117657b3a07df944ab23adaefe382403ed5feaa706f98d634f15d8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19-l.art",
+      "bytes": 1398109,
+      "sha256": "6e4d77b433fb54cae74a50396b4f5cdd832733d380cae3281e43b7df8c9f90eb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19.pathfinder",
+      "bytes": 27555,
+      "sha256": "a3d0b9023183876924ed0505c3878184452e78670cbd04fc297a344d7bcb6d81",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset19.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20-c.art",
+      "bytes": 2796210,
+      "sha256": "7418edea0857eb257a770e298e596a461945c73af80ee8cb0fd383427b902e64"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20-l.art",
+      "bytes": 1398109,
+      "sha256": "5d2384d72ae2a71cf694331a674e95042e82bfd88b2305ee266b834b9e9c3b4d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20.pathfinder",
+      "bytes": 28131,
+      "sha256": "b29fba251a53524c013f80881f1d4cf592014d1139f80e570e26679d1a1cd4ff",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset20.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21-c.art",
+      "bytes": 2796210,
+      "sha256": "c7645b21bb5a4c8e7bfcdacd0d4b46d2513ee05cf0fb2b93d5ae254105cba94e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21-l.art",
+      "bytes": 1398109,
+      "sha256": "8fb0db69da4d3cc712aa448c89dfb0a05af5eb5a2ca7d833c63904129c441556"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21.pathfinder",
+      "bytes": 28067,
+      "sha256": "2d3ba8d1ca765b2545302b54f792b0eb27d83af7ba1a5831ca5235103bacda09",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset21.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22-c.art",
+      "bytes": 2796210,
+      "sha256": "0f7d0864adc4c18d897b3375bccfbb985bd1931338563a856171868ddb950a40"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22-l.art",
+      "bytes": 1398109,
+      "sha256": "ce3d744d7e9311db2494b33d55c014ffb81a58db2e0185b72969bf26ce9916da"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22.pathfinder",
+      "bytes": 28515,
+      "sha256": "00a914f53645ec287c892c9bc17045ac0ab2290c2cf9a10dd4d18856cfa8ccdc",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset22.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23-c.art",
+      "bytes": 2796210,
+      "sha256": "8899fb0eb0094e58877d25cf1e99ddebff82443bf2d0447003c2273d01f3f0c7"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23-l.art",
+      "bytes": 1398109,
+      "sha256": "6501bd92803e7f82e835e3d368bb3ff38970cb666eb5dd5f445d16770be1271b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23.pathfinder",
+      "bytes": 28067,
+      "sha256": "4d6c0e8c84c79d5c9f83b29a6f75b182317fcc08135199060cf6f22229fdb61f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset23.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24-c.art",
+      "bytes": 2796210,
+      "sha256": "091b2aa8899f39d08ec1f13e1a4154cb19d9b32f49024f1b9d6c98409d5c1cf0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24-l.art",
+      "bytes": 1398109,
+      "sha256": "13e7f347036950dd60c20ae6e2e56e355bb96b290618ab4719f37e2a11c02b69"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24.pathfinder",
+      "bytes": 24675,
+      "sha256": "d8deefff163bfef04932a3f3b7113c79726909b60f50faef64f4133aee6f44d0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset24.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25-c.art",
+      "bytes": 2796210,
+      "sha256": "8939f62cb330c34fb10364a291495d3b093c588a2cf9a0d149e83ed689faf541"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25-l.art",
+      "bytes": 1398109,
+      "sha256": "3aa4269c44c0702edb744ce622382528833eb6253866fd6d7829ee5904cdea89"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25.pathfinder",
+      "bytes": 26083,
+      "sha256": "00a0f33512748e120a90204887d141d0a3525be04d3f68b65bdb7ee9c9056b0b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset25.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26-c.art",
+      "bytes": 2796210,
+      "sha256": "f320da73b91f6a4f02a5ec489fa4eb275831edc4e1e43c71172d7ed4deded8bb"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26-l.art",
+      "bytes": 1398109,
+      "sha256": "bdda47e6cd805902d21aa4d2a8ce3da4a9f5cfe6a1e9e8c88a5816eb60e9b57a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26.pathfinder",
+      "bytes": 33187,
+      "sha256": "dcd8076e827349567c3c2ba6ea7feeb0d566f79aa06ac86be5b5e14ea433a0e1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset26.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27-c.art",
+      "bytes": 2796210,
+      "sha256": "325cc0a38393fcc932e22e4d1b1a1a43dd57a9dfd7f93ac245fd8b7c06935ca8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27-l.art",
+      "bytes": 1398109,
+      "sha256": "3774d0731450907edf94500afd97fbc59c012fa2f6931e2d9d49bca8eab7b589"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27.pathfinder",
+      "bytes": 27619,
+      "sha256": "90b1372308d8ccb136a4f6ad521d121fae6bfb18233150b3dc7adacf6826803b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset27.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28-c.art",
+      "bytes": 2796210,
+      "sha256": "0e87f50a33b261bd30aee4d1b0c6494e97ce29a9e400d6e1cbc1a878b73eb732"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28-l.art",
+      "bytes": 1398109,
+      "sha256": "61caff31dd46329298decc79139588f12173676e447843701d2e51f3435dab27"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28.pathfinder",
+      "bytes": 30883,
+      "sha256": "4ea55cb685e393746f8ad3bef76373a4c99e8cad055b0a212a6a3c0cf62ec21b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset28.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29-c.art",
+      "bytes": 2796210,
+      "sha256": "9f43f68441baa35a95df65e42c0f7ab41f9a6f1ec045570d81eee9f0389b9ac8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29-l.art",
+      "bytes": 1398109,
+      "sha256": "fc9ebd4b6911ae234561f7d553c05ef46ff9ce01dd78226240136826a8d0c25b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29.pathfinder",
+      "bytes": 31651,
+      "sha256": "725d8d44fadc0d2a3ad2170e096700c8ee296fcf806397f07a193583cef7b277",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset29.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30-c.art",
+      "bytes": 2796210,
+      "sha256": "db73edc43634a9ff4f1d3bf357dfb51768100f0b313e60a46368cc8345e7676a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30-l.art",
+      "bytes": 1398109,
+      "sha256": "4bad1038a01b148d9001854e0df30777c9b84c5742cace136d17aaf17ac2a6c4"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30.pathfinder",
+      "bytes": 33315,
+      "sha256": "716ef320b5adab134b1fd6f7647b435eb53fb10cfbd9245e91a5e0aaa40f0b28",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset30.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31-c.art",
+      "bytes": 2796210,
+      "sha256": "c3d213e10a69d296e0e14999c233fa7f6440098941c79dae2e09a0edeb5d3828"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31-l.art",
+      "bytes": 1398109,
+      "sha256": "21c865bb23d3682226126f2c4d53eb07e54c851f308d66646900c7f9727b4324"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31.pathfinder",
+      "bytes": 32739,
+      "sha256": "ae866f8639a91994acb9549e89e93fab547dcce1da68c853aef06f3bc306c068",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset31.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32-c.art",
+      "bytes": 2796210,
+      "sha256": "24396c6b88906c27668a2f9cb8d5f7cce8c60790450b3a4a2425bff681a74aca"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32-l.art",
+      "bytes": 1398109,
+      "sha256": "ef44086172ab4f5562d307df6ee4111467e2fd6de3d81ef4f43b9ee8a19dceca"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32.pathfinder",
+      "bytes": 30243,
+      "sha256": "b2f00e5f6928cf25da12db600f4a1332488531d4f138a5052742961ac52c1e81",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset32.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33-c.art",
+      "bytes": 2796210,
+      "sha256": "8906ec27c3f89f8f0a8bbee7ec87911c96f60f3368a618088cbdca9f4cfd7855"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33-l.art",
+      "bytes": 1398109,
+      "sha256": "4786e8990649aabc97171ee8ea435aa0fd09c67aa5166654d123470e7e3da8f0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33.pathfinder",
+      "bytes": 33571,
+      "sha256": "7f96275e15847d1aec4ce52e7c469733b317b1d18ef4a6cfea63ad87533213c3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-Asset33.pathfinder.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/Kaleidoscope-RosetteMask-484h@2x.art",
+      "bytes": 267920,
+      "sha256": "ecb9b7424d6c468a06dd29a280717d3b13b91b81bab66832e90da0adc712fc6e"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/NTKKaleidoscopeShaders.metallib",
+      "bytes": 461584,
+      "sha256": "90d3cc89f25842e8d8b786cd22c4698ce3c1b192566128392a2beadf94562204"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 3867,
+      "sha256": "dca418b35b890f8d59ab79b3f64e840c7d7a5747b417ec042050e5133994d059",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 3930,
+      "sha256": "1b9771931c5706f3ff8589422471cd931a8169161c10e0db0cf946ef638072ba",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 3957,
+      "sha256": "de91ac0badee22a802bfb9fa97f95569672e2c229ed84e96b965360d5acab631",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 3887,
+      "sha256": "22280374bfaaa9855047692f21b4518665907b6c635944d0073e01fb551f1b13",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 3834,
+      "sha256": "67cf350aa96fa5ecb1ab5c22aba5c671b1c8c134526a7b1f8d80ab60d5aed206",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 4331,
+      "sha256": "067175019ea7304b0d393447c5128f32d2974172e9cab65b059ccebf99d99f5f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 3355,
+      "sha256": "904cc771b16dde9b86c70d2025ed7381878eadf9af01349d1f185ce6e46185ad",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 3356,
+      "sha256": "9389cab7a30f5c176ffd7f32ff7c4a48e9640856c0284510e400141df7f79564",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 3351,
+      "sha256": "3bd0319a2b10b5923bb1ac1e004957bb05bceb268cc5e9cb40c2d19c1881ae51",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 3925,
+      "sha256": "d5320a9a18eb83dff914df8c36775a89ec8a392c1625fec14e93039735f7391a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 3847,
+      "sha256": "81ca03dbf6dc7b496c0fcd8fafd4adf37df8512d82de8f6bb6b53241b339882d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 3744,
+      "sha256": "150a90dc9e36e851112518b34afd1f728f05652200536f9d66484654091db7fe",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 3957,
+      "sha256": "558a90b322baa3218b723820278874e693b5a9e3adb7015f769cd44669b35536",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 3975,
+      "sha256": "5436731790f718837e6fa75298b911520c9c677c445b946989a89f71dadcc512",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 3889,
+      "sha256": "4fd3dd582faf45e89176e85997aa963849ecdb1c6a88242ae9781e1b7050b15a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 3927,
+      "sha256": "a1088b6cf9cae10bd64b1f379a4a155db42ba01d0a5f87c58bb2204ad866248e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 3774,
+      "sha256": "cc7d82a5bc20a1c1555ae6606fd8ef7ce7e714fb017b918336df583abcb5f844",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 4001,
+      "sha256": "65ed6d0bb8cf1dd0fd6468650cc39cff1189188b40771191db901982addb11c1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 3374,
+      "sha256": "2da974db4758bea44f9b9f8040f7a6c2863a119c8f0dd75ca11819dcf244ba67",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 3744,
+      "sha256": "26a4256d9e2053d105122c6f5783c3f64a6ce3667f7618e621e5bd6fff935818",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 3440,
+      "sha256": "aa568cde524a32fa03c740f3679e20446798f12ade8290f5db10d85568a4c90d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 3392,
+      "sha256": "92a30069b3261d29788e1658300bb4359068b083fa4401e41fbc97c1f45dc194",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 3386,
+      "sha256": "914cd267feeff10532499f8d4b8e9213a06ab5c5d5747a0db13eec1260b6d10c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 3860,
+      "sha256": "84e91723c72ea08acc2b605ec604b2195db28e628e998ae908b9fafea12bb216",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 3828,
+      "sha256": "4cbec3815ab658a7ff25410a28b48ec1ed0da3984b27bea270f7d06b1f01487c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 3820,
+      "sha256": "b1124bb88827b208494a2cd716a2c76f6e87a88db22461d4d7920251148cf10d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 3833,
+      "sha256": "1eff98f94598954174ee67d84358646f246c81650a7ef3b685cacbe413477223",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 3881,
+      "sha256": "0b9723d370e083e073ba67e3907215abd36fa5f2f2d612b20eb2c01be0211f1e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 4158,
+      "sha256": "1bc16070a2907d5b107c8236647a4eb66983bb1802a9dfe03fd01d715110ebe4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 4253,
+      "sha256": "d0ee1cc1126723ff179aad907783b4dddbc8829118ca9155ad3b0e1aaa648b9f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 3915,
+      "sha256": "1472d050cc7fa54122bf145aeca3dcf35a4a6a9e55fad3b6fbdf4f72d3c69e68",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 3819,
+      "sha256": "d6f124b7ef20e5f2cc95fb1d653aa3a60fea7e51321213c67124d4f691888a3d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 3896,
+      "sha256": "d8ae4abfe9b73a1e6c3212f288da320d4e75646266058eea58bbf161fa0526e3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 4041,
+      "sha256": "4f5d4756d8712d563fd147c64031a084f1d7ca13a613f4e4b65ce267b5a87274",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 3993,
+      "sha256": "6e4ae09f060dacc68017b6927b2a508c913165c6e60f89253655d71030af3999",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 4093,
+      "sha256": "00f368e79bb2c63a542f1c8dbeddb58e05d0aea290ec02ec3eeee9c87dc1da4c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 4009,
+      "sha256": "763f866354a229137664753fad7b3c1fa4f02fff7c9315cf86491ebf81d44db8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 3136,
+      "sha256": "beed311f19ff8115c2bb65c7534aad1f30af8288d8cfc1c5afa655dbe6aa7df6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 3146,
+      "sha256": "ed96d730cc8f2bdfdf6b6bf686fb7050f516c92ec6dbd84f620948748eeed57d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 3144,
+      "sha256": "a69b2e08b0862aa7979172bb8ee26c2869a3fcff786ebd5f7e9b3a3815ac47f9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/KaleidoscopeFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   }
+  },
+  "固件文字": {
+   "描述": [
+    [
+     "FACE_STYLE_23_DESCRIPTION",
+     "灵感来自于万花筒创造的图案和图像，这款表盘使用自定义算法来分析你挑选的照片，寻找最有趣的元素，并创建全天内动态变换的精美表盘。轻点表盘然后旋转数码表冠即可前后移动图像。三种风格任你选择。"
+    ]
+   ],
+   "编辑选项": [
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_CUSTOM",
+     "自定义照片"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_2_5_0",
+     "花朵II"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_25_5_0",
+     "交汇IV"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_STYLE_RADIAL",
+     "射线"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_14_5_0",
+     "镜像I"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_30_5_0",
+     "宝石III"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_STYLE_FSFACET",
+     "千面I"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_7_5_0",
+     "花朵VII"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_8",
+     "VIII"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_STYLE_LIMIT",
+     "玫瑰花结"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_26_5_0",
+     "交汇III"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_7",
+     "VII"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_15_5_0",
+     "镜像II"
+    ],
+    [
+     "EDIT_MODE_LABEL_STYLE",
+     "风格"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_4_5_0",
+     "花朵IV"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_20_5_0",
+     "波浪IV"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_31_5_0",
+     "宝石IV"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_6",
+     "VI"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_27_5_0",
+     "交汇II"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_9_5_0",
+     "图形II"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_16_5_0",
+     "镜像IV"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_5",
+     "V"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_1_5_0",
+     "花朵I"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_21_5_0",
+     "波浪V"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_32_5_0",
+     "宝石V"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_10_5_0",
+     "图形I"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_4",
+     "IV"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_6_5_0",
+     "花朵VI"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_28_5_0",
+     "宝石I"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_17_5_0",
+     "波浪I"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_33_5_0",
+     "宝石VI"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_3",
+     "III"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_22_5_0",
+     "波浪VI"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_11_5_0",
+     "图形III"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_3_5_0",
+     "花朵III"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_2",
+     "II"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_29_5_0",
+     "宝石II"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_18_5_0",
+     "波浪II"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_1",
+     "I"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_23_5_0",
+     "波浪VII"
+    ],
+    [
+     "EDIT_MODE_LABEL_IMAGE",
+     "图像"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_8_5_0",
+     "花朵VIII"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_12_5_0",
+     "图形IV"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_STYLE_FACETED",
+     "千面II"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_19_5_0",
+     "波浪III"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_5_5_0",
+     "花朵V"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_24_5_0",
+     "交汇I"
+    ],
+    [
+     "EDIT_OPTION_LABEL_KALEIDOSCOPE_ASSET_13_5_0",
+     "镜像III"
+    ]
+   ]
+  },
+  "方法索引": {
+   "息屏与唤醒": [
+    "-[NTKKaleidoscopeFaceView tritium_didTransitionToTritiumOn];",
+    "-[NTKKaleidoscopeFaceView tritium_didTransitionToTritiumOff];",
+    "-[NTKKaleidoscopeFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKKaleidoscopeFaceView tritium_createFaceAnimator];",
+    "-[NTKKaleidoscopeFaceView tritium_alwaysOnTimelines];",
+    "-[NTKKaleidoscopeFaceView tritium_transitionToFrameSpecifier:];",
+    "-[NTKKaleidoscopeFaceView _prepareWristRaiseAnimation];",
+    "-[NTKKaleidoscopeFaceView _performWristRaiseAnimation];",
+    "-[NTKKaleidoscopeFaceView _tritium_updateComplicationColors];",
+    "-[NTKKaleidoscopeFaceView tritium_willTransitionToTritiumOnToFrameSpecifier:];",
+    "-[NTKKaleidoscopeFaceView tritium_willTransitionToTritiumOffFromFrameSpecifier:];",
+    "-[NTKKaleidoscopeTritiumFrameSpecifier description];",
+    "-[NTKKaleidoscopeTritiumFrameSpecifier initWithTimelineIdentifier:presentationTime:fromDate:toDate:faceView:];",
+    "-[NTKKaleidoscopeTritiumFrameSpecifier dimming];",
+    "-[NTKKaleidoscopeTritiumFrameSpecifier finalizeWithDimmingValue:overrideQuadDisplayTime:];",
+    "-[NTKKaleidoscopeTritiumFrameSpecifier overrideQuadDisplayTime];"
+   ],
+   "动画与时间变化": [
+    "-[NTKKaleidoscopeFaceView tritium_didTransitionToTritiumOn];",
+    "-[NTKKaleidoscopeFaceView tritium_didTransitionToTritiumOff];",
+    "-[NTKKaleidoscopeFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKKaleidoscopeFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKKaleidoscopeFaceView tritium_createFaceAnimator];",
+    "-[NTKKaleidoscopeFaceView tritium_alwaysOnTimelines];",
+    "-[NTKKaleidoscopeFaceView tritium_transitionToFrameSpecifier:];",
+    "-[NTKKaleidoscopeFaceView _cleanupAfterTransitionComplicationSlot:selectedComplication:];",
+    "-[NTKKaleidoscopeFaceView _prepareWristRaiseAnimation];",
+    "-[NTKKaleidoscopeFaceView screenWillTurnOnAnimated:];",
+    "-[NTKKaleidoscopeFaceView _performWristRaiseAnimation];",
+    "-[NTKKaleidoscopeFaceView _configureForTransitionFraction:fromEditMode:toEditMode:];",
+    "-[NTKKaleidoscopeFaceView tritium_willTransitionToTritiumOnToFrameSpecifier:];",
+    "-[NTKKaleidoscopeFaceView screenDidTurnOffAnimated:];",
+    "-[NTKKaleidoscopeFaceView tritium_willTransitionToTritiumOffFromFrameSpecifier:];",
+    "-[NTKKaleidoscopeFaceView _tapToInteractiveModeAnimationDidEnd];",
+    "-[NTKKaleidoscopeFaceView _tapToInteractiveModeAnimationWillBegin];",
+    "-[NTKKaleidoscopeFaceView _animateToCurrentDateFromDate:];",
+    "-[NTKKaleidoscopeFaceView _updateDayDuration];",
+    "-[NTKKaleidoscopeFaceView _updateDayDurationOnNextRunloopTurn];",
+    "-[NTKKaleidoscopeQuad secondaryTexture];",
+    "-[NTKKaleidoscopeQuad setSecondaryTexture:];",
+    "-[NTKKaleidoscopeTritiumFrameSpecifier initWithTimelineIdentifier:presentationTime:fromDate:toDate:faceView:];"
+   ],
+   "组件与编辑": [
+    "+[NTKKaleidoscopeFace _faceClassOfFaceWithRichComplicationSlotsForDevice:];",
+    "+[NTKKaleidoscopeFace _complicationSlotDescriptors];",
+    "+[NTKKaleidoscopeFace _orderedComplicationSlots];",
+    "-[NTKKaleidoscopeFace editOptionThatHidesAllComplications];",
+    "-[NTKKaleidoscopeFace _numberOfOptionsForCustomEditMode:slot:];",
+    "-[NTKKaleidoscopeFace _defaultOptionForCustomEditMode:slot:];",
+    "-[NTKKaleidoscopeFace _indexOfOption:forCustomEditMode:slot:];",
+    "-[NTKKaleidoscopeFace _optionAtIndex:forCustomEditMode:slot:];",
+    "-[NTKKaleidoscopeFace _complicationsNotAvailableForThisNounString];",
+    "-[NTKKaleidoscopeFaceView _complicationAlphaForEditMode:];",
+    "-[NTKKaleidoscopeFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKKaleidoscopeFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKKaleidoscopeFaceView _layoutStyleForSlot:];",
+    "-[NTKKaleidoscopeFaceView _applyOption:forCustomEditMode:slot:];",
+    "-[NTKKaleidoscopeFaceView _prepareForEditing];",
+    "-[NTKKaleidoscopeFaceView _cleanupAfterEditing];",
+    "-[NTKKaleidoscopeFaceView _keylineViewForCustomEditMode:slot:];",
+    "-[NTKKaleidoscopeFaceView _curvedComplicationCircleRadius:centerAngle:maxAngularWidth:circleCenter:interior:forSlot:];",
+    "-[NTKKaleidoscopeFaceView _hideTimeAndComplicationsInHomeScreen];",
+    "-[NTKKaleidoscopeFaceView _keylineStyleForComplicationSlot:];",
+    "-[NTKKaleidoscopeFaceView _cleanupAfterTransitionComplicationSlot:selectedComplication:];",
+    "-[NTKKaleidoscopeFaceView _relativeKeylineFrameForCustomEditMode:slot:];",
+    "-[NTKKaleidoscopeFaceView layoutConfigurationForSlot:];",
+    "-[NTKKaleidoscopeFaceView _tritium_updateComplicationColors];",
+    "-[NTKKaleidoscopeFaceView _updateComplicationColors];",
+    "-[NTKKaleidoscopeFaceView textLayoutStyleForSlot:];",
+    "-[NTKKaleidoscopeFaceView _applyRubberBandingFraction:forCustomEditMode:slot:];",
+    "-[NTKKaleidoscopeFaceView _complicationPickerStyleForSlot:];",
+    "-[NTKKaleidoscopeFaceView _newComplicationFactoryForDevice:];",
+    "+[NTKKaleidoscopeFacesGalleryCollection complicationTypesBySlot];",
+    "+[NTKKaleidoscopeFacesGalleryCollection spring2020ComplicationTypesBySlot];",
+    "-[NTKKaleidoscopePhotoAnalysis isColoredText];",
+    "+[NTKKaleidoscopeRichFace _complicationSlotDescriptors];",
+    "+[NTKKaleidoscopeRichFace _richComplicationSlotsForDevice:];",
+    "-[NTKKaleidoscopeRichFaceView _updateComplicationColors];",
+    "-[NTKKaleidoscopeRichFaceView _keylineFrameForComplicationSlot:selected:];",
+    "-[NTKKaleidoscopeRichFaceView _newComplicationFactoryForDevice:];"
+   ]
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "流转",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apdef529e7ee",
+  "description": [
+    "此表盘将文字与色彩和运动融为一体，共同展现时光的流逝。色彩随秒数增加逐渐自下而上填充表盘，数字在分钟数变动时跃然呈现新样式。"
+  ],
+  "options": [
+    "可自定义的功能：颜色 • 数字（西阿拉伯文、东阿拉伯文、天城文）"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/835242c7-8432-4057-96ea-7ec10dafdfa7",
+      "alt": "“流转”表盘。",
+      "file": "表盘资料/流转/官方图1.png"
+    }
+  ]
+}

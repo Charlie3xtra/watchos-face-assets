@@ -1,0 +1,17 @@
+{
+  "name": "Nike 回弹",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apdd19e12347",
+  "description": [
+    "此表盘会随着你一起移动。你迈开每一步、每次跳跃或每次活动手腕，数字都会随之变化。你还可以轻点屏幕或旋转数码表冠来引起变化。"
+  ],
+  "options": [
+    "可自定义的功能：颜色 • 背景"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/5cff1252-09f1-4da5-a166-df2c96dae3c7",
+      "alt": "“Nike 回弹”表盘，中间以大数字形式显示数字时间。",
+      "file": "表盘资料/Nike 回弹/官方图1.png"
+    }
+  ]
+}

@@ -1,0 +1,2275 @@
+{
+ "NTKSquallFaceBundle.bundle": {
+  "title_evidence": [
+   [
+    "zh_CN.lproj/Localizable.strings",
+    "FACE_STYLE_SQUALL_IN_TITLE_CASE",
+    "Hermès航海"
+   ]
+  ],
+  "models": {
+   "Watch7_12_24S132": {
+    "bundle": "Watch7_12_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle",
+    "code": "Watch7_12_24S132/解析/代码/NTKSquallFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/Assets.car",
+      "bytes": 54600,
+      "sha256": "7469b4ebb4d94c1a9c9f4cd044d5f8e72e26ca46511e5273fd835a2f483026d2"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/Info.plist",
+      "bytes": 750,
+      "sha256": "432e49ef34125857a394031d18125073c1ab11666b9db1f7431b8b65865ae36b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/NTKSquall.color.plist",
+      "bytes": 196,
+      "sha256": "222d1d0737f70096bea240b9d20765df5ec42cc9dd46619295849b29050f74cb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/NTKSquall.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaChimeTimer.caf",
+      "bytes": 39376,
+      "sha256": "4e87687d9328525c3d09ef8e9939a2e9e5d13b1a582e5812e18f8a789e885d61"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaChimeTimer.plist",
+      "bytes": 146,
+      "sha256": "e78a06a9573ca8cb66fc32c79ceb82f33c86828513d6f259955c422d17fb30c9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaChimeTimer.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaMinuteTimer.caf",
+      "bytes": 64926,
+      "sha256": "c252eb74b5ea5364936a265a7a0f978a3b19c3c76dc305e6b7c81bcd1ba37aad"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaMinuteTimer.plist",
+      "bytes": 136,
+      "sha256": "d2e3bf3989eaef4082b9e403f67bed007d9997829a708cd66fb151dbfa01176c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaMinuteTimer.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaRaceStart.caf",
+      "bytes": 110898,
+      "sha256": "ee58632a3ab51ac0af8d4954583c484f71c93824e97fb38d51f407082a98e8c0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaRaceStart.plist",
+      "bytes": 236,
+      "sha256": "1688ab4a917e4b5b4c2b7cbee1beb3ecae47889269352bcd0e95c7ce8f90b997",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaRaceStart.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerDouble.caf",
+      "bytes": 88824,
+      "sha256": "5d4a0a8d5f92591f9cbf0d1e32bab8dec5a9c4b5fb81de19818ccbdcf24de1c6"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerDouble.plist",
+      "bytes": 146,
+      "sha256": "13b8939806fb3883e7c786e3e38d184379cf8dc56b7c4f3d12225d414308b427",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerDouble.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerSingle.caf",
+      "bytes": 45324,
+      "sha256": "77c70304812bd1bf74b1062c14c949b919b233adc29bc7f64453994d7d5d5171"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerSingle.plist",
+      "bytes": 136,
+      "sha256": "4c2af3801e5935bcdb3917dc883064158c283f5369e265fe732b127f772f6020",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerSingle.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerTriple.caf",
+      "bytes": 99246,
+      "sha256": "8370a9194f5814b08963c45de5ef3672006cf13003145e045d13ec811ac3f068"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerTriple.plist",
+      "bytes": 204,
+      "sha256": "a7d037081db0cd42a01970662063a7a61b822017661559e43fa8a11a3d1bfb04",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerTriple.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaStartTimer.caf",
+      "bytes": 39376,
+      "sha256": "4e87687d9328525c3d09ef8e9939a2e9e5d13b1a582e5812e18f8a789e885d61"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaStartTimer.plist",
+      "bytes": 146,
+      "sha256": "baa0fc9bb82b05e60eef9507ac14445bb5537d75b65dea1197488240ed418fb6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaStartTimer.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 1147,
+      "sha256": "76e1257bfb8303dd6db27880c4aa8fdddd406a4e26bc8a5ca9c74866c685c3a2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 1169,
+      "sha256": "d7ec21b750567b5d9c5454555bd8f24123c0c824d8eaba52df5b6280d4958b25",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 1208,
+      "sha256": "8e6f53898c64e64e07a379a4834721604c8ad2f3838fd8c617276b0c3d0c1981",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 1246,
+      "sha256": "341431aa75c0a24e78d2c18a7321c5915f8cb8b8c19ca4c8d5f10deaf7d832f5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 1327,
+      "sha256": "68475f05c10a3e3ea6f89d170cd9a1e16b935642e8fe60d546f5f8e2f9a75f68",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 1333,
+      "sha256": "e899f41d2cb48e54ca3839a2f1b54533965e1e22fd56584ed8b508a37e0d60d9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "2e2187e59134b0173d3b1b90d6ebda8699f1ec393b92e92c2174bde0d6346c80",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 1260,
+      "sha256": "c653ace0cc45a364898ead6ad1e6a49a636ee1b81bec0fba39454518c85426a6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 1192,
+      "sha256": "2bcf392544a9c68cc37daca0a26b133d5f4a1efc77328d47e19df8f2924f206a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 1178,
+      "sha256": "1eccd404c8ec82bc4e8786285b712719a574b38856b195027350026841683e83",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 1118,
+      "sha256": "329dbf60a42fa4bb750c88be1757d36c484935872f889feac7d56e0f3f78cfdb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 1291,
+      "sha256": "ad1e9d3a9bf0522dcd3ba354917dafe447c2a863ca1e0de28038a7b99c6f30a7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 1299,
+      "sha256": "e346fe52c92e42831b92707d8f33c00587e3f112d011f9c901112141a95f15fb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 1189,
+      "sha256": "a4345418637299c1865a77fe4bb77a3cd1854cd886c25cc5737b7137ca761d2a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 1337,
+      "sha256": "9f2d39bf033968b4ea573723eeb93b1c17e599e4d3167c91fbb0cd4fcc0709db",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 1216,
+      "sha256": "730fc7ea08b3823b0ec943b0ff2bca4cd97f32b8ab7489d187624dc2b9886a44",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 1299,
+      "sha256": "f224a2def290ed3d126bfd9e18a5b5bfd36281b0883c1b16133de0fee5740e58",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 1232,
+      "sha256": "37cbcff0e84aef237b767f0b5f959289ea56105d4aac330dedf34969e97c3c3f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 1257,
+      "sha256": "72baa975f6be924b67c17d8795615dfa12abd9815f760e87031f85fab6803421",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 829,
+      "sha256": "e0136ebb07fe84dfd1d9b8cde50324632c7bc49fa2a486ed7c73ddab85861c4f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 894,
+      "sha256": "7cbff583090990a6888fa453622d1b131123765b86dcf4a8eb0e292fceffe605",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 1253,
+      "sha256": "4386c9d4639bcd87f0a0a536ec4af4b6c969f64d69d91c29a38ef4f51be500d8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 1255,
+      "sha256": "d18c2e61531730f57848ced95464b7beb8eae7f5c0b4711a07ac5a86ebcdec2f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 1223,
+      "sha256": "7066eb4417e4bbe84f7cb8a47764a1d08027c4e00b161b1c8a8da4546b631ee1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 1218,
+      "sha256": "80a5f5981eb10c27a05a27007df751490f95833e8ef0aed8c43ab127f7a68358",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 1307,
+      "sha256": "b86a0e390ba80f77fd28bb136f5c086e080705fdebabb7d250801d5e65672c45",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 1258,
+      "sha256": "c00ad944715530f948ac0108f8694680d59c52b5d7b70e34d1ea639b829274d6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 1407,
+      "sha256": "20c2b996c08d4e695cd8969513503c54844991f2c6dc103d822016874101c89f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 1356,
+      "sha256": "2daac2ba2a4a66976d1943184117018bdf389ff425fa34130c1ecba9e6095856",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 1278,
+      "sha256": "8ec6edb62da04ca231728e4fb5469d7d1a5a76d97dce043b881efaa01889d135",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 1267,
+      "sha256": "1e117cb82abe2be9f27bc89f1e6ea6affbca3217eb9a3494620d2dc9fe0f637d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 1178,
+      "sha256": "6f079c1871c4ee55942b246a20364fdcc69c4fe0246b55d0ddeecad3dfe0a3e7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 1149,
+      "sha256": "f7c67641d65c1ad02ac2dae76247c88d23a9799c547c68e3d8ecbf1f3be8e8fc",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 1211,
+      "sha256": "15416bab6159e0de1cd14fe78d3f04e7cc223e165f8eb719ff985a74e1ee5867",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 1273,
+      "sha256": "4bbf416ffcf66007645967f9882d5986fe3e8087a1d6d896bce9261d2c77062c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 1271,
+      "sha256": "4fc372300db0e92271fcdcb38ae6b21f85b5c8bb69c2a1ebf62105e54537d65b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 638,
+      "sha256": "3f1dcadadf75b572f6b9de78709810ef185f3a4cfdd3830f276f380fc05bd8a5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 688,
+      "sha256": "c69275a72fc4633ce100b3e59feb658549a4f2feb757cd45f84b67a940e13227",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 656,
+      "sha256": "63d7c3ca8c6ead369939d7f854591ebc2ea6fd949f07cfb18906e50797db9d6e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_1_24S132": {
+    "bundle": "Watch8_1_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle",
+    "code": "Watch8_1_24S132/解析/代码/NTKSquallFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/Assets.car",
+      "bytes": 54600,
+      "sha256": "f392ed611764810320efdb81cc3846d2f667caac39421770472df7254c1f8010"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/Info.plist",
+      "bytes": 750,
+      "sha256": "432e49ef34125857a394031d18125073c1ab11666b9db1f7431b8b65865ae36b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/NTKSquall.color.plist",
+      "bytes": 196,
+      "sha256": "222d1d0737f70096bea240b9d20765df5ec42cc9dd46619295849b29050f74cb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/NTKSquall.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaChimeTimer.caf",
+      "bytes": 39376,
+      "sha256": "4e87687d9328525c3d09ef8e9939a2e9e5d13b1a582e5812e18f8a789e885d61"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaChimeTimer.plist",
+      "bytes": 146,
+      "sha256": "e78a06a9573ca8cb66fc32c79ceb82f33c86828513d6f259955c422d17fb30c9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaChimeTimer.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaMinuteTimer.caf",
+      "bytes": 64926,
+      "sha256": "c252eb74b5ea5364936a265a7a0f978a3b19c3c76dc305e6b7c81bcd1ba37aad"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaMinuteTimer.plist",
+      "bytes": 136,
+      "sha256": "d2e3bf3989eaef4082b9e403f67bed007d9997829a708cd66fb151dbfa01176c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaMinuteTimer.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaRaceStart.caf",
+      "bytes": 110898,
+      "sha256": "ee58632a3ab51ac0af8d4954583c484f71c93824e97fb38d51f407082a98e8c0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaRaceStart.plist",
+      "bytes": 236,
+      "sha256": "1688ab4a917e4b5b4c2b7cbee1beb3ecae47889269352bcd0e95c7ce8f90b997",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaRaceStart.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerDouble.caf",
+      "bytes": 88824,
+      "sha256": "5d4a0a8d5f92591f9cbf0d1e32bab8dec5a9c4b5fb81de19818ccbdcf24de1c6"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerDouble.plist",
+      "bytes": 146,
+      "sha256": "13b8939806fb3883e7c786e3e38d184379cf8dc56b7c4f3d12225d414308b427",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerDouble.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerSingle.caf",
+      "bytes": 45324,
+      "sha256": "77c70304812bd1bf74b1062c14c949b919b233adc29bc7f64453994d7d5d5171"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerSingle.plist",
+      "bytes": 136,
+      "sha256": "4c2af3801e5935bcdb3917dc883064158c283f5369e265fe732b127f772f6020",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerSingle.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerTriple.caf",
+      "bytes": 99246,
+      "sha256": "8370a9194f5814b08963c45de5ef3672006cf13003145e045d13ec811ac3f068"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerTriple.plist",
+      "bytes": 204,
+      "sha256": "a7d037081db0cd42a01970662063a7a61b822017661559e43fa8a11a3d1bfb04",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerTriple.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaStartTimer.caf",
+      "bytes": 39376,
+      "sha256": "4e87687d9328525c3d09ef8e9939a2e9e5d13b1a582e5812e18f8a789e885d61"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaStartTimer.plist",
+      "bytes": 146,
+      "sha256": "baa0fc9bb82b05e60eef9507ac14445bb5537d75b65dea1197488240ed418fb6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaStartTimer.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 1147,
+      "sha256": "76e1257bfb8303dd6db27880c4aa8fdddd406a4e26bc8a5ca9c74866c685c3a2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 1169,
+      "sha256": "d7ec21b750567b5d9c5454555bd8f24123c0c824d8eaba52df5b6280d4958b25",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 1208,
+      "sha256": "8e6f53898c64e64e07a379a4834721604c8ad2f3838fd8c617276b0c3d0c1981",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 1246,
+      "sha256": "341431aa75c0a24e78d2c18a7321c5915f8cb8b8c19ca4c8d5f10deaf7d832f5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 1327,
+      "sha256": "68475f05c10a3e3ea6f89d170cd9a1e16b935642e8fe60d546f5f8e2f9a75f68",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 1333,
+      "sha256": "e899f41d2cb48e54ca3839a2f1b54533965e1e22fd56584ed8b508a37e0d60d9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "2e2187e59134b0173d3b1b90d6ebda8699f1ec393b92e92c2174bde0d6346c80",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 1260,
+      "sha256": "c653ace0cc45a364898ead6ad1e6a49a636ee1b81bec0fba39454518c85426a6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 1192,
+      "sha256": "2bcf392544a9c68cc37daca0a26b133d5f4a1efc77328d47e19df8f2924f206a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 1178,
+      "sha256": "1eccd404c8ec82bc4e8786285b712719a574b38856b195027350026841683e83",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 1118,
+      "sha256": "329dbf60a42fa4bb750c88be1757d36c484935872f889feac7d56e0f3f78cfdb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 1291,
+      "sha256": "ad1e9d3a9bf0522dcd3ba354917dafe447c2a863ca1e0de28038a7b99c6f30a7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 1299,
+      "sha256": "e346fe52c92e42831b92707d8f33c00587e3f112d011f9c901112141a95f15fb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 1189,
+      "sha256": "a4345418637299c1865a77fe4bb77a3cd1854cd886c25cc5737b7137ca761d2a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 1337,
+      "sha256": "9f2d39bf033968b4ea573723eeb93b1c17e599e4d3167c91fbb0cd4fcc0709db",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 1216,
+      "sha256": "730fc7ea08b3823b0ec943b0ff2bca4cd97f32b8ab7489d187624dc2b9886a44",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 1299,
+      "sha256": "f224a2def290ed3d126bfd9e18a5b5bfd36281b0883c1b16133de0fee5740e58",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 1232,
+      "sha256": "37cbcff0e84aef237b767f0b5f959289ea56105d4aac330dedf34969e97c3c3f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 1257,
+      "sha256": "72baa975f6be924b67c17d8795615dfa12abd9815f760e87031f85fab6803421",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 829,
+      "sha256": "e0136ebb07fe84dfd1d9b8cde50324632c7bc49fa2a486ed7c73ddab85861c4f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 894,
+      "sha256": "7cbff583090990a6888fa453622d1b131123765b86dcf4a8eb0e292fceffe605",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 1253,
+      "sha256": "4386c9d4639bcd87f0a0a536ec4af4b6c969f64d69d91c29a38ef4f51be500d8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 1255,
+      "sha256": "d18c2e61531730f57848ced95464b7beb8eae7f5c0b4711a07ac5a86ebcdec2f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 1223,
+      "sha256": "7066eb4417e4bbe84f7cb8a47764a1d08027c4e00b161b1c8a8da4546b631ee1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 1218,
+      "sha256": "80a5f5981eb10c27a05a27007df751490f95833e8ef0aed8c43ab127f7a68358",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 1307,
+      "sha256": "b86a0e390ba80f77fd28bb136f5c086e080705fdebabb7d250801d5e65672c45",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 1258,
+      "sha256": "c00ad944715530f948ac0108f8694680d59c52b5d7b70e34d1ea639b829274d6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 1407,
+      "sha256": "20c2b996c08d4e695cd8969513503c54844991f2c6dc103d822016874101c89f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 1356,
+      "sha256": "2daac2ba2a4a66976d1943184117018bdf389ff425fa34130c1ecba9e6095856",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 1278,
+      "sha256": "8ec6edb62da04ca231728e4fb5469d7d1a5a76d97dce043b881efaa01889d135",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 1267,
+      "sha256": "1e117cb82abe2be9f27bc89f1e6ea6affbca3217eb9a3494620d2dc9fe0f637d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 1178,
+      "sha256": "6f079c1871c4ee55942b246a20364fdcc69c4fe0246b55d0ddeecad3dfe0a3e7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 1149,
+      "sha256": "f7c67641d65c1ad02ac2dae76247c88d23a9799c547c68e3d8ecbf1f3be8e8fc",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 1211,
+      "sha256": "15416bab6159e0de1cd14fe78d3f04e7cc223e165f8eb719ff985a74e1ee5867",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 1273,
+      "sha256": "4bbf416ffcf66007645967f9882d5986fe3e8087a1d6d896bce9261d2c77062c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 1271,
+      "sha256": "4fc372300db0e92271fcdcb38ae6b21f85b5c8bb69c2a1ebf62105e54537d65b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 638,
+      "sha256": "3f1dcadadf75b572f6b9de78709810ef185f3a4cfdd3830f276f380fc05bd8a5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 688,
+      "sha256": "c69275a72fc4633ce100b3e59feb658549a4f2feb757cd45f84b67a940e13227",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 656,
+      "sha256": "63d7c3ca8c6ead369939d7f854591ebc2ea6fd949f07cfb18906e50797db9d6e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_5_24S132": {
+    "bundle": "Watch8_5_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle",
+    "code": "Watch8_5_24S132/解析/代码/NTKSquallFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/Assets.car",
+      "bytes": 54600,
+      "sha256": "f5bfa7aa56840ce78e89c0c5226ec8f877ad7d5f4823a547c1374ef05d6460e7"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/Info.plist",
+      "bytes": 750,
+      "sha256": "432e49ef34125857a394031d18125073c1ab11666b9db1f7431b8b65865ae36b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/NTKSquall.color.plist",
+      "bytes": 196,
+      "sha256": "222d1d0737f70096bea240b9d20765df5ec42cc9dd46619295849b29050f74cb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/NTKSquall.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaChimeTimer.caf",
+      "bytes": 39376,
+      "sha256": "4e87687d9328525c3d09ef8e9939a2e9e5d13b1a582e5812e18f8a789e885d61"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaChimeTimer.plist",
+      "bytes": 146,
+      "sha256": "e78a06a9573ca8cb66fc32c79ceb82f33c86828513d6f259955c422d17fb30c9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaChimeTimer.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaMinuteTimer.caf",
+      "bytes": 64926,
+      "sha256": "c252eb74b5ea5364936a265a7a0f978a3b19c3c76dc305e6b7c81bcd1ba37aad"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaMinuteTimer.plist",
+      "bytes": 136,
+      "sha256": "d2e3bf3989eaef4082b9e403f67bed007d9997829a708cd66fb151dbfa01176c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaMinuteTimer.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaRaceStart.caf",
+      "bytes": 110898,
+      "sha256": "ee58632a3ab51ac0af8d4954583c484f71c93824e97fb38d51f407082a98e8c0"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaRaceStart.plist",
+      "bytes": 236,
+      "sha256": "1688ab4a917e4b5b4c2b7cbee1beb3ecae47889269352bcd0e95c7ce8f90b997",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaRaceStart.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerDouble.caf",
+      "bytes": 88824,
+      "sha256": "5d4a0a8d5f92591f9cbf0d1e32bab8dec5a9c4b5fb81de19818ccbdcf24de1c6"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerDouble.plist",
+      "bytes": 146,
+      "sha256": "13b8939806fb3883e7c786e3e38d184379cf8dc56b7c4f3d12225d414308b427",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerDouble.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerSingle.caf",
+      "bytes": 45324,
+      "sha256": "77c70304812bd1bf74b1062c14c949b919b233adc29bc7f64453994d7d5d5171"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerSingle.plist",
+      "bytes": 136,
+      "sha256": "4c2af3801e5935bcdb3917dc883064158c283f5369e265fe732b127f772f6020",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerSingle.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerTriple.caf",
+      "bytes": 99246,
+      "sha256": "8370a9194f5814b08963c45de5ef3672006cf13003145e045d13ec811ac3f068"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerTriple.plist",
+      "bytes": 204,
+      "sha256": "a7d037081db0cd42a01970662063a7a61b822017661559e43fa8a11a3d1bfb04",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaSecondTimerTriple.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaStartTimer.caf",
+      "bytes": 39376,
+      "sha256": "4e87687d9328525c3d09ef8e9939a2e9e5d13b1a582e5812e18f8a789e885d61"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaStartTimer.plist",
+      "bytes": 146,
+      "sha256": "baa0fc9bb82b05e60eef9507ac14445bb5537d75b65dea1197488240ed418fb6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/RegattaStartTimer.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 1147,
+      "sha256": "76e1257bfb8303dd6db27880c4aa8fdddd406a4e26bc8a5ca9c74866c685c3a2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 1169,
+      "sha256": "d7ec21b750567b5d9c5454555bd8f24123c0c824d8eaba52df5b6280d4958b25",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 1208,
+      "sha256": "8e6f53898c64e64e07a379a4834721604c8ad2f3838fd8c617276b0c3d0c1981",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 1246,
+      "sha256": "341431aa75c0a24e78d2c18a7321c5915f8cb8b8c19ca4c8d5f10deaf7d832f5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 1327,
+      "sha256": "68475f05c10a3e3ea6f89d170cd9a1e16b935642e8fe60d546f5f8e2f9a75f68",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 1333,
+      "sha256": "e899f41d2cb48e54ca3839a2f1b54533965e1e22fd56584ed8b508a37e0d60d9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "2e2187e59134b0173d3b1b90d6ebda8699f1ec393b92e92c2174bde0d6346c80",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 1145,
+      "sha256": "05176fbe1b45c44012f0d6a75e5fb62dbe47873dda72cf5bfce9eb16f5470a46",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 1260,
+      "sha256": "c653ace0cc45a364898ead6ad1e6a49a636ee1b81bec0fba39454518c85426a6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 1192,
+      "sha256": "2bcf392544a9c68cc37daca0a26b133d5f4a1efc77328d47e19df8f2924f206a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 1178,
+      "sha256": "1eccd404c8ec82bc4e8786285b712719a574b38856b195027350026841683e83",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 1118,
+      "sha256": "329dbf60a42fa4bb750c88be1757d36c484935872f889feac7d56e0f3f78cfdb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 1291,
+      "sha256": "ad1e9d3a9bf0522dcd3ba354917dafe447c2a863ca1e0de28038a7b99c6f30a7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 1299,
+      "sha256": "e346fe52c92e42831b92707d8f33c00587e3f112d011f9c901112141a95f15fb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 1189,
+      "sha256": "a4345418637299c1865a77fe4bb77a3cd1854cd886c25cc5737b7137ca761d2a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 1337,
+      "sha256": "9f2d39bf033968b4ea573723eeb93b1c17e599e4d3167c91fbb0cd4fcc0709db",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 1216,
+      "sha256": "730fc7ea08b3823b0ec943b0ff2bca4cd97f32b8ab7489d187624dc2b9886a44",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 1299,
+      "sha256": "f224a2def290ed3d126bfd9e18a5b5bfd36281b0883c1b16133de0fee5740e58",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 1232,
+      "sha256": "37cbcff0e84aef237b767f0b5f959289ea56105d4aac330dedf34969e97c3c3f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 1257,
+      "sha256": "72baa975f6be924b67c17d8795615dfa12abd9815f760e87031f85fab6803421",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 829,
+      "sha256": "e0136ebb07fe84dfd1d9b8cde50324632c7bc49fa2a486ed7c73ddab85861c4f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 894,
+      "sha256": "7cbff583090990a6888fa453622d1b131123765b86dcf4a8eb0e292fceffe605",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 1253,
+      "sha256": "4386c9d4639bcd87f0a0a536ec4af4b6c969f64d69d91c29a38ef4f51be500d8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 1255,
+      "sha256": "d18c2e61531730f57848ced95464b7beb8eae7f5c0b4711a07ac5a86ebcdec2f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 1223,
+      "sha256": "7066eb4417e4bbe84f7cb8a47764a1d08027c4e00b161b1c8a8da4546b631ee1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 1218,
+      "sha256": "80a5f5981eb10c27a05a27007df751490f95833e8ef0aed8c43ab127f7a68358",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 1307,
+      "sha256": "b86a0e390ba80f77fd28bb136f5c086e080705fdebabb7d250801d5e65672c45",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 1258,
+      "sha256": "c00ad944715530f948ac0108f8694680d59c52b5d7b70e34d1ea639b829274d6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 1407,
+      "sha256": "20c2b996c08d4e695cd8969513503c54844991f2c6dc103d822016874101c89f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 1356,
+      "sha256": "2daac2ba2a4a66976d1943184117018bdf389ff425fa34130c1ecba9e6095856",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 1278,
+      "sha256": "8ec6edb62da04ca231728e4fb5469d7d1a5a76d97dce043b881efaa01889d135",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 1267,
+      "sha256": "1e117cb82abe2be9f27bc89f1e6ea6affbca3217eb9a3494620d2dc9fe0f637d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 1178,
+      "sha256": "6f079c1871c4ee55942b246a20364fdcc69c4fe0246b55d0ddeecad3dfe0a3e7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 1149,
+      "sha256": "f7c67641d65c1ad02ac2dae76247c88d23a9799c547c68e3d8ecbf1f3be8e8fc",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 1211,
+      "sha256": "15416bab6159e0de1cd14fe78d3f04e7cc223e165f8eb719ff985a74e1ee5867",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 1273,
+      "sha256": "4bbf416ffcf66007645967f9882d5986fe3e8087a1d6d896bce9261d2c77062c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 1271,
+      "sha256": "4fc372300db0e92271fcdcb38ae6b21f85b5c8bb69c2a1ebf62105e54537d65b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 638,
+      "sha256": "3f1dcadadf75b572f6b9de78709810ef185f3a4cfdd3830f276f380fc05bd8a5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 688,
+      "sha256": "c69275a72fc4633ce100b3e59feb658549a4f2feb757cd45f84b67a940e13227",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 656,
+      "sha256": "63d7c3ca8c6ead369939d7f854591ebc2ea6fd949f07cfb18906e50797db9d6e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSquallFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   }
+  },
+  "固件文字": {
+   "描述": [
+    [
+     "FACE_STYLE_SQUALL_DESCRIPTION",
+     "“Hermès航海”灵感源自帆船竞技赛。表盘数字清晰易读，表圈显示当前秒数，方便计时。按下操作按钮即可设定短时倒计时。设定计时后，表圈会显示当前进度。若计时结束，表圈可用作秒表。"
+    ]
+   ],
+   "编辑选项": []
+  },
+  "图集颜色分量": [
+   {
+    "name": "squall/blanc/smallTimeFinal",
+    "components": [
+     1.0809999704360962,
+     0.3479999899864197,
+     -0.19099999964237213,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_smallTimeFinal-308c1a4092af10b2.json"
+   },
+   {
+    "name": "squall/noir/pauseButtonSymbol",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_pauseButtonSymbol-1ac1b769f42309a7.json"
+   },
+   {
+    "name": "squall/blanc/logoHighlighted",
+    "components": [
+     0.00392156862745098,
+     0.09019607843137255,
+     0.11764705882352941,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_logoHighlighted-f87fa0b655ba4b05.json"
+   },
+   {
+    "name": "squall/blanc/minutesLabelText",
+    "components": [
+     0.8745098039215686,
+     0.8980392156862745,
+     0.9176470588235294,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_minutesLabelText-dc360114109cd823.json"
+   },
+   {
+    "name": "squall/background.tritium",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_background.tritium-f9a62f7846a7ecf9.json"
+   },
+   {
+    "name": "squall/noir/xButtonSymbol",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_xButtonSymbol-0111584a104ede5d.json"
+   },
+   {
+    "name": "squall/blanc/playButtonPlatter",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     0.30000001192092896
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_playButtonPlatter-0b4ecf87d9ec65cc.json"
+   },
+   {
+    "name": "squall/noir/pauseButtonSymbolFinal",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_pauseButtonSymbolFinal-7989ecef1c1290ab.json"
+   },
+   {
+    "name": "squall/noir/pauseButtonPlatter",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     0.30000001192092896
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_pauseButtonPlatter-d5c5b046a1a8feb6.json"
+   },
+   {
+    "name": "squall/blanc/xButtonSymbol",
+    "components": [
+     0,
+     0.12941176470588237,
+     0.1843137254901961,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_xButtonSymbol-c93e88c9f15d7529.json"
+   },
+   {
+    "name": "squall/noir/minutesLabelBackground",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_minutesLabelBackground-874bdf335f16f92e.json"
+   },
+   {
+    "name": "squall/blanc/bezelCountUpDimmed",
+    "components": [
+     0.8549019607843137,
+     0.7294117647058823,
+     0.6392156862745098,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_bezelCountUpDimmed-bd3c77eed207528e.json"
+   },
+   {
+    "name": "squall/playButtonSymbol.tritium",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_playButtonSymbol.tritium-07e3914d9a3ea13f.json"
+   },
+   {
+    "name": "squall/noir/minutesLabelText",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_minutesLabelText-676be3ecd688e6c1.json"
+   },
+   {
+    "name": "squall/noir/playButtonSymbol",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_playButtonSymbol-fb4559a6d0883cfd.json"
+   },
+   {
+    "name": "squall/noir/bezelCountUpHighlighted",
+    "components": [
+     0.9333333333333333,
+     0.47843137254901963,
+     0.20392156862745098,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_bezelCountUpHighlighted-4caf31fadca67c57.json"
+   },
+   {
+    "name": "squall/minutesLabelText.tritium",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_minutesLabelText.tritium-29b01a5506cc60b2.json"
+   },
+   {
+    "name": "squall/blanc/logoDimmed.tritium",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_logoDimmed.tritium-f03e3b7447426c89.json"
+   },
+   {
+    "name": "squall/blanc/pausedLabel",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_pausedLabel-c8526bd34f52eaae.json"
+   },
+   {
+    "name": "squall/blanc/checkButtonPlatter",
+    "components": [
+     0,
+     0.12941176470588237,
+     0.1843137254901961,
+     0.20000000298023224
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_checkButtonPlatter-e7f573a41769e2b5.json"
+   },
+   {
+    "name": "squall/blanc/background",
+    "components": [
+     0.8745098039215686,
+     0.8980392156862745,
+     0.9176470588235294,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_background-99e0137d9bbd32a0.json"
+   },
+   {
+    "name": "squall/blanc/pauseButtonPlatterFinal",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     0.20000000298023224
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_pauseButtonPlatterFinal-8533e067556a7384.json"
+   },
+   {
+    "name": "squall/checkButtonSymbol.tritium",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_checkButtonSymbol.tritium-db7a2effc56ebabc.json"
+   },
+   {
+    "name": "squall/blanc/numeralsFillFinal",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_numeralsFillFinal-361f7763030ce33f.json"
+   },
+   {
+    "name": "squall/blanc/pauseButtonSymbol",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_pauseButtonSymbol-daecf0268442f0f3.json"
+   },
+   {
+    "name": "squall/minutesLabelBackground.tritium",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_minutesLabelBackground.tritium-b738d3dae69f62c5.json"
+   },
+   {
+    "name": "squall/noir/bezelCountUpDimmed",
+    "components": [
+     0.19215686274509805,
+     0.09019607843137255,
+     0.01568627450980392,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_bezelCountUpDimmed-05727ab4d58e0dae.json"
+   },
+   {
+    "name": "squall/noir/xButtonPlatter",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     0.30000001192092896
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_xButtonPlatter-0099f6e4aa88241e.json"
+   },
+   {
+    "name": "squall/noir/checkButtonSymbol",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_checkButtonSymbol-64f20400f7c4e210.json"
+   },
+   {
+    "name": "squall/resetLabel",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_resetLabel-7110271f37e2d492.json"
+   },
+   {
+    "name": "squall/noir/smallTimeFinal",
+    "components": [
+     1.0809999704360962,
+     0.3479999899864197,
+     -0.19099999964237213,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_smallTimeFinal-8c9f41b92cb9012c.json"
+   },
+   {
+    "name": "squall/noir/checkButtonPlatter",
+    "components": [
+     1,
+     1,
+     1,
+     0.20000000298023224
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_checkButtonPlatter-cea335f05d498c8e.json"
+   },
+   {
+    "name": "squall/background",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_background-680179557d83d7e6.json"
+   },
+   {
+    "name": "squall/blanc/bezelHighlightedFinal",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_bezelHighlightedFinal-e191a92acb33c5d3.json"
+   },
+   {
+    "name": "squall/noir/numeralsCountUpFill",
+    "components": [
+     0.9333333333333333,
+     0.47843137254901963,
+     0.20392156862745098,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_numeralsCountUpFill-0f15f6a9920e80a0.json"
+   },
+   {
+    "name": "squall/blanc/minuteNumeralsFill",
+    "components": [
+     0,
+     0.12941176470588237,
+     0.1843137254901961,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_minuteNumeralsFill-68f6a6a70d0c637b.json"
+   },
+   {
+    "name": "squall/hourNumeralsFillLinked",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_hourNumeralsFillLinked-aa28f76db0fc221a.json"
+   },
+   {
+    "name": "squall/blanc/bezelHighlighted",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_bezelHighlighted-b49a7639a131894d.json"
+   },
+   {
+    "name": "squall/smallTimeFinal",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_smallTimeFinal-70461ac2ee210f71.json"
+   },
+   {
+    "name": "squall/minuteNumeralsFillLinked",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_minuteNumeralsFillLinked-d94386011d66e102.json"
+   },
+   {
+    "name": "squall/softBlack",
+    "components": [
+     0.1803921568627451,
+     0.1803921568627451,
+     0.1803921568627451,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_softBlack-8328715bc1a1a312.json"
+   },
+   {
+    "name": "squall/blanc/smallTime",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_smallTime-29c06d414194ca84.json"
+   },
+   {
+    "name": "squall/blanc/resetLabel",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_resetLabel-ee8991ef265cd481.json"
+   },
+   {
+    "name": "squall/blanc/bezelDimmedFinal",
+    "components": [
+     0.8784313725490196,
+     0.7254901960784313,
+     0.6274509803921569,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_bezelDimmedFinal-fbe6cdad67594c65.json"
+   },
+   {
+    "name": "squall/playButtonPlatter.tritium",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     0.30000001192092896
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_playButtonPlatter.tritium-893d959e099f83ca.json"
+   },
+   {
+    "name": "squall/blanc/numeralsFill",
+    "components": [
+     0.00392156862745098,
+     0.09019607843137255,
+     0.11764705882352941,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_numeralsFill-6fde1c766fb0c7b5.json"
+   },
+   {
+    "name": "squall/noir/numeralsFill",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_numeralsFill-10405d72cc990588.json"
+   },
+   {
+    "name": "squall/noir/logoHighlighted",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_logoHighlighted-ee25c4c9ec427aad.json"
+   },
+   {
+    "name": "squall/blanc",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc-78ba61d3523aa6d4.json"
+   },
+   {
+    "name": "squall/blanc/bezelCountUpHighlighted",
+    "components": [
+     0.9294117647058824,
+     0.44313725490196076,
+     0.1803921568627451,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_bezelCountUpHighlighted-b9f8a053da30e2be.json"
+   },
+   {
+    "name": "squall/checkButtonPlatter.tritium",
+    "components": [
+     1,
+     1,
+     1,
+     0.20000000298023224
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_checkButtonPlatter.tritium-2441d00a8c1c94bb.json"
+   },
+   {
+    "name": "squall/blanc/minutesBox",
+    "components": [
+     0,
+     0.12941176470588237,
+     0.1843137254901961,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_minutesBox-dc860dcf8cbb5b20.json"
+   },
+   {
+    "name": "squall/blanc/logoDimmed",
+    "components": [
+     0.00392156862745098,
+     0.09019607843137255,
+     0.11764705882352941,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_logoDimmed-907eb7e47c9c1b5f.json"
+   },
+   {
+    "name": "squall/noir/bezelHighlightedFinal",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_bezelHighlightedFinal-1ee7522251612113.json"
+   },
+   {
+    "name": "squall/noir/bezelDimmedFinal",
+    "components": [
+     0.20784313725490197,
+     0.08235294117647059,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_bezelDimmedFinal-39b60f25ecdf9446.json"
+   },
+   {
+    "name": "squall/noir/smallTime",
+    "components": [
+     -0.29100000858306885,
+     0.5989999771118164,
+     0.8410000205039978,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_smallTime-867ad49f5bbb4725.json"
+   },
+   {
+    "name": "squall/noir",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir-6bffb4f1f67582d8.json"
+   },
+   {
+    "name": "squall/noir/bezelDimmed",
+    "components": [
+     0,
+     0.6196078431372549,
+     1,
+     0.30000001192092896
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_bezelDimmed-326cbb02acc77cd5.json"
+   },
+   {
+    "name": "squall/noir/minuteNumeralsFill",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_minuteNumeralsFill-e37a991710889297.json"
+   },
+   {
+    "name": "squall/blanc/checkButtonSymbol",
+    "components": [
+     0,
+     0.12941176470588237,
+     0.1843137254901961,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_checkButtonSymbol-7613762fbcc38714.json"
+   },
+   {
+    "name": "squall/noir/hourNumeralsFill",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_hourNumeralsFill-841d0ba0e723f305.json"
+   },
+   {
+    "name": "squall/noir/bezelHighlighted",
+    "components": [
+     0,
+     0.6196078431372549,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_bezelHighlighted-7133500829111159.json"
+   },
+   {
+    "name": "squall/minutesBox.tritium",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_minutesBox.tritium-181511640a2ad98b.json"
+   },
+   {
+    "name": "squall/noir/pauseButtonPlatterFinal",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     0.30000001192092896
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_pauseButtonPlatterFinal-c9f840b908a0aa22.json"
+   },
+   {
+    "name": "squall/blanc/logoHighlighted.tritium",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_logoHighlighted.tritium-9f047ab216aa823a.json"
+   },
+   {
+    "name": "squall/noir/playButtonPlatter",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     0.30000001192092896
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_playButtonPlatter-72a7845c527d3fd5.json"
+   },
+   {
+    "name": "squall/blanc/hourNumeralsFill",
+    "components": [
+     0,
+     0.12941176470588237,
+     0.1843137254901961,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_hourNumeralsFill-3bf7cdd26a6d772b.json"
+   },
+   {
+    "name": "squall/noir/minutesBox",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_minutesBox-acac9f3c87ebc1db.json"
+   },
+   {
+    "name": "squall/blanc/numeralsCountUpFill",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_numeralsCountUpFill-62433e9a19f23c4c.json"
+   },
+   {
+    "name": "squall/blanc/minutesLabelBackground",
+    "components": [
+     0,
+     0.12941176470588237,
+     0.1843137254901961,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_minutesLabelBackground-fa4f82bb71869b6c.json"
+   },
+   {
+    "name": "squall/noir/logoDimmed",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_logoDimmed-b784fc682e0c6e8f.json"
+   },
+   {
+    "name": "squall/blanc/playButtonSymbol",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_playButtonSymbol-a11e5d2b6f9fb7f0.json"
+   },
+   {
+    "name": "squall/blanc/xButtonPlatter",
+    "components": [
+     0,
+     0.12941176470588237,
+     0.1843137254901961,
+     0.20000000298023224
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_xButtonPlatter-9e9f103232d0acaa.json"
+   },
+   {
+    "name": "squall/noir/numeralsFillFinal",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_numeralsFillFinal-f5353aca3623ff66.json"
+   },
+   {
+    "name": "squall/blanc/bezelDimmed",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     0.30000001192092896
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_bezelDimmed-6bcbd9d57027139b.json"
+   },
+   {
+    "name": "squall/noir/pausedLabel",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_pausedLabel-d4558f18ef19e973.json"
+   },
+   {
+    "name": "squall/blanc/pauseButtonPlatter",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     0.30000001192092896
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_pauseButtonPlatter-94d748014a5bb2e8.json"
+   },
+   {
+    "name": "squall/blanc/pauseButtonSymbolFinal",
+    "components": [
+     1,
+     0.403921568627451,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_pauseButtonSymbolFinal-86de5cc084ac2807.json"
+   },
+   {
+    "name": "squall/noir/complication",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_noir_complication-d72e666de79f52db.json"
+   },
+   {
+    "name": "squall/blanc/complication",
+    "components": [
+     -0.3070000112056732,
+     0.6309999823570251,
+     1.031000018119812,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSquallFaceBundle.bundle\\Assets.car\\资源\\squall_blanc_complication-bba4abb0d813b367.json"
+   }
+  ],
+  "方法索引": {
+   "息屏与唤醒": [
+    "-[NTKSquallColorPalette bezelCountUpDimmed];",
+    "-[NTKSquallColorPalette bezelDimmed];",
+    "-[NTKSquallColorPalette bezelDimmedFinal];",
+    "-[NTKSquallColorPalette logoCountUpDimmed];",
+    "-[NTKSquallColorPalette logoDimmed];",
+    "-[NTKSquallBezelView setTritiumFraction:];",
+    "-[NTKSquallBezelView tritiumFraction];",
+    "-[NTKSquallBezelView setColorKeysDimmed:highlighted:];",
+    "-[NTKSquallBezelView _dimmedColor];",
+    "-[NTKSquallBezelView _renderBezelTemplateForSize:highlighted:tritium:];",
+    "-[NTKSquallBezelView _renderBezelTemplateForSize:highlighted:tritium:rendererContext:];",
+    "-[NTKSquallBezelView _tritiumDimmedColor];",
+    "-[NTKSquallBezelView _tritiumHighlightColor];",
+    "-[NTKSquallBezelView dimmedColorKey];",
+    "-[NTKSquallBezelView setDimmedColorKey:];",
+    "-[NTKSquallDigitalTimeView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKSquallDigitalTimeView tritium_alwaysOnTimelines];",
+    "-[NTKSquallDigitalTimeView applyTritiumOnTransitionProgress:];",
+    "-[NTKSquallDigitalTimeView tritium_transitionToFrameSpecifier:];",
+    "-[NTKSquallDigitalTimeView _linkingFractionForTritiumFraction:];",
+    "-[NTKSquallDigitalTimeView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKSquallDigitalTimeView _colorShiftFractionForTritiumFraction:];",
+    "-[NTKSquallDigitalTimeView tritium_willTransitionToTritiumOffFromFrameSpecifier:];",
+    "+[NTKSquallFace tritium_burnInFaceName];",
+    "-[NTKSquallFaceView tritium_createFaceAnimator];",
+    "-[NTKSquallFaceView _updateColorForTritiumWithProgress:];",
+    "-[NTKSquallFaceView tritium_timeViews];",
+    "-[NTKSquallFaceView tritium_shouldApplyOverrideDate];",
+    "-[NTKSquallFaceView _updateViewColorsWithPalette:isTritiumPalette:];",
+    "-[NTKSquallRegattaBezelView _renderBezelTemplateForSize:highlighted:tritium:rendererContext:];",
+    "-[NTKSquallRegattaFaceView tritium_didTransitionToTritiumOn];",
+    "-[NTKSquallRegattaFaceView _transitionTimerToTritiumOverrideDate:];",
+    "-[NTKSquallRegattaFaceView tritium_didTransitionToTritiumOff];",
+    "-[NTKSquallRegattaFaceView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKSquallRegattaFaceView tritium_alwaysOnTimelines];",
+    "-[NTKSquallRegattaFaceView tritium_transitionToFrameSpecifier:];",
+    "-[NTKSquallRegattaFaceView _updateColorForTritiumWithProgress:];",
+    "-[NTKSquallRegattaFaceView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKSquallRegattaFaceView _setTritiumFraction:];",
+    "-[NTKSquallRegattaFaceView tritium_willTransitionToTritiumOffFromFrameSpecifier:];",
+    "-[NTKSquallTimeBezelView _logoDimmedColor];",
+    "-[NTKSquallTimeBezelView _logoTritiumColor];",
+    "-[NTKSquallTimeBezelView _renderBezelTemplateForSize:highlighted:tritium:rendererContext:];"
+   ],
+   "动画与时间变化": [
+    "-[NTKSquallColorPalette minuteNumeralsFill];",
+    "-[NTKSquallColorPalette minuteNumeralsFillLinked];",
+    "-[NTKSquallColorPalette minutesBox];",
+    "-[NTKSquallColorPalette minutesLabelBackground];",
+    "-[NTKSquallColorPalette minutesLabelText];",
+    "-[NTKSquallRegattaFaceViewDelegate dismissPickerViewAnimated:];",
+    "-[NTKSquallRegattaFaceViewDelegate resetButtonPressedAnimated:];",
+    "-[NTKSquallRegattaTimerModelObserver didTransitionToState:fromState:];",
+    "-[NTKSquallRegattaTimerModelObserver lastMinuteTimerFired];",
+    "-[NTKSquallTimerPickerViewDelegate didScrollToTimerSeconds:];",
+    "-[NTKSquallTimerPickerViewDelegate didUpdateTimerToSeconds:];",
+    "-[NTKSquallTimerPickerViewDelegate didStartTimerWithSeconds:];",
+    "-[NTKSquallBezelView animating];",
+    "-[NTKSquallBezelView setAnimating:];",
+    "-[NTKSquallDigitalTimeView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKSquallDigitalTimeView tritium_alwaysOnTimelines];",
+    "-[NTKSquallDigitalTimeView applyTritiumOnTransitionProgress:];",
+    "-[NTKSquallDigitalTimeView _minuteFrameForLinkingFraction:font:];",
+    "-[NTKSquallDigitalTimeView tritium_transitionToFrameSpecifier:];",
+    "-[NTKSquallDigitalTimeView _minuteString:];",
+    "-[NTKSquallDigitalTimeView _centerDateAnimated:];",
+    "-[NTKSquallDigitalTimeView _attributedStringForMinute:linkingFraction:colorShiftFraction:];",
+    "-[NTKSquallDigitalTimeView _minuteYForLinkingFraction:font:];",
+    "-[NTKSquallDigitalTimeView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKSquallDigitalTimeView _updateLabelsAnimated:];",
+    "-[NTKSquallDigitalTimeView _updateAnimating];",
+    "-[NTKSquallDigitalTimeView setOverrideDate:duration:];",
+    "-[NTKSquallDigitalTimeView tritium_willTransitionToTritiumOffFromFrameSpecifier:];",
+    "-[NTKSquallFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKSquallFaceView tritium_createFaceAnimator];",
+    "-[NTKSquallFaceView _applyTransitionFraction:fromColor:toColor:];",
+    "-[NTKSquallFaceView _animateInTimeView];",
+    "-[NTKSquallFaceView _showTimeViewAnimated:];",
+    "-[NTKSquallFaceView dismissPickerViewAnimated:];",
+    "-[NTKSquallFaceView resetButtonPressedAnimated:];",
+    "+[NTKSquallPropertyAnimatorFactory buttonViewsAnimatorWithAnimations:];",
+    "+[NTKSquallPropertyAnimatorFactory standardViewsAnimatorWithAnimations:];",
+    "-[NTKSquallRegattaBezelView didTransitionToState:fromState:];",
+    "-[NTKSquallRegattaFaceView _hidePausedViewAnimated];",
+    "-[NTKSquallRegattaFaceView setSoundPlayedSeconds:];",
+    "-[NTKSquallRegattaFaceView _handleStartRegattaTimerIsAnimated:];",
+    "-[NTKSquallRegattaFaceView tritium_didTransitionToTritiumOn];",
+    "-[NTKSquallRegattaFaceView _transitionTimerToTritiumOverrideDate:];",
+    "-[NTKSquallRegattaFaceView soundPlayedSeconds];",
+    "-[NTKSquallRegattaFaceView didScrollToTimerSeconds:];",
+    "-[NTKSquallRegattaFaceView tritium_didTransitionToTritiumOff];",
+    "-[NTKSquallRegattaFaceView _showTimerPickerAnimatedWithOutView:];",
+    "-[NTKSquallRegattaFaceView _showPausedViewAnimated];",
+    "-[NTKSquallRegattaFaceView _hidePickerButtonsAnimator];",
+    "-[NTKSquallRegattaFaceView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKSquallRegattaFaceView _handlePauseRegattaTimerAnimated:];",
+    "-[NTKSquallRegattaFaceView _dismissPickerViewToTimerAnimated];",
+    "-[NTKSquallRegattaFaceView tritium_alwaysOnTimelines];",
+    "-[NTKSquallRegattaFaceView _dismissPickerViewToClockAnimated];",
+    "-[NTKSquallRegattaFaceView _handleResumeRegattaTimerAnimated:];",
+    "-[NTKSquallRegattaFaceView tritium_transitionToFrameSpecifier:];",
+    "-[NTKSquallRegattaFaceView _hidePauseButtonViewAnimated];",
+    "-[NTKSquallRegattaFaceView _showPickerButtonsAnimator];",
+    "-[NTKSquallRegattaFaceView showTimerPickerAnimated:animateOutView:];",
+    "-[NTKSquallRegattaFaceView _showPauseButtonViewAnimated];",
+    "-[NTKSquallRegattaFaceView _showPickerMainViewsAnimator];",
+    "-[NTKSquallRegattaFaceView _dismissPickerViewToTimerAnimated:];",
+    "-[NTKSquallRegattaFaceView _hidePickerMainViewsAnimator];",
+    "-[NTKSquallRegattaFaceView _setTimerDuration:];",
+    "-[NTKSquallRegattaFaceView didUpdateTimerToSeconds:];",
+    "-[NTKSquallRegattaFaceView _hideRegattaBezelAnimator];",
+    "-[NTKSquallRegattaFaceView _handleResetRegattaTimerWithActionButtonAnimated:];",
+    "-[NTKSquallRegattaFaceView _showTimerAndSmallTimeAnimated];",
+    "-[NTKSquallRegattaFaceView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKSquallRegattaFaceView didStartTimerWithSeconds:];",
+    "-[NTKSquallRegattaFaceView didTransitionToState:fromState:];",
+    "-[NTKSquallRegattaFaceView _showRegattaBezelAnimator];",
+    "-[NTKSquallRegattaFaceView _dismissPickerViewToClockAnimated:];",
+    "-[NTKSquallRegattaFaceView tritium_willTransitionToTritiumOffFromFrameSpecifier:];",
+    "-[NTKSquallRegattaTimerController didTransitionToState:fromState:];",
+    "-[NTKSquallRegattaTimerController lastMinuteTimerFired];",
+    "-[NTKSquallRegattaTimerController syncTimerToNearestMinute];",
+    "-[NTKSquallRegattaTimerModel duration];",
+    "-[NTKSquallRegattaTimerModel setDuration:];",
+    "-[NTKSquallRegattaTimerModel lastMinuteTimer];",
+    "-[NTKSquallRegattaTimerModel _notifyObserversDidTransitionToState:fromState:];",
+    "-[NTKSquallRegattaTimerModel _notifyObserversLastMinuteTimerFired];",
+    "-[NTKSquallRegattaTimerModel displaySeconds];",
+    "-[NTKSquallRegattaTimerModel displaySecondsForDate:];",
+    "-[NTKSquallRegattaTimerModel setLastMinuteTimer:];",
+    "-[NTKSquallRegattaTimerModel setupLastMinuteTimerForTime:];",
+    "-[NTKSquallRegattaTimerModel syncTimerToNearestMinute];",
+    "-[NTKSquallRegattaTimerModelStorage durationSeconds];",
+    "-[NTKSquallRegattaTimerModelStorage _isValidDuration:];",
+    "-[NTKSquallRegattaTimerModelStorage _loadDuration];",
+    "-[NTKSquallRegattaTimerModelStorage _loadPausedSeconds];",
+    "-[NTKSquallRegattaTimerModelStorage _sanitizedDuration:];",
+    "-[NTKSquallRegattaTimerModelStorage pausedSeconds];",
+    "-[NTKSquallRegattaTimerModelStorage storeDuration:];",
+    "-[NTKSquallRegattaTimerModelStorage storePausedSeconds:];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController setMinuteSound:];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController _playLastTenSecondsBeepSequence];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController setBeepSeconds:];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController beepSeconds];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController minuteSound];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController playSoundForSeconds:];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController playSyncedToNearestMinuteSound];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController secondDoubleSoundEven];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController secondDoubleSoundOdd];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController secondSingleSound];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController secondTripleSoundEven];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController secondTripleSoundOdd];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController setSecondDoubleSoundEven:];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController setSecondDoubleSoundOdd:];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController setSecondSingleSound:];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController setSecondTripleSoundEven:];",
+    "-[NTKSquallRegattaTimerSoundsAndHapticsController setSecondTripleSoundOdd:];",
+    "-[NTKSquallTimeProvider _secondsFromDate:];",
+    "-[NTKSquallTimerPickerView minutePickerView];",
+    "-[NTKSquallTimerPickerView pickerSeconds];",
+    "-[NTKSquallTimerPickerView _minutesLabelTitle];",
+    "-[NTKSquallTimerPickerView initWithFrame:currentDuration:];",
+    "-[NTKSquallTimerPickerView minutesLabel];"
+   ],
+   "组件与编辑": [
+    "-[NTKSquallColorPalette background];",
+    "-[NTKSquallColorPalette complication];",
+    "-[NTKSquallColorPalette logoHighlighted];",
+    "-[NTKSquallColorPalette bezelCountUpDimmed];",
+    "-[NTKSquallColorPalette bezelCountUpHighlighted];",
+    "-[NTKSquallColorPalette bezelDimmed];",
+    "-[NTKSquallColorPalette bezelDimmedFinal];",
+    "-[NTKSquallColorPalette bezelHighlighted];",
+    "-[NTKSquallColorPalette bezelHighlightedFinal];",
+    "-[NTKSquallColorPalette checkButtonPlatter];",
+    "-[NTKSquallColorPalette checkButtonSymbol];",
+    "-[NTKSquallColorPalette hourNumeralsFill];",
+    "-[NTKSquallColorPalette hourNumeralsFillLinked];",
+    "-[NTKSquallColorPalette logoCountUpDimmed];",
+    "-[NTKSquallColorPalette logoCountUpHighlighted];",
+    "-[NTKSquallColorPalette logoDimmed];",
+    "-[NTKSquallColorPalette minuteNumeralsFill];",
+    "-[NTKSquallColorPalette minuteNumeralsFillLinked];",
+    "-[NTKSquallColorPalette minutesBox];",
+    "-[NTKSquallColorPalette minutesLabelBackground];",
+    "-[NTKSquallColorPalette minutesLabelText];",
+    "-[NTKSquallColorPalette numeralsCountUpFill];",
+    "-[NTKSquallColorPalette numeralsFill];",
+    "-[NTKSquallColorPalette numeralsFillFinal];",
+    "-[NTKSquallColorPalette pauseButtonPlatter];",
+    "-[NTKSquallColorPalette pauseButtonPlatterFinal];",
+    "-[NTKSquallColorPalette pauseButtonSymbol];",
+    "-[NTKSquallColorPalette pauseButtonSymbolFinal];",
+    "-[NTKSquallColorPalette pausedLabel];",
+    "-[NTKSquallColorPalette playButtonPlatter];",
+    "-[NTKSquallColorPalette playButtonSymbol];",
+    "-[NTKSquallColorPalette resetLabel];",
+    "-[NTKSquallColorPalette smallTime];",
+    "-[NTKSquallColorPalette smallTimeFinal];",
+    "-[NTKSquallColorPalette xButtonPlatter];",
+    "-[NTKSquallColorPalette xButtonSymbol];",
+    "-[NTKSquallBezelView _highlightColor];",
+    "-[NTKSquallBezelView layoutSubviews];",
+    "-[NTKSquallBezelView setColorPalette:];",
+    "-[NTKSquallBezelView applyColorPalette:];",
+    "-[NTKSquallBezelView colorPalette];",
+    "-[NTKSquallBezelView setColorKeysDimmed:highlighted:];",
+    "-[NTKSquallBezelView _dimmedColor];",
+    "-[NTKSquallBezelView _tritiumDimmedColor];",
+    "-[NTKSquallBezelView _tritiumHighlightColor];",
+    "-[NTKSquallBezelView dimmedColorKey];",
+    "-[NTKSquallBezelView highlightedColorKey];",
+    "-[NTKSquallBezelView setDimmedColorKey:];",
+    "-[NTKSquallBezelView setHighlightedColorKey:];",
+    "-[NTKSquallDigitalTimeView _attributedStringForHour:linkingFraction:colorShiftFraction:];",
+    "-[NTKSquallDigitalTimeView layoutSubviews];",
+    "-[NTKSquallDigitalTimeView _layoutTime];",
+    "-[NTKSquallDigitalTimeView applyColorPalette:];",
+    "-[NTKSquallDigitalTimeView _attributedStringForMinute:linkingFraction:colorShiftFraction:];",
+    "-[NTKSquallDigitalTimeView _attributedStringForLink:linkingFraction:colorShiftFraction:];",
+    "-[NTKSquallDigitalTimeView _colorShiftFractionForTritiumFraction:];",
+    "+[NTKSquallFace _initialDefaultComplicationForSlot:forDevice:];",
+    "+[NTKSquallFace _richComplicationSlotsForDevice:];",
+    "+[NTKSquallFace _orderedComplicationSlots];",
+    "+[NTKSquallFace _defaultSelectedComplicationSlotForDevice:];",
+    "-[NTKSquallFace _complicationSlotDescriptors];",
+    "-[NTKSquallFace _localizedNameForComplicationSlot:];",
+    "-[NTKSquallFace _numberOfOptionsForCustomEditMode:slot:];",
+    "-[NTKSquallFace _indexOfOption:forCustomEditMode:slot:];",
+    "-[NTKSquallFace _optionAtIndex:forCustomEditMode:slot:];",
+    "-[NTKSquallFaceView _homeScreenDateLabelColor];",
+    "-[NTKSquallFaceView _homeScreenBackgroundColor];",
+    "-[NTKSquallFaceView createFaceColorPalette];",
+    "-[NTKSquallFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKSquallFaceView layoutSubviews];",
+    "-[NTKSquallFaceView _applyOption:forCustomEditMode:slot:];",
+    "-[NTKSquallFaceView _updateColorForTritiumWithProgress:];",
+    "-[NTKSquallFaceView colorPalette];",
+    "-[NTKSquallFaceView _applyTransitionFraction:fromColor:toColor:];",
+    "-[NTKSquallFaceView _updateViewColorsWithPalette:isTritiumPalette:];",
+    "-[NTKSquallPausedView _titleLabelColorForPausedViewType:];",
+    "-[NTKSquallPausedView applyColorPalette:];",
+    "-[NTKSquallPicayuneView layoutSubviews];",
+    "-[NTKSquallRegattaBezelView _updateColorKeysIsFinalColor:];",
+    "-[NTKSquallRegattaBezelView setUseFinalColor:];",
+    "-[NTKSquallRegattaBezelView useFinalColor];",
+    "-[NTKSquallRegattaFaceView _updateViewColors:];",
+    "-[NTKSquallRegattaFaceView layoutSubviews];",
+    "-[NTKSquallRegattaFaceView _updateColorForTritiumWithProgress:];",
+    "-[NTKSquallRegattaFaceView applyColorPalette:];",
+    "-[NTKSquallRegattaFaceView _updateToDefaultColors];",
+    "-[NTKSquallRegattaFaceView _updateToFinalColors];",
+    "-[NTKSquallTimeBezelView _logoDimmedColor];",
+    "-[NTKSquallTimeBezelView _logoHighlightedColor];",
+    "-[NTKSquallTimeBezelView _logoTritiumColor];",
+    "-[NTKSquallTimerPickerView setColorPalette:];",
+    "-[NTKSquallTimerPickerView viewLayoutGuide];",
+    "-[NTKSquallTimerPickerView applyColorPalette:];",
+    "-[NTKSquallTimerPickerView colorPalette];",
+    "-[NTKSquallTimerPickerView setViewLayoutGuide:];"
+   ]
+  }
+ }
+}

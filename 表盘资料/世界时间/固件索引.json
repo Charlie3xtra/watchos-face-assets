@@ -1,0 +1,2434 @@
+{
+ "NTKGlobetrotterFaceBundle.bundle": {
+  "title_evidence": [
+   [
+    "zh_CN.lproj/Localizable.strings",
+    "FACE_STYLE_GLOBETROTTER_IN_TITLE_CASE",
+    "世界时间"
+   ],
+   [
+    "en.lproj/Localizable.strings",
+    "FACE_STYLE_GLOBETROTTER_IN_TITLE_CASE",
+    "World Time"
+   ]
+  ],
+  "models": {
+   "Watch7_12_24S132": {
+    "bundle": "Watch7_12_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle",
+    "code": "Watch7_12_24S132/解析/代码/NTKGlobetrotterFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/Assets.car",
+      "bytes": 75976,
+      "sha256": "3b56c08d1dfcedde2ba7f458de315589bd8574a09b271fb71e33770bc0e40e7b"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/Info.plist",
+      "bytes": 762,
+      "sha256": "44879e4a31275b4798bc1e5be5b69af84340f15fb274de64a1f6b7578a6c1122",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/NTKGlobetrotter.color.plist",
+      "bytes": 397,
+      "sha256": "4edcc138a0f293f12535968c9738757158caa3d489721c4e43c646d3fca6bb79",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/NTKGlobetrotter.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 1955,
+      "sha256": "63793fb056ccd34e17ecf987b8fbbbc30ae0a8b1212842c53f69d32c5f15dc9c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 2002,
+      "sha256": "43fc6dc82fdac2035861935439c6b649a9823d4ef808e3b54efe8f43bc7a6355",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 2027,
+      "sha256": "3e3bce046eb3777a252adb05aa2059ae987770c669357bd1e866a10070638402",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 2141,
+      "sha256": "8c5e0583865f6be2a9e94ad32ed5ac2ae6e637966d6630f195044036881831ae",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 2271,
+      "sha256": "0ca580aa740e63d61d72602c2b503b8966ed049c32a7a5c8d0b0a53d7d04e79e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 2289,
+      "sha256": "c3a14d9ea23ac56282bc5643bc64468350c140943bccffb8f6cfee27334bab94",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 1874,
+      "sha256": "58a9d3a9d03d321f2e9d51014a53beb8a57a6975eceadfcc5c09a146845bdffb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 1886,
+      "sha256": "08807747090f10034a79d7d36bbc3a2d631f12289d8a6701e0bad3e315a4599b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 1878,
+      "sha256": "589f9f88385c937e5aaa55c9472ae8887bb88c699f6a208762e41ae3e7453679",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 1886,
+      "sha256": "08807747090f10034a79d7d36bbc3a2d631f12289d8a6701e0bad3e315a4599b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 1886,
+      "sha256": "08807747090f10034a79d7d36bbc3a2d631f12289d8a6701e0bad3e315a4599b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 1874,
+      "sha256": "6c95a9f6b147c6b305ee1d22769dba8694000f1613910de38c5b38b01d8d7293",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 2227,
+      "sha256": "d61a2193ead950d4255c0addfecc3203489e2f8b838d116a44b2246e17f653ba",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 2195,
+      "sha256": "2cdfe2835a0efe8425df6ca85cf9fe2220646a856b377bccb770ae5a287d2508",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 2195,
+      "sha256": "2cdfe2835a0efe8425df6ca85cf9fe2220646a856b377bccb770ae5a287d2508",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 2035,
+      "sha256": "23e072e3623960638ae00b93442c7bb0a28166ac65ddbb18cd18b1d837d32235",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 2278,
+      "sha256": "97e5ded7a5c836fd41104f492d9e1f536243076b4411bbcc1b205f68561588d2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 2058,
+      "sha256": "07112f40c567253841a67198d13af365053404cf0d183ecbd9757e03c149abc1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 1869,
+      "sha256": "09cdfd74358f3f532f41ee178fc218f8de97f48f000cb0b01450da1cf04d2919",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 2055,
+      "sha256": "9d1a6be94c224ba6f491e7bf07f3e9636f1d144332244f704cbdfbed2cab829a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 2038,
+      "sha256": "3bffcd869aba2da964778dd8e552180195d28bc80a73305a08a652dda9a69b86",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 2123,
+      "sha256": "e48ee5489a2ffa60dfee70bbbd32c71f2f765b28e4b1c38939900a9e8c598e5f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 1396,
+      "sha256": "bb8e42cf16426928bef50c1605ca09574dac979ca6b3dc59c390fdc49731b219",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 2169,
+      "sha256": "0e1ce9c24c8bfe1d421bc3c00312470dfe94ebbc36c4236f1904258dfddeb906",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 1308,
+      "sha256": "f36b598e902fbc17c486cf6bf756b7da0321f8af40b5c08370c3b26a6d74f88b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 1369,
+      "sha256": "ecd5fc842faa6cbe3851c6b31e931c257ebc354cf0e16380a033ecf937226230",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 1405,
+      "sha256": "e54f681b2ed744b384b69fa0c862f9735e9ec6753cd242114c3cfc7b2269320f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 2179,
+      "sha256": "cf10b0e2af1c30565f04963ae3a7e9e75ac47c008d6f71a85f2d63c0dc0f5f30",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 1975,
+      "sha256": "26c0ab1f3250c8e49bb472c8f0ef204861431d2e40577fe21156983ff31be232",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 2111,
+      "sha256": "35f840111ea6afdcae6d66dc58a2a13e738ca6411beaaf543ec45fe0a62fa0db",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 2022,
+      "sha256": "b7b25370e55a9fb4a2b5b861007690f5efdefadb95f435cdc6a02739e46d7dec",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 1891,
+      "sha256": "1fc878fcbdea4ee47004bad3d4019e50541c7bd59c63bdce109cae93ae385d5c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 1987,
+      "sha256": "492d29f0a0a33907adfd0cf93a2e5b2b4b1e99c623e58df0c774a2e8c3205b45",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 2069,
+      "sha256": "8dacf2415b1381b300db2fa750840ca69c0193e0439120933b55d866f9788274",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 2073,
+      "sha256": "f754f57477335aece5ad36473b2240467d0b6c8e1aea1b7722719efc77f0a028",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 2085,
+      "sha256": "863298cad56b8558ecb54ebc58c7e549bf3091d0bd94170719e5a3a4580313c2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 2097,
+      "sha256": "7d493d397cdbd6ccdc53b27a7b2d39f945a08ae134a0b1bb2b48145ab29741cb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 1909,
+      "sha256": "33080a6d7d86984037ea3b54f1860937c680dff9791082cb7392355270e0bf83",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 2054,
+      "sha256": "a4f7f8a447d03480064344ad2e3e56e5bb5c60bf41a47db9e2b9e01eecb9177c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 1951,
+      "sha256": "603f83e044bcedee4d6ceb40819524476ab29db1c512fe1ac56f07177e92262e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 2093,
+      "sha256": "6d253b8c44b4db9598d41acc0cb5d2126801702d388cff3e71808de2cf62a509",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 1100,
+      "sha256": "464192529b04d47e38645fdf484669ed7ffaac638c796ced36ce0e93832188b3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 1136,
+      "sha256": "22d3adabd65fdfe0280b524f89c8017af732c17c39b183944521b33dac43bd68",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 1142,
+      "sha256": "bbed798bbcd0f21b368309c41b84e3edb95bd843df2683c662f51fad1e909e55",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_1_24S132": {
+    "bundle": "Watch8_1_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle",
+    "code": "Watch8_1_24S132/解析/代码/NTKGlobetrotterFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/Assets.car",
+      "bytes": 75976,
+      "sha256": "79128a1ef3312a3216263252204374b48ffb3b08da8dff3e6e99be7001d3915d"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/Info.plist",
+      "bytes": 762,
+      "sha256": "44879e4a31275b4798bc1e5be5b69af84340f15fb274de64a1f6b7578a6c1122",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/NTKGlobetrotter.color.plist",
+      "bytes": 397,
+      "sha256": "4edcc138a0f293f12535968c9738757158caa3d489721c4e43c646d3fca6bb79",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/NTKGlobetrotter.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 1955,
+      "sha256": "63793fb056ccd34e17ecf987b8fbbbc30ae0a8b1212842c53f69d32c5f15dc9c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 2002,
+      "sha256": "43fc6dc82fdac2035861935439c6b649a9823d4ef808e3b54efe8f43bc7a6355",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 2027,
+      "sha256": "3e3bce046eb3777a252adb05aa2059ae987770c669357bd1e866a10070638402",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 2141,
+      "sha256": "8c5e0583865f6be2a9e94ad32ed5ac2ae6e637966d6630f195044036881831ae",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 2271,
+      "sha256": "0ca580aa740e63d61d72602c2b503b8966ed049c32a7a5c8d0b0a53d7d04e79e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 2289,
+      "sha256": "c3a14d9ea23ac56282bc5643bc64468350c140943bccffb8f6cfee27334bab94",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 1874,
+      "sha256": "58a9d3a9d03d321f2e9d51014a53beb8a57a6975eceadfcc5c09a146845bdffb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 1886,
+      "sha256": "08807747090f10034a79d7d36bbc3a2d631f12289d8a6701e0bad3e315a4599b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 1878,
+      "sha256": "589f9f88385c937e5aaa55c9472ae8887bb88c699f6a208762e41ae3e7453679",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 1886,
+      "sha256": "08807747090f10034a79d7d36bbc3a2d631f12289d8a6701e0bad3e315a4599b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 1886,
+      "sha256": "08807747090f10034a79d7d36bbc3a2d631f12289d8a6701e0bad3e315a4599b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 1874,
+      "sha256": "6c95a9f6b147c6b305ee1d22769dba8694000f1613910de38c5b38b01d8d7293",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 2227,
+      "sha256": "d61a2193ead950d4255c0addfecc3203489e2f8b838d116a44b2246e17f653ba",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 2195,
+      "sha256": "2cdfe2835a0efe8425df6ca85cf9fe2220646a856b377bccb770ae5a287d2508",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 2195,
+      "sha256": "2cdfe2835a0efe8425df6ca85cf9fe2220646a856b377bccb770ae5a287d2508",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 2035,
+      "sha256": "23e072e3623960638ae00b93442c7bb0a28166ac65ddbb18cd18b1d837d32235",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 2278,
+      "sha256": "97e5ded7a5c836fd41104f492d9e1f536243076b4411bbcc1b205f68561588d2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 2058,
+      "sha256": "07112f40c567253841a67198d13af365053404cf0d183ecbd9757e03c149abc1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 1869,
+      "sha256": "09cdfd74358f3f532f41ee178fc218f8de97f48f000cb0b01450da1cf04d2919",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 2055,
+      "sha256": "9d1a6be94c224ba6f491e7bf07f3e9636f1d144332244f704cbdfbed2cab829a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 2038,
+      "sha256": "3bffcd869aba2da964778dd8e552180195d28bc80a73305a08a652dda9a69b86",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 2123,
+      "sha256": "e48ee5489a2ffa60dfee70bbbd32c71f2f765b28e4b1c38939900a9e8c598e5f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 1396,
+      "sha256": "bb8e42cf16426928bef50c1605ca09574dac979ca6b3dc59c390fdc49731b219",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 2169,
+      "sha256": "0e1ce9c24c8bfe1d421bc3c00312470dfe94ebbc36c4236f1904258dfddeb906",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 1308,
+      "sha256": "f36b598e902fbc17c486cf6bf756b7da0321f8af40b5c08370c3b26a6d74f88b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 1369,
+      "sha256": "ecd5fc842faa6cbe3851c6b31e931c257ebc354cf0e16380a033ecf937226230",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 1405,
+      "sha256": "e54f681b2ed744b384b69fa0c862f9735e9ec6753cd242114c3cfc7b2269320f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 2179,
+      "sha256": "cf10b0e2af1c30565f04963ae3a7e9e75ac47c008d6f71a85f2d63c0dc0f5f30",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 1975,
+      "sha256": "26c0ab1f3250c8e49bb472c8f0ef204861431d2e40577fe21156983ff31be232",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 2111,
+      "sha256": "35f840111ea6afdcae6d66dc58a2a13e738ca6411beaaf543ec45fe0a62fa0db",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 2022,
+      "sha256": "b7b25370e55a9fb4a2b5b861007690f5efdefadb95f435cdc6a02739e46d7dec",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 1891,
+      "sha256": "1fc878fcbdea4ee47004bad3d4019e50541c7bd59c63bdce109cae93ae385d5c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 1987,
+      "sha256": "492d29f0a0a33907adfd0cf93a2e5b2b4b1e99c623e58df0c774a2e8c3205b45",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 2069,
+      "sha256": "8dacf2415b1381b300db2fa750840ca69c0193e0439120933b55d866f9788274",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 2073,
+      "sha256": "f754f57477335aece5ad36473b2240467d0b6c8e1aea1b7722719efc77f0a028",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 2085,
+      "sha256": "863298cad56b8558ecb54ebc58c7e549bf3091d0bd94170719e5a3a4580313c2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 2097,
+      "sha256": "7d493d397cdbd6ccdc53b27a7b2d39f945a08ae134a0b1bb2b48145ab29741cb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 1909,
+      "sha256": "33080a6d7d86984037ea3b54f1860937c680dff9791082cb7392355270e0bf83",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 2054,
+      "sha256": "a4f7f8a447d03480064344ad2e3e56e5bb5c60bf41a47db9e2b9e01eecb9177c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 1951,
+      "sha256": "603f83e044bcedee4d6ceb40819524476ab29db1c512fe1ac56f07177e92262e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 2093,
+      "sha256": "6d253b8c44b4db9598d41acc0cb5d2126801702d388cff3e71808de2cf62a509",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 1100,
+      "sha256": "464192529b04d47e38645fdf484669ed7ffaac638c796ced36ce0e93832188b3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 1136,
+      "sha256": "22d3adabd65fdfe0280b524f89c8017af732c17c39b183944521b33dac43bd68",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 1142,
+      "sha256": "bbed798bbcd0f21b368309c41b84e3edb95bd843df2683c662f51fad1e909e55",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_5_24S132": {
+    "bundle": "Watch8_5_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle",
+    "code": "Watch8_5_24S132/解析/代码/NTKGlobetrotterFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/Assets.car",
+      "bytes": 75976,
+      "sha256": "f38f6f29ad0192c83cceed3c393e5d52b05770004865500d6f3539749efae511"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/Info.plist",
+      "bytes": 762,
+      "sha256": "44879e4a31275b4798bc1e5be5b69af84340f15fb274de64a1f6b7578a6c1122",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/NTKGlobetrotter.color.plist",
+      "bytes": 397,
+      "sha256": "4edcc138a0f293f12535968c9738757158caa3d489721c4e43c646d3fca6bb79",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/NTKGlobetrotter.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 1955,
+      "sha256": "63793fb056ccd34e17ecf987b8fbbbc30ae0a8b1212842c53f69d32c5f15dc9c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 2002,
+      "sha256": "43fc6dc82fdac2035861935439c6b649a9823d4ef808e3b54efe8f43bc7a6355",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 2027,
+      "sha256": "3e3bce046eb3777a252adb05aa2059ae987770c669357bd1e866a10070638402",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 2141,
+      "sha256": "8c5e0583865f6be2a9e94ad32ed5ac2ae6e637966d6630f195044036881831ae",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 2271,
+      "sha256": "0ca580aa740e63d61d72602c2b503b8966ed049c32a7a5c8d0b0a53d7d04e79e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 2289,
+      "sha256": "c3a14d9ea23ac56282bc5643bc64468350c140943bccffb8f6cfee27334bab94",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 1874,
+      "sha256": "58a9d3a9d03d321f2e9d51014a53beb8a57a6975eceadfcc5c09a146845bdffb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 1886,
+      "sha256": "08807747090f10034a79d7d36bbc3a2d631f12289d8a6701e0bad3e315a4599b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 1878,
+      "sha256": "589f9f88385c937e5aaa55c9472ae8887bb88c699f6a208762e41ae3e7453679",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 1886,
+      "sha256": "08807747090f10034a79d7d36bbc3a2d631f12289d8a6701e0bad3e315a4599b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 1886,
+      "sha256": "08807747090f10034a79d7d36bbc3a2d631f12289d8a6701e0bad3e315a4599b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 1874,
+      "sha256": "6c95a9f6b147c6b305ee1d22769dba8694000f1613910de38c5b38b01d8d7293",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 2227,
+      "sha256": "d61a2193ead950d4255c0addfecc3203489e2f8b838d116a44b2246e17f653ba",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 2195,
+      "sha256": "2cdfe2835a0efe8425df6ca85cf9fe2220646a856b377bccb770ae5a287d2508",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 2195,
+      "sha256": "2cdfe2835a0efe8425df6ca85cf9fe2220646a856b377bccb770ae5a287d2508",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 2035,
+      "sha256": "23e072e3623960638ae00b93442c7bb0a28166ac65ddbb18cd18b1d837d32235",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 2278,
+      "sha256": "97e5ded7a5c836fd41104f492d9e1f536243076b4411bbcc1b205f68561588d2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 2058,
+      "sha256": "07112f40c567253841a67198d13af365053404cf0d183ecbd9757e03c149abc1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 1869,
+      "sha256": "09cdfd74358f3f532f41ee178fc218f8de97f48f000cb0b01450da1cf04d2919",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 2055,
+      "sha256": "9d1a6be94c224ba6f491e7bf07f3e9636f1d144332244f704cbdfbed2cab829a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 2038,
+      "sha256": "3bffcd869aba2da964778dd8e552180195d28bc80a73305a08a652dda9a69b86",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 2123,
+      "sha256": "e48ee5489a2ffa60dfee70bbbd32c71f2f765b28e4b1c38939900a9e8c598e5f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 1396,
+      "sha256": "bb8e42cf16426928bef50c1605ca09574dac979ca6b3dc59c390fdc49731b219",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 2169,
+      "sha256": "0e1ce9c24c8bfe1d421bc3c00312470dfe94ebbc36c4236f1904258dfddeb906",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 1308,
+      "sha256": "f36b598e902fbc17c486cf6bf756b7da0321f8af40b5c08370c3b26a6d74f88b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 1369,
+      "sha256": "ecd5fc842faa6cbe3851c6b31e931c257ebc354cf0e16380a033ecf937226230",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 1405,
+      "sha256": "e54f681b2ed744b384b69fa0c862f9735e9ec6753cd242114c3cfc7b2269320f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 2179,
+      "sha256": "cf10b0e2af1c30565f04963ae3a7e9e75ac47c008d6f71a85f2d63c0dc0f5f30",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 1975,
+      "sha256": "26c0ab1f3250c8e49bb472c8f0ef204861431d2e40577fe21156983ff31be232",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 2111,
+      "sha256": "35f840111ea6afdcae6d66dc58a2a13e738ca6411beaaf543ec45fe0a62fa0db",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 2022,
+      "sha256": "b7b25370e55a9fb4a2b5b861007690f5efdefadb95f435cdc6a02739e46d7dec",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 1891,
+      "sha256": "1fc878fcbdea4ee47004bad3d4019e50541c7bd59c63bdce109cae93ae385d5c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 1987,
+      "sha256": "492d29f0a0a33907adfd0cf93a2e5b2b4b1e99c623e58df0c774a2e8c3205b45",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 2069,
+      "sha256": "8dacf2415b1381b300db2fa750840ca69c0193e0439120933b55d866f9788274",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 2073,
+      "sha256": "f754f57477335aece5ad36473b2240467d0b6c8e1aea1b7722719efc77f0a028",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 2085,
+      "sha256": "863298cad56b8558ecb54ebc58c7e549bf3091d0bd94170719e5a3a4580313c2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 2097,
+      "sha256": "7d493d397cdbd6ccdc53b27a7b2d39f945a08ae134a0b1bb2b48145ab29741cb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 1909,
+      "sha256": "33080a6d7d86984037ea3b54f1860937c680dff9791082cb7392355270e0bf83",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 2054,
+      "sha256": "a4f7f8a447d03480064344ad2e3e56e5bb5c60bf41a47db9e2b9e01eecb9177c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 1951,
+      "sha256": "603f83e044bcedee4d6ceb40819524476ab29db1c512fe1ac56f07177e92262e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 2093,
+      "sha256": "6d253b8c44b4db9598d41acc0cb5d2126801702d388cff3e71808de2cf62a509",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 1100,
+      "sha256": "464192529b04d47e38645fdf484669ed7ffaac638c796ced36ce0e93832188b3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 1136,
+      "sha256": "22d3adabd65fdfe0280b524f89c8017af732c17c39b183944521b33dac43bd68",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 1142,
+      "sha256": "bbed798bbcd0f21b368309c41b84e3edb95bd843df2683c662f51fad1e909e55",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKGlobetrotterFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   }
+  },
+  "固件文字": {
+   "描述": [
+    [
+     "FACE_STYLE_GLOBETROTTER_DESCRIPTION",
+     "这款表盘灵感源自经典设计，可让你同时关注24个时区的时间。外侧刻度盘的地点代表不同时区，内侧刻度盘则显示每处地点的当前时间。轻点地球仪可将你所在时区居中，同时还会通过6点钟方向的箭头示意。太阳和月亮图标代表你所在地的日出和日落，地球仪上的明暗区域则映衬着地球上经过的日与夜。提供指针和数字时间标度。"
+    ]
+   ],
+   "编辑选项": []
+  },
+  "图集颜色分量": [
+   {
+    "name": "globetrotter/seasons/fall2021/green3/hourMinuteHandStroke",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_hourMinuteHandStroke-26aa72e46ae6fd3f.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/innerComplication",
+    "components": [
+     0.6000000238418579,
+     0.6000000238418579,
+     0.6000000238418579,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_innerComplication-c6fa3caf5519537b.json"
+   },
+   {
+    "name": "globetrotter/evergreen/palePink/digitalLabel",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_palePink_digitalLabel-3c4adad4577022c0.json"
+   },
+   {
+    "name": "globetrotter/evergreen/watermelon/hourMarkerLabel",
+    "components": [
+     0.9411764705882353,
+     0.9411764705882353,
+     0.9411764705882353,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_watermelon_hourMarkerLabel-aa1dd72508388046.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/cityDialArrowMarker",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_cityDialArrowMarker-dcfc60d003c877b8.json"
+   },
+   {
+    "name": "globetrotter/evergreen/ivory/cityDialArrowMarker",
+    "components": [
+     0.9372549019607843,
+     0.35294117647058826,
+     0.1411764705882353,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_ivory_cityDialArrowMarker-10b62c89bf067f64.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/dialBackground",
+    "components": [
+     0.6779999732971191,
+     0.07500000298023224,
+     0.17599999904632568,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_dialBackground-ebf3499f65ea4d58.json"
+   },
+   {
+    "name": "globetrotter/digitalLabel",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_digitalLabel-794a0130045c65e7.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/globe",
+    "components": [
+     0.9020000100135803,
+     0.7730000019073486,
+     0.6389999985694885,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_globe-5f98f226efeace73.json"
+   },
+   {
+    "name": "globetrotter/evergreen/globeBlend",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_globeBlend-70e5cd98df20663b.json"
+   },
+   {
+    "name": "globetrotter/evergreen/watermelon/cityDialArrowMarker",
+    "components": [
+     0.10196078431372549,
+     0.10196078431372549,
+     0.10196078431372549,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_watermelon_cityDialArrowMarker-cbae87d653cc6f5c.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/hourMinuteHandInlay",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_hourMinuteHandInlay-cb89508c1e1ab5e8.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/dialBackground",
+    "components": [
+     0.28600001335144043,
+     0.46700000762939453,
+     0.5410000085830688,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_dialBackground-a9b6ec5302cdfd1f.json"
+   },
+   {
+    "name": "globetrotter/evergreen/mango/digitalLabel",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_mango_digitalLabel-ace98fde49c7db8e.json"
+   },
+   {
+    "name": "globetrotter/outerComplication",
+    "components": [
+     0.9019607843137255,
+     0.9019607843137255,
+     0.9019607843137255,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_outerComplication-b6b6dec92c33748a.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/hourMarkerLabel",
+    "components": [
+     0.3610000014305115,
+     0.5220000147819519,
+     0.28200000524520874,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_hourMarkerLabel-722fa84a0934a1fa.json"
+   },
+   {
+    "name": "globetrotter/whiteCityDialArrowMarker",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_whiteCityDialArrowMarker-34338741dd753a4e.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/cityDialDots",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_cityDialDots-77caa661743d3d5a.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/innerComplication",
+    "components": [
+     0.6000000238418579,
+     0.6000000238418579,
+     0.6000000238418579,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_innerComplication-813397e3f8e4c564.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/outerComplication",
+    "components": [
+     0.9020000100135803,
+     0.9020000100135803,
+     0.9020000100135803,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_outerComplication-a7026058ee722f7e.json"
+   },
+   {
+    "name": "globetrotter/evergreen/innerComplication",
+    "components": [
+     0.6,
+     0.6,
+     0.6,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_innerComplication-8750d41e91baeb74.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/globeBlend",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_globeBlend-477983c7df1a203e.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/innerComplication",
+    "components": [
+     0.6000000238418579,
+     0.6000000238418579,
+     0.6000000238418579,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_innerComplication-2b16daa73d4df276.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/hourMarkerDialBackground",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_hourMarkerDialBackground-7b07effb3c51a952.json"
+   },
+   {
+    "name": "globetrotter/evergreen/evergreen/cityDialArrowMarker",
+    "components": [
+     0.9450980392156862,
+     0.35294117647058826,
+     0.1411764705882353,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_evergreen_cityDialArrowMarker-0fc0a55efec4e928.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/hourTick",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_hourTick-3922a28c2f0b0d98.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/outerComplication",
+    "components": [
+     0.9020000100135803,
+     0.9020000100135803,
+     0.9020000100135803,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_outerComplication-c479027e77163d25.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/hourMinuteHandStroke",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_hourMinuteHandStroke-370f30cc13b801cd.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/hourTick",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_hourTick-50f80d1f2d2bb434.json"
+   },
+   {
+    "name": "globetrotter/evergreen/navyBlue/cityDialArrowMarker",
+    "components": [
+     0.9372549019607843,
+     0.35294117647058826,
+     0.1411764705882353,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_navyBlue_cityDialArrowMarker-3f901485815af0d4.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/cityDialDots",
+    "components": [
+     0.10199999809265137,
+     0.10199999809265137,
+     0.10199999809265137,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_cityDialDots-9b9a8e23b4701128.json"
+   },
+   {
+    "name": "globetrotter/globeBlend",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_globeBlend-6f24fcab3ae27bff.json"
+   },
+   {
+    "name": "globetrotter/evergreen/navyBlue/globeBlend",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_navyBlue_globeBlend-a001a123925e0db8.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/cityDialDots",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_cityDialDots-ce1c704e825348ce.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/cityDialLabel",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_cityDialLabel-2071b84a50f0dde5.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/dialBackground",
+    "components": [
+     0.3610000014305115,
+     0.5220000147819519,
+     0.28200000524520874,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_dialBackground-ad3ec4dae053b3a2.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/hourMinuteHandInlay",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_hourMinuteHandInlay-cf87e4547dd9aec4.json"
+   },
+   {
+    "name": "globetrotter/evergreen/black/globe",
+    "components": [
+     0.5019607843137255,
+     0.5019607843137255,
+     0.5019607843137255,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_black_globe-a088653724a6e3a9.json"
+   },
+   {
+    "name": "globetrotter/evergreen/white/secondTickActive",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_white_secondTickActive-0ecacc65e7fa2ccf.json"
+   },
+   {
+    "name": "globetrotter/evergreen/lightTitanium/secondTickActive",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_lightTitanium_secondTickActive-c2a1669d82f77ce3.json"
+   },
+   {
+    "name": "globetrotter/evergreen/mango/secondTickActive",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_mango_secondTickActive-1fc5f9999f964fa4.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/globe",
+    "components": [
+     0.28600001335144043,
+     0.46700000762939453,
+     0.5410000085830688,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_globe-48e463e22f4b036a.json"
+   },
+   {
+    "name": "globetrotter/evergreen/white/digitalLabel",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_white_digitalLabel-bf4f2535258c5cb9.json"
+   },
+   {
+    "name": "globetrotter/evergreen/cityDialLabel",
+    "components": [
+     0.10196078431372549,
+     0.10196078431372549,
+     0.10196078431372549,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_cityDialLabel-2c2dc071a1319ef2.json"
+   },
+   {
+    "name": "globetrotter/evergreen/palePink/hourMinuteHandStroke",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_palePink_hourMinuteHandStroke-d8ceca827e2608db.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/hourMinuteHandInlay",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_hourMinuteHandInlay-efa8c5b8c7c0976b.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/cityDialDots",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_cityDialDots-cfefb55f553fb59d.json"
+   },
+   {
+    "name": "globetrotter/evergreen/warmGray/secondTickActive",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_warmGray_secondTickActive-6875f7f377e53e76.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/cityDialLabel",
+    "components": [
+     0.10199999809265137,
+     0.10199999809265137,
+     0.10199999809265137,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_cityDialLabel-8dea5c8e116d03f2.json"
+   },
+   {
+    "name": "globetrotter/evergreen/darkTitanium/globeBlend",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_darkTitanium_globeBlend-070b95250be5fb2f.json"
+   },
+   {
+    "name": "globetrotter/evergreen/white/hourTick",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_white_hourTick-e511fad63023b357.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/cityDialLabel",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_cityDialLabel-9f43eb2fd8342f2c.json"
+   },
+   {
+    "name": "globetrotter/evergreen/ivory/hourTick",
+    "components": [
+     0.9098039215686274,
+     0.8862745098039215,
+     0.8509803921568627,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_ivory_hourTick-2be1a614ac60f839.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/hourMinuteHandStroke",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_hourMinuteHandStroke-9d6d085aa7c7366e.json"
+   },
+   {
+    "name": "globetrotter/hourMinuteHandStroke",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_hourMinuteHandStroke-d20dc854a05fc503.json"
+   },
+   {
+    "name": "globetrotter/evergreen/evergreen/hourTick",
+    "components": [
+     0.9490196078431372,
+     0.9490196078431372,
+     0.9490196078431372,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_evergreen_hourTick-afc8b9ba4876be94.json"
+   },
+   {
+    "name": "globetrotter/evergreen/palePink/hourMinuteHandInlay",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_palePink_hourMinuteHandInlay-b3e96764d4eab17e.json"
+   },
+   {
+    "name": "globetrotter/evergreen/watermelon/digitalLabel",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_watermelon_digitalLabel-f0fdafb5e1be677b.json"
+   },
+   {
+    "name": "globetrotter/evergreen/slate/hourMarkerDialBackground",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_slate_hourMarkerDialBackground-8b532e88677f6852.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/cityDialArrowMarker",
+    "components": [
+     0.9369999766349792,
+     0.3529999852180481,
+     0.14100000262260437,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_cityDialArrowMarker-eac71b8137517278.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/digitalLabel",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_digitalLabel-9046f439501fe83f.json"
+   },
+   {
+    "name": "globetrotter/evergreen/white/hourMinuteHandStroke",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_white_hourMinuteHandStroke-3507fb5f3131d4b3.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/innerComplication",
+    "components": [
+     0.6000000238418579,
+     0.6000000238418579,
+     0.6000000238418579,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_innerComplication-d46b569097f28f87.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/globeBlend",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_globeBlend-161de1ca34fa6b07.json"
+   },
+   {
+    "name": "globetrotter/evergreen/lightTitanium/hourMinuteHandInlay",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_lightTitanium_hourMinuteHandInlay-07c618203fc40899.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/outerComplication",
+    "components": [
+     0.9020000100135803,
+     0.9020000100135803,
+     0.9020000100135803,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_outerComplication-570082c0ce2b2194.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/globe",
+    "components": [
+     0.6779999732971191,
+     0.07500000298023224,
+     0.17599999904632568,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_globe-cfcecbb7f145bf37.json"
+   },
+   {
+    "name": "globetrotter/evergreen/slate/cityDialLabel",
+    "components": [
+     0.9411764705882353,
+     0.9411764705882353,
+     0.9411764705882353,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_slate_cityDialLabel-bc4732a6e28c2974.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/digitalLabel",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_digitalLabel-0ba9806db946bc88.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/hourMinuteHandStroke",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_hourMinuteHandStroke-0dd4cff21cf3ed3d.json"
+   },
+   {
+    "name": "globetrotter/secondTickActive",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_secondTickActive-2c49bc7757edb1d6.json"
+   },
+   {
+    "name": "globetrotter/hourMinuteHandInlay",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_hourMinuteHandInlay-b6b05a6b1a4f7473.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/hourTick",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_hourTick-957fb3abf632ef6e.json"
+   },
+   {
+    "name": "globetrotter/evergreen/evergreen/cityDialLabel",
+    "components": [
+     0.9019607843137255,
+     0.8784313725490196,
+     0.8431372549019608,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_evergreen_cityDialLabel-d83378645f91cfa9.json"
+   },
+   {
+    "name": "globetrotter/evergreen/evergreen/cityDialDots",
+    "components": [
+     0.9098039215686274,
+     0.8862745098039215,
+     0.8509803921568627,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_evergreen_cityDialDots-b6ebfa22df626ce3.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/digitalLabel",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_digitalLabel-7e342552b342a35a.json"
+   },
+   {
+    "name": "globetrotter/evergreen/evergreen/globeBlend",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_evergreen_globeBlend-25285257a27abccd.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/red2sg/hourMarkerLabel",
+    "components": [
+     0.6779999732971191,
+     0.07500000298023224,
+     0.17599999904632568,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_red2sg_hourMarkerLabel-e48b100ab91a498a.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/hourMarkerLabel",
+    "components": [
+     0.9020000100135803,
+     0.7730000019073486,
+     0.6389999985694885,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_hourMarkerLabel-f17a98eb23a24499.json"
+   },
+   {
+    "name": "globetrotter/evergreen/slate/globeBlend",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_slate_globeBlend-d9c753182db4204c.json"
+   },
+   {
+    "name": "globetrotter/evergreen/ivory/cityDialLabel",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_ivory_cityDialLabel-c37bfc283f552429.json"
+   },
+   {
+    "name": "globetrotter/redSecondHand",
+    "components": [
+     0.9333333333333333,
+     0.2196078431372549,
+     0.19215686274509805,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_redSecondHand-d68182e8a6509cd2.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/globeBlend",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_globeBlend-6ea95d9303424f63.json"
+   },
+   {
+    "name": "globetrotter/evergreen/darkTitanium/cityDialArrowMarker",
+    "components": [
+     0.9369999766349792,
+     0.3529999852180481,
+     0.14100000262260437,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_darkTitanium_cityDialArrowMarker-e4da4cc2b45ac470.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/hourMinuteHandInlay",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_hourMinuteHandInlay-ae2c38f3e65af98b.json"
+   },
+   {
+    "name": "globetrotter/hourMarkerLabelLight",
+    "components": [
+     0.9490196078431372,
+     0.9490196078431372,
+     0.9490196078431372,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_hourMarkerLabelLight-0b694e277c9e60a8.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/dialBackground",
+    "components": [
+     0.9020000100135803,
+     0.7730000019073486,
+     0.6389999985694885,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_dialBackground-375ecc3e741937e8.json"
+   },
+   {
+    "name": "globetrotter/evergreen/slate/globe",
+    "components": [
+     0.5764705882352941,
+     0.5764705882352941,
+     0.5764705882352941,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_slate_globe-4ea06172eaa12a49.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/cityDialLabel",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_cityDialLabel-8f795701230ee9fe.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/digitalLabel",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_digitalLabel-b278861b5ffe6b88.json"
+   },
+   {
+    "name": "globetrotter/evergreen/darkTitanium/cityDialLabel",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_darkTitanium_cityDialLabel-09282b0b9c5a86ad.json"
+   },
+   {
+    "name": "globetrotter/yellowSecondHand",
+    "components": [
+     1,
+     0.8709999918937683,
+     0.2669999897480011,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_yellowSecondHand-bbb58a3629b4f2d6.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/hourTick",
+    "components": [
+     0.10199999809265137,
+     0.10199999809265137,
+     0.10199999809265137,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_hourTick-8b01f24009a1ecac.json"
+   },
+   {
+    "name": "globetrotter/redCityDialArrowMarker",
+    "components": [
+     1,
+     0.23137254901960785,
+     0.18823529411764706,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_redCityDialArrowMarker-d913b1f61e599b19.json"
+   },
+   {
+    "name": "globetrotter/evergreen/black/cityDialLabel",
+    "components": [
+     0.9411764705882353,
+     0.9411764705882353,
+     0.9411764705882353,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_black_cityDialLabel-014914fc65671b64.json"
+   },
+   {
+    "name": "globetrotter/evergreen/lightTitanium/digitalLabel",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_lightTitanium_digitalLabel-75746f79723770b7.json"
+   },
+   {
+    "name": "globetrotter/evergreen/watermelon/secondTickActive",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_watermelon_secondTickActive-693c59d25f6f7254.json"
+   },
+   {
+    "name": "globetrotter/evergreen/watermelon/hourMarkerDialBackground",
+    "components": [
+     0.10196078431372549,
+     0.10196078431372549,
+     0.10196078431372549,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_watermelon_hourMarkerDialBackground-574946e30cd29e51.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/hourMarkerDialBackground",
+    "components": [
+     0.10199999809265137,
+     0.10199999809265137,
+     0.10199999809265137,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_hourMarkerDialBackground-a32d4785c091e785.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/hourMarkerDialBackground",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_hourMarkerDialBackground-3f85610253c551b6.json"
+   },
+   {
+    "name": "globetrotter/evergreen/black/globeBlend",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_black_globeBlend-a0684894a752b2fe.json"
+   },
+   {
+    "name": "globetrotter/evergreen/ivory/globe",
+    "components": [
+     0.5019999742507935,
+     0.5019999742507935,
+     0.5019999742507935,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_ivory_globe-5da1f34e48b2f2fe.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/globe",
+    "components": [
+     0.3610000014305115,
+     0.5220000147819519,
+     0.28200000524520874,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_globe-14c6ad1bfb6d558e.json"
+   },
+   {
+    "name": "globetrotter/evergreen/watermelon/cityDialLabel",
+    "components": [
+     0.9411764705882353,
+     0.9411764705882353,
+     0.9411764705882353,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_watermelon_cityDialLabel-2d3a02b426a613b9.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/secondTickActive",
+    "components": [
+     0.10199999809265137,
+     0.10199999809265137,
+     0.10199999809265137,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_secondTickActive-80b240b26f5f0639.json"
+   },
+   {
+    "name": "globetrotter/evergreen/warmGray/digitalLabel",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_warmGray_digitalLabel-6dc83b92c4c56546.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/globeBlend",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_globeBlend-2c9c9236708a4663.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/stardust/cityDialArrowMarker",
+    "components": [
+     0.10199999809265137,
+     0.10199999809265137,
+     0.10199999809265137,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_stardust_cityDialArrowMarker-128766e8c247e7b9.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/hourMarkerLabel",
+    "components": [
+     0.28600001335144043,
+     0.46700000762939453,
+     0.5410000085830688,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_hourMarkerLabel-264429a55ed9e763.json"
+   },
+   {
+    "name": "globetrotter/evergreen/ivory/globeBlend",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_ivory_globeBlend-01839f546fafc40f.json"
+   },
+   {
+    "name": "globetrotter/evergreen/navyBlue/cityDialLabel",
+    "components": [
+     0.9019607843137255,
+     0.8784313725490196,
+     0.8431372549019608,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_navyBlue_cityDialLabel-ff7f4cba676eec4b.json"
+   },
+   {
+    "name": "globetrotter/evergreen/palePink/secondTickActive",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_palePink_secondTickActive-6caffd24d310b9e0.json"
+   },
+   {
+    "name": "globetrotter/evergreen/warmGray/hourTick",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_warmGray_hourTick-c6228dfa94878749.json"
+   },
+   {
+    "name": "globetrotter/evergreen/mango/cityDialLabel",
+    "components": [
+     0.25098039215686274,
+     0.23529411764705882,
+     0.26666666666666666,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_mango_cityDialLabel-cea3f62860e52f3a.json"
+   },
+   {
+    "name": "globetrotter/hourTickLight",
+    "components": [
+     0.9411764705882353,
+     0.9411764705882353,
+     0.9411764705882353,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_hourTickLight-9162b29e874991e7.json"
+   },
+   {
+    "name": "globetrotter/evergreen/white/hourMinuteHandInlay",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_white_hourMinuteHandInlay-af02d598d2e0a30f.json"
+   },
+   {
+    "name": "globetrotter/evergreen/black/hourMarkerDialBackground",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_black_hourMarkerDialBackground-08e14851a9615fea.json"
+   },
+   {
+    "name": "globetrotter/evergreen/lightTitanium/hourMinuteHandStroke",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_lightTitanium_hourMinuteHandStroke-04a511421893e6ec.json"
+   },
+   {
+    "name": "globetrotter/evergreen/palePink/hourTick",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_palePink_hourTick-fbfe0876a6c7cc1e.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/hourMarkerDialBackground",
+    "components": [
+     0.9020000100135803,
+     0.878000020980835,
+     0.8429999947547913,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_hourMarkerDialBackground-753fa7b5cf0585af.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/green3/outerComplication",
+    "components": [
+     0.9020000100135803,
+     0.9020000100135803,
+     0.9020000100135803,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_green3_outerComplication-01305d85fa6bc939.json"
+   },
+   {
+    "name": "globetrotter/evergreen/watermelon/cityDialDots",
+    "components": [
+     0.9490196078431372,
+     0.9490196078431372,
+     0.9490196078431372,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_watermelon_cityDialDots-e8ac41767f561942.json"
+   },
+   {
+    "name": "globetrotter/evergreen/watermelon/hourTick",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_evergreen_watermelon_hourTick-f5370bf5281ebec4.json"
+   },
+   {
+    "name": "globetrotter/seasons/fall2021/blue11/cityDialArrowMarker",
+    "components": [
+     0.9369999766349792,
+     0.3529999852180481,
+     0.14100000262260437,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKGlobetrotterFaceBundle.bundle\\Assets.car\\资源\\globetrotter_seasons_fall2021_blue11_cityDialArrowMarker-56ecf59ac2f24fa8.json"
+   }
+  ],
+  "方法索引": {
+   "息屏与唤醒": [
+    "-[NTKGlobetrotterDialView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKGlobetrotterDialView tritium_transitionToFrameSpecifier:];",
+    "-[NTKGlobetrotterDialView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_secondTickInactive];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_dialBackground];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_digitalLabel];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_hourMinuteHandStroke];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_hourTick];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_secondTickActive];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_hourMinuteHandInlay];",
+    "-[NTKGlobetrotterFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKGlobetrotterFaceView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKGlobetrotterFaceView tritium_createFaceAnimator];",
+    "-[NTKGlobetrotterFaceView tritium_alwaysOnTimelines];",
+    "-[NTKGlobetrotterFaceView tritium_transitionToFrameSpecifier:];",
+    "-[NTKGlobetrotterFaceView _updateColorForTritiumWithProgress:];",
+    "-[NTKGlobetrotterFaceView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKGlobetrotterFaceView _tritium_updateComplicationColors];",
+    "-[NTKGlobetrotterTimeView tritium_didTransitionToTritiumOn];",
+    "-[NTKGlobetrotterTimeView _tritium_dimmingValueForCurrentVistaState];",
+    "-[NTKGlobetrotterTimeView _tritium_applyProgress:];",
+    "-[NTKGlobetrotterTimeView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKGlobetrotterTimeView tritium_transitionToFrameSpecifier:];",
+    "-[NTKGlobetrotterTimeView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKGlobetrotterTimeView tritium_willTransitionToTritiumOnToFrameSpecifier:];"
+   ],
+   "动画与时间变化": [
+    "-[NTKGlobetrotterColorPalette secondHand];",
+    "-[NTKGlobetrotterColorPalette hourMinuteHandInlay];",
+    "-[NTKGlobetrotterColorPalette hourMinuteHandStroke];",
+    "-[NTKGlobetrotterColorPalette hourTick];",
+    "-[NTKGlobetrotterColorPalette secondTickActive];",
+    "-[NTKGlobetrotterColorPalette secondTickInactive];",
+    "-[NTKGlobetrotterAnalogHandsView secondHandConfiguration];",
+    "-[NTKGlobetrotterAnalogHandsView minuteHandConfiguration];",
+    "-[NTKGlobetrotterDialView applyTransitionFraction:fromNumeralOption:toNumeralOption:];",
+    "-[NTKGlobetrotterDialView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKGlobetrotterDialView tritium_transitionToFrameSpecifier:];",
+    "-[NTKGlobetrotterDialView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKGlobetrotterDialView setOverrideDate:duration:];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_secondTickInactive];",
+    "-[NTKGlobetrotterFaceColorPalette _secondTickInactive];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_hourMinuteHandStroke];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_hourTick];",
+    "-[NTKGlobetrotterFaceColorPalette _hourTick];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_secondTickActive];",
+    "-[NTKGlobetrotterFaceColorPalette _secondHand];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_hourMinuteHandInlay];",
+    "-[NTKGlobetrotterFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKGlobetrotterFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFaceView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKGlobetrotterFaceView tritium_createFaceAnimator];",
+    "-[NTKGlobetrotterFaceView tritium_alwaysOnTimelines];",
+    "-[NTKGlobetrotterFaceView tritium_transitionToFrameSpecifier:];",
+    "-[NTKGlobetrotterFaceView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKGlobetrotterFaceView _configureForTransitionFraction:fromEditMode:toEditMode:];",
+    "-[NTKGlobetrotterFaceView setOverrideDate:duration:];",
+    "-[NTKGlobetrotterTimeView _minuteTickInset];",
+    "-[NTKGlobetrotterTimeView applyTransitionFraction:fromNumeralOption:toNumeralOption:];",
+    "-[NTKGlobetrotterTimeView tritium_didTransitionToTritiumOn];",
+    "-[NTKGlobetrotterTimeView _minuteTickCount];",
+    "-[NTKGlobetrotterTimeView _hourMinuteHandFillColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView _secondTickInset];",
+    "-[NTKGlobetrotterTimeView _secondTickActiveColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView _secondTickInactiveColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView _hourTickColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView _applyColorToDigitalLabelAndTicks];",
+    "-[NTKGlobetrotterTimeView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKGlobetrotterTimeView _secondTickSize];",
+    "-[NTKGlobetrotterTimeView applyTransitionFraction:fromStyle:toStyle:];",
+    "-[NTKGlobetrotterTimeView astronomyVistaViewContentsAnimationFinished:];",
+    "-[NTKGlobetrotterTimeView _hourMinuteHandStrokeColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView tritium_transitionToFrameSpecifier:];",
+    "-[NTKGlobetrotterTimeView _secondHandColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView _hourTickSize];",
+    "-[NTKGlobetrotterTimeView _setCoordinate:animated:];",
+    "-[NTKGlobetrotterTimeView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKGlobetrotterTimeView setOverrideDate:duration:];",
+    "-[NTKGlobetrotterTimeView setTimeZoneHourOffset:animated:];",
+    "-[NTKGlobetrotterTimeView tritium_willTransitionToTritiumOnToFrameSpecifier:];"
+   ],
+   "组件与编辑": [
+    "-[NTKGlobetrotterColorPalette secondHand];",
+    "-[NTKGlobetrotterColorPalette dialBackground];",
+    "-[NTKGlobetrotterColorPalette hourMinuteHandInlay];",
+    "-[NTKGlobetrotterColorPalette hourMinuteHandStroke];",
+    "-[NTKGlobetrotterColorPalette hourTick];",
+    "-[NTKGlobetrotterColorPalette hourMarkerLabel];",
+    "-[NTKGlobetrotterColorPalette cityDialArrowMarker];",
+    "-[NTKGlobetrotterColorPalette cityDialDots];",
+    "-[NTKGlobetrotterColorPalette cityDialLabel];",
+    "-[NTKGlobetrotterColorPalette digitalLabel];",
+    "-[NTKGlobetrotterColorPalette globe];",
+    "-[NTKGlobetrotterColorPalette globeBlend];",
+    "-[NTKGlobetrotterColorPalette hourMarkerDialBackground];",
+    "-[NTKGlobetrotterColorPalette innerComplication];",
+    "-[NTKGlobetrotterColorPalette outerComplication];",
+    "-[NTKGlobetrotterColorPalette secondTickActive];",
+    "-[NTKGlobetrotterColorPalette secondTickInactive];",
+    "-[NTKGlobetrotterDialView setPalette:];",
+    "-[NTKGlobetrotterDialView cleanupAfterEditing];",
+    "-[NTKGlobetrotterDialView layoutSubviews];",
+    "-[NTKGlobetrotterDialView prepareForEditing];",
+    "-[NTKGlobetrotterDialView _updateColor:forObject:];",
+    "-[NTKGlobetrotterDialView _updateEditingImageColor];",
+    "-[NTKGlobetrotterDialView _updateCityDialColor];",
+    "+[NTKGlobetrotterFace _initialDefaultComplicationForSlot:forDevice:];",
+    "+[NTKGlobetrotterFace complicationConfiguration];",
+    "-[NTKGlobetrotterFace selectOption:forCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFace _numberOfOptionsForCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFace _defaultOptionForCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFace _indexOfOption:forCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFace _optionAtIndex:forCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_secondTickInactive];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_dialBackground];",
+    "-[NTKGlobetrotterFaceColorPalette _secondTickInactive];",
+    "-[NTKGlobetrotterFaceColorPalette _hourMarkerDialBackground];",
+    "-[NTKGlobetrotterFaceColorPalette _cityDialDots];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_digitalLabel];",
+    "-[NTKGlobetrotterFaceColorPalette _innerComplication];",
+    "-[NTKGlobetrotterFaceColorPalette _dialBackground];",
+    "-[NTKGlobetrotterFaceColorPalette _cityDialLabel];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_hourMinuteHandStroke];",
+    "-[NTKGlobetrotterFaceColorPalette _globe];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_hourTick];",
+    "-[NTKGlobetrotterFaceColorPalette _hourTick];",
+    "-[NTKGlobetrotterFaceColorPalette _cityDialArrowMarker];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_secondTickActive];",
+    "-[NTKGlobetrotterFaceColorPalette _secondHand];",
+    "-[NTKGlobetrotterFaceColorPalette tritium_hourMinuteHandInlay];",
+    "-[NTKGlobetrotterFaceColorPalette _hourMarkerLabel];",
+    "-[NTKGlobetrotterFaceView _complicationAlphaForEditMode:];",
+    "-[NTKGlobetrotterFaceView createFaceColorPalette];",
+    "-[NTKGlobetrotterFaceView tritium_usesWidgetTransitionPresetColors];",
+    "-[NTKGlobetrotterFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFaceView layoutSubviews];",
+    "-[NTKGlobetrotterFaceView _applyBreathingFraction:forCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFaceView _updateViewColorsWithPalette:];",
+    "-[NTKGlobetrotterFaceView _applyOption:forCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFaceView _prepareForEditing];",
+    "-[NTKGlobetrotterFaceView _cleanupAfterEditing];",
+    "-[NTKGlobetrotterFaceView _keylineViewForCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFaceView _updateColorForTritiumWithProgress:];",
+    "-[NTKGlobetrotterFaceView _configureComplicationView:forSlot:];",
+    "-[NTKGlobetrotterFaceView _keylineLabelAlignmentForCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFaceView _relativeKeylineFrameForCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFaceView _tritium_updateComplicationColors];",
+    "-[NTKGlobetrotterFaceView _applyRubberBandingFraction:forCustomEditMode:slot:];",
+    "-[NTKGlobetrotterFaceView globetrotterPalette];",
+    "-[NTKGlobetrotterTimeView _hourMinuteHandFillColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView setPalette:];",
+    "-[NTKGlobetrotterTimeView _secondTickActiveColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView _digitalTimeLabelColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView cleanupAfterEditing];",
+    "-[NTKGlobetrotterTimeView _secondTickInactiveColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView _hourTickColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView _applyColorToDigitalLabelAndTicks];",
+    "-[NTKGlobetrotterTimeView prepareForEditing];",
+    "-[NTKGlobetrotterTimeView _hourMinuteHandStrokeColorForColorPalette:];",
+    "-[NTKGlobetrotterTimeView _applyColorToAnalogHands];",
+    "-[NTKGlobetrotterTimeView _secondHandColorForColorPalette:];"
+   ]
+  }
+ }
+}

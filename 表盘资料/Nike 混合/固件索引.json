@@ -1,0 +1,1767 @@
+{
+ "NTKOlympusFaceBundle.bundle": {
+  "title_evidence": [
+   [
+    "zh_CN.lproj/Localizable.strings",
+    "FACE_STYLE_OLYMPUS_IN_TITLE_CASE",
+    "Nike混合"
+   ],
+   [
+    "en.lproj/Localizable.strings",
+    "FACE_STYLE_OLYMPUS_IN_TITLE_CASE",
+    "Nike Hybrid"
+   ]
+  ],
+  "models": {
+   "Watch7_12_24S132": {
+    "bundle": "Watch7_12_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle",
+    "code": "Watch7_12_24S132/解析/代码/NTKOlympusFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Info.plist",
+      "bytes": 804,
+      "sha256": "f90f3d8ff106ace501bf397335989c3a13832c2c9c9a44baa1801f7c8636e827",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Olympus.color.plist",
+      "bytes": 177,
+      "sha256": "022bea8c998ebfbc70bf6cc1b83680c39e9cd14f810b0dc3bfc43062d0c9e674",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Olympus.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable-Kincaid.strings",
+      "bytes": 323,
+      "sha256": "d2edfef2f50547987a3ad843684ad149aba5579a6a6df2eb285c9374790a3ea0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 453,
+      "sha256": "c40d0558e38e836e5783dd1dad1a59af6bcc6f14b155953983502f008b51578b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable-Kincaid.strings",
+      "bytes": 401,
+      "sha256": "8f336bfeb9aaf1e65217c5fe9bb4757e83137d16b74c834866593822dcc8fd74",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 563,
+      "sha256": "5c9a9e84d8b98ff410f2761cd9049cc305f2a7b0a6a060764929fa8217379fde",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable-Kincaid.strings",
+      "bytes": 429,
+      "sha256": "13e1c09098520f39b0760049070486b46eaa14eecdfba6cbec52f4fc21ee2231",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 581,
+      "sha256": "e3d87881c38bbb7d1952c09c95eb4fb9620173623d8912d5c3cfcb65cb56d730",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable-Kincaid.strings",
+      "bytes": 393,
+      "sha256": "e0621cc50957a50b148d387dc2733f489bb0542eac92572998c736a9a9d34664",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 532,
+      "sha256": "f3eec9431a4e659e10673f7bab4eb592aac557a415b042b2c8126d4ed8f54ecf",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable-Kincaid.strings",
+      "bytes": 415,
+      "sha256": "90c846fe6b09a18d8d169d3d4c71a97954067d0d58527687f670b9b5deffcb26",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 530,
+      "sha256": "6f3a7a9d3fcf5a0014f939075b8a40598afb7d6b20d7ed8fadf5266f2db33242",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable-Kincaid.strings",
+      "bytes": 521,
+      "sha256": "25b8145fa805558720ad6718ea3cdaa13dcfad848d56bb132db282f0c84702da",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 690,
+      "sha256": "891a6f3e05ea379e7d66f26dfb719dbf5f917c18c05a2de8bb35442b7519a40c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable-Kincaid.strings",
+      "bytes": 385,
+      "sha256": "b72c87ae85a41dd896257ab7d69ac785192ce2e2ac3cb64f13bca074f43b3f42",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 516,
+      "sha256": "54519ae6969ff4c67a0ee5c2d9f9cff3ec75acd360221b0b1d373adc2ed5b745",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable-Kincaid.strings",
+      "bytes": 387,
+      "sha256": "5ce0144c28c02d48486d3a02307f22d6a13cf62f8c8e65cdea2a739f7e7a1312",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 518,
+      "sha256": "3927c2b144dd41dafd80cee65f36ad7a921ddebb8bb9640a12124493d057de1c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable-Kincaid.strings",
+      "bytes": 389,
+      "sha256": "d30f85bf7040367d0ca565316dbd5ee6c2044ad1044dd23f96e6a078f684ecf6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 520,
+      "sha256": "5c80e62eb3ef7356d21e7dd1cd85fd9015e37d1d2b9931744be576535aafee3e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable-Kincaid.strings",
+      "bytes": 387,
+      "sha256": "5ce0144c28c02d48486d3a02307f22d6a13cf62f8c8e65cdea2a739f7e7a1312",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 518,
+      "sha256": "3927c2b144dd41dafd80cee65f36ad7a921ddebb8bb9640a12124493d057de1c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable-Kincaid.strings",
+      "bytes": 387,
+      "sha256": "5ce0144c28c02d48486d3a02307f22d6a13cf62f8c8e65cdea2a739f7e7a1312",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 518,
+      "sha256": "3927c2b144dd41dafd80cee65f36ad7a921ddebb8bb9640a12124493d057de1c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable-Kincaid.strings",
+      "bytes": 385,
+      "sha256": "b72c87ae85a41dd896257ab7d69ac785192ce2e2ac3cb64f13bca074f43b3f42",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 516,
+      "sha256": "54519ae6969ff4c67a0ee5c2d9f9cff3ec75acd360221b0b1d373adc2ed5b745",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable-Kincaid.strings",
+      "bytes": 423,
+      "sha256": "68dde862c5c09fd53cb5fa27931998a9af189df501ba8978eb3247a10793fb09",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 579,
+      "sha256": "38dbf3e167d6980835dab942a1d89f0feb06dbe9640e3382467408f2289f2f2d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable-Kincaid.strings",
+      "bytes": 441,
+      "sha256": "11875f7bfc5a561b6a7d8f2798167f9606e4792ad3def8ad6c7980b2af4f5b47",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 531,
+      "sha256": "bbd74e33337056a007c7464c146f7e64b69a69785a7931706a390cbd398200bb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable-Kincaid.strings",
+      "bytes": 441,
+      "sha256": "11875f7bfc5a561b6a7d8f2798167f9606e4792ad3def8ad6c7980b2af4f5b47",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 531,
+      "sha256": "bbd74e33337056a007c7464c146f7e64b69a69785a7931706a390cbd398200bb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable-Kincaid.strings",
+      "bytes": 421,
+      "sha256": "70eb0ef1e746c47ba87a1c73a8a6ee6348befcf094654d15a72ea25ae2241d90",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 576,
+      "sha256": "f1d1657d780d173df7b6488bbf5264825561fbf0463cc7f7d7fcbc49e02cd666",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable-Kincaid.strings",
+      "bytes": 471,
+      "sha256": "8e4547947dfda943cd50b995535c56a66e5db908210b921a83322fdfaed5776c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 607,
+      "sha256": "b4a730ad39a6285b864aa4d9c7227df585e8cd0f420f9439bb7bf74e28f5fa4b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable-Kincaid.strings",
+      "bytes": 417,
+      "sha256": "3f095e6dc47a53f8fb4b9e6ee0fa08e33f236cd1122563a628e12cf0d08ba94b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 537,
+      "sha256": "2de7a8c1e2b85dddef5425ab39715abf355055f93574ba8f567314aaeebb6557",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable-Kincaid.strings",
+      "bytes": 391,
+      "sha256": "7251042ec0dd1d13235fe47b778b6bc8cfbf99088d77db536829179e667f34fc",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 513,
+      "sha256": "f56d8ee260ed8208eac434a8f17eb937eec84d19d062f6a31d5a68847b88b904",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable-Kincaid.strings",
+      "bytes": 417,
+      "sha256": "0d589386aead3d2788a32c6f5fb382728b55cab53248094e7b5f7c3d5ab51199",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 576,
+      "sha256": "825d12f39d9a32334544767403dea22fef97a20ad40b58afafd1102c01156d0f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable-Kincaid.strings",
+      "bytes": 397,
+      "sha256": "85b9fc5d8ba26be1fbabc8f3c5802820647caabc1c8915185e59b2db88bd9807",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 532,
+      "sha256": "bd5edc79e43cdf19ee3df941766c6fca3ee7510d48d59d922a348da49b568006",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable-Kincaid.strings",
+      "bytes": 445,
+      "sha256": "736790200efe866692352d4d65a0c9d79e8016edc2f6fc8ea78fdedf4578b253",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 560,
+      "sha256": "bb473f877d4adb45c240cc67f3222f03165c9355686e9adbe994a71dd15cd6aa",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable-Kincaid.strings",
+      "bytes": 273,
+      "sha256": "87b09016ff816287d44475dd842b777351f6af2d7d231e8258152ea8234de95e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 371,
+      "sha256": "cc1711ef3d317f18a6853891f6babcdcc7a6ec0819706cd019e2bb8b225302e3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable-Kincaid.strings",
+      "bytes": 451,
+      "sha256": "9bdf96d4f61238ea6ed735d0b72c1d01a3ea1b52e2687dda36adfa5051d82628",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 590,
+      "sha256": "c4506a87131df449c77a75caabb37099c3c10c4a149d2e07bdf59f4a9cac06b5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable-Kincaid.strings",
+      "bytes": 284,
+      "sha256": "c8ec03347fa02193cef5f0cdc812e2672a54411225af6b9bf5480eb56cacb01b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 393,
+      "sha256": "d612135988f77cd4c02d724e307d52c67a34f714e35967bb1b73d8cb17786906",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable-Kincaid.strings",
+      "bytes": 274,
+      "sha256": "5f7f9b2548cde9fb2e3445bb556922102e2791e74be71c4aea0d453325ae8d5e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 393,
+      "sha256": "da38106c8805683fee526f9238ce48342d1140a560c96652bbc46bdfddbaf2ac",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable-Kincaid.strings",
+      "bytes": 256,
+      "sha256": "15f41f8c149f1cbea19ba85179dfe44c1e0ec80c2fda8b282e7f4771cb93d077",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 359,
+      "sha256": "2df637e067f142742b119c7ea0beb0ffcbc9bdf538b15407b7ca240e134eb8e2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable-Kincaid.strings",
+      "bytes": 443,
+      "sha256": "cfe27190c482e0cf98a54eba270d7013fcf032e6372b3d4342e3105bc10382a7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 572,
+      "sha256": "0d69b1979c339ad56f8812ed3cf5ac8308899475712ab8fb2278ac10d8e6ae59",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable-Kincaid.strings",
+      "bytes": 419,
+      "sha256": "e73180389369045ff2a4a29f546fc1bdb943778593f4b1c4db1e1ce97eaae891",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 544,
+      "sha256": "17cf9e81a924cc7b87a8f1ba46e7b3115c5b15cba2ef30284d9365592e97044e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable-Kincaid.strings",
+      "bytes": 417,
+      "sha256": "0cc254b8b9bb7ab54c7801aa66706a7df94aeaf6aa81747fcf030f227921d11a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 559,
+      "sha256": "71105b49bb99f98e1bfe09d9f2e4b702207825ac901e71362be73ff9dac6bac7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable-Kincaid.strings",
+      "bytes": 429,
+      "sha256": "10c65fc293bbe4498102757b23913880a02029e3a0912f36e50d927da7660bee",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 587,
+      "sha256": "a76308518b9cdfba6698156fe2098cdc532b923b0e867406e67ec787960e82d9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable-Kincaid.strings",
+      "bytes": 397,
+      "sha256": "479e3658660af414c1818a031fd47267d69f91eec2de534136f0ee3ad7f6b5b9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 555,
+      "sha256": "0eec7f9f8b67bbbd01d229992e31b02b5973e57b0db877f39e2402231feab2a1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable-Kincaid.strings",
+      "bytes": 433,
+      "sha256": "6c24c357801d7131164757b857d28f7783913b3d228e18cb08ea900ce8517062",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 564,
+      "sha256": "53b0b5741368a021c97895b14e571450f195e3939b2515a4ac1a2d852efdaad3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable-Kincaid.strings",
+      "bytes": 503,
+      "sha256": "8230989fb2967bd5a33744edb223372a2873d760e1dd0fc7e56e4ac2e1f1f648",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 680,
+      "sha256": "513f3f2c325c9848aeeab99771ea0267bdcc5d2d6fd71f16cb16331dc5591b05",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable-Kincaid.strings",
+      "bytes": 467,
+      "sha256": "8423f77b86626b8e40601979831f387ebb9cf88e651494aef6f27d7f97cc08f9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 621,
+      "sha256": "d3f5ebfab611334fa173a37deb055b7d512be5551f4b7e1f3276b3a8a1e571bd",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable-Kincaid.strings",
+      "bytes": 407,
+      "sha256": "24eb34facd31a3434504dedf4d39c51803f1d351a6e57f3d36476f7afa57b440",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 584,
+      "sha256": "5bcb5f28dde796e83d78c1a9b612db5708a5a225a8d55f6291152bf22fa9f1bd",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable-Kincaid.strings",
+      "bytes": 419,
+      "sha256": "33f3fed19bf0aa0de2b6be32d8e14962e2004523068250d3fdda17fe9968d6c8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 566,
+      "sha256": "2f84ec721da8abe37663a997f4096299c542fb956c76052a68049c3c35f721b9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable-Kincaid.strings",
+      "bytes": 321,
+      "sha256": "b7660edd0ddb10291646aa985bcb6c82331be9853dfeb4660ed44a8e070086f6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 471,
+      "sha256": "438432ff670c36ce0a1fb6a275e84b29fb0fa8b960fdd0dbe22259cbe3690a92",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable-Kincaid.strings",
+      "bytes": 381,
+      "sha256": "511cf5fe6f00c5be458eb7b752bd61272718b51a369a911cbc6288793a94c0f0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 512,
+      "sha256": "ec5aca817df3341394c5e639adf58746c52bd526df992935a31956a655725b52",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable-Kincaid.strings",
+      "bytes": 429,
+      "sha256": "3e69a53516ddde4a8adad463bb1d3d0489cd115b8d6a182dac20cf7637f41db7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 577,
+      "sha256": "f022f1bb09efb181715fa0e51d678e5c754b0cb2e08248af0fdd5787366d25e2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable-Kincaid.strings",
+      "bytes": 411,
+      "sha256": "3185bb2bdf31b42af76e3e4e2b8f9503efc372152685c1934d052226795b2a8e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 557,
+      "sha256": "aff4edd5cf36b1197d28d2c7b02e377c73de909e00304a1234d033722b02d02e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable-Kincaid.strings",
+      "bytes": 204,
+      "sha256": "8f1677a78e8eedb951f912151f2b3f1087a6844a35bcda14a2356c2b8b8633f9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 290,
+      "sha256": "94fd19feb2a4f9d20674e1da18b165a89f3cdbcc14dc9adb85d2a0b4d8e8f9fe",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable-Kincaid.strings",
+      "bytes": 198,
+      "sha256": "635be0354ed469f75692e7e80fd88022ee86f766172507a6a974391f1cfda6e9",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 286,
+      "sha256": "ccf5d9c0ea9f798b405b40d0ed7ecc3e5f61b156942850d910af80769c31aacf",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable-Kincaid.strings",
+      "bytes": 192,
+      "sha256": "82c1c3dab9e65f83bc2c6fade531acbd1c25936691311c3eb566f3f127bb613a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 278,
+      "sha256": "f6c4e6620c6b7f38ffeb294eac3659d239516690671dfa021596398cae686a2e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_1_24S132": {
+    "bundle": "Watch8_1_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle",
+    "code": "Watch8_1_24S132/解析/代码/NTKOlympusFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Info.plist",
+      "bytes": 804,
+      "sha256": "f90f3d8ff106ace501bf397335989c3a13832c2c9c9a44baa1801f7c8636e827",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Olympus.color.plist",
+      "bytes": 177,
+      "sha256": "022bea8c998ebfbc70bf6cc1b83680c39e9cd14f810b0dc3bfc43062d0c9e674",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Olympus.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable-Kincaid.strings",
+      "bytes": 323,
+      "sha256": "d2edfef2f50547987a3ad843684ad149aba5579a6a6df2eb285c9374790a3ea0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 453,
+      "sha256": "c40d0558e38e836e5783dd1dad1a59af6bcc6f14b155953983502f008b51578b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable-Kincaid.strings",
+      "bytes": 401,
+      "sha256": "8f336bfeb9aaf1e65217c5fe9bb4757e83137d16b74c834866593822dcc8fd74",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 563,
+      "sha256": "5c9a9e84d8b98ff410f2761cd9049cc305f2a7b0a6a060764929fa8217379fde",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable-Kincaid.strings",
+      "bytes": 429,
+      "sha256": "13e1c09098520f39b0760049070486b46eaa14eecdfba6cbec52f4fc21ee2231",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 581,
+      "sha256": "e3d87881c38bbb7d1952c09c95eb4fb9620173623d8912d5c3cfcb65cb56d730",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable-Kincaid.strings",
+      "bytes": 393,
+      "sha256": "e0621cc50957a50b148d387dc2733f489bb0542eac92572998c736a9a9d34664",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 532,
+      "sha256": "f3eec9431a4e659e10673f7bab4eb592aac557a415b042b2c8126d4ed8f54ecf",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable-Kincaid.strings",
+      "bytes": 415,
+      "sha256": "90c846fe6b09a18d8d169d3d4c71a97954067d0d58527687f670b9b5deffcb26",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 530,
+      "sha256": "6f3a7a9d3fcf5a0014f939075b8a40598afb7d6b20d7ed8fadf5266f2db33242",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable-Kincaid.strings",
+      "bytes": 521,
+      "sha256": "25b8145fa805558720ad6718ea3cdaa13dcfad848d56bb132db282f0c84702da",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 690,
+      "sha256": "891a6f3e05ea379e7d66f26dfb719dbf5f917c18c05a2de8bb35442b7519a40c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable-Kincaid.strings",
+      "bytes": 385,
+      "sha256": "b72c87ae85a41dd896257ab7d69ac785192ce2e2ac3cb64f13bca074f43b3f42",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 516,
+      "sha256": "54519ae6969ff4c67a0ee5c2d9f9cff3ec75acd360221b0b1d373adc2ed5b745",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable-Kincaid.strings",
+      "bytes": 387,
+      "sha256": "5ce0144c28c02d48486d3a02307f22d6a13cf62f8c8e65cdea2a739f7e7a1312",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 518,
+      "sha256": "3927c2b144dd41dafd80cee65f36ad7a921ddebb8bb9640a12124493d057de1c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable-Kincaid.strings",
+      "bytes": 389,
+      "sha256": "d30f85bf7040367d0ca565316dbd5ee6c2044ad1044dd23f96e6a078f684ecf6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 520,
+      "sha256": "5c80e62eb3ef7356d21e7dd1cd85fd9015e37d1d2b9931744be576535aafee3e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable-Kincaid.strings",
+      "bytes": 387,
+      "sha256": "5ce0144c28c02d48486d3a02307f22d6a13cf62f8c8e65cdea2a739f7e7a1312",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 518,
+      "sha256": "3927c2b144dd41dafd80cee65f36ad7a921ddebb8bb9640a12124493d057de1c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable-Kincaid.strings",
+      "bytes": 387,
+      "sha256": "5ce0144c28c02d48486d3a02307f22d6a13cf62f8c8e65cdea2a739f7e7a1312",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 518,
+      "sha256": "3927c2b144dd41dafd80cee65f36ad7a921ddebb8bb9640a12124493d057de1c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable-Kincaid.strings",
+      "bytes": 385,
+      "sha256": "b72c87ae85a41dd896257ab7d69ac785192ce2e2ac3cb64f13bca074f43b3f42",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 516,
+      "sha256": "54519ae6969ff4c67a0ee5c2d9f9cff3ec75acd360221b0b1d373adc2ed5b745",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable-Kincaid.strings",
+      "bytes": 423,
+      "sha256": "68dde862c5c09fd53cb5fa27931998a9af189df501ba8978eb3247a10793fb09",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 579,
+      "sha256": "38dbf3e167d6980835dab942a1d89f0feb06dbe9640e3382467408f2289f2f2d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable-Kincaid.strings",
+      "bytes": 441,
+      "sha256": "11875f7bfc5a561b6a7d8f2798167f9606e4792ad3def8ad6c7980b2af4f5b47",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 531,
+      "sha256": "bbd74e33337056a007c7464c146f7e64b69a69785a7931706a390cbd398200bb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable-Kincaid.strings",
+      "bytes": 441,
+      "sha256": "11875f7bfc5a561b6a7d8f2798167f9606e4792ad3def8ad6c7980b2af4f5b47",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 531,
+      "sha256": "bbd74e33337056a007c7464c146f7e64b69a69785a7931706a390cbd398200bb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable-Kincaid.strings",
+      "bytes": 421,
+      "sha256": "70eb0ef1e746c47ba87a1c73a8a6ee6348befcf094654d15a72ea25ae2241d90",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 576,
+      "sha256": "f1d1657d780d173df7b6488bbf5264825561fbf0463cc7f7d7fcbc49e02cd666",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable-Kincaid.strings",
+      "bytes": 471,
+      "sha256": "8e4547947dfda943cd50b995535c56a66e5db908210b921a83322fdfaed5776c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 607,
+      "sha256": "b4a730ad39a6285b864aa4d9c7227df585e8cd0f420f9439bb7bf74e28f5fa4b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable-Kincaid.strings",
+      "bytes": 417,
+      "sha256": "3f095e6dc47a53f8fb4b9e6ee0fa08e33f236cd1122563a628e12cf0d08ba94b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 537,
+      "sha256": "2de7a8c1e2b85dddef5425ab39715abf355055f93574ba8f567314aaeebb6557",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable-Kincaid.strings",
+      "bytes": 391,
+      "sha256": "7251042ec0dd1d13235fe47b778b6bc8cfbf99088d77db536829179e667f34fc",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 513,
+      "sha256": "f56d8ee260ed8208eac434a8f17eb937eec84d19d062f6a31d5a68847b88b904",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable-Kincaid.strings",
+      "bytes": 417,
+      "sha256": "0d589386aead3d2788a32c6f5fb382728b55cab53248094e7b5f7c3d5ab51199",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 576,
+      "sha256": "825d12f39d9a32334544767403dea22fef97a20ad40b58afafd1102c01156d0f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable-Kincaid.strings",
+      "bytes": 397,
+      "sha256": "85b9fc5d8ba26be1fbabc8f3c5802820647caabc1c8915185e59b2db88bd9807",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 532,
+      "sha256": "bd5edc79e43cdf19ee3df941766c6fca3ee7510d48d59d922a348da49b568006",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable-Kincaid.strings",
+      "bytes": 445,
+      "sha256": "736790200efe866692352d4d65a0c9d79e8016edc2f6fc8ea78fdedf4578b253",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 560,
+      "sha256": "bb473f877d4adb45c240cc67f3222f03165c9355686e9adbe994a71dd15cd6aa",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable-Kincaid.strings",
+      "bytes": 273,
+      "sha256": "87b09016ff816287d44475dd842b777351f6af2d7d231e8258152ea8234de95e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 371,
+      "sha256": "cc1711ef3d317f18a6853891f6babcdcc7a6ec0819706cd019e2bb8b225302e3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable-Kincaid.strings",
+      "bytes": 451,
+      "sha256": "9bdf96d4f61238ea6ed735d0b72c1d01a3ea1b52e2687dda36adfa5051d82628",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 590,
+      "sha256": "c4506a87131df449c77a75caabb37099c3c10c4a149d2e07bdf59f4a9cac06b5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable-Kincaid.strings",
+      "bytes": 284,
+      "sha256": "c8ec03347fa02193cef5f0cdc812e2672a54411225af6b9bf5480eb56cacb01b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 393,
+      "sha256": "d612135988f77cd4c02d724e307d52c67a34f714e35967bb1b73d8cb17786906",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable-Kincaid.strings",
+      "bytes": 274,
+      "sha256": "5f7f9b2548cde9fb2e3445bb556922102e2791e74be71c4aea0d453325ae8d5e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 393,
+      "sha256": "da38106c8805683fee526f9238ce48342d1140a560c96652bbc46bdfddbaf2ac",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable-Kincaid.strings",
+      "bytes": 256,
+      "sha256": "15f41f8c149f1cbea19ba85179dfe44c1e0ec80c2fda8b282e7f4771cb93d077",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 359,
+      "sha256": "2df637e067f142742b119c7ea0beb0ffcbc9bdf538b15407b7ca240e134eb8e2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable-Kincaid.strings",
+      "bytes": 443,
+      "sha256": "cfe27190c482e0cf98a54eba270d7013fcf032e6372b3d4342e3105bc10382a7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 572,
+      "sha256": "0d69b1979c339ad56f8812ed3cf5ac8308899475712ab8fb2278ac10d8e6ae59",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable-Kincaid.strings",
+      "bytes": 419,
+      "sha256": "e73180389369045ff2a4a29f546fc1bdb943778593f4b1c4db1e1ce97eaae891",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 544,
+      "sha256": "17cf9e81a924cc7b87a8f1ba46e7b3115c5b15cba2ef30284d9365592e97044e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable-Kincaid.strings",
+      "bytes": 417,
+      "sha256": "0cc254b8b9bb7ab54c7801aa66706a7df94aeaf6aa81747fcf030f227921d11a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 559,
+      "sha256": "71105b49bb99f98e1bfe09d9f2e4b702207825ac901e71362be73ff9dac6bac7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable-Kincaid.strings",
+      "bytes": 429,
+      "sha256": "10c65fc293bbe4498102757b23913880a02029e3a0912f36e50d927da7660bee",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 587,
+      "sha256": "a76308518b9cdfba6698156fe2098cdc532b923b0e867406e67ec787960e82d9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable-Kincaid.strings",
+      "bytes": 397,
+      "sha256": "479e3658660af414c1818a031fd47267d69f91eec2de534136f0ee3ad7f6b5b9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 555,
+      "sha256": "0eec7f9f8b67bbbd01d229992e31b02b5973e57b0db877f39e2402231feab2a1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable-Kincaid.strings",
+      "bytes": 433,
+      "sha256": "6c24c357801d7131164757b857d28f7783913b3d228e18cb08ea900ce8517062",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 564,
+      "sha256": "53b0b5741368a021c97895b14e571450f195e3939b2515a4ac1a2d852efdaad3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable-Kincaid.strings",
+      "bytes": 503,
+      "sha256": "8230989fb2967bd5a33744edb223372a2873d760e1dd0fc7e56e4ac2e1f1f648",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 680,
+      "sha256": "513f3f2c325c9848aeeab99771ea0267bdcc5d2d6fd71f16cb16331dc5591b05",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable-Kincaid.strings",
+      "bytes": 467,
+      "sha256": "8423f77b86626b8e40601979831f387ebb9cf88e651494aef6f27d7f97cc08f9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 621,
+      "sha256": "d3f5ebfab611334fa173a37deb055b7d512be5551f4b7e1f3276b3a8a1e571bd",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable-Kincaid.strings",
+      "bytes": 407,
+      "sha256": "24eb34facd31a3434504dedf4d39c51803f1d351a6e57f3d36476f7afa57b440",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 584,
+      "sha256": "5bcb5f28dde796e83d78c1a9b612db5708a5a225a8d55f6291152bf22fa9f1bd",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable-Kincaid.strings",
+      "bytes": 419,
+      "sha256": "33f3fed19bf0aa0de2b6be32d8e14962e2004523068250d3fdda17fe9968d6c8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 566,
+      "sha256": "2f84ec721da8abe37663a997f4096299c542fb956c76052a68049c3c35f721b9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable-Kincaid.strings",
+      "bytes": 321,
+      "sha256": "b7660edd0ddb10291646aa985bcb6c82331be9853dfeb4660ed44a8e070086f6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 471,
+      "sha256": "438432ff670c36ce0a1fb6a275e84b29fb0fa8b960fdd0dbe22259cbe3690a92",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable-Kincaid.strings",
+      "bytes": 381,
+      "sha256": "511cf5fe6f00c5be458eb7b752bd61272718b51a369a911cbc6288793a94c0f0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 512,
+      "sha256": "ec5aca817df3341394c5e639adf58746c52bd526df992935a31956a655725b52",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable-Kincaid.strings",
+      "bytes": 429,
+      "sha256": "3e69a53516ddde4a8adad463bb1d3d0489cd115b8d6a182dac20cf7637f41db7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 577,
+      "sha256": "f022f1bb09efb181715fa0e51d678e5c754b0cb2e08248af0fdd5787366d25e2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable-Kincaid.strings",
+      "bytes": 411,
+      "sha256": "3185bb2bdf31b42af76e3e4e2b8f9503efc372152685c1934d052226795b2a8e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 557,
+      "sha256": "aff4edd5cf36b1197d28d2c7b02e377c73de909e00304a1234d033722b02d02e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable-Kincaid.strings",
+      "bytes": 204,
+      "sha256": "8f1677a78e8eedb951f912151f2b3f1087a6844a35bcda14a2356c2b8b8633f9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 290,
+      "sha256": "94fd19feb2a4f9d20674e1da18b165a89f3cdbcc14dc9adb85d2a0b4d8e8f9fe",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable-Kincaid.strings",
+      "bytes": 198,
+      "sha256": "635be0354ed469f75692e7e80fd88022ee86f766172507a6a974391f1cfda6e9",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 286,
+      "sha256": "ccf5d9c0ea9f798b405b40d0ed7ecc3e5f61b156942850d910af80769c31aacf",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable-Kincaid.strings",
+      "bytes": 192,
+      "sha256": "82c1c3dab9e65f83bc2c6fade531acbd1c25936691311c3eb566f3f127bb613a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 278,
+      "sha256": "f6c4e6620c6b7f38ffeb294eac3659d239516690671dfa021596398cae686a2e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_5_24S132": {
+    "bundle": "Watch8_5_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle",
+    "code": "Watch8_5_24S132/解析/代码/NTKOlympusFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Info.plist",
+      "bytes": 804,
+      "sha256": "f90f3d8ff106ace501bf397335989c3a13832c2c9c9a44baa1801f7c8636e827",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Olympus.color.plist",
+      "bytes": 177,
+      "sha256": "022bea8c998ebfbc70bf6cc1b83680c39e9cd14f810b0dc3bfc43062d0c9e674",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/Olympus.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable-Kincaid.strings",
+      "bytes": 323,
+      "sha256": "d2edfef2f50547987a3ad843684ad149aba5579a6a6df2eb285c9374790a3ea0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable.strings",
+      "bytes": 453,
+      "sha256": "c40d0558e38e836e5783dd1dad1a59af6bcc6f14b155953983502f008b51578b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ar.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable-Kincaid.strings",
+      "bytes": 401,
+      "sha256": "8f336bfeb9aaf1e65217c5fe9bb4757e83137d16b74c834866593822dcc8fd74",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable.strings",
+      "bytes": 563,
+      "sha256": "5c9a9e84d8b98ff410f2761cd9049cc305f2a7b0a6a060764929fa8217379fde",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ca.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable-Kincaid.strings",
+      "bytes": 429,
+      "sha256": "13e1c09098520f39b0760049070486b46eaa14eecdfba6cbec52f4fc21ee2231",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable.strings",
+      "bytes": 581,
+      "sha256": "e3d87881c38bbb7d1952c09c95eb4fb9620173623d8912d5c3cfcb65cb56d730",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/cs.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable-Kincaid.strings",
+      "bytes": 393,
+      "sha256": "e0621cc50957a50b148d387dc2733f489bb0542eac92572998c736a9a9d34664",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable.strings",
+      "bytes": 532,
+      "sha256": "f3eec9431a4e659e10673f7bab4eb592aac557a415b042b2c8126d4ed8f54ecf",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/da.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable-Kincaid.strings",
+      "bytes": 415,
+      "sha256": "90c846fe6b09a18d8d169d3d4c71a97954067d0d58527687f670b9b5deffcb26",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable.strings",
+      "bytes": 530,
+      "sha256": "6f3a7a9d3fcf5a0014f939075b8a40598afb7d6b20d7ed8fadf5266f2db33242",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/de.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable-Kincaid.strings",
+      "bytes": 521,
+      "sha256": "25b8145fa805558720ad6718ea3cdaa13dcfad848d56bb132db282f0c84702da",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable.strings",
+      "bytes": 690,
+      "sha256": "891a6f3e05ea379e7d66f26dfb719dbf5f917c18c05a2de8bb35442b7519a40c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/el.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable-Kincaid.strings",
+      "bytes": 385,
+      "sha256": "b72c87ae85a41dd896257ab7d69ac785192ce2e2ac3cb64f13bca074f43b3f42",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable.strings",
+      "bytes": 516,
+      "sha256": "54519ae6969ff4c67a0ee5c2d9f9cff3ec75acd360221b0b1d373adc2ed5b745",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable-Kincaid.strings",
+      "bytes": 387,
+      "sha256": "5ce0144c28c02d48486d3a02307f22d6a13cf62f8c8e65cdea2a739f7e7a1312",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable.strings",
+      "bytes": 518,
+      "sha256": "3927c2b144dd41dafd80cee65f36ad7a921ddebb8bb9640a12124493d057de1c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_AU.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable-Kincaid.strings",
+      "bytes": 389,
+      "sha256": "d30f85bf7040367d0ca565316dbd5ee6c2044ad1044dd23f96e6a078f684ecf6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable.strings",
+      "bytes": 520,
+      "sha256": "5c80e62eb3ef7356d21e7dd1cd85fd9015e37d1d2b9931744be576535aafee3e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable-Kincaid.strings",
+      "bytes": 387,
+      "sha256": "5ce0144c28c02d48486d3a02307f22d6a13cf62f8c8e65cdea2a739f7e7a1312",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable.strings",
+      "bytes": 518,
+      "sha256": "3927c2b144dd41dafd80cee65f36ad7a921ddebb8bb9640a12124493d057de1c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_GB.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable-Kincaid.strings",
+      "bytes": 387,
+      "sha256": "5ce0144c28c02d48486d3a02307f22d6a13cf62f8c8e65cdea2a739f7e7a1312",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable.strings",
+      "bytes": 518,
+      "sha256": "3927c2b144dd41dafd80cee65f36ad7a921ddebb8bb9640a12124493d057de1c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_IN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable-Kincaid.strings",
+      "bytes": 385,
+      "sha256": "b72c87ae85a41dd896257ab7d69ac785192ce2e2ac3cb64f13bca074f43b3f42",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable.strings",
+      "bytes": 516,
+      "sha256": "54519ae6969ff4c67a0ee5c2d9f9cff3ec75acd360221b0b1d373adc2ed5b745",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/en_PH.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable-Kincaid.strings",
+      "bytes": 423,
+      "sha256": "68dde862c5c09fd53cb5fa27931998a9af189df501ba8978eb3247a10793fb09",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable.strings",
+      "bytes": 579,
+      "sha256": "38dbf3e167d6980835dab942a1d89f0feb06dbe9640e3382467408f2289f2f2d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable-Kincaid.strings",
+      "bytes": 441,
+      "sha256": "11875f7bfc5a561b6a7d8f2798167f9606e4792ad3def8ad6c7980b2af4f5b47",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable.strings",
+      "bytes": 531,
+      "sha256": "bbd74e33337056a007c7464c146f7e64b69a69785a7931706a390cbd398200bb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_419.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable-Kincaid.strings",
+      "bytes": 441,
+      "sha256": "11875f7bfc5a561b6a7d8f2798167f9606e4792ad3def8ad6c7980b2af4f5b47",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable.strings",
+      "bytes": 531,
+      "sha256": "bbd74e33337056a007c7464c146f7e64b69a69785a7931706a390cbd398200bb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/es_US.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable-Kincaid.strings",
+      "bytes": 421,
+      "sha256": "70eb0ef1e746c47ba87a1c73a8a6ee6348befcf094654d15a72ea25ae2241d90",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable.strings",
+      "bytes": 576,
+      "sha256": "f1d1657d780d173df7b6488bbf5264825561fbf0463cc7f7d7fcbc49e02cd666",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable-Kincaid.strings",
+      "bytes": 471,
+      "sha256": "8e4547947dfda943cd50b995535c56a66e5db908210b921a83322fdfaed5776c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable.strings",
+      "bytes": 607,
+      "sha256": "b4a730ad39a6285b864aa4d9c7227df585e8cd0f420f9439bb7bf74e28f5fa4b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable-Kincaid.strings",
+      "bytes": 417,
+      "sha256": "3f095e6dc47a53f8fb4b9e6ee0fa08e33f236cd1122563a628e12cf0d08ba94b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable.strings",
+      "bytes": 537,
+      "sha256": "2de7a8c1e2b85dddef5425ab39715abf355055f93574ba8f567314aaeebb6557",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/fr_CA.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable-Kincaid.strings",
+      "bytes": 391,
+      "sha256": "7251042ec0dd1d13235fe47b778b6bc8cfbf99088d77db536829179e667f34fc",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable.strings",
+      "bytes": 513,
+      "sha256": "f56d8ee260ed8208eac434a8f17eb937eec84d19d062f6a31d5a68847b88b904",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/he.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable-Kincaid.strings",
+      "bytes": 417,
+      "sha256": "0d589386aead3d2788a32c6f5fb382728b55cab53248094e7b5f7c3d5ab51199",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable.strings",
+      "bytes": 576,
+      "sha256": "825d12f39d9a32334544767403dea22fef97a20ad40b58afafd1102c01156d0f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable-Kincaid.strings",
+      "bytes": 397,
+      "sha256": "85b9fc5d8ba26be1fbabc8f3c5802820647caabc1c8915185e59b2db88bd9807",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable.strings",
+      "bytes": 532,
+      "sha256": "bd5edc79e43cdf19ee3df941766c6fca3ee7510d48d59d922a348da49b568006",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable-Kincaid.strings",
+      "bytes": 445,
+      "sha256": "736790200efe866692352d4d65a0c9d79e8016edc2f6fc8ea78fdedf4578b253",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable.strings",
+      "bytes": 560,
+      "sha256": "bb473f877d4adb45c240cc67f3222f03165c9355686e9adbe994a71dd15cd6aa",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/hu.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable-Kincaid.strings",
+      "bytes": 273,
+      "sha256": "87b09016ff816287d44475dd842b777351f6af2d7d231e8258152ea8234de95e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable.strings",
+      "bytes": 371,
+      "sha256": "cc1711ef3d317f18a6853891f6babcdcc7a6ec0819706cd019e2bb8b225302e3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/id.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable-Kincaid.strings",
+      "bytes": 451,
+      "sha256": "9bdf96d4f61238ea6ed735d0b72c1d01a3ea1b52e2687dda36adfa5051d82628",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable.strings",
+      "bytes": 590,
+      "sha256": "c4506a87131df449c77a75caabb37099c3c10c4a149d2e07bdf59f4a9cac06b5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/it.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable-Kincaid.strings",
+      "bytes": 284,
+      "sha256": "c8ec03347fa02193cef5f0cdc812e2672a54411225af6b9bf5480eb56cacb01b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable.strings",
+      "bytes": 393,
+      "sha256": "d612135988f77cd4c02d724e307d52c67a34f714e35967bb1b73d8cb17786906",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ja.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable-Kincaid.strings",
+      "bytes": 274,
+      "sha256": "5f7f9b2548cde9fb2e3445bb556922102e2791e74be71c4aea0d453325ae8d5e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable.strings",
+      "bytes": 393,
+      "sha256": "da38106c8805683fee526f9238ce48342d1140a560c96652bbc46bdfddbaf2ac",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ko.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable-Kincaid.strings",
+      "bytes": 256,
+      "sha256": "15f41f8c149f1cbea19ba85179dfe44c1e0ec80c2fda8b282e7f4771cb93d077",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable.strings",
+      "bytes": 359,
+      "sha256": "2df637e067f142742b119c7ea0beb0ffcbc9bdf538b15407b7ca240e134eb8e2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ms.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable-Kincaid.strings",
+      "bytes": 443,
+      "sha256": "cfe27190c482e0cf98a54eba270d7013fcf032e6372b3d4342e3105bc10382a7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable.strings",
+      "bytes": 572,
+      "sha256": "0d69b1979c339ad56f8812ed3cf5ac8308899475712ab8fb2278ac10d8e6ae59",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/nl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable-Kincaid.strings",
+      "bytes": 419,
+      "sha256": "e73180389369045ff2a4a29f546fc1bdb943778593f4b1c4db1e1ce97eaae891",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable.strings",
+      "bytes": 544,
+      "sha256": "17cf9e81a924cc7b87a8f1ba46e7b3115c5b15cba2ef30284d9365592e97044e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/no.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable-Kincaid.strings",
+      "bytes": 417,
+      "sha256": "0cc254b8b9bb7ab54c7801aa66706a7df94aeaf6aa81747fcf030f227921d11a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable.strings",
+      "bytes": 559,
+      "sha256": "71105b49bb99f98e1bfe09d9f2e4b702207825ac901e71362be73ff9dac6bac7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable-Kincaid.strings",
+      "bytes": 429,
+      "sha256": "10c65fc293bbe4498102757b23913880a02029e3a0912f36e50d927da7660bee",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable.strings",
+      "bytes": 587,
+      "sha256": "a76308518b9cdfba6698156fe2098cdc532b923b0e867406e67ec787960e82d9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_BR.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable-Kincaid.strings",
+      "bytes": 397,
+      "sha256": "479e3658660af414c1818a031fd47267d69f91eec2de534136f0ee3ad7f6b5b9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable.strings",
+      "bytes": 555,
+      "sha256": "0eec7f9f8b67bbbd01d229992e31b02b5973e57b0db877f39e2402231feab2a1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/pt_PT.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable-Kincaid.strings",
+      "bytes": 433,
+      "sha256": "6c24c357801d7131164757b857d28f7783913b3d228e18cb08ea900ce8517062",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable.strings",
+      "bytes": 564,
+      "sha256": "53b0b5741368a021c97895b14e571450f195e3939b2515a4ac1a2d852efdaad3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ro.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable-Kincaid.strings",
+      "bytes": 503,
+      "sha256": "8230989fb2967bd5a33744edb223372a2873d760e1dd0fc7e56e4ac2e1f1f648",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable.strings",
+      "bytes": 680,
+      "sha256": "513f3f2c325c9848aeeab99771ea0267bdcc5d2d6fd71f16cb16331dc5591b05",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/ru.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable-Kincaid.strings",
+      "bytes": 467,
+      "sha256": "8423f77b86626b8e40601979831f387ebb9cf88e651494aef6f27d7f97cc08f9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable.strings",
+      "bytes": 621,
+      "sha256": "d3f5ebfab611334fa173a37deb055b7d512be5551f4b7e1f3276b3a8a1e571bd",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable-Kincaid.strings",
+      "bytes": 407,
+      "sha256": "24eb34facd31a3434504dedf4d39c51803f1d351a6e57f3d36476f7afa57b440",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable.strings",
+      "bytes": 584,
+      "sha256": "5bcb5f28dde796e83d78c1a9b612db5708a5a225a8d55f6291152bf22fa9f1bd",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sl.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable-Kincaid.strings",
+      "bytes": 419,
+      "sha256": "33f3fed19bf0aa0de2b6be32d8e14962e2004523068250d3fdda17fe9968d6c8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable.strings",
+      "bytes": 566,
+      "sha256": "2f84ec721da8abe37663a997f4096299c542fb956c76052a68049c3c35f721b9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/sv.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable-Kincaid.strings",
+      "bytes": 321,
+      "sha256": "b7660edd0ddb10291646aa985bcb6c82331be9853dfeb4660ed44a8e070086f6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable.strings",
+      "bytes": 471,
+      "sha256": "438432ff670c36ce0a1fb6a275e84b29fb0fa8b960fdd0dbe22259cbe3690a92",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/th.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable-Kincaid.strings",
+      "bytes": 381,
+      "sha256": "511cf5fe6f00c5be458eb7b752bd61272718b51a369a911cbc6288793a94c0f0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable.strings",
+      "bytes": 512,
+      "sha256": "ec5aca817df3341394c5e639adf58746c52bd526df992935a31956a655725b52",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/tr.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable-Kincaid.strings",
+      "bytes": 429,
+      "sha256": "3e69a53516ddde4a8adad463bb1d3d0489cd115b8d6a182dac20cf7637f41db7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable.strings",
+      "bytes": 577,
+      "sha256": "f022f1bb09efb181715fa0e51d678e5c754b0cb2e08248af0fdd5787366d25e2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/uk.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable-Kincaid.strings",
+      "bytes": 411,
+      "sha256": "3185bb2bdf31b42af76e3e4e2b8f9503efc372152685c1934d052226795b2a8e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable.strings",
+      "bytes": 557,
+      "sha256": "aff4edd5cf36b1197d28d2c7b02e377c73de909e00304a1234d033722b02d02e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/vi.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable-Kincaid.strings",
+      "bytes": 204,
+      "sha256": "8f1677a78e8eedb951f912151f2b3f1087a6844a35bcda14a2356c2b8b8633f9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable.strings",
+      "bytes": 290,
+      "sha256": "94fd19feb2a4f9d20674e1da18b165a89f3cdbcc14dc9adb85d2a0b4d8e8f9fe",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_CN.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable-Kincaid.strings",
+      "bytes": 198,
+      "sha256": "635be0354ed469f75692e7e80fd88022ee86f766172507a6a974391f1cfda6e9",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable.strings",
+      "bytes": 286,
+      "sha256": "ccf5d9c0ea9f798b405b40d0ed7ecc3e5f61b156942850d910af80769c31aacf",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_HK.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable-Kincaid.strings",
+      "bytes": 192,
+      "sha256": "82c1c3dab9e65f83bc2c6fade531acbd1c25936691311c3eb566f3f127bb613a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable-Kincaid.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable.strings",
+      "bytes": 278,
+      "sha256": "f6c4e6620c6b7f38ffeb294eac3659d239516690671dfa021596398cae686a2e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/zh_TW.lproj/Localizable.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKOlympusFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   }
+  },
+  "固件文字": {
+   "描述": [
+    [
+     "FACE_STYLE_OLYMPUS_DESCRIPTION_KINCAID",
+     "这款表盘的设计集指针、数字和Windrunner风格于一体。表盘可通过多种方式自定义，你还可选择最多五个复杂功能。"
+    ],
+    [
+     "FACE_STYLE_OLYMPUS_DESCRIPTION",
+     "这款专为Apple Watch Nike打造的表盘，集指针、数字和Windrunner灵感设计于一身。表盘可通过多种方式自定义，你还可选择最多五个复杂功能。"
+    ]
+   ],
+   "编辑选项": []
+  },
+  "方法索引": {
+   "息屏与唤醒": [
+    "+[NTKOlympusFace tritium_burnInFaceName];",
+    "-[NTKOlympusFaceView tritium_didTransitionToTritiumOff];",
+    "-[NTKOlympusFaceView tritium_createFaceAnimator];",
+    "-[NTKOlympusFaceView tritium_transitionToFrameSpecifier:];",
+    "-[NTKOlympusFaceView tritium_timeViews];",
+    "-[NTKOlympusFaceView tritium_willTransitionToTritiumOnToFrameSpecifier:];"
+   ],
+   "动画与时间变化": [
+    "-[NTKOlympusFaceView minute];",
+    "-[NTKOlympusFaceView _setComplicationAlphaForTransitionFraction:fromOption:toOption:customEditMode:slot:];",
+    "-[NTKOlympusFaceView _updateDialTicksForBezelText];",
+    "-[NTKOlympusFaceView tritium_didTransitionToTritiumOff];",
+    "-[NTKOlympusFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKOlympusFaceView complicationDisplayWrapperView:didUpdateCustomDataAnimationFraction:fromEarlierView:toLaterView:isForward:animationType:animationDuration:];",
+    "-[NTKOlympusFaceView setMinute:];",
+    "-[NTKOlympusFaceView tritium_createFaceAnimator];",
+    "-[NTKOlympusFaceView _cleanupAfterTransitionToOption:forCustomEditMode:slot:];",
+    "-[NTKOlympusFaceView tritium_transitionToFrameSpecifier:];",
+    "-[NTKOlympusFaceView _applyTransitionFraction:fromStyle:toStyle:];",
+    "-[NTKOlympusFaceView _applyTransitionFraction:fromComplication:toComplication:slot:];",
+    "-[NTKOlympusFaceView _cleanupAfterTransitionComplicationSlot:selectedComplication:];",
+    "-[NTKOlympusFaceView _applyTransitionFraction:fromDial:toDial:];",
+    "-[NTKOlympusFaceView applyTransitionToCircularDialWithBezelFraction:];",
+    "-[NTKOlympusFaceView _configureForTransitionFraction:fromEditMode:toEditMode:];",
+    "-[NTKOlympusFaceView setOverrideDate:duration:];",
+    "-[NTKOlympusFaceView second];",
+    "-[NTKOlympusFaceView tritium_willTransitionToTritiumOnToFrameSpecifier:];",
+    "-[NTKOlympusFaceView setSecond:];",
+    "-[NTKOlympusFaceView _applyTransitionFraction:fromColorPalette:toColorPalette:animateElements:];"
+   ],
+   "组件与编辑": [
+    "+[NTKOlympusFace _initialDefaultComplicationForSlot:forDevice:];",
+    "+[NTKOlympusFace _complicationSlotDescriptors];",
+    "+[NTKOlympusFace _richComplicationSlotsForDevice:];",
+    "+[NTKOlympusFace _orderedComplicationSlots];",
+    "+[NTKOlympusFace _defaultSelectedComplicationSlotForDevice:];",
+    "-[NTKOlympusFace editOptionThatHidesAllComplications];",
+    "-[NTKOlympusFace selectOption:forCustomEditMode:slot:];",
+    "-[NTKOlympusFace complicationExistenceInvalidatesSnapshot];",
+    "-[NTKOlympusFace _localizedNameForComplicationSlot:];",
+    "-[NTKOlympusFace _numberOfOptionsForCustomEditMode:slot:];",
+    "-[NTKOlympusFace _defaultOptionForCustomEditMode:slot:];",
+    "-[NTKOlympusFace _indexOfOption:forCustomEditMode:slot:];",
+    "-[NTKOlympusFace _optionAtIndex:forCustomEditMode:slot:];",
+    "-[NTKOlympusFaceBundle complicationTypesBySlot];",
+    "-[NTKOlympusFaceBundle _olympusFaceWithStyle:dial:colorOption:complicationTypesBySlot:forDevice:];",
+    "-[NTKOlympusFaceBundle _galleryFacesForColorOptions:device:];",
+    "-[NTKOlympusFaceBundle _olympusFacesWithColorOption:complicationTypesBySlot:forDevice:];",
+    "-[NTKOlympusFaceBundle _colorOptionFromColorValue:device:];",
+    "-[NTKOlympusFaceBundle spring2020ComplicationTypesBySlot];",
+    "-[NTKOlympusFaceView applyColorOnAnalogHands];",
+    "-[NTKOlympusFaceView _complicationAlphaForEditMode:];",
+    "-[NTKOlympusFaceView _setComplicationAlphaForTransitionFraction:fromOption:toOption:customEditMode:slot:];",
+    "-[NTKOlympusFaceView _homeScreenBackgroundColor];",
+    "-[NTKOlympusFaceView createFaceColorPalette];",
+    "-[NTKOlympusFaceView _editSpeedForCustomEditMode:slot:];",
+    "-[NTKOlympusFaceView _additonalViewsToApplyDesaturationDuringComplicationEditing];",
+    "-[NTKOlympusFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKOlympusFaceView layoutSubviews];",
+    "-[NTKOlympusFaceView _applyBreathingFraction:forCustomEditMode:slot:];",
+    "-[NTKOlympusFaceView complicationDisplayWrapperView:didUpdateCustomDataAnimationFraction:fromEarlierView:toLaterView:isForward:animationType:animationDuration:];",
+    "-[NTKOlympusFaceView _cleanupAfterTransitionToOption:forCustomEditMode:slot:];",
+    "-[NTKOlympusFaceView _applyOption:forCustomEditMode:slot:];",
+    "-[NTKOlympusFaceView _prepareForEditing];",
+    "-[NTKOlympusFaceView _cleanupAfterEditing];",
+    "-[NTKOlympusFaceView _applyTransitionFraction:fromComplication:toComplication:slot:];",
+    "-[NTKOlympusFaceView utilityComplicationView:didChangeTextWidth:];",
+    "-[NTKOlympusFaceView _configureComplicationView:forSlot:];",
+    "-[NTKOlympusFaceView _cleanupAfterTransitionComplicationSlot:selectedComplication:];",
+    "-[NTKOlympusFaceView _minimumBreathingScaleForComplicationSlot:];",
+    "-[NTKOlympusFaceView _updateDialBezelComplicationColor:];",
+    "-[NTKOlympusFaceView palette];",
+    "-[NTKOlympusFaceView configureViewsForEditing];",
+    "-[NTKOlympusFaceView configureComplicationAlphaFraction:fromEditMode:toEditMode:];",
+    "-[NTKOlympusFaceView _applyRubberBandingFraction:forCustomEditMode:slot:];",
+    "-[NTKOlympusFaceView utilityBezelComplicationView];",
+    "-[NTKOlympusFaceView _applyTransitionFraction:fromColorPalette:toColorPalette:animateElements:];",
+    "-[NTKOlympusFaceView _bezelUtilityComplicationAlphaForEditMode:];",
+    "-[NTKOlympusFaceView bezelComplicationTextWidthInRadius];"
+   ]
+  }
+ }
+}

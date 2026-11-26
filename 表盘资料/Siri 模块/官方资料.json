@@ -1,0 +1,15 @@
+{
+  "name": "Siri 模块",
+  "source": "https://support.apple.com/en-za/guide/watch/apde9218b440/27/watchos/27",
+  "description": [
+    "区域版指南显示，当下最相关的智能叠放小组件位于表盘中，旋转表冠可显示其他小组件。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "alt": "Siri Modular 表盘",
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/3a603884-2fd8-4189-804d-f9ca5b519429",
+      "file": "表盘资料/Siri 模块/官方图1.png"
+    }
+  ]
+}

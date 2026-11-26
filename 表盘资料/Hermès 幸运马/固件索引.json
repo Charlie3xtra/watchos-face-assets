@@ -1,0 +1,3001 @@
+{
+ "NTKSecretariatFaceBundle.bundle": {
+  "title_evidence": [
+   [
+    "zh_CN.lproj/Localizable-Secretariat.strings",
+    "SECRETARIAT_FACE_NAME",
+    "Hermès幸运马"
+   ]
+  ],
+  "models": {
+   "Watch7_12_24S132": {
+    "bundle": "Watch7_12_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle",
+    "code": "Watch7_12_24S132/解析/代码/NTKSecretariatFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Assets.car",
+      "bytes": 141192,
+      "sha256": "580404923d97a8f0bbb2c8494d7cc7fca99afafdddf83e12f9099a89e735bc6f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Info.plist",
+      "bytes": 763,
+      "sha256": "080512870e69267a11ca4e656144c19298774a52ec54a169779087c3eda0f7ae",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Zeus-Secretariat.color.plist",
+      "bytes": 171,
+      "sha256": "d35cc0b23900c1d40b6dfa4b3db418543e8d8ff4b349c2d6ca06d82bceca94f4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Zeus-Secretariat.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/Localizable-Secretariat.strings",
+      "bytes": 532,
+      "sha256": "998f2fac3edd1942e4a9e6a54109163a99f1ce9b112474eb02f2a91bc83b7a28",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 248,
+      "sha256": "4ebcf497b05d8d2d15dc62e43b2b5082eec9ab3e7feb5789d2cb8b43bfc234d4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/Localizable-Secretariat.strings",
+      "bytes": 614,
+      "sha256": "a6c7ae3cce6edd6cad46cee997eb3460fe2d37090814b151bab4d0928317f15b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 345,
+      "sha256": "fb32fa226dd95760f62c8e90de4a902e26b4aa8a69c3ab03261d6508d4cc0fb7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/Localizable-Secretariat.strings",
+      "bytes": 628,
+      "sha256": "643d29d136ba5258f9eaaaf50480e6e2f03b08ac998bb5a627d7dfdd81055944",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 315,
+      "sha256": "d7e3095e106ab2ba23f4e40d3347548aaeea185053b514c4b862c8a442d55acb",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/Localizable-Secretariat.strings",
+      "bytes": 697,
+      "sha256": "1fba7a1b8dc4755a79d5c30dedda2a11077e36b5b433c4aeadbf019a914b31d2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 405,
+      "sha256": "b039ad3441e0848e9f2bd28bb0bd865f3b407b61920f763d89836efb083785d8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/Localizable-Secretariat.strings",
+      "bytes": 691,
+      "sha256": "01bb3278d89b18b9c94ba1a2243d202ba79ee936582738e1331ca3189e0271e1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 327,
+      "sha256": "8d8215063bede677fb3f0c68422eeb5fdbbe5129a05c1a496fc48a12cdd89bef",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/Localizable-Secretariat.strings",
+      "bytes": 749,
+      "sha256": "26000568172aa0a199649ad8c3cab0a9a1d44a8bcd0b755e24f68a7912564103",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 405,
+      "sha256": "14ed9fd4b9a98c28316fe83e7bfffa71b75992c6763c6e6f167dbad10b4fdd9e",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/Localizable-Secretariat.strings",
+      "bytes": 610,
+      "sha256": "aea6a10189edecd805dea4e7970b5233f3872249d566e8bcf719d31163b9d6a0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "75f38d530d02a03f3270362cc2c8079f41381c24f31540fa66a5fab3b8509b25",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "558f26c3e502da126e5cba0820e65b79a70891e060d948eb3d65586bc6002aba",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "75f38d530d02a03f3270362cc2c8079f41381c24f31540fa66a5fab3b8509b25",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "75f38d530d02a03f3270362cc2c8079f41381c24f31540fa66a5fab3b8509b25",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/Localizable-Secretariat.strings",
+      "bytes": 610,
+      "sha256": "aea6a10189edecd805dea4e7970b5233f3872249d566e8bcf719d31163b9d6a0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/Localizable-Secretariat.strings",
+      "bytes": 610,
+      "sha256": "841462a98f784c81766a215a9fc94ff286a407aabbf9731bab28769c9330b5c2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 337,
+      "sha256": "5d7ecb3a370a9b24307ee612ba7a9ab3390109b796d5efba47cea3d9f45d0757",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/Localizable-Secretariat.strings",
+      "bytes": 699,
+      "sha256": "78e15f81d0d36e9c5c295d93b6cec810b29b92a4c1e1490ed1ae412a46827bd1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 341,
+      "sha256": "c1cc3914dd0b8dae919cee4c98230a7a57bf90dffaffe2f78e7493de429f31c0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/Localizable-Secretariat.strings",
+      "bytes": 699,
+      "sha256": "78e15f81d0d36e9c5c295d93b6cec810b29b92a4c1e1490ed1ae412a46827bd1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 341,
+      "sha256": "c1cc3914dd0b8dae919cee4c98230a7a57bf90dffaffe2f78e7493de429f31c0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/Localizable-Secretariat.strings",
+      "bytes": 602,
+      "sha256": "373d8c4df26ff3b265c37f0b1ea0956a7a009046a8e735bf1b962d85e6c08612",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 305,
+      "sha256": "61fee693bf041f7cc5f7d0afd273b66977af8fdda175917dc6690f29302328a1",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/Localizable-Secretariat.strings",
+      "bytes": 723,
+      "sha256": "c2c060e7f1f16972c09924b3508089ae70b5c483a08ba96674ec9ff6c5719f68",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 335,
+      "sha256": "0af3c2e7e51e0ef1567e4df56624e33e3d9bc5a7e8759f8cca88fefde431bb4b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/Localizable-Secretariat.strings",
+      "bytes": 644,
+      "sha256": "5a3e27cda3cdad04d05fe8d2c068fbab86166a10036e1b28533fb3940ea1fab4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 299,
+      "sha256": "883553363efe76b291538b689bee5a5fe0d5f0cdbbade22e2bf848342f6195c0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/FaceColors-Secretariat.strings",
+      "bytes": 172,
+      "sha256": "4447e479305fb6471b25306e79af7f55eb027f219964a61a3f3261218cbd68b5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/Localizable-Secretariat.strings",
+      "bytes": 554,
+      "sha256": "3ca78c3d5f870f7ffa0f39ee0e0673886ee5437e167a109242713f66acf208d8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 290,
+      "sha256": "e7ff9513cba29c96dbde1068ee3038ff2004248901fad00b8bf0aa6cfed626ca",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/Localizable-Secretariat.strings",
+      "bytes": 638,
+      "sha256": "c50f651e006c91582f1318036938ee586d0ddac725f90daa3c142f757ee43f05",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 329,
+      "sha256": "06b01a0294dc120fa7a63803271067334da82bba34cb5177d5876c5ef16a7924",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/Localizable-Secretariat.strings",
+      "bytes": 624,
+      "sha256": "ca057a74ae539f0eaed57cbd91cfa0a85bb45a2e9ca001bcfdff55d765837566",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 323,
+      "sha256": "ef5eaaa22e5408ce27d28737938d0121425e741e08e1df795c08739209368f58",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/Localizable-Secretariat.strings",
+      "bytes": 741,
+      "sha256": "d49b74d61fe6c10fc4b09232071458f1930faac8566d022e305eb0afd2feff02",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 399,
+      "sha256": "1d8dfbbf5c62015829afb0593a0bb72418cd11f55b392ef8b6a37c3205cc7024",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/Localizable-Secretariat.strings",
+      "bytes": 614,
+      "sha256": "26b8ff45a7f696b05792b72f1234260ad96230b9a3b9ddfd6f5ffa9af4059970",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 305,
+      "sha256": "64b80a1a1844ac2727edcbb347ba1ca26047ee4a978742ca6f8419b1f099ea64",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/Localizable-Secretariat.strings",
+      "bytes": 743,
+      "sha256": "21ed3a07ad9c7fa15136bcdc87f22c18a4bf05d7b22f456d2dc0954d01e0ef6a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "3e4c5588916dc5596dc69d5f67d22a0a4b7e9e1a891e0fdd515b986e30b0d11c",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/FaceColors-Secretariat.strings",
+      "bytes": 142,
+      "sha256": "533bd77923d9aad3d3ca1b0e82ddd166034635f44f8790831cffaa87f2c98f02",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/Localizable-Secretariat.strings",
+      "bytes": 424,
+      "sha256": "a1066286ee0b3facc8af416fb12deb211f61b894b62bec65aa5eca1cb6f746d4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 214,
+      "sha256": "0ab13b2618f33bc1e86e5cca56b0f004364cc043eab7b3baa9588440f170e46d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/FaceColors-Secretariat.strings",
+      "bytes": 128,
+      "sha256": "98b4737e34f890e62561e50d638f43f7a912657df9bd6e33c84e092836c50491",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/Localizable-Secretariat.strings",
+      "bytes": 392,
+      "sha256": "ac34f17779e39f1372e3b6ef45e19171b190d7031ee1fd798ae73286e2ec9d86",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 200,
+      "sha256": "13859fbbe06073b4429e5e062aa0b982e1aaee603925cb65a51fdf02a1fd2360",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/Localizable-Secretariat.strings",
+      "bytes": 644,
+      "sha256": "f474cab3516182a8dfee4ca952ecfd64ece823d384aed2f7f60c3332c1b73fff",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "f56818d2d88a5b410198e2e576630e0ef26eba3054fdb99cfb766c62d3613795",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/Localizable-Secretariat.strings",
+      "bytes": 729,
+      "sha256": "fd7777d08c57e7f04c8fc119053bbacc908d9473f121b39a2851b7125522d271",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 399,
+      "sha256": "48b8cf5cf604887510b977d5af730d0ffb5805c324273b1a6d9583ecaa8013be",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/Localizable-Secretariat.strings",
+      "bytes": 614,
+      "sha256": "973df48db2fa0a31fef00fd73fbd6c3054343a18f9efb3213031567b1ef6bef5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 313,
+      "sha256": "261acfd6ad63b930dc43ba4d39e78eb027846eb8d6e099e2d5c9dcb6a019eebc",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/Localizable-Secretariat.strings",
+      "bytes": 662,
+      "sha256": "5ac48c27420f42bb73f8d9d8c96e3172f246e26679ec74b7afddeaf37a6d65e2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 355,
+      "sha256": "16a7535748e63f763e60aff928fde17d67aa38183cb3acbd901ed2e550bf886f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/Localizable-Secretariat.strings",
+      "bytes": 687,
+      "sha256": "992c0b13b858fd8d580c0a8243e89bd5bc81a2fa77ee20ce800c8790df145ce4",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 329,
+      "sha256": "7c16ec56c5c4aed1c16ff8083ca0c579c88a1a26111e74b8843346a758082f16",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/Localizable-Secretariat.strings",
+      "bytes": 721,
+      "sha256": "140b928c09950a81fe7b5ae79a1ee974ed5af652244cb5022192181b2ac4e3c2",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 339,
+      "sha256": "7c5c8028198a2e10f6d45d29e45c5dad079313f9ffa2eda6ce410853b627495b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/Localizable-Secretariat.strings",
+      "bytes": 662,
+      "sha256": "6f165e84ea4bf6e4d09af09a46cc04b11d34a2442141f513a23d58ac69e6b096",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 337,
+      "sha256": "66ae94958ba203edb68ec99b4f3fa9a4030ad3db5112da74d475384e8a62efa6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/FaceColors-Secretariat.strings",
+      "bytes": 146,
+      "sha256": "741bf55f4dfc848237ff1b82c39513d880fbce390bb0b54798507d4a3dd84157",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/Localizable-Secretariat.strings",
+      "bytes": 656,
+      "sha256": "413b9da27b0645f9ad43beb21210b258f929463256a793dd3253f6cf4745eab5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 347,
+      "sha256": "a137bc1041ee44404f97617e41a5024d28318d1a743c303869323058a87aa607",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/Localizable-Secretariat.strings",
+      "bytes": 707,
+      "sha256": "731f0f63f53ed9f63b74c9af92d01b7bb4e5edf42d9b7661d55c59ede8d5d196",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 317,
+      "sha256": "2a6b52be5a5bc52dcfb13a588c55fbefc90683263d77b27455a6dfdfbe89ad5a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/Localizable-Secretariat.strings",
+      "bytes": 667,
+      "sha256": "85182d458e2e18442d801beb5da773745bc9c60fce761af919c3b47ccbcea12b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 367,
+      "sha256": "b661fe487b7a0557473aa97295f35e334521944c5dfd901f541e83594a4bf2f5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/Localizable-Secretariat.strings",
+      "bytes": 620,
+      "sha256": "67c2c54de8f1c9d098fcbb342727388efcb3bd41dd41a765aacff0a3102c16c5",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 345,
+      "sha256": "90513aa9e68a7c6ada73820f65ad70c0a83323e14616dd02d2aabb3ae8ca9fc7",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/Localizable-Secretariat.strings",
+      "bytes": 530,
+      "sha256": "4be650d36186fd76c1538d91a56928a1f23d9efe2aee7359d58a9135e3962916",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 288,
+      "sha256": "7921e8caf3739f2bd0bd7b90cef7f429913df6c14aa53878e274279f1139ee4b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/Localizable-Secretariat.strings",
+      "bytes": 624,
+      "sha256": "f7a33f81158d3c875082180880f3e1494dfaaa7aab44409caaa075ef5f660723",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 284,
+      "sha256": "4c4dd7918f6f62d0bec4218c45b3b21b3f5b987fee6916c30b394196484f51b8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/Localizable-Secretariat.strings",
+      "bytes": 512,
+      "sha256": "77ae6529db1d461d9d694fcb8c39ea5193660ff000415dcceb0b5334d157c8c3",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 262,
+      "sha256": "6e4d835e85f228578e35f0455071de3fd9070f0c57e159776a692a1788f59e8b",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/Localizable-Secretariat.strings",
+      "bytes": 640,
+      "sha256": "ba036b7be42aaa67dc70dd8f20888dd7b1ff24f612290d68e1c1722307a49c07",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 355,
+      "sha256": "315e19596fed63b0571938d2b8b6fb1f3c9f8f7d2c0844f5c7a4fae65473485f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/FaceColors-Secretariat.strings",
+      "bytes": 122,
+      "sha256": "ebf6672812ab48585f589a8cf5df4673a42b592a66d9831b989adf6a7714197a",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/Localizable-Secretariat.strings",
+      "bytes": 275,
+      "sha256": "454743523844e11d18af9a0da3b11ea3c3dd7c4eb19dec12359056ce4e811641",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 152,
+      "sha256": "3bc7ff4761f59147404b23ab37b3c7be89fd652699159a64f6c0751ac403e982",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/FaceColors-Secretariat.strings",
+      "bytes": 136,
+      "sha256": "02a665fddec356847d852e54f36b15e42b47b0bcc9fd8a13e3da12885ecc9ed0",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/Localizable-Secretariat.strings",
+      "bytes": 287,
+      "sha256": "d2a466705990ca96eb0f628a08b11cf446e2318644ca881ee0fc2851a43eaa5d",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 140,
+      "sha256": "650cbaa7ba012a3940ceaa66924bb7b1a71cb10ffd1178b5ce4ddedb03b96a1f",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/Localizable-Secretariat.strings",
+      "bytes": 257,
+      "sha256": "07aca3feb0668d5b6cc87c4321e32c21d68b7f07c4332c9bdb08feaf5683dae8",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 142,
+      "sha256": "523d04197dd98540ab6d49d09bc9f7bcc541206c20e2c1e7ed70f7bdcb38a0c6",
+      "decoded": "Watch7_12_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_1_24S132": {
+    "bundle": "Watch8_1_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle",
+    "code": "Watch8_1_24S132/解析/代码/NTKSecretariatFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Assets.car",
+      "bytes": 141192,
+      "sha256": "4be1c44f10e90c36698e411df42266735bfb0fa9e7068284568fd50d9f4fe879"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Info.plist",
+      "bytes": 763,
+      "sha256": "080512870e69267a11ca4e656144c19298774a52ec54a169779087c3eda0f7ae",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Zeus-Secretariat.color.plist",
+      "bytes": 171,
+      "sha256": "d35cc0b23900c1d40b6dfa4b3db418543e8d8ff4b349c2d6ca06d82bceca94f4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Zeus-Secretariat.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/Localizable-Secretariat.strings",
+      "bytes": 532,
+      "sha256": "998f2fac3edd1942e4a9e6a54109163a99f1ce9b112474eb02f2a91bc83b7a28",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 248,
+      "sha256": "4ebcf497b05d8d2d15dc62e43b2b5082eec9ab3e7feb5789d2cb8b43bfc234d4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/Localizable-Secretariat.strings",
+      "bytes": 614,
+      "sha256": "a6c7ae3cce6edd6cad46cee997eb3460fe2d37090814b151bab4d0928317f15b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 345,
+      "sha256": "fb32fa226dd95760f62c8e90de4a902e26b4aa8a69c3ab03261d6508d4cc0fb7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/Localizable-Secretariat.strings",
+      "bytes": 628,
+      "sha256": "643d29d136ba5258f9eaaaf50480e6e2f03b08ac998bb5a627d7dfdd81055944",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 315,
+      "sha256": "d7e3095e106ab2ba23f4e40d3347548aaeea185053b514c4b862c8a442d55acb",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/Localizable-Secretariat.strings",
+      "bytes": 697,
+      "sha256": "1fba7a1b8dc4755a79d5c30dedda2a11077e36b5b433c4aeadbf019a914b31d2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 405,
+      "sha256": "b039ad3441e0848e9f2bd28bb0bd865f3b407b61920f763d89836efb083785d8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/Localizable-Secretariat.strings",
+      "bytes": 691,
+      "sha256": "01bb3278d89b18b9c94ba1a2243d202ba79ee936582738e1331ca3189e0271e1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 327,
+      "sha256": "8d8215063bede677fb3f0c68422eeb5fdbbe5129a05c1a496fc48a12cdd89bef",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/Localizable-Secretariat.strings",
+      "bytes": 749,
+      "sha256": "26000568172aa0a199649ad8c3cab0a9a1d44a8bcd0b755e24f68a7912564103",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 405,
+      "sha256": "14ed9fd4b9a98c28316fe83e7bfffa71b75992c6763c6e6f167dbad10b4fdd9e",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/Localizable-Secretariat.strings",
+      "bytes": 610,
+      "sha256": "aea6a10189edecd805dea4e7970b5233f3872249d566e8bcf719d31163b9d6a0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "75f38d530d02a03f3270362cc2c8079f41381c24f31540fa66a5fab3b8509b25",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "558f26c3e502da126e5cba0820e65b79a70891e060d948eb3d65586bc6002aba",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "75f38d530d02a03f3270362cc2c8079f41381c24f31540fa66a5fab3b8509b25",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "75f38d530d02a03f3270362cc2c8079f41381c24f31540fa66a5fab3b8509b25",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/Localizable-Secretariat.strings",
+      "bytes": 610,
+      "sha256": "aea6a10189edecd805dea4e7970b5233f3872249d566e8bcf719d31163b9d6a0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/Localizable-Secretariat.strings",
+      "bytes": 610,
+      "sha256": "841462a98f784c81766a215a9fc94ff286a407aabbf9731bab28769c9330b5c2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 337,
+      "sha256": "5d7ecb3a370a9b24307ee612ba7a9ab3390109b796d5efba47cea3d9f45d0757",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/Localizable-Secretariat.strings",
+      "bytes": 699,
+      "sha256": "78e15f81d0d36e9c5c295d93b6cec810b29b92a4c1e1490ed1ae412a46827bd1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 341,
+      "sha256": "c1cc3914dd0b8dae919cee4c98230a7a57bf90dffaffe2f78e7493de429f31c0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/Localizable-Secretariat.strings",
+      "bytes": 699,
+      "sha256": "78e15f81d0d36e9c5c295d93b6cec810b29b92a4c1e1490ed1ae412a46827bd1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 341,
+      "sha256": "c1cc3914dd0b8dae919cee4c98230a7a57bf90dffaffe2f78e7493de429f31c0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/Localizable-Secretariat.strings",
+      "bytes": 602,
+      "sha256": "373d8c4df26ff3b265c37f0b1ea0956a7a009046a8e735bf1b962d85e6c08612",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 305,
+      "sha256": "61fee693bf041f7cc5f7d0afd273b66977af8fdda175917dc6690f29302328a1",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/Localizable-Secretariat.strings",
+      "bytes": 723,
+      "sha256": "c2c060e7f1f16972c09924b3508089ae70b5c483a08ba96674ec9ff6c5719f68",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 335,
+      "sha256": "0af3c2e7e51e0ef1567e4df56624e33e3d9bc5a7e8759f8cca88fefde431bb4b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/Localizable-Secretariat.strings",
+      "bytes": 644,
+      "sha256": "5a3e27cda3cdad04d05fe8d2c068fbab86166a10036e1b28533fb3940ea1fab4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 299,
+      "sha256": "883553363efe76b291538b689bee5a5fe0d5f0cdbbade22e2bf848342f6195c0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/FaceColors-Secretariat.strings",
+      "bytes": 172,
+      "sha256": "4447e479305fb6471b25306e79af7f55eb027f219964a61a3f3261218cbd68b5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/Localizable-Secretariat.strings",
+      "bytes": 554,
+      "sha256": "3ca78c3d5f870f7ffa0f39ee0e0673886ee5437e167a109242713f66acf208d8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 290,
+      "sha256": "e7ff9513cba29c96dbde1068ee3038ff2004248901fad00b8bf0aa6cfed626ca",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/Localizable-Secretariat.strings",
+      "bytes": 638,
+      "sha256": "c50f651e006c91582f1318036938ee586d0ddac725f90daa3c142f757ee43f05",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 329,
+      "sha256": "06b01a0294dc120fa7a63803271067334da82bba34cb5177d5876c5ef16a7924",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/Localizable-Secretariat.strings",
+      "bytes": 624,
+      "sha256": "ca057a74ae539f0eaed57cbd91cfa0a85bb45a2e9ca001bcfdff55d765837566",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 323,
+      "sha256": "ef5eaaa22e5408ce27d28737938d0121425e741e08e1df795c08739209368f58",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/Localizable-Secretariat.strings",
+      "bytes": 741,
+      "sha256": "d49b74d61fe6c10fc4b09232071458f1930faac8566d022e305eb0afd2feff02",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 399,
+      "sha256": "1d8dfbbf5c62015829afb0593a0bb72418cd11f55b392ef8b6a37c3205cc7024",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/Localizable-Secretariat.strings",
+      "bytes": 614,
+      "sha256": "26b8ff45a7f696b05792b72f1234260ad96230b9a3b9ddfd6f5ffa9af4059970",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 305,
+      "sha256": "64b80a1a1844ac2727edcbb347ba1ca26047ee4a978742ca6f8419b1f099ea64",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/Localizable-Secretariat.strings",
+      "bytes": 743,
+      "sha256": "21ed3a07ad9c7fa15136bcdc87f22c18a4bf05d7b22f456d2dc0954d01e0ef6a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "3e4c5588916dc5596dc69d5f67d22a0a4b7e9e1a891e0fdd515b986e30b0d11c",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/FaceColors-Secretariat.strings",
+      "bytes": 142,
+      "sha256": "533bd77923d9aad3d3ca1b0e82ddd166034635f44f8790831cffaa87f2c98f02",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/Localizable-Secretariat.strings",
+      "bytes": 424,
+      "sha256": "a1066286ee0b3facc8af416fb12deb211f61b894b62bec65aa5eca1cb6f746d4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 214,
+      "sha256": "0ab13b2618f33bc1e86e5cca56b0f004364cc043eab7b3baa9588440f170e46d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/FaceColors-Secretariat.strings",
+      "bytes": 128,
+      "sha256": "98b4737e34f890e62561e50d638f43f7a912657df9bd6e33c84e092836c50491",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/Localizable-Secretariat.strings",
+      "bytes": 392,
+      "sha256": "ac34f17779e39f1372e3b6ef45e19171b190d7031ee1fd798ae73286e2ec9d86",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 200,
+      "sha256": "13859fbbe06073b4429e5e062aa0b982e1aaee603925cb65a51fdf02a1fd2360",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/Localizable-Secretariat.strings",
+      "bytes": 644,
+      "sha256": "f474cab3516182a8dfee4ca952ecfd64ece823d384aed2f7f60c3332c1b73fff",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "f56818d2d88a5b410198e2e576630e0ef26eba3054fdb99cfb766c62d3613795",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/Localizable-Secretariat.strings",
+      "bytes": 729,
+      "sha256": "fd7777d08c57e7f04c8fc119053bbacc908d9473f121b39a2851b7125522d271",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 399,
+      "sha256": "48b8cf5cf604887510b977d5af730d0ffb5805c324273b1a6d9583ecaa8013be",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/Localizable-Secretariat.strings",
+      "bytes": 614,
+      "sha256": "973df48db2fa0a31fef00fd73fbd6c3054343a18f9efb3213031567b1ef6bef5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 313,
+      "sha256": "261acfd6ad63b930dc43ba4d39e78eb027846eb8d6e099e2d5c9dcb6a019eebc",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/Localizable-Secretariat.strings",
+      "bytes": 662,
+      "sha256": "5ac48c27420f42bb73f8d9d8c96e3172f246e26679ec74b7afddeaf37a6d65e2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 355,
+      "sha256": "16a7535748e63f763e60aff928fde17d67aa38183cb3acbd901ed2e550bf886f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/Localizable-Secretariat.strings",
+      "bytes": 687,
+      "sha256": "992c0b13b858fd8d580c0a8243e89bd5bc81a2fa77ee20ce800c8790df145ce4",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 329,
+      "sha256": "7c16ec56c5c4aed1c16ff8083ca0c579c88a1a26111e74b8843346a758082f16",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/Localizable-Secretariat.strings",
+      "bytes": 721,
+      "sha256": "140b928c09950a81fe7b5ae79a1ee974ed5af652244cb5022192181b2ac4e3c2",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 339,
+      "sha256": "7c5c8028198a2e10f6d45d29e45c5dad079313f9ffa2eda6ce410853b627495b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/Localizable-Secretariat.strings",
+      "bytes": 662,
+      "sha256": "6f165e84ea4bf6e4d09af09a46cc04b11d34a2442141f513a23d58ac69e6b096",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 337,
+      "sha256": "66ae94958ba203edb68ec99b4f3fa9a4030ad3db5112da74d475384e8a62efa6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/FaceColors-Secretariat.strings",
+      "bytes": 146,
+      "sha256": "741bf55f4dfc848237ff1b82c39513d880fbce390bb0b54798507d4a3dd84157",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/Localizable-Secretariat.strings",
+      "bytes": 656,
+      "sha256": "413b9da27b0645f9ad43beb21210b258f929463256a793dd3253f6cf4745eab5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 347,
+      "sha256": "a137bc1041ee44404f97617e41a5024d28318d1a743c303869323058a87aa607",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/Localizable-Secretariat.strings",
+      "bytes": 707,
+      "sha256": "731f0f63f53ed9f63b74c9af92d01b7bb4e5edf42d9b7661d55c59ede8d5d196",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 317,
+      "sha256": "2a6b52be5a5bc52dcfb13a588c55fbefc90683263d77b27455a6dfdfbe89ad5a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/Localizable-Secretariat.strings",
+      "bytes": 667,
+      "sha256": "85182d458e2e18442d801beb5da773745bc9c60fce761af919c3b47ccbcea12b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 367,
+      "sha256": "b661fe487b7a0557473aa97295f35e334521944c5dfd901f541e83594a4bf2f5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/Localizable-Secretariat.strings",
+      "bytes": 620,
+      "sha256": "67c2c54de8f1c9d098fcbb342727388efcb3bd41dd41a765aacff0a3102c16c5",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 345,
+      "sha256": "90513aa9e68a7c6ada73820f65ad70c0a83323e14616dd02d2aabb3ae8ca9fc7",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/Localizable-Secretariat.strings",
+      "bytes": 530,
+      "sha256": "4be650d36186fd76c1538d91a56928a1f23d9efe2aee7359d58a9135e3962916",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 288,
+      "sha256": "7921e8caf3739f2bd0bd7b90cef7f429913df6c14aa53878e274279f1139ee4b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/Localizable-Secretariat.strings",
+      "bytes": 624,
+      "sha256": "f7a33f81158d3c875082180880f3e1494dfaaa7aab44409caaa075ef5f660723",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 284,
+      "sha256": "4c4dd7918f6f62d0bec4218c45b3b21b3f5b987fee6916c30b394196484f51b8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/Localizable-Secretariat.strings",
+      "bytes": 512,
+      "sha256": "77ae6529db1d461d9d694fcb8c39ea5193660ff000415dcceb0b5334d157c8c3",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 262,
+      "sha256": "6e4d835e85f228578e35f0455071de3fd9070f0c57e159776a692a1788f59e8b",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/Localizable-Secretariat.strings",
+      "bytes": 640,
+      "sha256": "ba036b7be42aaa67dc70dd8f20888dd7b1ff24f612290d68e1c1722307a49c07",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 355,
+      "sha256": "315e19596fed63b0571938d2b8b6fb1f3c9f8f7d2c0844f5c7a4fae65473485f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/FaceColors-Secretariat.strings",
+      "bytes": 122,
+      "sha256": "ebf6672812ab48585f589a8cf5df4673a42b592a66d9831b989adf6a7714197a",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/Localizable-Secretariat.strings",
+      "bytes": 275,
+      "sha256": "454743523844e11d18af9a0da3b11ea3c3dd7c4eb19dec12359056ce4e811641",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 152,
+      "sha256": "3bc7ff4761f59147404b23ab37b3c7be89fd652699159a64f6c0751ac403e982",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/FaceColors-Secretariat.strings",
+      "bytes": 136,
+      "sha256": "02a665fddec356847d852e54f36b15e42b47b0bcc9fd8a13e3da12885ecc9ed0",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/Localizable-Secretariat.strings",
+      "bytes": 287,
+      "sha256": "d2a466705990ca96eb0f628a08b11cf446e2318644ca881ee0fc2851a43eaa5d",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 140,
+      "sha256": "650cbaa7ba012a3940ceaa66924bb7b1a71cb10ffd1178b5ce4ddedb03b96a1f",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/Localizable-Secretariat.strings",
+      "bytes": 257,
+      "sha256": "07aca3feb0668d5b6cc87c4321e32c21d68b7f07c4332c9bdb08feaf5683dae8",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 142,
+      "sha256": "523d04197dd98540ab6d49d09bc9f7bcc541206c20e2c1e7ed70f7bdcb38a0c6",
+      "decoded": "Watch8_1_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   },
+   "Watch8_5_24S132": {
+    "bundle": "Watch8_5_24S132/filesystem/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle",
+    "code": "Watch8_5_24S132/解析/代码/NTKSecretariatFaceBundle",
+    "files": [
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Assets.car",
+      "bytes": 151832,
+      "sha256": "be45ccf4cca3b804ff8fabb100d517e120e274e0b53cffcd99e0de7dd2066d11"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Info.plist",
+      "bytes": 763,
+      "sha256": "080512870e69267a11ca4e656144c19298774a52ec54a169779087c3eda0f7ae",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Info.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color1-wake-2-A-avonia.mov",
+      "bytes": 300834,
+      "sha256": "62a4ef3897b825af1c5aa2427867cbf66cc37179db3537c495a7409a4e94a677"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color1-wake-3-B-avonia.mov",
+      "bytes": 315968,
+      "sha256": "cac278dc9f5dfd03d7afbf4951aa79a12757b1c785b1085f838cace10b1db923"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color1-wake-4-G-avonia.mov",
+      "bytes": 265751,
+      "sha256": "6a00b2703e1f696c91b8171f918b4168c8fb09f367af933490d0d9e9e1ed9f18"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color1-wake-7-C-avonia.mov",
+      "bytes": 267166,
+      "sha256": "c39261cd55f5237f3ee5b85b6a294d8b6d416968da038e0b0605fa5d1f4899fd"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color2-wake-2-A-avonia.mov",
+      "bytes": 451041,
+      "sha256": "de2c0cde171cc24d51e07b1ea808539ef7baa63d3fe7ef221fe18676547666af"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color2-wake-3-B-avonia.mov",
+      "bytes": 464021,
+      "sha256": "acca3a8ab52740d89d3947d6849d84146d5d3405839d9a0d2f8ae9a99725314a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color2-wake-4-G-avonia.mov",
+      "bytes": 396613,
+      "sha256": "cde2b291c988aee0348c0a016ff363a5f34d88ea735665766099f231dfbad3ad"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color2-wake-7-C-avonia.mov",
+      "bytes": 406848,
+      "sha256": "0e08fceb8aa746900ed2be076997e832d2b8d35fa52d28725bb341fdcf787a41"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color3-wake-2-A-avonia.mov",
+      "bytes": 242479,
+      "sha256": "d36b3117d44d0e5ed72b350cec4f8d95c3160daf4f50a304bacf30c39734b10f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color3-wake-3-B-avonia.mov",
+      "bytes": 253778,
+      "sha256": "9547fe2a3380db74957b97223450443ff72d48a87ae38feea37b464e92b218ee"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color3-wake-4-G-avonia.mov",
+      "bytes": 223633,
+      "sha256": "0c27adc399898a5ab3d2e2996a01300de08c9ad865e7d648ebce0cdd4b9d0bf8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color3-wake-7-C-avonia.mov",
+      "bytes": 217249,
+      "sha256": "8bcbd624c0393b6bd51249e69e650101eaf6c1cd02ee2efb5eb407bfc561427f"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color4-wake-2-A-avonia.mov",
+      "bytes": 305290,
+      "sha256": "5ed8546ddc2f4f33eaf384a24d96c8f71460f44e45d5667bf7f1c5831fdaf574"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color4-wake-3-B-avonia.mov",
+      "bytes": 317884,
+      "sha256": "f328741d17cbc7886d29c1e5bc82797ec647fca66deeb4d99d444256c1a01cc8"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color4-wake-4-G-avonia.mov",
+      "bytes": 288888,
+      "sha256": "25b668905628c344a32b29b3106ae19b1ecc7ad7ad928b675e6d4992782f9e3a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/secretariat-color4-wake-7-C-avonia.mov",
+      "bytes": 288997,
+      "sha256": "48e77f111aa743be261c8c6f8d7ac8df20628cf8021fb5734b7fe1a50b24303a"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Zeus-Secretariat.color.plist",
+      "bytes": 171,
+      "sha256": "d35cc0b23900c1d40b6dfa4b3db418543e8d8ff4b349c2d6ca06d82bceca94f4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/Zeus-Secretariat.color.plist.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/Localizable-Secretariat.strings",
+      "bytes": 532,
+      "sha256": "998f2fac3edd1942e4a9e6a54109163a99f1ce9b112474eb02f2a91bc83b7a28",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 248,
+      "sha256": "4ebcf497b05d8d2d15dc62e43b2b5082eec9ab3e7feb5789d2cb8b43bfc234d4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ar.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/Localizable-Secretariat.strings",
+      "bytes": 614,
+      "sha256": "a6c7ae3cce6edd6cad46cee997eb3460fe2d37090814b151bab4d0928317f15b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 345,
+      "sha256": "fb32fa226dd95760f62c8e90de4a902e26b4aa8a69c3ab03261d6508d4cc0fb7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ca.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/Localizable-Secretariat.strings",
+      "bytes": 628,
+      "sha256": "643d29d136ba5258f9eaaaf50480e6e2f03b08ac998bb5a627d7dfdd81055944",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 315,
+      "sha256": "d7e3095e106ab2ba23f4e40d3347548aaeea185053b514c4b862c8a442d55acb",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/cs.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/Localizable-Secretariat.strings",
+      "bytes": 697,
+      "sha256": "1fba7a1b8dc4755a79d5c30dedda2a11077e36b5b433c4aeadbf019a914b31d2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 405,
+      "sha256": "b039ad3441e0848e9f2bd28bb0bd865f3b407b61920f763d89836efb083785d8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/da.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/Localizable-Secretariat.strings",
+      "bytes": 691,
+      "sha256": "01bb3278d89b18b9c94ba1a2243d202ba79ee936582738e1331ca3189e0271e1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 327,
+      "sha256": "8d8215063bede677fb3f0c68422eeb5fdbbe5129a05c1a496fc48a12cdd89bef",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/de.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/Localizable-Secretariat.strings",
+      "bytes": 749,
+      "sha256": "26000568172aa0a199649ad8c3cab0a9a1d44a8bcd0b755e24f68a7912564103",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 405,
+      "sha256": "14ed9fd4b9a98c28316fe83e7bfffa71b75992c6763c6e6f167dbad10b4fdd9e",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/el.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/Localizable-Secretariat.strings",
+      "bytes": 610,
+      "sha256": "aea6a10189edecd805dea4e7970b5233f3872249d566e8bcf719d31163b9d6a0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "75f38d530d02a03f3270362cc2c8079f41381c24f31540fa66a5fab3b8509b25",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_AU.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "558f26c3e502da126e5cba0820e65b79a70891e060d948eb3d65586bc6002aba",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_CA.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "75f38d530d02a03f3270362cc2c8079f41381c24f31540fa66a5fab3b8509b25",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_GB.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/Localizable-Secretariat.strings",
+      "bytes": 612,
+      "sha256": "75f38d530d02a03f3270362cc2c8079f41381c24f31540fa66a5fab3b8509b25",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_IN.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/Localizable-Secretariat.strings",
+      "bytes": 610,
+      "sha256": "aea6a10189edecd805dea4e7970b5233f3872249d566e8bcf719d31163b9d6a0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "bb15c068bf382ea89379d1812668090382be47e3ae9eaa8815d2dbe04e810cb6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/en_PH.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/Localizable-Secretariat.strings",
+      "bytes": 610,
+      "sha256": "841462a98f784c81766a215a9fc94ff286a407aabbf9731bab28769c9330b5c2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 337,
+      "sha256": "5d7ecb3a370a9b24307ee612ba7a9ab3390109b796d5efba47cea3d9f45d0757",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/Localizable-Secretariat.strings",
+      "bytes": 699,
+      "sha256": "78e15f81d0d36e9c5c295d93b6cec810b29b92a4c1e1490ed1ae412a46827bd1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 341,
+      "sha256": "c1cc3914dd0b8dae919cee4c98230a7a57bf90dffaffe2f78e7493de429f31c0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_419.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/Localizable-Secretariat.strings",
+      "bytes": 699,
+      "sha256": "78e15f81d0d36e9c5c295d93b6cec810b29b92a4c1e1490ed1ae412a46827bd1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 341,
+      "sha256": "c1cc3914dd0b8dae919cee4c98230a7a57bf90dffaffe2f78e7493de429f31c0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/es_US.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/Localizable-Secretariat.strings",
+      "bytes": 602,
+      "sha256": "373d8c4df26ff3b265c37f0b1ea0956a7a009046a8e735bf1b962d85e6c08612",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 305,
+      "sha256": "61fee693bf041f7cc5f7d0afd273b66977af8fdda175917dc6690f29302328a1",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fi.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/Localizable-Secretariat.strings",
+      "bytes": 723,
+      "sha256": "c2c060e7f1f16972c09924b3508089ae70b5c483a08ba96674ec9ff6c5719f68",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 335,
+      "sha256": "0af3c2e7e51e0ef1567e4df56624e33e3d9bc5a7e8759f8cca88fefde431bb4b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/Localizable-Secretariat.strings",
+      "bytes": 644,
+      "sha256": "5a3e27cda3cdad04d05fe8d2c068fbab86166a10036e1b28533fb3940ea1fab4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 299,
+      "sha256": "883553363efe76b291538b689bee5a5fe0d5f0cdbbade22e2bf848342f6195c0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/fr_CA.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/FaceColors-Secretariat.strings",
+      "bytes": 172,
+      "sha256": "4447e479305fb6471b25306e79af7f55eb027f219964a61a3f3261218cbd68b5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/Localizable-Secretariat.strings",
+      "bytes": 554,
+      "sha256": "3ca78c3d5f870f7ffa0f39ee0e0673886ee5437e167a109242713f66acf208d8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 290,
+      "sha256": "e7ff9513cba29c96dbde1068ee3038ff2004248901fad00b8bf0aa6cfed626ca",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/he.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/Localizable-Secretariat.strings",
+      "bytes": 638,
+      "sha256": "c50f651e006c91582f1318036938ee586d0ddac725f90daa3c142f757ee43f05",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 329,
+      "sha256": "06b01a0294dc120fa7a63803271067334da82bba34cb5177d5876c5ef16a7924",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hi.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/Localizable-Secretariat.strings",
+      "bytes": 624,
+      "sha256": "ca057a74ae539f0eaed57cbd91cfa0a85bb45a2e9ca001bcfdff55d765837566",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 323,
+      "sha256": "ef5eaaa22e5408ce27d28737938d0121425e741e08e1df795c08739209368f58",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hr.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/Localizable-Secretariat.strings",
+      "bytes": 741,
+      "sha256": "d49b74d61fe6c10fc4b09232071458f1930faac8566d022e305eb0afd2feff02",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 399,
+      "sha256": "1d8dfbbf5c62015829afb0593a0bb72418cd11f55b392ef8b6a37c3205cc7024",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/hu.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/Localizable-Secretariat.strings",
+      "bytes": 614,
+      "sha256": "26b8ff45a7f696b05792b72f1234260ad96230b9a3b9ddfd6f5ffa9af4059970",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 305,
+      "sha256": "64b80a1a1844ac2727edcbb347ba1ca26047ee4a978742ca6f8419b1f099ea64",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/id.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/Localizable-Secretariat.strings",
+      "bytes": 743,
+      "sha256": "21ed3a07ad9c7fa15136bcdc87f22c18a4bf05d7b22f456d2dc0954d01e0ef6a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 379,
+      "sha256": "3e4c5588916dc5596dc69d5f67d22a0a4b7e9e1a891e0fdd515b986e30b0d11c",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/it.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/FaceColors-Secretariat.strings",
+      "bytes": 142,
+      "sha256": "533bd77923d9aad3d3ca1b0e82ddd166034635f44f8790831cffaa87f2c98f02",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/Localizable-Secretariat.strings",
+      "bytes": 424,
+      "sha256": "a1066286ee0b3facc8af416fb12deb211f61b894b62bec65aa5eca1cb6f746d4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 214,
+      "sha256": "0ab13b2618f33bc1e86e5cca56b0f004364cc043eab7b3baa9588440f170e46d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ja.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/FaceColors-Secretariat.strings",
+      "bytes": 128,
+      "sha256": "98b4737e34f890e62561e50d638f43f7a912657df9bd6e33c84e092836c50491",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/Localizable-Secretariat.strings",
+      "bytes": 392,
+      "sha256": "ac34f17779e39f1372e3b6ef45e19171b190d7031ee1fd798ae73286e2ec9d86",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 200,
+      "sha256": "13859fbbe06073b4429e5e062aa0b982e1aaee603925cb65a51fdf02a1fd2360",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ko.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/Localizable-Secretariat.strings",
+      "bytes": 644,
+      "sha256": "f474cab3516182a8dfee4ca952ecfd64ece823d384aed2f7f60c3332c1b73fff",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 311,
+      "sha256": "f56818d2d88a5b410198e2e576630e0ef26eba3054fdb99cfb766c62d3613795",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ms.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/Localizable-Secretariat.strings",
+      "bytes": 729,
+      "sha256": "fd7777d08c57e7f04c8fc119053bbacc908d9473f121b39a2851b7125522d271",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 399,
+      "sha256": "48b8cf5cf604887510b977d5af730d0ffb5805c324273b1a6d9583ecaa8013be",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/nl.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/Localizable-Secretariat.strings",
+      "bytes": 614,
+      "sha256": "973df48db2fa0a31fef00fd73fbd6c3054343a18f9efb3213031567b1ef6bef5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 313,
+      "sha256": "261acfd6ad63b930dc43ba4d39e78eb027846eb8d6e099e2d5c9dcb6a019eebc",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/no.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/Localizable-Secretariat.strings",
+      "bytes": 662,
+      "sha256": "5ac48c27420f42bb73f8d9d8c96e3172f246e26679ec74b7afddeaf37a6d65e2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 355,
+      "sha256": "16a7535748e63f763e60aff928fde17d67aa38183cb3acbd901ed2e550bf886f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pl.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/Localizable-Secretariat.strings",
+      "bytes": 687,
+      "sha256": "992c0b13b858fd8d580c0a8243e89bd5bc81a2fa77ee20ce800c8790df145ce4",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 329,
+      "sha256": "7c16ec56c5c4aed1c16ff8083ca0c579c88a1a26111e74b8843346a758082f16",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_BR.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/Localizable-Secretariat.strings",
+      "bytes": 721,
+      "sha256": "140b928c09950a81fe7b5ae79a1ee974ed5af652244cb5022192181b2ac4e3c2",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 339,
+      "sha256": "7c5c8028198a2e10f6d45d29e45c5dad079313f9ffa2eda6ce410853b627495b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/pt_PT.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/Localizable-Secretariat.strings",
+      "bytes": 662,
+      "sha256": "6f165e84ea4bf6e4d09af09a46cc04b11d34a2442141f513a23d58ac69e6b096",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 337,
+      "sha256": "66ae94958ba203edb68ec99b4f3fa9a4030ad3db5112da74d475384e8a62efa6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ro.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/FaceColors-Secretariat.strings",
+      "bytes": 146,
+      "sha256": "741bf55f4dfc848237ff1b82c39513d880fbce390bb0b54798507d4a3dd84157",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/Localizable-Secretariat.strings",
+      "bytes": 656,
+      "sha256": "413b9da27b0645f9ad43beb21210b258f929463256a793dd3253f6cf4745eab5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 347,
+      "sha256": "a137bc1041ee44404f97617e41a5024d28318d1a743c303869323058a87aa607",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/ru.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/Localizable-Secretariat.strings",
+      "bytes": 707,
+      "sha256": "731f0f63f53ed9f63b74c9af92d01b7bb4e5edf42d9b7661d55c59ede8d5d196",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 317,
+      "sha256": "2a6b52be5a5bc52dcfb13a588c55fbefc90683263d77b27455a6dfdfbe89ad5a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sk.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/Localizable-Secretariat.strings",
+      "bytes": 667,
+      "sha256": "85182d458e2e18442d801beb5da773745bc9c60fce761af919c3b47ccbcea12b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 367,
+      "sha256": "b661fe487b7a0557473aa97295f35e334521944c5dfd901f541e83594a4bf2f5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sl.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/Localizable-Secretariat.strings",
+      "bytes": 620,
+      "sha256": "67c2c54de8f1c9d098fcbb342727388efcb3bd41dd41a765aacff0a3102c16c5",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 345,
+      "sha256": "90513aa9e68a7c6ada73820f65ad70c0a83323e14616dd02d2aabb3ae8ca9fc7",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/sv.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/Localizable-Secretariat.strings",
+      "bytes": 530,
+      "sha256": "4be650d36186fd76c1538d91a56928a1f23d9efe2aee7359d58a9135e3962916",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 288,
+      "sha256": "7921e8caf3739f2bd0bd7b90cef7f429913df6c14aa53878e274279f1139ee4b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/th.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/Localizable-Secretariat.strings",
+      "bytes": 624,
+      "sha256": "f7a33f81158d3c875082180880f3e1494dfaaa7aab44409caaa075ef5f660723",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 284,
+      "sha256": "4c4dd7918f6f62d0bec4218c45b3b21b3f5b987fee6916c30b394196484f51b8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/tr.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/Localizable-Secretariat.strings",
+      "bytes": 512,
+      "sha256": "77ae6529db1d461d9d694fcb8c39ea5193660ff000415dcceb0b5334d157c8c3",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 262,
+      "sha256": "6e4d835e85f228578e35f0455071de3fd9070f0c57e159776a692a1788f59e8b",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/uk.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/Localizable-Secretariat.strings",
+      "bytes": 640,
+      "sha256": "ba036b7be42aaa67dc70dd8f20888dd7b1ff24f612290d68e1c1722307a49c07",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 355,
+      "sha256": "315e19596fed63b0571938d2b8b6fb1f3c9f8f7d2c0844f5c7a4fae65473485f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/vi.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/FaceColors-Secretariat.strings",
+      "bytes": 122,
+      "sha256": "ebf6672812ab48585f589a8cf5df4673a42b592a66d9831b989adf6a7714197a",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/Localizable-Secretariat.strings",
+      "bytes": 275,
+      "sha256": "454743523844e11d18af9a0da3b11ea3c3dd7c4eb19dec12359056ce4e811641",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 152,
+      "sha256": "3bc7ff4761f59147404b23ab37b3c7be89fd652699159a64f6c0751ac403e982",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_CN.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/FaceColors-Secretariat.strings",
+      "bytes": 136,
+      "sha256": "02a665fddec356847d852e54f36b15e42b47b0bcc9fd8a13e3da12885ecc9ed0",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/Localizable-Secretariat.strings",
+      "bytes": 287,
+      "sha256": "d2a466705990ca96eb0f628a08b11cf446e2318644ca881ee0fc2851a43eaa5d",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 140,
+      "sha256": "650cbaa7ba012a3940ceaa66924bb7b1a71cb10ffd1178b5ce4ddedb03b96a1f",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_HK.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/FaceColors-Secretariat.strings",
+      "bytes": 138,
+      "sha256": "635894a81739a082c095cbc8ec8479fe1d152ea6424e13b11d18ef675019af75",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/FaceColors-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/Localizable-Secretariat.strings",
+      "bytes": 257,
+      "sha256": "07aca3feb0668d5b6cc87c4321e32c21d68b7f07c4332c9bdb08feaf5683dae8",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/Localizable-Secretariat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/SecretariatLocalizable-Loquat.strings",
+      "bytes": 142,
+      "sha256": "523d04197dd98540ab6d49d09bc9f7bcc541206c20e2c1e7ed70f7bdcb38a0c6",
+      "decoded": "Watch8_5_24S132/解析/属性表/System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/zh_TW.lproj/SecretariatLocalizable-Loquat.strings.json"
+     },
+     {
+      "path": "System/Library/NanoTimeKit/FaceBundles/NTKSecretariatFaceBundle.bundle/_CodeSignature/CodeResources",
+      "bytes": 2467,
+      "sha256": "3c727b0f043e463c0227db49cef54c5567715986d08a46c98923c9bb73585e5a"
+     }
+    ]
+   }
+  },
+  "固件文字": {
+   "描述": [
+    [
+     "SECRETARIAT_FACE_DESCRIPTION",
+     "这款与Hermès联手设计的表盘包含定制图样，可以不同方式唤醒屏幕和走动指针，还有精心挑选的色彩组合可供选择。这款表盘还包含两个可自定义的复杂功能。"
+    ]
+   ],
+   "编辑选项": [
+    [
+     "color 3",
+     "浅灰色"
+    ],
+    [
+     "color 1",
+     "橙红色"
+    ],
+    [
+     "color 4",
+     "亚麻蓝色"
+    ],
+    [
+     "color 2",
+     "水妖蓝色"
+    ]
+   ]
+  },
+  "图集颜色分量": [
+   {
+    "name": "secretariat/color 1/apple",
+    "components": [
+     0,
+     0.4745098039215686,
+     0.20392156862745098,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_1_apple-402501111ff371d5.json"
+   },
+   {
+    "name": "secretariat/color 3/logo",
+    "components": [
+     0.9372549019607843,
+     0.9333333333333333,
+     0.9254901960784314,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_3_logo-87b2dd8caa416470.json"
+   },
+   {
+    "name": "secretariat/complication",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_complication-1d9e49c2405a1678.json"
+   },
+   {
+    "name": "secretariat/color 2",
+    "components": [
+     1,
+     0.7764705882352941,
+     0.1607843137254902,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_2-da89cdd30532f03e.json"
+   },
+   {
+    "name": "secretariat/color 3/hourMinuteHandStroke",
+    "components": [
+     0,
+     0.3333333333333333,
+     0.7215686274509804,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_3_hourMinuteHandStroke-5d722e8e0ff3cd10.json"
+   },
+   {
+    "name": "secretariat/color 4/horseshoe",
+    "components": [
+     0.2901960784313726,
+     0.5803921568627451,
+     0.3843137254901961,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_4_horseshoe-216c92998dc33f42.json"
+   },
+   {
+    "name": "secretariat/color 1/horse",
+    "components": [
+     1,
+     0.27450980392156865,
+     0.0784313725490196,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_1_horse-7f1086469accb55a.json"
+   },
+   {
+    "name": "secretariat/alternateComplication",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_alternateComplication-f6193c7b7877f292.json"
+   },
+   {
+    "name": "secretariat/color 3/apple",
+    "components": [
+     0,
+     0.42745098039215684,
+     0.27450980392156865,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_3_apple-85c87d497a08f228.json"
+   },
+   {
+    "name": "secretariat/horseshoeHoles",
+    "components": [
+     1,
+     1,
+     1,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_horseshoeHoles-367ac214d8861265.json"
+   },
+   {
+    "name": "secretariat/color 4/horse",
+    "components": [
+     0.48627450980392156,
+     0.6549019607843137,
+     0.6784313725490196,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_4_horse-a446cb7d7ad94a0a.json"
+   },
+   {
+    "name": "secretariat/color 2/horseshoe",
+    "components": [
+     0.8745098039215686,
+     0.41568627450980394,
+     0.1803921568627451,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_2_horseshoe-c87b0c8240da66b6.json"
+   },
+   {
+    "name": "secretariat/secondHand",
+    "components": [
+     0.8,
+     0.8,
+     0.8,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_secondHand-33915b1df70f26c3.json"
+   },
+   {
+    "name": "secretariat/hourMinuteHandInlay",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_hourMinuteHandInlay-e9d9354bc146c029.json"
+   },
+   {
+    "name": "secretariat/color 1/horseshoe",
+    "components": [
+     0,
+     0.3333333333333333,
+     0.7215686274509804,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_1_horseshoe-56813ca3d2dea7fa.json"
+   },
+   {
+    "name": "secretariat/color 3/horseshoe",
+    "components": [
+     0.5607843137254902,
+     0.24705882352941178,
+     0.16862745098039217,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_3_horseshoe-6f51d55b01d33991.json"
+   },
+   {
+    "name": "secretariat/color 3/horse",
+    "components": [
+     0.6862745098039216,
+     0.6627450980392157,
+     0.6235294117647059,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_3_horse-b507010a5c94388d.json"
+   },
+   {
+    "name": "secretariat/color 2/hourMinuteHandStroke",
+    "components": [
+     0.2901960784313726,
+     0.5803921568627451,
+     0.3843137254901961,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_2_hourMinuteHandStroke-8dc98ef981f70afc.json"
+   },
+   {
+    "name": "secretariat/color 3",
+    "components": [
+     1,
+     0.403921568627451,
+     0.11372549019607843,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_3-d458c1803f3aa129.json"
+   },
+   {
+    "name": "secretariat/color 2/logo",
+    "components": [
+     0.8,
+     0.8627450980392157,
+     0.9450980392156862,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_2_logo-d5cd586069f4f8ea.json"
+   },
+   {
+    "name": "secretariat/color 1/hourMinuteHandStroke",
+    "components": [
+     0.6862745098039216,
+     0.48627450980392156,
+     0.34509803921568627,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_1_hourMinuteHandStroke-31da6e92f37f2a26.json"
+   },
+   {
+    "name": "secretariat/logo.tritium",
+    "components": [
+     0.8,
+     0.8,
+     0.8,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_logo.tritium-baeb5aaecf2d6610.json"
+   },
+   {
+    "name": "secretariat/color 2/apple",
+    "components": [
+     0.9490196078431372,
+     0.3803921568627451,
+     0.47058823529411764,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_2_apple-408f4069cfc9cf61.json"
+   },
+   {
+    "name": "secretariat/softBlack",
+    "components": [
+     0.1803921568627451,
+     0.1803921568627451,
+     0.1803921568627451,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_softBlack-e7196e0a4dbcae47.json"
+   },
+   {
+    "name": "secretariat/color 1",
+    "components": [
+     0,
+     0,
+     0,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_1-6aadafb101155fee.json"
+   },
+   {
+    "name": "secretariat/horseHair",
+    "components": [
+     0.4588235294117647,
+     0.4588235294117647,
+     0.4588235294117647,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_horseHair-811e5b8bc0e7b5b1.json"
+   },
+   {
+    "name": "secretariat/color 2/horse",
+    "components": [
+     0,
+     0.3333333333333333,
+     0.7215686274509804,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_2_horse-26484f06cb39ed1c.json"
+   },
+   {
+    "name": "secretariat/color 4/apple",
+    "components": [
+     0.9607843137254902,
+     0.8509803921568627,
+     0.24705882352941178,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_4_apple-ff74fa6f8703327c.json"
+   },
+   {
+    "name": "secretariat/color 4",
+    "components": [
+     0.10980392156862745,
+     0.20784313725490197,
+     0.3686274509803922,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_4-9a028398a07b15d8.json"
+   },
+   {
+    "name": "secretariat/color 4/hourMinuteHandStroke",
+    "components": [
+     0.5607843137254902,
+     0.24705882352941178,
+     0.16862745098039217,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_4_hourMinuteHandStroke-a610d5609ebc1831.json"
+   },
+   {
+    "name": "secretariat/color 1/logo",
+    "components": [
+     1,
+     0.8549019607843137,
+     0.8156862745098039,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_1_logo-87f793837975c8b6.json"
+   },
+   {
+    "name": "secretariat/color 4/logo",
+    "components": [
+     0.8941176470588236,
+     0.9294117647058824,
+     0.9372549019607843,
+     1
+    ],
+    "color_space": "Generic",
+    "file": "Watch7_12_24S132\\解析\\图集\\System\\Library\\NanoTimeKit\\FaceBundles\\NTKSecretariatFaceBundle.bundle\\Assets.car\\资源\\secretariat_color_4_logo-8eee3f4bac49a379.json"
+   }
+  ],
+  "方法索引": {
+   "息屏与唤醒": [
+    "-[NTKSecretariatFaceView tritium_prepareForTransitionToTritiumOnAnimated:withCompletion:];",
+    "-[NTKSecretariatFaceView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKSecretariatFaceView tritium_createFaceAnimator];",
+    "-[NTKSecretariatFaceView _updateColorForTritiumWithProgress:];",
+    "-[NTKSecretariatFaceView tritium_transitionToTritiumOffWithProgress:];"
+   ],
+   "动画与时间变化": [
+    "-[NTKSecretariatColorPalette secondHand];",
+    "-[NTKSecretariatColorPalette hourMinuteHandInlay];",
+    "-[NTKSecretariatColorPalette hourMinuteHandStroke];",
+    "-[NTKSecretariatFaceView tritium_prepareForTransitionToTritiumOnAnimated:withCompletion:];",
+    "-[NTKSecretariatFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKSecretariatFaceView tritium_transitionToTritiumOnWithProgress:];",
+    "-[NTKSecretariatFaceView tritium_createFaceAnimator];",
+    "-[NTKSecretariatFaceView _applyTransitionFraction:fromComplication:toComplication:slot:];",
+    "-[NTKSecretariatFaceView _shouldAnimateComplicationsOnTap];",
+    "-[NTKSecretariatFaceView tritium_transitionToTritiumOffWithProgress:];",
+    "-[NTKSecretariatFaceView _configureForTransitionFraction:fromEditMode:toEditMode:];",
+    "-[NTKSecretariatFaceView screenDidTurnOffAnimated:];"
+   ],
+   "组件与编辑": [
+    "-[NTKSecretariatColorPalette background];",
+    "-[NTKSecretariatColorPalette logo];",
+    "-[NTKSecretariatColorPalette complication];",
+    "-[NTKSecretariatColorPalette secondHand];",
+    "-[NTKSecretariatColorPalette hourMinuteHandInlay];",
+    "-[NTKSecretariatColorPalette hourMinuteHandStroke];",
+    "-[NTKSecretariatColorPalette alternateComplication];",
+    "-[NTKSecretariatColorPalette apple];",
+    "-[NTKSecretariatColorPalette horse];",
+    "-[NTKSecretariatColorPalette horseEye];",
+    "-[NTKSecretariatColorPalette horseHair];",
+    "-[NTKSecretariatColorPalette horseshoe];",
+    "-[NTKSecretariatColorPalette horseshoeHoles];",
+    "-[NTKSecretariatBackgroundView setPalette:];",
+    "-[NTKSecretariatBackgroundView _updateLayout];",
+    "-[NTKSecretariatBackgroundView palette];",
+    "-[NTKSecretariatColorPalette _background];",
+    "-[NTKSecretariatColorPalette swatch];",
+    "-[NTKSecretariatColorPalette _horseEye];",
+    "+[NTKSecretariatFace _complicationSlotDescriptors];",
+    "+[NTKSecretariatFace _richComplicationSlotsForDevice:];",
+    "+[NTKSecretariatFace _orderedComplicationSlots];",
+    "+[NTKSecretariatFace _defaultSelectedComplicationSlotForDevice:];",
+    "-[NTKSecretariatFace _numberOfOptionsForCustomEditMode:slot:];",
+    "-[NTKSecretariatFace _indexOfOption:forCustomEditMode:slot:];",
+    "-[NTKSecretariatFace _optionAtIndex:forCustomEditMode:slot:];",
+    "-[NTKSecretariatFaceView createFaceColorPalette];",
+    "-[NTKSecretariatFaceView _applyTransitionFraction:fromOption:toOption:forCustomEditMode:slot:];",
+    "-[NTKSecretariatFaceView layoutSubviews];",
+    "-[NTKSecretariatFaceView _applyBreathingFraction:forCustomEditMode:slot:];",
+    "-[NTKSecretariatFaceView _updateViewColorsWithPalette:];",
+    "-[NTKSecretariatFaceView _applyOption:forCustomEditMode:slot:];",
+    "-[NTKSecretariatFaceView _applyTransitionFraction:fromComplication:toComplication:slot:];",
+    "-[NTKSecretariatFaceView _updateColorForTritiumWithProgress:];",
+    "-[NTKSecretariatFaceView _keylineStyleForComplicationSlot:];",
+    "-[NTKSecretariatFaceView _shouldAnimateComplicationsOnTap];",
+    "-[NTKSecretariatFaceView _configureComplicationView:forSlot:];",
+    "-[NTKSecretariatFaceView colorPalette];",
+    "-[NTKSecretariatFaceView _loadLayoutRules];",
+    "-[NTKSecretariatFaceView _newLegacyViewForComplication:family:slot:];",
+    "-[NTKSecretariatFaceView _applyRubberBandingFraction:forCustomEditMode:slot:];",
+    "-[NTKSecretariatFaceView _updateComplicationColorForPalette:slot:view:];",
+    "-[NTKSecretariatFaceView _showStaticHorseImageWithBackgroundColor:];"
+   ]
+  }
+ }
+}

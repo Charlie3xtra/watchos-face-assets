@@ -1,0 +1,25 @@
+{
+  "name": "Hermès Fathom 和 Wonder",
+  "source": "https://www.apple.com.cn/apple-watch-hermes/",
+  "description": [
+    "产品宣传图所示款式。图片说明列出所示机型与组件。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "url": "https://www.apple.com.cn/apple-watch-hermes/images/overview/hero/hero__djj2qvbj5yeu_large.png",
+      "alt": "Apple Watch Hermès Ultra 4，展示 Fathom 和 Wonder 模拟表盘 (时针、分针和秒针、水深复杂功能，表盘显示潜水员在由深蓝色渐变至浅蓝色的海洋中向上游动的画面)、原色钛金属表壳、右侧外观、数码表冠、凸起的侧边按钮，搭配 Gris Titane 钛灰色 Grand H Titane 表带。背景为水下场景，一个橙色浮标漂浮在蔚蓝大海上，越往海底，海水愈发深邃，两只浅蓝色的海马守护在海底的橙色 Hermès 爱马仕盒子旁。",
+      "file": "表盘资料/Hermès Fathom 和 Wonder/官方图1.png"
+    },
+    {
+      "url": "https://www.apple.com.cn/apple-watch-hermes/images/overview/hero/hero_watch__bo1sq48f4s1y_large.jpg",
+      "alt": "Apple Watch Hermès Ultra 4，展示 Fathom 和 Wonder 模拟表盘 (时针、分针和秒针，水深复杂功能，表盘显示一个橙色浮标在碧海上漂浮的画面，海水色调由浅蓝色渐变至中蓝色)、原色钛金属表壳、右侧外观、数码表冠、凸起的侧边按钮，搭配 Gris Titane 钛灰色 Grand H Titane 表带。",
+      "file": "表盘资料/Hermès Fathom 和 Wonder/官方图2.jpg"
+    },
+    {
+      "url": "https://www.apple.com.cn/apple-watch-hermes/images/overview/shop_u4__dr5h4v9auhiu_large.jpg",
+      "alt": "Apple Watch Hermès Ultra 4，展示 Fathom 和 Wonder 模拟表盘 (时针、分针和秒针、水深复杂功能，表盘显示一个橙色浮标在碧海上漂浮的画面，海水色调由浅蓝色渐变至深蓝色)、原色钛金属表壳、右侧外观、数码表冠、凸起的侧边按钮，搭配 Gris Titane 钛灰色 Grand H Titane 表带。",
+      "file": "表盘资料/Hermès Fathom 和 Wonder/官方图3.jpg"
+    }
+  ]
+}

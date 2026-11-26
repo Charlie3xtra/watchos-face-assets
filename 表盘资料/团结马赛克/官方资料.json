@@ -1,0 +1,17 @@
+{
+  "name": "团结马赛克",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apd2bc6632ef",
+  "description": [
+    "这款表盘的灵感源自马赛克的创作过程，象征着黑人群体的蓬勃生机和团结力量。"
+  ],
+  "options": [
+    "可自定义的功能：颜色 • 背景"
+  ],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/84d6937e-69a1-42f5-b57b-f5b034e983b2",
+      "alt": "在屏幕中间显示当前时间的“团结马赛克”表盘。",
+      "file": "表盘资料/团结马赛克/官方图1.png"
+    }
+  ]
+}

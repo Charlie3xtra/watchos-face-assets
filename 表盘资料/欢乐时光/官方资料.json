@@ -1,0 +1,15 @@
+{
+  "name": "欢乐时光",
+  "source": "https://support.apple.com/zh-cn/guide/watch/apde9218b440/27/watchos/27#apd1e8d3b670",
+  "description": [
+    "此表盘呈现了 Apple Watch 独有的动态艺术。旋转数码表冠可变换背景。轻点表盘时，画中角色还会与你欢乐互动。"
+  ],
+  "options": [],
+  "images": [
+    {
+      "url": "https://ipcdn-web.apple.com/assets/v2/web/e0e767c2-a357-4f3f-bd3a-43857660ad34",
+      "alt": "“欢乐时光”表盘，以卡通形象显示时间。",
+      "file": "表盘资料/欢乐时光/官方图1.png"
+    }
+  ]
+}
